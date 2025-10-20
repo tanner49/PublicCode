@@ -1,288 +1,296 @@
 HomeTeam,AwayTeam,HomePoints,AwayPoints,ActualSpread,Spread,Line,Result
-Middle Tennessee,Missouri State,20.0,22.0,-2.0,-14.0,Missouri State -14.0,Correct
-UTEP,Liberty,8.0,19.0,-11.0,2.5,UTEP -2.5,Wrong
-Southeastern Oklahoma State,Harding University,7.0,35.0,-28.0,-36.0,Harding University -36.0,Correct
-Kennesaw State,Louisiana Tech,35.0,7.0,28.0,-22.5,Louisiana Tech -22.5,Wrong
-Tulane,East Carolina,26.0,19.0,7.0,-3.5,East Carolina -3.5,Wrong
-Sam Houston,Jacksonville State,27.0,29.0,-2.0,-17.5,Jacksonville State -17.5,Correct
-Georgia Southern,Southern Miss,35.0,38.0,-3.0,-17.5,Southern Miss -17.5,Correct
-Stevenson,Kings College (PA),28.0,35.0,-7.0,24.0,Stevenson -24.0,Wrong
-Pennsylvania,Marist,28.0,9.0,19.0,12.0,Pennsylvania -12.0,Correct
-Harvard,Cornell,34.0,10.0,24.0,57.5,Harvard -57.5,Correct
-Bryant,Brown,19.0,29.0,-10.0,-19.0,Brown -19.0,Correct
-North Texas,South Florida,36.0,63.0,-27.0,3.0,North Texas -3.0,Wrong
-Washington,Rutgers,38.0,19.0,19.0,19.0,Washington -19.0,Correct
-Colorado State,Fresno State,49.0,21.0,28.0,-10.5,Fresno State -10.5,Wrong
-Curry College,Maine Maritime,60.0,0.0,60.0,59.5,Curry College -59.5,Correct
-Seton Hill,Slippery Rock,7.0,49.0,-42.0,-7.0,Slippery Rock -7.0,Correct
-Wittenberg,John Carroll University,7.0,44.0,-37.0,-12.5,John Carroll University -12.5,Correct
-University of Rochester (NY),Hilbert College,38.0,0.0,38.0,50.5,University of Rochester (NY) -50.5,Correct
-Gannon,Clarion,46.0,48.0,-2.0,-17.5,Clarion -17.5,Correct
-Shepherd,West Chester,28.0,24.0,4.0,-13.0,West Chester -13.0,Wrong
-Illinois,Ohio State,16.0,34.0,-18.0,-5.0,Ohio State -5.0,Correct
-Oklahoma State,Houston,17.0,39.0,-22.0,-24.5,Houston -24.5,Correct
-Truman State,Upper Iowa University,48.0,21.0,27.0,-7.0,Upper Iowa University -7.0,Wrong
-Utica,SUNY Morrisville,27.0,21.0,6.0,48.0,Utica -48.0,Correct
-Johns Hopkins University,Carnegie Mellon,28.0,27.0,1.0,15.5,Johns Hopkins University -15.5,Correct
-Susquehanna,Lycoming,69.0,7.0,62.0,24.5,Susquehanna -24.5,Correct
-Castleton,Christopher Newport,7.0,69.0,-62.0,-52.5,Christopher Newport -52.5,Correct
-Assumption,Pace,24.0,7.0,17.0,24.0,Assumption -24.0,Correct
-Missouri,Alabama,24.0,27.0,-3.0,-9.0,Alabama -9.0,Correct
-Akron,Miami (OH),7.0,20.0,-13.0,-6.0,Miami (OH) -6.0,Correct
-Bowling Green,Toledo,28.0,23.0,5.0,-15.0,Toledo -15.0,Wrong
-James Madison,Louisiana,24.0,14.0,10.0,22.0,James Madison -22.0,Correct
-Michigan State,UCLA,13.0,38.0,-25.0,13.0,Michigan State -13.0,Wrong
-North Carolina Wesleyan,Belhaven,38.0,41.0,-3.0,-20.0,Belhaven -20.0,Correct
-SMU,Stanford,34.0,10.0,24.0,17.5,SMU -17.5,Correct
-Eastern University,Delaware Valley,37.0,20.0,17.0,-6.0,Delaware Valley -6.0,Wrong
-Thiel,Geneva,38.0,51.0,-13.0,-24.5,Geneva -24.5,Correct
-Army,Charlotte,24.0,7.0,17.0,27.5,Army -27.5,Correct
-Florida State,Pittsburgh,31.0,34.0,-3.0,17.0,Florida State -17.0,Wrong
-Worcester St,Fitchburg State,6.0,21.0,-15.0,-3.0,Fitchburg State -3.0,Correct
-Northwood (MI),Lake Erie,52.0,7.0,45.0,21.0,Northwood (MI) -21.0,Correct
-Delaware State,Southern Connecticut State,70.0,23.0,47.0,41.0,Delaware State -41.0,Correct
-Princeton,Mercer,14.0,38.0,-24.0,-15.0,Mercer -15.0,Correct
-Columbia,Lehigh,7.0,31.0,-24.0,-27.0,Lehigh -27.0,Correct
-Wagner,Mercyhurst,7.0,19.0,-12.0,-18.5,Mercyhurst -18.5,Correct
-Cincinnati,UCF,20.0,11.0,9.0,12.0,Cincinnati -12.0,Correct
-Lafayette,Bucknell,62.0,24.0,38.0,7.0,Lafayette -7.0,Correct
-Wisconsin-Lacrosse,Wisconsin-Eau Claire,41.0,21.0,20.0,32.5,Wisconsin-Lacrosse -32.5,Correct
-Ole Miss,Washington State,24.0,21.0,3.0,29.5,Ole Miss -29.5,Correct
-Washington and Lee,Gallaudet,45.0,0.0,45.0,52.0,Washington and Lee -52.0,Correct
-Bluefield State,Lincoln (PA),30.0,27.0,3.0,9.0,Bluefield State -9.0,Correct
-Hamilton,Trinity (CT),0.0,49.0,-49.0,-20.5,Trinity (CT) -20.5,Correct
-Salisbury,Kean,38.0,24.0,14.0,61.0,Salisbury -61.0,Correct
-Frostburg State,Glenville State,13.0,19.0,-6.0,7.5,Frostburg State -7.5,Wrong
-Shippensburg,Millersville,41.0,28.0,13.0,3.5,Shippensburg -3.5,Correct
-Albany State GA,Clark Atlanta,32.0,7.0,25.0,31.0,Albany State GA -31.0,Correct
-Ashland,Thomas More College,38.0,14.0,24.0,33.0,Ashland -33.0,Correct
-Central State (OH),Morehouse College,26.0,31.0,-5.0,0.0,Pick'em,Wrong
-Franklin & Marshall,Muhlenberg,28.0,27.0,1.0,-11.5,Muhlenberg -11.5,Wrong
-Merrimack,Maine,13.0,20.0,-7.0,2.0,Merrimack -2.0,Wrong
-Colgate,Richmond,19.0,24.0,-5.0,3.0,Colgate -3.0,Wrong
-New Haven,Western Connecticut St,69.0,0.0,69.0,1.5,New Haven -1.5,Correct
-Eastern Michigan,Northern Illinois,16.0,10.0,6.0,-10.5,Northern Illinois -10.5,Wrong
-Stetson,Morehead State,21.0,14.0,7.0,-15.5,Morehead State -15.5,Wrong
-Guilford College,Shenandoah,7.0,45.0,-38.0,-8.5,Shenandoah -8.5,Correct
-Catholic,Juniata College,20.0,17.0,3.0,7.0,Catholic -7.0,Correct
-Kentucky Wesleyan,Ohio Dominican,3.0,21.0,-18.0,-26.0,Ohio Dominican -26.0,Correct
-Tiffin,Walsh,54.0,7.0,47.0,11.5,Tiffin -11.5,Correct
-Union (NY),Hobart College,33.0,16.0,17.0,-0.5,Hobart College -0.5,Wrong
-Dickinson (PA),Gettysburg,49.0,21.0,28.0,26.5,Dickinson (PA) -26.5,Correct
-Reading,Albright,14.0,38.0,-24.0,-10.5,Albright -10.5,Correct
-Southwestern University,Sewanee,39.0,31.0,8.0,0.5,Southwestern University -0.5,Correct
-Rhode Island,New Hampshire,38.0,27.0,11.0,7.0,Rhode Island -7.0,Correct
-Sacred Heart,Howard,32.0,14.0,18.0,-3.5,Howard -3.5,Wrong
-Moravian,Wilkes,7.0,26.0,-19.0,-12.5,Wilkes -12.5,Correct
-Morgan State,Virginia University Of Lynchburg,44.0,6.0,38.0,64.5,Morgan State -64.5,Correct
-Ferris State,Wayne State (MI),59.0,0.0,59.0,48.0,Ferris State -48.0,Correct
-Lebanon Valley,Misericordia,21.0,23.0,-2.0,-13.0,Misericordia -13.0,Correct
-Augsburg,Bethel (MN),7.0,56.0,-49.0,-18.5,Bethel (MN) -18.5,Correct
-Greensboro College,Huntingdon College (AL),10.0,17.0,-7.0,-18.5,Huntingdon College (AL) -18.5,Correct
-Rensselaer,Buffalo State,57.0,13.0,44.0,52.0,Rensselaer -52.0,Correct
-St. Lawrence,Ithaca College,7.0,24.0,-17.0,-37.0,Ithaca College -37.0,Correct
-Shaw,Winston-Salem,20.0,13.0,7.0,-30.0,Winston-Salem -30.0,Wrong
-Elizabeth City State,Virginia Union,18.0,37.0,-19.0,-35.0,Virginia Union -35.0,Correct
-Bowie State,Virginia St,21.0,28.0,-7.0,-8.0,Virginia St -8.0,Correct
-North Carolina A&T,South Carolina State,16.0,22.0,-6.0,-21.0,South Carolina State -21.0,Correct
-Lincoln (MO),Northeastern State,3.0,52.0,-49.0,0.5,Lincoln (MO) -0.5,Wrong
-Wabash College,Ohio Wesleyan,44.0,27.0,17.0,32.5,Wabash College -32.5,Correct
-Maryville College (TN),Centre College Kentucky,33.0,13.0,20.0,24.0,Maryville College (TN) -24.0,Correct
-Methodist,Lagrange College,7.0,26.0,-19.0,-33.5,Lagrange College -33.5,Correct
-Indiana State,South Dakota,14.0,19.0,-5.0,-3.5,South Dakota -3.5,Correct
-Davidson,St. Thomas (MN),13.0,57.0,-44.0,-27.5,St. Thomas (MN) -27.5,Correct
-Ursinus,McDaniel College,52.0,0.0,52.0,23.5,Ursinus -23.5,Correct
-Northwestern (MN),Greenville,20.0,23.0,-3.0,-11.5,Greenville -11.5,Correct
-Westminster College (MO),Minnesota Morris,27.0,30.0,-3.0,-10.0,Minnesota Morris -10.0,Correct
-Randolph-Macon,Averett,77.0,20.0,57.0,67.5,Randolph-Macon -67.5,Correct
-Montclair State,Rowan,26.0,38.0,-12.0,-23.0,Rowan -23.0,Correct
-Merchant Marine Academy,SUNY Maritime,14.0,34.0,-20.0,8.5,Merchant Marine Academy -8.5,Wrong
-Widener,FDU-Florham,20.0,17.0,3.0,18.5,Widener -18.5,Correct
-Duquesne,St. Francis (PA),52.0,7.0,45.0,20.5,Duquesne -20.5,Correct
-Butler,Presbyterian,25.0,31.0,-6.0,-24.0,Presbyterian -24.0,Correct
-Manchester,Capital,27.0,52.0,-25.0,-34.5,Capital -34.5,Correct
-Fayetteville State,Livingstone,38.0,14.0,24.0,28.5,Fayetteville State -28.5,Correct
-Otterbein,Baldwin Wallace,14.0,56.0,-42.0,-52.5,Baldwin Wallace -52.5,Correct
-Franklin,Rose-Hulman,34.0,35.0,-1.0,29.5,Franklin -29.5,Wrong
-ERSKINE,North Greenville,0.0,30.0,-30.0,-5.5,North Greenville -5.5,Correct
-Anderson (IN),Bluffton,7.0,49.0,-42.0,-11.5,Bluffton -11.5,Correct
-Mount St. Joseph,Hanover College,21.0,45.0,-24.0,-6.5,Hanover College -6.5,Correct
-Muskingum University,Ohio Northern,16.0,54.0,-38.0,-12.0,Ohio Northern -12.0,Correct
-Wilmington (OH),University of Mount Union,0.0,59.0,-59.0,-35.5,University of Mount Union -35.5,Correct
-Wofford,Norfolk State,31.0,14.0,17.0,17.5,Wofford -17.5,Correct
-Dartmouth,Yale,17.0,16.0,1.0,-3.0,Yale -3.0,Wrong
-Bowdoin,Amherst,7.0,34.0,-27.0,-25.5,Amherst -25.5,Correct
-Colby College,Wesleyan University (CT),7.0,24.0,-17.0,-16.0,Wesleyan University (CT) -16.0,Correct
-Saint John's (MN),Macalester,70.0,0.0,70.0,41.5,Saint John's (MN) -41.5,Correct
-Monmouth (IL),Illinois College,48.0,15.0,33.0,17.5,Monmouth (IL) -17.5,Correct
-Greeneville,Newberry,28.0,35.0,-7.0,-17.0,Newberry -17.0,Correct
-Benedict College,Fort Valley State,14.0,7.0,7.0,23.0,Benedict College -23.0,Correct
-Hampton,Campbell,21.0,38.0,-17.0,-16.5,Campbell -16.5,Correct
-Elon,Villanova,21.0,29.0,-8.0,-0.5,Villanova -0.5,Correct
-Lake Forest College,Beloit,59.0,0.0,59.0,44.5,Lake Forest College -44.5,Correct
-Chicago,Lawrence University,66.0,0.0,66.0,37.0,Chicago -37.0,Correct
-St. Scholastica,Carleton,14.0,41.0,-27.0,-22.5,Carleton -22.5,Correct
-Nebraska Wesleyan,Loras College,28.0,31.0,-3.0,2.5,Nebraska Wesleyan -2.5,Wrong
-Knox College,Grinnell,20.0,17.0,3.0,-29.0,Grinnell -29.0,Wrong
-Davenport,Michigan Tech,14.0,16.0,-2.0,-23.0,Michigan Tech -23.0,Correct
-Southwest Baptist,McKendree,24.0,26.0,-2.0,-1.5,McKendree -1.5,Correct
-Williams,Middlebury,24.0,17.0,7.0,9.0,Williams -9.0,Correct
-Hardin-Simmons,Mary Hardin-Baylor,34.0,7.0,27.0,5.5,Hardin-Simmons -5.5,Correct
-Henderson State,Northwestern Oklahoma State,59.0,0.0,59.0,34.0,Henderson State -34.0,Correct
-Ferrum,Wilson,20.0,34.0,-14.0,12.0,Ferrum -12.0,Wrong
-Simpson College (IA),Coe College,7.0,34.0,-27.0,-8.5,Coe College -8.5,Correct
-Robert Morris,Central Connecticut,12.0,24.0,-12.0,-13.0,Central Connecticut -13.0,Correct
-Martin Luther,Crown College,7.0,17.0,-10.0,2.0,Martin Luther -2.0,Wrong
-Concord University,West Virginia State,21.0,28.0,-7.0,-1.5,West Virginia State -1.5,Correct
-Illinois Wesleyan,Wheaton,21.0,65.0,-44.0,-20.5,Wheaton -20.5,Correct
-Carthage,Washington University (St. Louis),23.0,31.0,-8.0,-21.5,Washington University (St. Louis) -21.5,Correct
-Wisconsin-Stevens Pt,Wisconsin-Whitewater,14.0,45.0,-31.0,-28.5,Wisconsin-Whitewater -28.5,Correct
-The Citadel,Valdosta State,38.0,14.0,24.0,18.0,The Citadel -18.0,Correct
-West Georgia,Abilene Christian,13.0,30.0,-17.0,8.5,West Georgia -8.5,Wrong
-Towson,Monmouth,31.0,42.0,-11.0,-6.5,Monmouth -6.5,Correct
-Bridgewater (VA),Roanoke College,14.0,24.0,-10.0,-6.5,Roanoke College -6.5,Correct
-Bentley,Post University,59.0,0.0,59.0,-4.0,Post University -4.0,Wrong
-McMurry,LYONCOLL,65.0,7.0,58.0,20.5,McMurry -20.5,Correct
-Wisconsin-River Falls,Wisconsin-Platteville,31.0,21.0,10.0,2.5,Wisconsin-River Falls -2.5,Correct
-Valparaiso,Dayton,10.0,41.0,-31.0,-27.0,Dayton -27.0,Correct
-Washington & Jefferson,Westminster (PA),24.0,7.0,17.0,11.5,Washington & Jefferson -11.5,Correct
-Emporia State University,Missouri Southern State,31.0,24.0,7.0,6.5,Emporia State University -6.5,Correct
-South Dakota Mines,Colorado School Of Mines,14.0,24.0,-10.0,-23.0,Colorado School Of Mines -23.0,Correct
-Edinboro University,PennWest California,35.0,29.0,6.0,-11.5,PennWest California -11.5,Wrong
-Minnesota State Mankato,Winona State,47.0,21.0,26.0,25.5,Minnesota State Mankato -25.5,Correct
-Fairmont State,West Virginia Wesleyan,45.0,10.0,35.0,22.5,Fairmont State -22.5,Correct
-Findlay,Hillsdale,16.0,14.0,2.0,15.5,Findlay -15.5,Correct
-Grove City College,Waynesburg,24.0,14.0,10.0,26.5,Grove City College -26.5,Correct
-Concordia-Wisconsin,Lakeland,41.0,34.0,7.0,10.0,Concordia-Wisconsin -10.0,Correct
-Buena Vista,Luther,31.0,7.0,24.0,15.0,Buena Vista -15.0,Correct
-Aurora,Rockford,48.0,0.0,48.0,56.0,Aurora -56.0,Correct
-Augustana University (SD),Concordia University St Paul,50.0,10.0,40.0,29.0,Augustana University (SD) -29.0,Correct
-Hamline University,Concordia Moorhead,12.0,58.0,-46.0,-34.0,Concordia Moorhead -34.0,Correct
-Wheeling,University Of Charleston (WV),13.0,20.0,-7.0,-18.5,University Of Charleston (WV) -18.5,Correct
-Central Missouri,Northwest Missouri St,32.0,49.0,-17.0,-5.0,Northwest Missouri St -5.0,Correct
-Wisconsin-Stout,Wisconsin-Oshkosh,27.0,16.0,11.0,-20.0,Wisconsin-Oshkosh -20.0,Wrong
-St. Olaf,Gustavus Adolphus,21.0,35.0,-14.0,4.5,St. Olaf -4.5,Wrong
-Kentucky State,Edward Waters,42.0,14.0,28.0,-5.0,Edward Waters -5.0,Wrong
-Wayne State (NE),Bemidji State,21.0,26.0,-5.0,16.0,Wayne State (NE) -16.0,Wrong
-Saginaw Valley State,Roosevelt,55.0,10.0,45.0,-0.5,Roosevelt -0.5,Wrong
-Rhodes College,Millsaps,19.0,45.0,-26.0,-10.5,Millsaps -10.5,Correct
-Hendrix College,Austin,60.0,21.0,39.0,11.5,Hendrix College -11.5,Correct
-Marietta,Heidelberg,27.0,30.0,-3.0,-4.5,Heidelberg -4.5,Correct
-Wartburg,Dubuque,33.0,7.0,26.0,22.5,Wartburg -22.5,Correct
-Mars Hill,Emory & Henry College,23.0,48.0,-25.0,-13.0,Emory & Henry College -13.0,Correct
-Western Carolina,Furman,52.0,7.0,45.0,-9.0,Furman -9.0,Wrong
-Kent State,Massachusetts,42.0,6.0,36.0,12.5,Kent State -12.5,Correct
-Alcorn State,Lincoln (CA),42.0,0.0,42.0,25.5,Alcorn State -25.5,Correct
-Cornell College (IA),Ripon,14.0,22.0,-8.0,-3.0,Ripon -3.0,Correct
-South Dakota State,Northern Iowa,31.0,3.0,28.0,34.5,South Dakota State -34.5,Correct
-Florida A&M,North Carolina Central,7.0,45.0,-38.0,-22.0,North Carolina Central -22.0,Correct
-UT Martin,Western Illinois,32.0,31.0,1.0,2.0,UT Martin -2.0,Correct
-Montana State,Idaho State,48.0,14.0,34.0,18.5,Montana State -18.5,Correct
-Bethune-Cookman,Southern,45.0,14.0,31.0,11.0,Bethune-Cookman -11.0,Correct
-Brevard College,Southern Virginia,35.0,32.0,3.0,14.5,Brevard College -14.5,Correct
-College Of New Jersey,William Paterson,42.0,0.0,42.0,0.0,Pick'em,Wrong
-Lenoir-Rhyne,Anderson (Sc),28.0,35.0,-7.0,-7.0,Anderson (Sc) -7.0,Correct
-Hartwick,St John Fisher University,21.0,35.0,-14.0,-33.0,St John Fisher University -33.0,Correct
-Alabama A&M,Mississippi Valley State,45.0,25.0,20.0,3.0,Alabama A&M -3.0,Correct
-Pittsburg St,Washburn,34.0,10.0,24.0,23.0,Pittsburg St -23.0,Correct
-Southern Nazarene,Ouachita Baptist,7.0,28.0,-21.0,-19.5,Ouachita Baptist -19.5,Correct
-Oklahoma Baptist,Arkansas-Monticello,17.0,14.0,3.0,-2.5,Arkansas-Monticello -2.5,Wrong
-East Central (OK),Arkansas Tech,37.0,21.0,16.0,-6.5,Arkansas Tech -6.5,Wrong
-UNC Pembroke,Shorter,52.0,21.0,31.0,40.5,UNC Pembroke -40.5,Correct
-Carroll University (WI),North Park,24.0,10.0,14.0,5.0,Carroll University (WI) -5.0,Correct
-Eastern Illinois,Gardner-Webb,10.0,21.0,-11.0,-7.5,Gardner-Webb -7.5,Correct
-Lane College,Miles College,13.0,23.0,-10.0,-11.5,Miles College -11.5,Correct
-Chadron St,New Mexico Highlands,37.0,20.0,17.0,15.5,Chadron St -15.5,Correct
-Western Colorado,Black Hills State,56.0,17.0,39.0,30.5,Western Colorado -30.5,Correct
-Nebraska-Kearney,Missouri Western,27.0,7.0,20.0,15.0,Nebraska-Kearney -15.0,Correct
-Minot State,Jamestown College,35.0,28.0,7.0,14.0,Minot State -14.0,Correct
-University of Mary,Minnesota State Moorhead,35.0,38.0,-3.0,-18.5,Minnesota State Moorhead -18.5,Correct
-Southern Arkansas,Southwestern Oklahoma State,14.0,12.0,2.0,10.5,Southern Arkansas -10.5,Correct
-Oregon,Indiana,20.0,30.0,-10.0,-5.5,Indiana -5.5,Correct
-Howard Payne,East Texas Baptist University,36.0,18.0,18.0,-3.5,East Texas Baptist University -3.5,Wrong
-Penn State,Northwestern,21.0,22.0,-1.0,10.0,Penn State -10.0,Wrong
-Western Michigan,Ball State,42.0,0.0,42.0,13.5,Western Michigan -13.5,Correct
-Georgia Tech,Virginia Tech,35.0,20.0,15.0,15.0,Georgia Tech -15.0,Correct
-Texas,Oklahoma,23.0,6.0,17.0,-17.5,Oklahoma -17.5,Wrong
-Oregon State,Wake Forest,14.0,39.0,-25.0,-19.0,Wake Forest -19.0,Correct
-Maryland,Nebraska,31.0,34.0,-3.0,-2.5,Nebraska -2.5,Correct
-UNLV,Air Force,51.0,48.0,3.0,7.0,UNLV -7.0,Correct
-Jackson State,Alabama State,38.0,34.0,4.0,2.0,Jackson State -2.0,Correct
-Kansas State,TCU,41.0,28.0,13.0,-12.5,TCU -12.5,Wrong
-Notre Dame,NC State,36.0,7.0,29.0,23.0,Notre Dame -23.0,Correct
-North Dakota State,Southern Illinois,45.0,17.0,28.0,14.5,North Dakota State -14.5,Correct
-East Tennessee State,VMI,45.0,10.0,35.0,25.0,East Tennessee State -25.0,Correct
-Marshall,Old Dominion,48.0,24.0,24.0,-26.5,Old Dominion -26.5,Wrong
-Georgia State,App State,20.0,41.0,-21.0,2.0,Georgia State -2.0,Wrong
-Colorado,Iowa State,24.0,17.0,7.0,-7.5,Iowa State -7.5,Wrong
-Montana,Cal Poly,28.0,9.0,19.0,21.5,Montana -21.5,Correct
-North Dakota,Youngstown State,35.0,17.0,18.0,7.5,North Dakota -7.5,Correct
-North Alabama,Central Arkansas,21.0,49.0,-28.0,-9.0,Central Arkansas -9.0,Correct
-Willamette,Lewis & Clark College,20.0,28.0,-8.0,-48.0,Lewis & Clark College -48.0,Correct
-Temple,Navy,31.0,32.0,-1.0,-0.5,Navy -0.5,Correct
-Oberlin,Kenyon,2.0,57.0,-55.0,-23.5,Kenyon -23.5,Correct
-Southeast Missouri State,Tennessee State,28.0,12.0,16.0,9.5,Southeast Missouri State -9.5,Correct
-CSU Pueblo,Fort Lewis,49.0,13.0,36.0,44.0,CSU Pueblo -44.0,Correct
-Whitworth,NEWBERG,40.0,16.0,24.0,4.0,Whitworth -4.0,Correct
-Claremont-Mudd-Scripps College,Redlands,10.0,17.0,-7.0,2.0,Claremont-Mudd-Scripps College -2.0,Wrong
-Missouri S&T,Indianapolis,13.0,56.0,-43.0,-35.5,Indianapolis -35.5,Correct
-William Jewell,Quincy,33.0,34.0,-1.0,-8.5,Quincy -8.5,Correct
-Linfield College,Pacific (OR),23.0,6.0,17.0,27.5,Linfield College -27.5,Correct
-Puget Sound,Pacific Lutheran,27.0,41.0,-14.0,-7.5,Pacific Lutheran -7.5,Correct
-La Verne,California Lutheran University,19.0,23.0,-4.0,-39.5,California Lutheran University -39.5,Correct
-Charleston Southern,Tennessee Tech,13.0,27.0,-14.0,-20.0,Tennessee Tech -20.0,Correct
-Tennessee,Arkansas,34.0,31.0,3.0,13.5,Tennessee -13.5,Correct
-Case Western Reserve,Allegheny,62.0,21.0,41.0,27.0,Case Western Reserve -27.0,Correct
-Eastern New Mexico,Western Oregon,18.0,21.0,-3.0,4.5,Eastern New Mexico -4.5,Wrong
-San Diego,Drake,16.0,19.0,-3.0,-11.0,Drake -11.0,Correct
-West Florida,Chowan,40.0,10.0,30.0,29.0,West Florida -29.0,Correct
-Idaho,Northern Colorado,33.0,49.0,-16.0,12.5,Idaho -12.5,Wrong
-Eastern Kentucky,Austin Peay,34.0,20.0,14.0,-22.0,Austin Peay -22.0,Wrong
-Florida Atlantic,UAB,53.0,33.0,20.0,-2.5,UAB -2.5,Wrong
-Eureka College,Benedictine University,0.0,56.0,-56.0,-51.5,Benedictine University -51.5,Correct
-Southwest Minnesota State,Sioux Falls,14.0,35.0,-21.0,-39.0,Sioux Falls -39.0,Correct
-St. Anselm,Franklin Pierce,21.0,0.0,21.0,-5.5,Franklin Pierce -5.5,Wrong
-Berry College,Trinity University TX,29.0,6.0,23.0,1.0,Berry College -1.0,Correct
-Wingate,Catawba,41.0,28.0,13.0,0.5,Wingate -0.5,Correct
-Allen,Savannah St,20.0,23.0,-3.0,-3.0,Savannah St -3.0,Correct
-Lock Haven University,Kutztown University,7.0,34.0,-27.0,-34.5,Kutztown University -34.5,Correct
-East Stroudsburg University,Bloomsburg,38.0,35.0,3.0,24.0,East Stroudsburg University -24.0,Correct
-Wyoming,San José State,35.0,28.0,7.0,0.0,Pick'em,Wrong
-Houston Christian,Northwestern State,20.0,17.0,3.0,0.0,Pick'em,Wrong
-Murray State,Illinois State,32.0,46.0,-14.0,-26.5,Illinois State -26.5,Correct
-Wooster,Denison University,7.0,28.0,-21.0,-5.5,Denison University -5.5,Correct
-CENTENARY,Texas Lutheran,27.0,55.0,-28.0,-35.5,Texas Lutheran -35.5,Correct
-Wisconsin,Iowa,0.0,37.0,-37.0,-5.0,Iowa -5.0,Correct
-Tufts,Bates,28.0,35.0,-7.0,-0.5,Bates -0.5,Correct
-Texas A&M,Florida,34.0,17.0,17.0,17.5,Texas A&M -17.5,Correct
-East Texas A&M,Lamar,23.0,33.0,-10.0,-5.0,Lamar -5.0,Correct
-Coastal Carolina,UL Monroe,23.0,8.0,15.0,0.0,Pick'em,Wrong
-Bethany (WV),Saint Vincent,35.0,57.0,-22.0,-11.0,Saint Vincent -11.0,Correct
-Wisconsin-Lutheran,St. Norbert,14.0,17.0,-3.0,-12.0,St. Norbert -12.0,Correct
-North Central College,Millikin,59.0,10.0,49.0,69.5,North Central College -69.5,Correct
-Elmhurst,Augustana (IL),7.0,48.0,-41.0,-38.5,Augustana (IL) -38.5,Correct
-Northern State,Minnesota Duluth,34.0,31.0,3.0,-18.0,Minnesota Duluth -18.0,Wrong
-UC Davis,Northern Arizona,45.0,24.0,21.0,6.0,UC Davis -6.0,Correct
-Grambling,Texas Southern,20.0,21.0,-1.0,5.0,Grambling -5.0,Wrong
-Northern Michigan,Grand Valley State University,7.0,35.0,-28.0,-23.5,Grand Valley State University -23.5,Correct
-UT Permian Basin,Central Washington,14.0,27.0,-13.0,-14.5,Central Washington -14.5,Correct
-UTSA,Rice,61.0,13.0,48.0,11.0,UTSA -11.0,Correct
-Texas Tech,Kansas,42.0,17.0,25.0,13.5,Texas Tech -13.5,Correct
-Boston College,Clemson,10.0,41.0,-31.0,-21.5,Clemson -21.5,Correct
-Minnesota,Purdue,27.0,20.0,7.0,-14.5,Purdue -14.5,Wrong
-Auburn,Georgia,10.0,20.0,-10.0,-6.0,Georgia -6.0,Correct
-USC,Michigan,31.0,13.0,18.0,4.0,USC -4.0,Correct
-LSU,South Carolina,20.0,10.0,10.0,13.5,LSU -13.5,Correct
-Texas State,Troy,41.0,48.0,-7.0,4.0,Texas State -4.0,Wrong
-Arizona,BYU,27.0,33.0,-6.0,-7.0,BYU -7.0,Correct
-Texas A&M-Kingsville,Angelo State,24.0,19.0,5.0,-17.0,Angelo State -17.0,Wrong
-Colorado Mesa,Adams State,54.0,17.0,37.0,36.0,Colorado Mesa -36.0,Correct
-Fort Hays State,Central Oklahoma,14.0,21.0,-7.0,4.5,Fort Hays State -4.5,Wrong
-Sul Ross State,Midwestern State,23.0,69.0,-46.0,-23.0,Midwestern State -23.0,Correct
-Utah Tech,Tarleton State,23.0,41.0,-18.0,-32.5,Tarleton State -32.5,Correct
-Weber State,Sacramento State,27.0,55.0,-28.0,-18.0,Sacramento State -18.0,Correct
-Boise State,New Mexico,41.0,25.0,16.0,5.0,Boise State -5.0,Correct
-Pomona Pitzer,Chapman,10.0,17.0,-7.0,-10.5,Chapman -10.5,Correct
-Utah,Arizona State,42.0,10.0,32.0,5.5,Utah -5.5,Correct
-Nevada,San Diego State,10.0,44.0,-34.0,-21.5,San Diego State -21.5,Correct
-Hawai'i,Utah State,44.0,26.0,18.0,-13.0,Utah State -13.0,Wrong
+Liberty,New Mexico State,30.0,27.0,3.0,1.0,Liberty -1.0,Correct
+South Alabama,Arkansas State,14.0,15.0,-1.0,1.5,South Alabama -1.5,Wrong
+Western Kentucky,Florida International,6.0,25.0,-19.0,13.0,Western Kentucky -13.0,Wrong
+Jacksonville State,Delaware,38.0,25.0,13.0,-8.0,Delaware -8.0,Wrong
+Sam Houston,UTEP,17.0,35.0,-18.0,-9.0,UTEP -9.0,Correct
+Olivet College,Trine University,7.0,59.0,-52.0,-24.0,Trine University -24.0,Correct
+Southern Nazarene,Southwestern Oklahoma State,6.0,31.0,-25.0,-13.5,Southwestern Oklahoma State -13.5,Correct
+East Carolina,Tulsa,41.0,27.0,14.0,21.5,East Carolina -21.5,Correct
+Maine Maritime,Biddeford,14.0,77.0,-63.0,-76.5,Biddeford -76.5,Correct
+Worcester Polytechnic Institute,Springfield,10.0,24.0,-14.0,-43.5,Springfield -43.5,Correct
+Kentucky State,Franklin Pierce,17.0,14.0,3.0,16.5,Kentucky State -16.5,Correct
+Miami,Louisville,21.0,24.0,-3.0,16.0,Miami -16.0,Wrong
+Wisconsin-Whitewater,Wisconsin-Stout,34.0,2.0,32.0,14.0,Wisconsin-Whitewater -14.0,Correct
+Minnesota,Nebraska,24.0,6.0,18.0,-12.0,Nebraska -12.0,Wrong
+Utah State,San José State,30.0,25.0,5.0,8.0,Utah State -8.0,Correct
+California,North Carolina,21.0,18.0,3.0,11.0,California -11.0,Correct
+Millikin,Illinois Wesleyan,27.0,49.0,-22.0,-11.0,Illinois Wesleyan -11.0,Correct
+Edinboro University,Fairmont State,30.0,35.0,-5.0,17.5,Edinboro University -17.5,Wrong
+Brown,Princeton,21.0,40.0,-19.0,10.0,Brown -10.0,Wrong
+Plymouth State,Anna Maria College,28.0,35.0,-7.0,-5.5,Anna Maria College -5.5,Correct
+Michigan,Washington,24.0,7.0,17.0,-9.5,Washington -9.5,Wrong
+TCU,Baylor,42.0,36.0,6.0,8.0,TCU -8.0,Correct
+Findlay,Kentucky Wesleyan,28.0,0.0,28.0,47.0,Findlay -47.0,Correct
+West Virginia State,Wheeling,20.0,24.0,-4.0,3.0,West Virginia State -3.0,Wrong
+Post University,Assumption,27.0,63.0,-36.0,-20.5,Assumption -20.5,Correct
+Brockport,Alfred State,48.0,14.0,34.0,11.5,Brockport -11.5,Correct
+Vanderbilt,LSU,31.0,24.0,7.0,-2.5,LSU -2.5,Wrong
+Coast Guard,MIT,24.0,14.0,10.0,4.5,Coast Guard -4.5,Correct
+Thomas More College,Tiffin,10.0,45.0,-35.0,-24.0,Tiffin -24.0,Correct
+Yale,Stonehill,47.0,7.0,40.0,9.0,Yale -9.0,Correct
+Framingham State,Westfield State,35.0,24.0,11.0,14.0,Framingham State -14.0,Correct
+Bowling Green,Central Michigan,6.0,27.0,-21.0,11.5,Bowling Green -11.5,Wrong
+Montclair State,Salisbury,21.0,56.0,-35.0,-38.0,Salisbury -38.0,Correct
+Salve Regina,Merchant Marine Academy,34.0,38.0,-4.0,10.0,Salve Regina -10.0,Wrong
+Catholic,Moravian,26.0,20.0,6.0,3.0,Catholic -3.0,Correct
+FDU-Florham,Delaware Valley,14.0,41.0,-27.0,-28.0,Delaware Valley -28.0,Correct
+Harvard,Merrimack,31.0,7.0,24.0,31.0,Harvard -31.0,Correct
+Ohio Dominican,Ashland,14.0,31.0,-17.0,-28.5,Ashland -28.5,Correct
+Curry College,Nichols College,71.0,27.0,44.0,17.5,Curry College -17.5,Correct
+Wofford,Furman,31.0,13.0,18.0,-2.5,Furman -2.5,Wrong
+Mass Maritime,Fitchburg State,10.0,0.0,10.0,-5.5,Fitchburg State -5.5,Wrong
+Houston,Arizona,31.0,28.0,3.0,-1.5,Arizona -1.5,Wrong
+Michigan Tech,Ferris State,10.0,38.0,-28.0,-26.5,Ferris State -26.5,Correct
+Husson,New England College,48.0,0.0,48.0,52.0,Husson -52.0,Correct
+Duke,Georgia Tech,18.0,27.0,-9.0,-2.5,Georgia Tech -2.5,Correct
+Castleton,College Of New Jersey,7.0,48.0,-41.0,-38.5,College Of New Jersey -38.5,Correct
+Dayton,Butler,17.0,23.0,-6.0,3.0,Dayton -3.0,Wrong
+Long Island University,Robert Morris,17.0,7.0,10.0,15.5,Long Island University -15.5,Correct
+Miami (OH),Eastern Michigan,44.0,30.0,14.0,13.5,Miami (OH) -13.5,Correct
+Boston College,UConn,23.0,38.0,-15.0,-14.0,UConn -14.0,Correct
+Tulane,Army,24.0,17.0,7.0,10.5,Tulane -10.5,Correct
+South Carolina,Oklahoma,7.0,26.0,-19.0,-11.5,Oklahoma -11.5,Correct
+Southern Illinois,North Dakota,19.0,38.0,-19.0,-7.5,North Dakota -7.5,Correct
+Depauw,John Carroll University,27.0,31.0,-4.0,-5.5,John Carroll University -5.5,Correct
+Widener,Lebanon Valley,14.0,34.0,-20.0,-16.5,Lebanon Valley -16.5,Correct
+Lock Haven University,West Chester,28.0,21.0,7.0,-2.5,West Chester -2.5,Wrong
+Wayne State (MI),Davenport,14.0,49.0,-35.0,-4.5,Davenport -4.5,Correct
+Albion,Alma,27.0,48.0,-21.0,-34.5,Alma -34.5,Correct
+Dickinson (PA),Franklin & Marshall,20.0,23.0,-3.0,6.5,Dickinson (PA) -6.5,Wrong
+Calvin University,Adrian,17.0,48.0,-31.0,-1.0,Adrian -1.0,Correct
+Presbyterian,Stetson,42.0,7.0,35.0,37.5,Presbyterian -37.5,Correct
+Bethany (WV),Hiram College,21.0,42.0,-21.0,-17.0,Hiram College -17.0,Correct
+St. Anselm,American International,27.0,14.0,13.0,15.5,St. Anselm -15.5,Correct
+Morehouse College,Lane College,31.0,7.0,24.0,21.0,Morehouse College -21.0,Correct
+Southern Virginia,Methodist,30.0,13.0,17.0,20.0,Southern Virginia -20.0,Correct
+Christopher Newport,Kean,49.0,0.0,49.0,45.0,Christopher Newport -45.0,Correct
+Kings College (PA),Reading,52.0,0.0,52.0,10.0,Kings College (PA) -10.0,Correct
+Monmouth,Stony Brook,49.0,21.0,28.0,4.0,Monmouth -4.0,Correct
+Slippery Rock,Indiana-Pennsylvania,30.0,27.0,3.0,-15.0,Indiana-Pennsylvania -15.0,Wrong
+Pace,Southern Connecticut State,35.0,34.0,1.0,2.0,Pace -2.0,Correct
+Cortland,Alfred University,65.0,12.0,53.0,29.5,Cortland -29.5,Correct
+Hillsdale,Northwood (MI),19.0,48.0,-29.0,-8.0,Northwood (MI) -8.0,Correct
+Winston-Salem,Livingstone,42.0,10.0,32.0,9.5,Winston-Salem -9.5,Correct
+Trinity (CT),Middlebury,28.0,26.0,2.0,17.5,Trinity (CT) -17.5,Correct
+Shaw,Johnson C Smith,0.0,52.0,-52.0,-33.5,Johnson C Smith -33.5,Correct
+Eastern University,Albright,17.0,10.0,7.0,9.5,Eastern University -9.5,Correct
+Crown College,Westminster College (MO),19.0,6.0,13.0,13.5,Crown College -13.5,Correct
+Saint Vincent,Washington & Jefferson,10.0,56.0,-46.0,-47.0,Washington & Jefferson -47.0,Correct
+Trinity University TX,Rhodes College,63.0,0.0,63.0,40.5,Trinity University TX -40.5,Correct
+Waynesburg,Geneva,20.0,62.0,-42.0,0.0,Pick'em,Wrong
+Carnegie Mellon,Gettysburg,44.0,20.0,24.0,47.0,Carnegie Mellon -47.0,Correct
+Kenyon,Wabash College,12.0,46.0,-34.0,-33.0,Wabash College -33.0,Correct
+Chicago,Ripon,37.0,12.0,25.0,23.5,Chicago -23.5,Correct
+Lake Erie,Walsh,13.0,20.0,-7.0,-10.5,Walsh -10.5,Correct
+Indiana State,North Dakota State,7.0,38.0,-31.0,-32.0,North Dakota State -32.0,Correct
+Martin Luther,Greenville,41.0,39.0,2.0,-0.5,Greenville -0.5,Wrong
+Belhaven,Greensboro College,41.0,26.0,15.0,15.5,Belhaven -15.5,Correct
+Guilford College,Randolph-Macon,0.0,47.0,-47.0,-36.0,Randolph-Macon -36.0,Correct
+Westminster (PA),Thiel,48.0,6.0,42.0,40.5,Westminster (PA) -40.5,Correct
+Ohio Wesleyan,Wooster,20.0,24.0,-4.0,6.5,Ohio Wesleyan -6.5,Wrong
+Virginia Union,Lincoln (PA),66.0,21.0,45.0,48.0,Virginia Union -48.0,Correct
+Bluefield State,Bowie State,37.0,42.0,-5.0,-14.0,Bowie State -14.0,Correct
+Bates,Williams,30.0,37.0,-7.0,-10.5,Williams -10.5,Correct
+Lagrange College,Brevard College,17.0,10.0,7.0,3.0,Lagrange College -3.0,Correct
+Hamilton,Tufts,28.0,38.0,-10.0,-9.5,Tufts -9.5,Correct
+Cornell,Bucknell,30.0,20.0,10.0,-3.0,Bucknell -3.0,Wrong
+Albany State GA,Tuskegee,7.0,3.0,4.0,21.5,Albany State GA -21.5,Correct
+Emory & Henry College,Wingate,20.0,27.0,-7.0,11.5,Emory & Henry College -11.5,Wrong
+Anderson (Sc),Carson-Newman College,6.0,28.0,-22.0,-6.0,Carson-Newman College -6.0,Correct
+Amherst,Colby College,9.0,13.0,-4.0,7.5,Amherst -7.5,Wrong
+Western Connecticut St,Lycoming,24.0,42.0,-18.0,19.5,Western Connecticut St -19.5,Wrong
+West Virginia Wesleyan,West Liberty,11.0,35.0,-24.0,-21.0,West Liberty -21.0,Correct
+Juniata College,Susquehanna,7.0,56.0,-49.0,-49.0,Susquehanna -49.0,Correct
+Johns Hopkins University,Ursinus,52.0,21.0,31.0,30.5,Johns Hopkins University -30.5,Correct
+University Of Charleston (WV),Frostburg State,30.0,32.0,-2.0,3.0,University Of Charleston (WV) -3.0,Wrong
+Wesleyan University (CT),Bowdoin,17.0,25.0,-8.0,35.5,Wesleyan University (CT) -35.5,Wrong
+Fordham,Dartmouth,13.0,30.0,-17.0,-19.5,Dartmouth -19.5,Correct
+UCF,West Virginia,45.0,13.0,32.0,5.5,UCF -5.5,Correct
+Drake,Davidson,45.0,0.0,45.0,42.5,Drake -42.5,Correct
+Georgetown,Colgate,21.0,17.0,4.0,-12.5,Colgate -12.5,Wrong
+Illinois State,Youngstown State,35.0,40.0,-5.0,-3.5,Youngstown State -3.5,Correct
+Villanova,Hampton,56.0,14.0,42.0,30.5,Villanova -30.5,Correct
+Southeast Missouri State,Eastern Illinois,42.0,13.0,29.0,-5.0,Eastern Illinois -5.0,Wrong
+Gardner-Webb,UT Martin,7.0,37.0,-30.0,19.5,Gardner-Webb -19.5,Wrong
+VMI,Samford,22.0,24.0,-2.0,-3.0,Samford -3.0,Correct
+Chattanooga,East Tennessee State,42.0,38.0,4.0,-16.0,East Tennessee State -16.0,Wrong
+Heidelberg,University of Mount Union,6.0,38.0,-32.0,-40.5,University of Mount Union -40.5,Correct
+Glenville State,Concord University,42.0,30.0,12.0,13.5,Glenville State -13.5,Correct
+Otterbein,Wilmington (OH),41.0,54.0,-13.0,-18.0,Wilmington (OH) -18.0,Correct
+Stevenson,Misericordia,28.0,29.0,-1.0,-11.0,Misericordia -11.0,Correct
+Marietta,Muskingum University,31.0,35.0,-4.0,1.5,Marietta -1.5,Wrong
+Ohio Northern,Capital,56.0,0.0,56.0,25.5,Ohio Northern -25.5,Correct
+Arkansas-Monticello,Ouachita Baptist,10.0,45.0,-35.0,-22.0,Ouachita Baptist -22.0,Correct
+Franklin,Manchester,48.0,21.0,27.0,37.0,Franklin -37.0,Correct
+Hanover College,Anderson (IN),58.0,0.0,58.0,56.5,Hanover College -56.5,Correct
+Bluffton,Mount St. Joseph,7.0,35.0,-28.0,-6.5,Mount St. Joseph -6.5,Correct
+Columbia,Pennsylvania,21.0,35.0,-14.0,-19.0,Pennsylvania -19.0,Correct
+Baldwin Wallace,Rose-Hulman,52.0,20.0,32.0,38.0,Baldwin Wallace -38.0,Correct
+Rowan,William Paterson,45.0,16.0,29.0,17.5,Rowan -17.5,Correct
+Gustavus Adolphus,St. Scholastica,45.0,6.0,39.0,11.0,Gustavus Adolphus -11.0,Correct
+Macalester,Augsburg,21.0,32.0,-11.0,-13.5,Augsburg -13.5,Correct
+Wheaton,Carthage,47.0,21.0,26.0,41.5,Wheaton -41.5,Correct
+Carleton,Hamline University,63.0,14.0,49.0,44.0,Carleton -44.0,Correct
+Austin,McMurry,13.0,31.0,-18.0,-29.5,McMurry -29.5,Correct
+Rockford,Concordia University Chicago,26.0,37.0,-11.0,-18.5,Concordia University Chicago -18.5,Correct
+Roanoke College,Shenandoah,20.0,33.0,-13.0,-1.5,Shenandoah -1.5,Correct
+Washington University (St. Louis),Elmhurst,17.0,0.0,17.0,50.0,Washington University (St. Louis) -50.0,Correct
+Aurora,Concordia-Wisconsin,45.0,54.0,-9.0,10.0,Aurora -10.0,Wrong
+Bethel (MN),St. Olaf,64.0,10.0,54.0,38.0,Bethel (MN) -38.0,Correct
+St. Norbert,Eureka College,44.0,0.0,44.0,41.5,St. Norbert -41.5,Correct
+Lakeland,Wisconsin-Lutheran,31.0,34.0,-3.0,1.0,Lakeland -1.0,Wrong
+Grand Valley State University,Saginaw Valley State,19.0,20.0,-1.0,12.0,Grand Valley State University -12.0,Wrong
+Fort Lewis,Chadron St,0.0,41.0,-41.0,-31.0,Chadron St -31.0,Correct
+Seton Hill,Gannon,28.0,14.0,14.0,0.0,Pick'em,Wrong
+Upper Iowa University,Southwest Baptist,39.0,2.0,37.0,6.0,Upper Iowa University -6.0,Correct
+Sewanee,Berry College,7.0,44.0,-37.0,-41.0,Berry College -41.0,Correct
+Colorado School Of Mines,Adams State,72.0,14.0,58.0,30.5,Colorado School Of Mines -30.5,Correct
+Bloomsburg,Shepherd,13.0,37.0,-24.0,-2.5,Shepherd -2.5,Correct
+Millsaps,Maryville College (TN),31.0,21.0,10.0,-24.5,Maryville College (TN) -24.5,Wrong
+Huntingdon College (AL),North Carolina Wesleyan,20.0,21.0,-1.0,15.0,Huntingdon College (AL) -15.0,Wrong
+Texas Lutheran,Hendrix College,50.0,48.0,2.0,-2.5,Hendrix College -2.5,Wrong
+Concordia Moorhead,Saint John's (MN),6.0,41.0,-35.0,-17.0,Saint John's (MN) -17.0,Correct
+Indianapolis,Lincoln (MO),62.0,7.0,55.0,48.5,Indianapolis -48.5,Correct
+Henderson State,Harding University,10.0,35.0,-25.0,-19.5,Harding University -19.5,Correct
+East Texas Baptist University,Hardin-Simmons,16.0,34.0,-18.0,-34.5,Hardin-Simmons -34.5,Correct
+Luther,Simpson College (IA),3.0,36.0,-33.0,-49.5,Simpson College (IA) -49.5,Correct
+Loras College,Wartburg,20.0,40.0,-20.0,-43.0,Wartburg -43.0,Correct
+North Greenville,UNC Pembroke,20.0,7.0,13.0,-22.0,UNC Pembroke -22.0,Wrong
+Virginia St,Elizabeth City State,24.0,20.0,4.0,11.0,Virginia St -11.0,Correct
+Central College,Nebraska Wesleyan,34.0,13.0,21.0,27.0,Central College -27.0,Correct
+Lake Forest College,Grinnell,70.0,0.0,70.0,23.0,Lake Forest College -23.0,Correct
+Lawrence University,Beloit,0.0,34.0,-34.0,12.0,Lawrence University -12.0,Wrong
+St. Thomas (MN),Valparaiso,55.0,17.0,38.0,31.0,St. Thomas (MN) -31.0,Correct
+Roosevelt,Northern Michigan,21.0,42.0,-21.0,-9.0,Northern Michigan -9.0,Correct
+Toledo,Kent State,45.0,10.0,35.0,15.0,Toledo -15.0,Correct
+Missouri Southern State,Nebraska-Kearney,24.0,16.0,8.0,-11.0,Nebraska-Kearney -11.0,Wrong
+South Dakota Mines,Western Colorado,13.0,34.0,-21.0,-40.0,Western Colorado -40.0,Correct
+Lindenwood,Tennessee Tech,28.0,52.0,-24.0,-17.5,Tennessee Tech -17.5,Correct
+Richmond,Holy Cross,22.0,28.0,-6.0,6.5,Richmond -6.5,Wrong
+Bridgewater (VA),Gallaudet,73.0,13.0,60.0,23.0,Bridgewater (VA) -23.0,Correct
+North Park,North Central College,0.0,75.0,-75.0,-57.5,North Central College -57.5,Correct
+Wisconsin-Stevens Pt,Wisconsin-River Falls,7.0,52.0,-45.0,-35.0,Wisconsin-River Falls -35.0,Correct
+Wisconsin-Platteville,Wisconsin-Lacrosse,38.0,21.0,17.0,-4.0,Wisconsin-Lacrosse -4.0,Wrong
+Wisconsin-Oshkosh,Wisconsin-Eau Claire,28.0,21.0,7.0,13.0,Wisconsin-Oshkosh -13.0,Correct
+Central State (OH),Kentucky Christian,27.0,35.0,-8.0,-2.0,Kentucky Christian -2.0,Correct
+McDaniel College,Muhlenberg,7.0,56.0,-49.0,-30.5,Muhlenberg -30.5,Correct
+Delta State,Ferrum,51.0,10.0,41.0,42.0,Delta State -42.0,Correct
+Murray State,South Dakota State,14.0,35.0,-21.0,-46.5,South Dakota State -46.5,Correct
+Texas Southern,Virginia University Of Lynchburg,61.0,10.0,51.0,64.5,Texas Southern -64.5,Correct
+The Citadel,Western Carolina,38.0,45.0,-7.0,-7.5,Western Carolina -7.5,Correct
+SUNY Maritime,Norwich,42.0,0.0,42.0,40.5,SUNY Maritime -40.5,Correct
+Northern Iowa,South Dakota,14.0,17.0,-3.0,-12.0,South Dakota -12.0,Correct
+Hope College,Kalamazoo,56.0,21.0,35.0,39.0,Hope College -39.0,Correct
+Morehead State,Marist,23.0,21.0,2.0,-15.5,Marist -15.5,Wrong
+Augustana (IL),Carroll University (WI),31.0,24.0,7.0,6.0,Augustana (IL) -6.0,Correct
+Massachusetts,Buffalo,21.0,28.0,-7.0,-19.0,Buffalo -19.0,Correct
+Northwest Missouri St,Fort Hays State,52.0,3.0,49.0,14.5,Northwest Missouri St -14.5,Correct
+Truman State,Quincy,44.0,21.0,23.0,15.0,Truman State -15.0,Correct
+PennWest California,Clarion,31.0,28.0,3.0,5.0,PennWest California -5.0,Correct
+Mary Hardin-Baylor,Texas Wesleyan,28.0,19.0,9.0,0.5,Mary Hardin-Baylor -0.5,Correct
+Monmouth (IL),Cornell College (IA),45.0,3.0,42.0,46.0,Monmouth (IL) -46.0,Correct
+Illinois College,Knox College,64.0,14.0,50.0,45.0,Illinois College -45.0,Correct
+New Mexico Highlands,Colorado Mesa,28.0,22.0,6.0,-19.0,Colorado Mesa -19.0,Wrong
+Arkansas-Pine Bluff,Grambling,16.0,20.0,-4.0,-13.5,Grambling -13.5,Correct
+Black Hills State,CSU Pueblo,14.0,40.0,-26.0,-29.5,CSU Pueblo -29.5,Correct
+Southern Arkansas,Arkansas Tech,42.0,7.0,35.0,7.0,Southern Arkansas -7.0,Correct
+Mississippi Valley State,Lincoln (CA),49.0,0.0,49.0,22.0,Mississippi Valley State -22.0,Correct
+Fort Valley State,Savannah St,7.0,0.0,7.0,3.0,Fort Valley State -3.0,Correct
+Kutztown University,Millersville,43.0,14.0,29.0,54.5,Kutztown University -54.5,Correct
+Lenoir-Rhyne,UVA Wise,23.0,10.0,13.0,15.5,Lenoir-Rhyne -15.5,Correct
+Southeastern Oklahoma State,Northwestern Oklahoma State,56.0,14.0,42.0,18.5,Southeastern Oklahoma State -18.5,Correct
+Dubuque,Buena Vista,47.0,20.0,27.0,21.5,Dubuque -21.5,Correct
+Minnesota Morris,Northwestern (MN),3.0,21.0,-18.0,3.0,Minnesota Morris -3.0,Wrong
+Washburn,Central Missouri,37.0,17.0,20.0,-13.5,Central Missouri -13.5,Wrong
+Miles College,Clark Atlanta,27.0,20.0,7.0,-5.5,Clark Atlanta -5.5,Wrong
+Northwestern,Purdue,19.0,0.0,19.0,-0.5,Purdue -0.5,Wrong
+UL Monroe,Troy,14.0,37.0,-23.0,-14.5,Troy -14.5,Correct
+Montana,Sacred Heart,43.0,21.0,22.0,34.5,Montana -34.5,Correct
+Marshall,Texas State,40.0,37.0,3.0,4.5,Marshall -4.5,Correct
+Arkansas,Texas A&M,42.0,45.0,-3.0,-20.0,Texas A&M -20.0,Correct
+Wisconsin,Ohio State,0.0,34.0,-34.0,-34.5,Ohio State -34.5,Correct
+Air Force,Wyoming,24.0,21.0,3.0,-4.0,Wyoming -4.0,Wrong
+Ball State,Akron,42.0,28.0,14.0,0.0,Pick'em,Wrong
+App State,Coastal Carolina,37.0,45.0,-8.0,3.0,App State -3.0,Wrong
+Charlotte,Temple,14.0,49.0,-35.0,-21.0,Temple -21.0,Correct
+Ohio,Northern Illinois,48.0,21.0,27.0,16.0,Ohio -16.0,Correct
+North Texas,UTSA,55.0,17.0,38.0,10.5,North Texas -10.5,Correct
+James Madison,Old Dominion,63.0,27.0,36.0,-6.5,Old Dominion -6.5,Wrong
+Campbell,New Hampshire,10.0,24.0,-14.0,-2.0,New Hampshire -2.0,Correct
+Indiana,Michigan State,38.0,13.0,25.0,35.0,Indiana -35.0,Correct
+LYONCOLL,CENTENARY,20.0,23.0,-3.0,13.5,LYONCOLL -13.5,Wrong
+Georgia,Ole Miss,43.0,35.0,8.0,3.0,Georgia -3.0,Correct
+UAlbany,Rhode Island,17.0,58.0,-41.0,-22.0,Rhode Island -22.0,Correct
+Clemson,SMU,24.0,35.0,-11.0,0.5,Clemson -0.5,Wrong
+William & Mary,Elon,26.0,21.0,5.0,-2.0,Elon -2.0,Wrong
+Boise State,UNLV,56.0,31.0,25.0,10.5,Boise State -10.5,Correct
+Allegheny,Grove City College,6.0,42.0,-36.0,-25.5,Grove City College -25.5,Correct
+Averett,Hampden-Sydney,7.0,67.0,-60.0,-66.5,Hampden-Sydney -66.5,Correct
+East Central (OK),Oklahoma Baptist,37.0,31.0,6.0,18.0,East Central (OK) -18.0,Correct
+Bridgewater State,Dean College,47.0,25.0,22.0,30.0,Bridgewater State -30.0,Correct
+Pacific Lutheran,Pacific (OR),47.0,29.0,18.0,-8.0,Pacific (OR) -8.0,Wrong
+Arizona State,Texas Tech,26.0,22.0,4.0,-20.0,Texas Tech -20.0,Wrong
+Western Illinois,Charleston Southern,24.0,29.0,-5.0,-9.0,Charleston Southern -9.0,Correct
+UMass Dartmouth,Worcester St,32.0,7.0,25.0,15.5,UMass Dartmouth -15.5,Correct
+Wilson,Chowan,28.0,21.0,7.0,-5.5,Chowan -5.5,Wrong
+Wittenberg,Denison University,40.0,43.0,-3.0,0.5,Wittenberg -0.5,Wrong
+Claremont-Mudd-Scripps College,La Verne,22.0,19.0,3.0,15.0,Claremont-Mudd-Scripps College -15.0,Correct
+Lamar,UT Rio Grande Valley,23.0,21.0,2.0,12.5,Lamar -12.5,Correct
+Shorter,ERSKINE,19.0,23.0,-4.0,3.5,Shorter -3.5,Wrong
+Edward Waters,Benedict College,27.0,31.0,-4.0,-8.0,Benedict College -8.0,Correct
+William Jewell,Northeastern State,7.0,35.0,-28.0,-9.0,Northeastern State -9.0,Correct
+Linfield College,Whitworth,20.0,30.0,-10.0,12.5,Linfield College -12.5,Wrong
+UAB,Memphis,31.0,24.0,7.0,-33.5,Memphis -33.5,Wrong
+Puget Sound,Willamette,45.0,28.0,17.0,-6.5,Willamette -6.5,Wrong
+Florida A&M,Alcorn State,33.0,28.0,5.0,-4.5,Alcorn State -4.5,Wrong
+Western Oregon,UT Permian Basin,31.0,28.0,3.0,-27.5,UT Permian Basin -27.5,Wrong
+Florida,Mississippi State,23.0,21.0,2.0,4.0,Florida -4.0,Correct
+NEWBERG,Lewis & Clark College,42.0,28.0,14.0,-26.0,Lewis & Clark College -26.0,Wrong
+Endicott College,Western New England,45.0,24.0,21.0,18.5,Endicott College -18.5,Correct
+Wagner,Central Connecticut,17.0,24.0,-7.0,-10.5,Central Connecticut -10.5,Correct
+Southern,Prairie View A&M,3.0,24.0,-21.0,-16.5,Prairie View A&M -16.5,Correct
+Northern State,Southwest Minnesota State,55.0,23.0,32.0,39.0,Northern State -39.0,Correct
+SE Louisiana,Northwestern State,49.0,0.0,49.0,24.5,SE Louisiana -24.5,Correct
+Louisiana,Southern Miss,10.0,22.0,-12.0,-13.0,Southern Miss -13.0,Correct
+Portland State,Weber State,27.0,43.0,-16.0,-1.5,Weber State -1.5,Correct
+Tennessee State,Howard,24.0,7.0,17.0,-11.5,Howard -11.5,Wrong
+Incarnate Word,East Texas A&M,45.0,52.0,-7.0,-1.5,East Texas A&M -1.5,Correct
+Mercyhurst,Duquesne,0.0,37.0,-37.0,3.5,Mercyhurst -3.5,Wrong
+Newberry,Mars Hill,38.0,24.0,14.0,-3.5,Mars Hill -3.5,Wrong
+East Stroudsburg University,Shippensburg,24.0,7.0,17.0,23.0,East Stroudsburg University -23.0,Correct
+Virginia,Washington State,22.0,20.0,2.0,17.5,Virginia -17.5,Correct
+Rutgers,Oregon,10.0,56.0,-46.0,-22.5,Oregon -22.5,Correct
+Eastern Washington,Idaho,21.0,14.0,7.0,-13.0,Idaho -13.0,Wrong
+UCLA,Maryland,20.0,17.0,3.0,-11.0,Maryland -11.0,Wrong
+Colorado State,Hawai'i,19.0,31.0,-12.0,2.5,Colorado State -2.5,Wrong
+Centre College Kentucky,Southwestern University,19.0,16.0,3.0,7.0,Centre College Kentucky -7.0,Correct
+West Alabama,West Florida,16.0,23.0,-7.0,-10.0,West Florida -10.0,Correct
+Stephen F. Austin,Nicholls,34.0,7.0,27.0,10.0,Stephen F. Austin -10.0,Correct
+McNeese,Houston Christian,27.0,0.0,27.0,-7.0,Houston Christian -7.0,Wrong
+North Alabama,Eastern Kentucky,35.0,14.0,21.0,-19.5,Eastern Kentucky -19.5,Wrong
+Angelo State,Midwestern State,48.0,24.0,24.0,18.5,Angelo State -18.5,Correct
+Georgia Southern,Georgia State,41.0,24.0,17.0,3.0,Georgia Southern -3.0,Correct
+Kentucky,Texas,13.0,16.0,-3.0,-14.0,Texas -14.0,Correct
+Tarleton State,West Georgia,45.0,10.0,35.0,15.0,Tarleton State -15.0,Correct
+Iowa,Penn State,25.0,24.0,1.0,2.0,Iowa -2.0,Correct
+Missouri Western,Pittsburg St,20.0,44.0,-24.0,-27.0,Pittsburg St -27.0,Correct
+Notre Dame,USC,34.0,24.0,10.0,13.0,Notre Dame -13.0,Correct
+Alabama,Tennessee,37.0,20.0,17.0,4.0,Alabama -4.0,Correct
+Syracuse,Pittsburgh,13.0,30.0,-17.0,-9.0,Pittsburgh -9.0,Correct
+South Florida,Florida Atlantic,48.0,13.0,35.0,34.0,South Florida -34.0,Correct
+Auburn,Missouri,17.0,23.0,-6.0,-2.0,Missouri -2.0,Correct
+Central Oklahoma,Emporia State University,56.0,22.0,34.0,2.5,Central Oklahoma -2.5,Correct
+BYU,Utah,24.0,21.0,3.0,-9.5,Utah -9.5,Wrong
+West Texas A&M,Eastern New Mexico,43.0,14.0,29.0,10.5,West Texas A&M -10.5,Correct
+Oklahoma State,Cincinnati,17.0,49.0,-32.0,-28.5,Cincinnati -28.5,Correct
+Southern Utah,Abilene Christian,31.0,24.0,7.0,-1.0,Abilene Christian -1.0,Wrong
+Central Washington,Texas A&M-Kingsville,24.0,21.0,3.0,30.5,Central Washington -30.5,Correct
+Western New Mexico,Sul Ross State,45.0,42.0,3.0,11.5,Western New Mexico -11.5,Correct
+Sacramento State,Northern Colorado,40.0,35.0,5.0,8.5,Sacramento State -8.5,Correct
+New Mexico,Nevada,24.0,22.0,2.0,19.0,New Mexico -19.0,Correct
+California Lutheran University,Chapman,25.0,35.0,-10.0,-14.0,Chapman -14.0,Correct
+Redlands,Pomona Pitzer,16.0,14.0,2.0,-5.5,Pomona Pitzer -5.5,Wrong
+Oregon State,Lafayette,45.0,13.0,32.0,7.0,Oregon State -7.0,Correct
+Stanford,Florida State,20.0,13.0,7.0,-30.5,Florida State -30.5,Wrong
+McKendree,Missouri S&T,10.0,29.0,-19.0,13.0,McKendree -13.0,Wrong

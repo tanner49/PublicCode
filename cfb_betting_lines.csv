@@ -1,1702 +1,1408 @@
 HomeTeam,AwayTeam,Week,Line,Spread
-Catawba,Limestone,5,Catawba -5.0,5.0
-Liberty,New Mexico State,8,Liberty -1.0,1.0
-South Alabama,Arkansas State,8,South Alabama -1.5,1.5
-Western Kentucky,Florida International,8,Western Kentucky -13.0,13.0
-Sam Houston,UTEP,8,UTEP -9.0,-9.0
-Jacksonville State,Delaware,8,Delaware -8.0,-8.0
-Olivet College,Trine University,8,Trine University -24.0,-24.0
-Southern Nazarene,Southwestern Oklahoma State,8,Southwestern Oklahoma State -13.5,-13.5
-East Carolina,Tulsa,8,East Carolina -21.5,21.5
-Maine Maritime,Biddeford,8,Biddeford -76.5,-76.5
-Miami,Louisville,8,Miami -16.0,16.0
-Worcester Polytechnic Institute,Springfield,8,Springfield -43.5,-43.5
-Wisconsin-Whitewater,Wisconsin-Stout,8,Wisconsin-Whitewater -14.0,14.0
-Minnesota,Nebraska,8,Nebraska -12.0,-12.0
-Utah State,San José State,8,Utah State -8.0,8.0
-California,North Carolina,8,California -11.0,11.0
-Kentucky State,Franklin Pierce,8,Kentucky State -16.5,16.5
-Montclair State,Salisbury,8,Salisbury -38.0,-38.0
-Castleton,College Of New Jersey,8,College Of New Jersey -38.5,-38.5
-Post University,Assumption,8,Assumption -20.5,-20.5
-Ohio Dominican,Ashland,8,Ashland -28.5,-28.5
-Thomas More College,Tiffin,8,Tiffin -24.0,-24.0
-Boston College,UConn,8,UConn -14.0,-14.0
-Vanderbilt,LSU,8,LSU -2.5,-2.5
-Michigan,Washington,8,Washington -9.5,-9.5
-West Virginia State,Wheeling,8,West Virginia State -3.0,3.0
-Tulane,Army,8,Tulane -10.5,10.5
-Findlay,Kentucky Wesleyan,8,Findlay -47.0,47.0
-Framingham State,Westfield State,8,Framingham State -14.0,14.0
-Edinboro University,Fairmont State,8,Edinboro University -17.5,17.5
-Houston,Arizona,8,Arizona -1.5,-1.5
-Coast Guard,MIT,8,Coast Guard -4.5,4.5
-Plymouth State,Anna Maria College,8,Anna Maria College -5.5,-5.5
-Michigan Tech,Ferris State,8,Ferris State -26.5,-26.5
-Eastern University,Albright,8,Eastern University -9.5,9.5
-FDU-Florham,Delaware Valley,8,Delaware Valley -28.0,-28.0
-Brockport,Alfred State,8,Brockport -11.5,11.5
-Salve Regina,Merchant Marine Academy,8,Salve Regina -10.0,10.0
-Catholic,Moravian,8,Catholic -3.0,3.0
-Curry College,Nichols College,8,Curry College -17.5,17.5
-Husson,New England College,8,Husson -52.0,52.0
-Mass Maritime,Fitchburg State,8,Fitchburg State -5.5,-5.5
-Belhaven,Greensboro College,8,Belhaven -15.5,15.5
-Miami (OH),Eastern Michigan,8,Miami (OH) -13.5,13.5
-Yale,Stonehill,8,Yale -9.0,9.0
-Brown,Princeton,8,Brown -10.0,10.0
-Wofford,Furman,8,Furman -2.5,-2.5
-Bowling Green,Central Michigan,8,Bowling Green -11.5,11.5
-Long Island University,Robert Morris,8,Long Island University -15.5,15.5
-TCU,Baylor,8,TCU -8.0,8.0
-Duke,Georgia Tech,8,Georgia Tech -2.5,-2.5
-Harvard,Merrimack,8,Harvard -31.0,31.0
-Dayton,Butler,8,Dayton -3.0,3.0
-South Carolina,Oklahoma,8,Oklahoma -11.5,-11.5
-Bates,Williams,8,Williams -10.5,-10.5
-Bethany (WV),Hiram College,8,Hiram College -17.0,-17.0
-St. Anselm,American International,8,St. Anselm -15.5,15.5
-Wesleyan University (CT),Bowdoin,8,Wesleyan University (CT) -35.5,35.5
-Trinity (CT),Middlebury,8,Trinity (CT) -17.5,17.5
-Amherst,Colby College,8,Amherst -7.5,7.5
-Bluefield State,Bowie State,8,Bowie State -14.0,-14.0
-Virginia Union,Lincoln (PA),8,Virginia Union -48.0,48.0
-Shaw,Johnson C Smith,8,Johnson C Smith -33.5,-33.5
-Winston-Salem,Livingstone,8,Winston-Salem -9.5,9.5
-Hillsdale,Northwood (MI),8,Northwood (MI) -8.0,-8.0
-Cortland,Alfred University,8,Cortland -29.5,29.5
-Wayne State (MI),Davenport,8,Davenport -4.5,-4.5
-University Of Charleston (WV),Frostburg State,8,University Of Charleston (WV) -3.0,3.0
-West Virginia Wesleyan,West Liberty,8,West Liberty -21.0,-21.0
-Pace,Southern Connecticut State,8,Pace -2.0,2.0
-Slippery Rock,Indiana-Pennsylvania,8,Indiana-Pennsylvania -15.0,-15.0
-Lock Haven University,West Chester,8,West Chester -2.5,-2.5
-Anderson (Sc),Carson-Newman College,8,Carson-Newman College -6.0,-6.0
-Emory & Henry College,Wingate,8,Emory & Henry College -11.5,11.5
-Albany State GA,Tuskegee,8,Albany State GA -21.5,21.5
-Morehouse College,Lane College,8,Morehouse College -21.0,21.0
-Dickinson (PA),Franklin & Marshall,8,Dickinson (PA) -6.5,6.5
-Johns Hopkins University,Ursinus,8,Johns Hopkins University -30.5,30.5
-Juniata College,Susquehanna,8,Susquehanna -49.0,-49.0
-Western Connecticut St,Lycoming,8,Western Connecticut St -19.5,19.5
-Southern Virginia,Methodist,8,Southern Virginia -20.0,20.0
-Lagrange College,Brevard College,8,Lagrange College -3.0,3.0
-Christopher Newport,Kean,8,Christopher Newport -45.0,45.0
-Calvin University,Adrian,8,Adrian -1.0,-1.0
-Albion,Alma,8,Alma -34.5,-34.5
-Widener,Lebanon Valley,8,Lebanon Valley -16.5,-16.5
-Depauw,John Carroll University,8,John Carroll University -5.5,-5.5
-Villanova,Hampton,8,Villanova -30.5,30.5
-Monmouth,Stony Brook,8,Monmouth -4.0,4.0
-Indiana State,North Dakota State,8,North Dakota State -32.0,-32.0
-Georgetown,Colgate,8,Colgate -12.5,-12.5
-Hamilton,Tufts,8,Tufts -9.5,-9.5
-Fordham,Dartmouth,8,Dartmouth -19.5,-19.5
-Waynesburg,Geneva,8,Pick'em,0.0
-Saint Vincent,Washington & Jefferson,8,Washington & Jefferson -47.0,-47.0
-UCF,West Virginia,8,UCF -5.5,5.5
-Presbyterian,Stetson,8,Presbyterian -37.5,37.5
-Carnegie Mellon,Gettysburg,8,Carnegie Mellon -47.0,47.0
-Cornell,Bucknell,8,Bucknell -3.0,-3.0
-Westminster (PA),Thiel,8,Westminster (PA) -40.5,40.5
-Martin Luther,Greenville,8,Greenville -0.5,-0.5
-Drake,Davidson,8,Drake -42.5,42.5
-Lake Erie,Walsh,8,Walsh -10.5,-10.5
-Ohio Wesleyan,Wooster,8,Ohio Wesleyan -6.5,6.5
-Crown College,Westminster College (MO),8,Crown College -13.5,13.5
-Kenyon,Wabash College,8,Wabash College -33.0,-33.0
-Guilford College,Randolph-Macon,8,Randolph-Macon -36.0,-36.0
-Kings College (PA),Reading,8,Kings College (PA) -10.0,10.0
-Trinity University TX,Rhodes College,8,Trinity University TX -40.5,40.5
-Baldwin Wallace,Rose-Hulman,8,Baldwin Wallace -38.0,38.0
-Ohio Northern,Capital,8,Ohio Northern -25.5,25.5
-Otterbein,Wilmington (OH),8,Wilmington (OH) -18.0,-18.0
-Marietta,Muskingum University,8,Marietta -1.5,1.5
-VMI,Samford,8,Samford -3.0,-3.0
-Chattanooga,East Tennessee State,8,East Tennessee State -16.0,-16.0
-Columbia,Pennsylvania,8,Pennsylvania -19.0,-19.0
-Bluffton,Mount St. Joseph,8,Mount St. Joseph -6.5,-6.5
-Franklin,Manchester,8,Franklin -37.0,37.0
-Hanover College,Anderson (IN),8,Hanover College -56.5,56.5
-Stevenson,Misericordia,8,Misericordia -11.0,-11.0
-Gardner-Webb,UT Martin,8,Gardner-Webb -19.5,19.5
-Glenville State,Concord University,8,Glenville State -13.5,13.5
-Wisconsin-Platteville,Wisconsin-Lacrosse,8,Wisconsin-Lacrosse -4.0,-4.0
-The Citadel,Western Carolina,8,Western Carolina -7.5,-7.5
-Sewanee,Berry College,8,Berry College -41.0,-41.0
-Texas Lutheran,Hendrix College,8,Hendrix College -2.5,-2.5
-Millsaps,Maryville College (TN),8,Maryville College (TN) -24.5,-24.5
-Huntingdon College (AL),North Carolina Wesleyan,8,Huntingdon College (AL) -15.0,15.0
-Missouri Southern State,Nebraska-Kearney,8,Nebraska-Kearney -11.0,-11.0
-South Dakota Mines,Western Colorado,8,Western Colorado -40.0,-40.0
-Wisconsin-Stevens Pt,Wisconsin-River Falls,8,Wisconsin-River Falls -35.0,-35.0
-McKendree,Missouri S&T,8,McKendree -13.0,13.0
-Upper Iowa University,Southwest Baptist,8,Upper Iowa University -6.0,6.0
-Grand Valley State University,Saginaw Valley State,8,Grand Valley State University -12.0,12.0
-Roosevelt,Northern Michigan,8,Northern Michigan -9.0,-9.0
-Delta State,Ferrum,8,Delta State -42.0,42.0
-Washburn,Central Missouri,8,Central Missouri -13.5,-13.5
-Bloomsburg,Shepherd,8,Shepherd -2.5,-2.5
-Seton Hill,Gannon,8,Pick'em,0.0
-Colorado School Of Mines,Adams State,8,Colorado School Of Mines -30.5,30.5
-Fort Lewis,Chadron St,8,Chadron St -31.0,-31.0
-Central State (OH),Kentucky Christian,8,Kentucky Christian -2.0,-2.0
-SUNY Maritime,Norwich,8,SUNY Maritime -40.5,40.5
-Wisconsin-Oshkosh,Wisconsin-Eau Claire,8,Wisconsin-Oshkosh -13.0,13.0
-Morehead State,Marist,8,Marist -15.5,-15.5
-Indianapolis,Lincoln (MO),8,Indianapolis -48.5,48.5
-Henderson State,Harding University,8,Harding University -19.5,-19.5
-East Texas Baptist University,Hardin-Simmons,8,Hardin-Simmons -34.5,-34.5
-Luther,Simpson College (IA),8,Simpson College (IA) -49.5,-49.5
-Loras College,Wartburg,8,Wartburg -43.0,-43.0
-Dubuque,Buena Vista,8,Dubuque -21.5,21.5
-North Greenville,UNC Pembroke,8,UNC Pembroke -22.0,-22.0
-Virginia St,Elizabeth City State,8,Virginia St -11.0,11.0
-St. Thomas (MN),Valparaiso,8,St. Thomas (MN) -31.0,31.0
-Central College,Nebraska Wesleyan,8,Central College -27.0,27.0
-Lake Forest College,Grinnell,8,Lake Forest College -23.0,23.0
-Richmond,Holy Cross,8,Richmond -6.5,6.5
-Lawrence University,Beloit,8,Lawrence University -12.0,12.0
-Chicago,Ripon,8,Chicago -23.5,23.5
-Toledo,Kent State,8,Toledo -15.0,15.0
-Augustana (IL),Carroll University (WI),8,Augustana (IL) -6.0,6.0
-Wheaton,Carthage,8,Wheaton -41.5,41.5
-North Park,North Central College,8,North Central College -57.5,-57.5
-Washington University (St. Louis),Elmhurst,8,Washington University (St. Louis) -50.0,50.0
-Austin,McMurry,8,McMurry -29.5,-29.5
-Macalester,Augsburg,8,Augsburg -13.5,-13.5
-Gustavus Adolphus,St. Scholastica,8,Gustavus Adolphus -11.0,11.0
-Bethel (MN),St. Olaf,8,Bethel (MN) -38.0,38.0
-Carleton,Hamline University,8,Carleton -44.0,44.0
-Concordia Moorhead,Saint John's (MN),8,Saint John's (MN) -17.0,-17.0
-Hope College,Kalamazoo,8,Hope College -39.0,39.0
-Aurora,Concordia-Wisconsin,8,Aurora -10.0,10.0
-Rockford,Concordia University Chicago,8,Concordia University Chicago -18.5,-18.5
-Lakeland,Wisconsin-Lutheran,8,Lakeland -1.0,1.0
-St. Norbert,Eureka College,8,St. Norbert -41.5,41.5
-Roanoke College,Shenandoah,8,Shenandoah -1.5,-1.5
-Minnesota Morris,Northwestern (MN),8,Minnesota Morris -3.0,3.0
-McDaniel College,Muhlenberg,8,Muhlenberg -30.5,-30.5
-Bridgewater (VA),Gallaudet,8,Bridgewater (VA) -23.0,23.0
-Rowan,William Paterson,8,Rowan -17.5,17.5
-Lindenwood,Tennessee Tech,8,Tennessee Tech -17.5,-17.5
-Northern Iowa,South Dakota,8,South Dakota -12.0,-12.0
-Massachusetts,Buffalo,8,Buffalo -19.0,-19.0
-Truman State,Quincy,8,Truman State -15.0,15.0
-Northwest Missouri St,Fort Hays State,8,Northwest Missouri St -14.5,14.5
-Heidelberg,University of Mount Union,8,University of Mount Union -40.5,-40.5
-Kutztown University,Millersville,8,Kutztown University -54.5,54.5
-PennWest California,Clarion,8,PennWest California -5.0,5.0
-Arkansas-Monticello,Ouachita Baptist,8,Ouachita Baptist -22.0,-22.0
-Southeastern Oklahoma State,Northwestern Oklahoma State,8,Southeastern Oklahoma State -18.5,18.5
-Mary Hardin-Baylor,Texas Wesleyan,8,Mary Hardin-Baylor -0.5,0.5
-Black Hills State,CSU Pueblo,8,CSU Pueblo -29.5,-29.5
-Fort Valley State,Savannah St,8,Fort Valley State -3.0,3.0
-Monmouth (IL),Cornell College (IA),8,Monmouth (IL) -46.0,46.0
-Illinois College,Knox College,8,Illinois College -45.0,45.0
-Mississippi Valley State,Lincoln (CA),8,Mississippi Valley State -22.0,22.0
-Texas Southern,Virginia University Of Lynchburg,8,Texas Southern -64.5,64.5
-Southeast Missouri State,Eastern Illinois,8,Eastern Illinois -5.0,-5.0
-Illinois State,Youngstown State,8,Youngstown State -3.5,-3.5
-Southern Illinois,North Dakota,8,North Dakota -7.5,-7.5
-Montana,Sacred Heart,8,Montana -34.5,34.5
-UL Monroe,Troy,8,Troy -14.5,-14.5
-Lenoir-Rhyne,UVA Wise,8,Lenoir-Rhyne -15.5,15.5
-Miles College,Clark Atlanta,8,Clark Atlanta -5.5,-5.5
-New Mexico Highlands,Colorado Mesa,8,Colorado Mesa -19.0,-19.0
-Southern Arkansas,Arkansas Tech,8,Southern Arkansas -7.0,7.0
-Northwestern,Purdue,8,Purdue -0.5,-0.5
-Arkansas-Pine Bluff,Grambling,8,Grambling -13.5,-13.5
-Southern,Prairie View A&M,8,Prairie View A&M -16.5,-16.5
-Wisconsin,Ohio State,8,Ohio State -34.5,-34.5
-Boise State,UNLV,8,Boise State -10.5,10.5
-North Texas,UTSA,8,North Texas -10.5,10.5
-Ohio,Northern Illinois,8,Ohio -16.0,16.0
-Georgia,Ole Miss,8,Georgia -3.0,3.0
-Arkansas,Texas A&M,8,Texas A&M -20.0,-20.0
-James Madison,Old Dominion,8,Old Dominion -6.5,-6.5
-Air Force,Wyoming,8,Wyoming -4.0,-4.0
-UAlbany,Rhode Island,8,Rhode Island -22.0,-22.0
-William & Mary,Elon,8,Elon -2.0,-2.0
-Campbell,New Hampshire,8,New Hampshire -2.0,-2.0
-Marshall,Texas State,8,Marshall -4.5,4.5
-Indiana,Michigan State,8,Indiana -35.0,35.0
-Clemson,SMU,8,Clemson -0.5,0.5
-Charlotte,Temple,8,Temple -21.0,-21.0
-App State,Coastal Carolina,8,App State -3.0,3.0
-Ball State,Akron,8,Pick'em,0.0
-Western Illinois,Charleston Southern,8,Charleston Southern -9.0,-9.0
-Wilson,Chowan,8,Chowan -5.5,-5.5
-Shorter,ERSKINE,8,Shorter -3.5,3.5
-Bridgewater State,Dean College,8,Bridgewater State -30.0,30.0
-Linfield College,Whitworth,8,Linfield College -12.5,12.5
-Wittenberg,Denison University,8,Wittenberg -0.5,0.5
-Claremont-Mudd-Scripps College,La Verne,8,Claremont-Mudd-Scripps College -15.0,15.0
-East Central (OK),Oklahoma Baptist,8,East Central (OK) -18.0,18.0
-Florida A&M,Alcorn State,8,Alcorn State -4.5,-4.5
-William Jewell,Northeastern State,8,Northeastern State -9.0,-9.0
-UAB,Memphis,8,Memphis -33.5,-33.5
-Arizona State,Texas Tech,8,Texas Tech -20.0,-20.0
-UMass Dartmouth,Worcester St,8,UMass Dartmouth -15.5,15.5
-Edward Waters,Benedict College,8,Benedict College -8.0,-8.0
-Allegheny,Grove City College,8,Grove City College -25.5,-25.5
-Averett,Hampden-Sydney,8,Hampden-Sydney -66.5,-66.5
-Puget Sound,Willamette,8,Willamette -6.5,-6.5
-Pacific Lutheran,Pacific (OR),8,Pacific (OR) -8.0,-8.0
-Lamar,UT Rio Grande Valley,8,Lamar -12.5,12.5
-Western Oregon,UT Permian Basin,8,UT Permian Basin -27.5,-27.5
-Florida,Mississippi State,8,Florida -4.0,4.0
-LYONCOLL,CENTENARY,8,LYONCOLL -13.5,13.5
-NEWBERG,Lewis & Clark College,8,Lewis & Clark College -26.0,-26.0
-Portland State,Weber State,8,Weber State -1.5,-1.5
-Endicott College,Western New England,8,Endicott College -18.5,18.5
-Northern State,Southwest Minnesota State,8,Northern State -39.0,39.0
-SE Louisiana,Northwestern State,8,SE Louisiana -24.5,24.5
-Wagner,Central Connecticut,8,Central Connecticut -10.5,-10.5
-Louisiana,Southern Miss,8,Southern Miss -13.0,-13.0
-Incarnate Word,East Texas A&M,8,East Texas A&M -1.5,-1.5
-Tennessee State,Howard,8,Howard -11.5,-11.5
-Newberry,Mars Hill,8,Mars Hill -3.5,-3.5
-Mercyhurst,Duquesne,8,Mercyhurst -3.5,3.5
-East Stroudsburg University,Shippensburg,8,East Stroudsburg University -23.0,23.0
-Virginia,Washington State,8,Virginia -17.5,17.5
-Rutgers,Oregon,8,Oregon -22.5,-22.5
-UCLA,Maryland,8,Maryland -11.0,-11.0
-Kentucky,Texas,8,Texas -14.0,-14.0
-West Alabama,West Florida,8,West Florida -10.0,-10.0
-Georgia Southern,Georgia State,8,Georgia Southern -3.0,3.0
-Stephen F. Austin,Nicholls,8,Stephen F. Austin -10.0,10.0
-Murray State,South Dakota State,8,South Dakota State -46.5,-46.5
-North Alabama,Eastern Kentucky,8,Eastern Kentucky -19.5,-19.5
-Tarleton State,West Georgia,8,Tarleton State -15.0,15.0
-Eastern Washington,Idaho,8,Idaho -13.0,-13.0
-Angelo State,Midwestern State,8,Angelo State -18.5,18.5
-Iowa,Penn State,8,Iowa -2.0,2.0
-Colorado State,Hawai'i,8,Colorado State -2.5,2.5
-Centre College Kentucky,Southwestern University,8,Centre College Kentucky -7.0,7.0
-Missouri Western,Pittsburg St,8,Pittsburg St -27.0,-27.0
-Millikin,Illinois Wesleyan,8,Illinois Wesleyan -11.0,-11.0
-McNeese,Houston Christian,8,Houston Christian -7.0,-7.0
-South Florida,Florida Atlantic,8,South Florida -34.0,34.0
-Notre Dame,USC,8,Notre Dame -13.0,13.0
-Syracuse,Pittsburgh,8,Pittsburgh -9.0,-9.0
-Alabama,Tennessee,8,Alabama -4.0,4.0
-Auburn,Missouri,8,Missouri -2.0,-2.0
-West Texas A&M,Eastern New Mexico,8,West Texas A&M -10.5,10.5
-Central Oklahoma,Emporia State University,8,Central Oklahoma -2.5,2.5
-Oklahoma State,Cincinnati,8,Cincinnati -28.5,-28.5
-BYU,Utah,8,Utah -9.5,-9.5
-Southern Utah,Abilene Christian,8,Abilene Christian -1.0,-1.0
-Central Washington,Texas A&M-Kingsville,8,Central Washington -30.5,30.5
-Western New Mexico,Sul Ross State,8,Western New Mexico -11.5,11.5
-Sacramento State,Northern Colorado,8,Sacramento State -8.5,8.5
-New Mexico,Nevada,8,New Mexico -19.0,19.0
-Redlands,Pomona Pitzer,8,Pomona Pitzer -5.5,-5.5
-California Lutheran University,Chapman,8,Chapman -14.0,-14.0
-Oregon State,Lafayette,8,Oregon State -7.0,7.0
-Stanford,Florida State,8,Florida State -30.5,-30.5
-Florida International,Kennesaw State,9,Kennesaw State -20.0,-20.0
-Louisiana Tech,Western Kentucky,9,Louisiana Tech -11.0,11.0
-Delaware,Middle Tennessee,9,Delaware -15.5,15.5
-New Mexico State,Missouri State,9,Missouri State -4.5,-4.5
-Georgia State,South Alabama,9,South Alabama -5.5,-5.5
+Catawba,Limestone,5,Catawba -5.5,5.5
+Florida International,Kennesaw State,9,Kennesaw State -15.0,-15.0
+Louisiana Tech,Western Kentucky,9,Louisiana Tech -14.5,14.5
+Delaware,Middle Tennessee,9,Delaware -12.5,12.5
+New Mexico State,Missouri State,9,Missouri State -7.0,-7.0
+Georgia State,South Alabama,9,South Alabama -7.0,-7.0
 Dartmouth,Columbia,9,Dartmouth -13.0,13.0
-Charlotte,North Texas,9,North Texas -36.0,-36.0
-Virginia Tech,California,9,Virginia Tech -3.0,3.0
-Nevada,Boise State,9,Boise State -30.0,-30.0
-Sacramento State,Montana,9,Montana -15.5,-15.5
-Utah,Colorado,9,Utah -17.0,17.0
-Lincoln (PA),Elizabeth City State,9,Elizabeth City State -19.0,-19.0
-Eastern Michigan,Ohio,9,Ohio -21.5,-21.5
-Kentucky,Tennessee,9,Tennessee -15.5,-15.5
-West Virginia,TCU,9,TCU -18.0,-18.0
-Old Dominion,App State,9,Old Dominion -20.5,20.5
-Rice,UConn,9,UConn -15.0,-15.0
-Iowa,Minnesota,9,Iowa -13.0,13.0
-Pittsburgh,NC State,9,Pick'em,0.0
-St. Francis (PA),Robert Morris,9,Robert Morris -8.0,-8.0
-Wake Forest,SMU,9,Wake Forest -0.5,0.5
-Memphis,South Florida,9,South Florida -5.0,-5.0
-Prairie View A&M,Lincoln (CA),9,Prairie View A&M -39.5,39.5
-Southern,Florida A&M,9,Florida A&M -2.0,-2.0
-Oklahoma,Ole Miss,9,Ole Miss -1.0,-1.0
-South Carolina,Alabama,9,Alabama -13.0,-13.0
-Indiana,UCLA,9,Indiana -34.0,34.0
-Oregon,Wisconsin,9,Oregon -28.0,28.0
-Georgia Tech,Syracuse,9,Georgia Tech -15.5,15.5
-Southern Miss,UL Monroe,9,Southern Miss -17.0,17.0
-Tulsa,Temple,9,Temple -10.0,-10.0
-Northern Illinois,Ball State,9,Northern Illinois -0.5,0.5
-Fresno State,San Diego State,9,San Diego State -18.0,-18.0
-Vanderbilt,Missouri,9,Vanderbilt -2.0,2.0
-Iowa State,BYU,9,BYU -3.5,-3.5
-Washington,Illinois,9,Washington -3.5,3.5
-South Dakota State,North Dakota State,9,North Dakota State -6.0,-6.0
-Buffalo,Akron,9,Buffalo -5.5,5.5
-Mississippi State,Texas,9,Texas -7.5,-7.5
-Kent State,Bowling Green,9,Bowling Green -9.5,-9.5
-Louisville,Boston College,9,Louisville -35.5,35.5
-Fairmont State,University Of Charleston (WV),9,University Of Charleston (WV) -18.0,-18.0
-Arizona State,Houston,9,Houston -1.0,-1.0
-Michigan State,Michigan,9,Michigan -16.0,-16.0
-Purdue,Rutgers,9,Purdue -2.5,2.5
-Cincinnati,Baylor,9,Cincinnati -7.5,7.5
-Kansas,Kansas State,9,Kansas -1.0,1.0
-Texas Tech,Oklahoma State,9,Texas Tech -44.5,44.5
-LSU,Texas A&M,9,Texas A&M -7.5,-7.5
-Nebraska,Northwestern,9,Nebraska -8.0,8.0
-Arkansas,Auburn,9,Auburn -6.0,-6.0
-North Carolina,Virginia,9,Virginia -34.5,-34.5
-Mercyhurst,Stonehill,9,Mercyhurst -8.0,8.0
-Troy,Louisiana,9,Troy -10.5,10.5
-Miami,Stanford,9,Miami -45.5,45.5
-Worcester Polytechnic Institute,SUNY Maritime,9,SUNY Maritime -22.5,-22.5
-Davidson,San Diego,9,San Diego -35.5,-35.5
-Dayton,Presbyterian,9,Presbyterian -11.0,-11.0
-Bridgewater State,UMass Dartmouth,9,UMass Dartmouth -16.0,-16.0
-Yale,Pennsylvania,9,Pennsylvania -5.5,-5.5
-Mass Maritime,Framingham State,9,Framingham State -10.0,-10.0
-Bucknell,Georgetown,9,Bucknell -0.5,0.5
-Shepherd,East Stroudsburg University,9,East Stroudsburg University -16.5,-16.5
-Marist,Drake,9,Drake -14.5,-14.5
-Princeton,Harvard,9,Harvard -29.0,-29.0
-Wagner,Duquesne,9,Duquesne -15.5,-15.5
-Nichols College,Endicott College,9,Endicott College -65.0,-65.0
-Findlay,Ohio Dominican,9,Findlay -23.0,23.0
-Anna Maria College,Fitchburg State,9,Anna Maria College -5.5,5.5
+Charlotte,North Texas,9,North Texas -41.0,-41.0
+Virginia Tech,California,9,Virginia Tech -4.0,4.0
+Nevada,Boise State,9,Boise State -31.0,-31.0
+Sacramento State,Montana,9,Montana -13.0,-13.0
+Hilbert College,Rensselaer,9,Rensselaer -58.0,-58.0
+Davenport,Roosevelt,9,Davenport -25.0,25.0
+Purdue,Rutgers,9,Purdue -4.5,4.5
+Northern Michigan,Michigan Tech,9,Michigan Tech -17.5,-17.5
+Walsh,Thomas More College,9,Walsh -8.5,8.5
+Millersville,Bloomsburg,9,Bloomsburg -6.5,-6.5
+Gannon,Edinboro University,9,Edinboro University -9.0,-9.0
+West Chester,Kutztown University,9,Kutztown University -31.0,-31.0
+Shepherd,East Stroudsburg University,9,East Stroudsburg University -10.5,-10.5
+Marist,Drake,9,Drake -17.0,-17.0
+Old Dominion,App State,9,Old Dominion -17.0,17.0
+SUNY Morrisville,Brockport,9,Brockport -24.0,-24.0
+Castleton,Montclair State,9,Montclair State -25.0,-25.0
+North Carolina Wesleyan,Southern Virginia,9,Southern Virginia -4.0,-4.0
+New England College,Maine Maritime,9,New England College -4.0,4.0
+Shenandoah,Averett,9,Shenandoah -39.5,39.5
+Muhlenberg,Carnegie Mellon,9,Carnegie Mellon -8.5,-8.5
+Thiel,Case Western Reserve,9,Case Western Reserve -43.0,-43.0
+Assumption,American International,9,Assumption -25.0,25.0
+Bentley,Pace,9,Bentley -10.0,10.0
+Curry College,Western New England,9,Western New England -21.0,-21.0
+MIT,Salve Regina,9,Salve Regina -12.5,-12.5
+Albright,FDU-Florham,9,Albright -17.5,17.5
+Delaware Valley,Stevenson,9,Delaware Valley -2.0,2.0
+Springfield,Merchant Marine Academy,9,Springfield -12.5,12.5
+Bridgewater State,UMass Dartmouth,9,UMass Dartmouth -18.0,-18.0
+Mass Maritime,Framingham State,9,Framingham State -5.5,-5.5
+Worcester Polytechnic Institute,SUNY Maritime,9,SUNY Maritime -19.0,-19.0
+Kansas,Kansas State,9,Kansas State -0.5,-0.5
+Coast Guard,Norwich,9,Coast Guard -41.0,41.0
+Memphis,South Florida,9,South Florida -10.5,-10.5
+Nebraska,Northwestern,9,Northwestern -2.5,-2.5
+Wake Forest,SMU,9,SMU -2.5,-2.5
+Yale,Pennsylvania,9,Yale -1.5,1.5
+North Carolina,Virginia,9,Virginia -32.5,-32.5
+Davidson,San Diego,9,San Diego -34.5,-34.5
+Dayton,Presbyterian,9,Presbyterian -13.5,-13.5
+Long Island University,New Haven,9,Long Island University -11.5,11.5
+Mercyhurst,Stonehill,9,Mercyhurst -7.0,7.0
+Wagner,Duquesne,9,Duquesne -20.0,-20.0
+Princeton,Harvard,9,Harvard -22.5,-22.5
+Nichols College,Endicott College,9,Endicott College -66.5,-66.5
+Findlay,Ohio Dominican,9,Findlay -16.0,16.0
+Anna Maria College,Fitchburg State,9,Anna Maria College -9.0,9.0
 Alfred University,Utica,9,Utica -23.5,-23.5
-Hilbert College,Rensselaer,9,Rensselaer -55.5,-55.5
-Davenport,Roosevelt,9,Davenport -17.0,17.0
-Northern Michigan,Michigan Tech,9,Michigan Tech -22.0,-22.0
-Walsh,Thomas More College,9,Walsh -6.0,6.0
-Millersville,Bloomsburg,9,Bloomsburg -13.0,-13.0
-Gannon,Edinboro University,9,Edinboro University -12.0,-12.0
-West Chester,Kutztown University,9,Kutztown University -33.0,-33.0
-SUNY Morrisville,Brockport,9,Brockport -19.0,-19.0
-Castleton,Montclair State,9,Montclair State -21.5,-21.5
-Coast Guard,Norwich,9,Coast Guard -40.5,40.5
-North Carolina Wesleyan,Southern Virginia,9,Southern Virginia -6.5,-6.5
-New England College,Maine Maritime,9,New England College -5.5,5.5
-Shenandoah,Averett,9,Shenandoah -37.5,37.5
-Muhlenberg,Carnegie Mellon,9,Carnegie Mellon -18.5,-18.5
-Thiel,Case Western Reserve,9,Case Western Reserve -44.5,-44.5
-Assumption,American International,9,Assumption -23.0,23.0
-Bentley,Pace,9,Bentley -11.0,11.0
-Curry College,Western New England,9,Western New England -29.5,-29.5
-MIT,Salve Regina,9,Salve Regina -15.0,-15.0
-Albright,FDU-Florham,9,Albright -20.5,20.5
-Delaware Valley,Stevenson,9,Delaware Valley -2.5,2.5
-Springfield,Merchant Marine Academy,9,Springfield -20.5,20.5
-Augsburg,Concordia Moorhead,9,Concordia Moorhead -10.5,-10.5
-Kalamazoo,Albion,9,Albion -9.0,-9.0
-Holy Cross,Colgate,9,Colgate -10.0,-10.0
-Ferrum,ERSKINE,9,ERSKINE -1.5,-1.5
-Gettysburg,Johns Hopkins University,9,Johns Hopkins University -58.0,-58.0
-Hobart College,St. Lawrence,9,Hobart College -13.5,13.5
-Belhaven,Methodist,9,Belhaven -26.0,26.0
-Southwestern University,Maryville College (TN),9,Maryville College (TN) -29.0,-29.0
-Biddeford,Husson,9,Biddeford -19.5,19.5
-William Paterson,Christopher Newport,9,Christopher Newport -37.5,-37.5
-Kean,College Of New Jersey,9,College Of New Jersey -22.5,-22.5
-Berry College,Millsaps,9,Berry College -33.5,33.5
-Adrian,Hope College,9,Hope College -16.0,-16.0
-Rowan,Salisbury,9,Salisbury -18.5,-18.5
-Reading,Widener,9,Widener -7.5,-7.5
-Lycoming,Wilkes,9,Wilkes -2.5,-2.5
-McDaniel College,Dickinson (PA),9,Dickinson (PA) -30.5,-30.5
-Westminster College (MO),Martin Luther,9,Martin Luther -11.5,-11.5
-Lagrange College,Huntingdon College (AL),9,Lagrange College -1.5,1.5
-Minnesota Duluth,University of Mary,9,Minnesota Duluth -30.5,30.5
-Greenville,Minnesota Morris,9,Greenville -2.5,2.5
-Washington & Jefferson,Waynesburg,9,Washington & Jefferson -34.0,34.0
-Grove City College,Westminster (PA),9,Grove City College -2.5,2.5
-Cornell,Brown,9,Brown -22.5,-22.5
-Gallaudet,Randolph-Macon,9,Randolph-Macon -50.0,-50.0
-Hampden-Sydney,Roanoke College,9,Hampden-Sydney -30.0,30.0
-John Carroll University,Wooster,9,John Carroll University -37.5,37.5
-Kenyon,Ohio Wesleyan,9,Ohio Wesleyan -3.5,-3.5
-Misericordia,Eastern University,9,Misericordia -7.0,7.0
-Lebanon Valley,Kings College (PA),9,Lebanon Valley -14.5,14.5
-Olivet College,Alma,9,Alma -52.0,-52.0
-Johnson C Smith,Winston-Salem,9,Johnson C Smith -14.0,14.0
-Tiffin,Ashland,9,Ashland -9.0,-9.0
-McKendree,Lincoln (MO),9,McKendree -23.5,23.5
-Ferris State,Grand Valley State University,9,Ferris State -24.5,24.5
-Kentucky Wesleyan,Northwood (MI),9,Northwood (MI) -43.0,-43.0
-Wheeling,Frostburg State,9,Frostburg State -14.0,-14.0
-West Liberty,Glenville State,9,Glenville State -21.0,-21.0
-Post University,Franklin Pierce,9,Franklin Pierce -12.5,-12.5
-Southern Connecticut State,St. Anselm,9,St. Anselm -17.5,-17.5
-Shippensburg,Lock Haven University,9,Lock Haven University -10.5,-10.5
-Mars Hill,Lenoir-Rhyne,9,Mars Hill -2.0,2.0
-Clark Atlanta,Edward Waters,9,Edward Waters -18.0,-18.0
-Central State (OH),Miles College,9,Central State (OH) -7.0,7.0
-St John Fisher University,Cortland,9,Cortland -23.5,-23.5
-Ursinus,Franklin & Marshall,9,Ursinus -6.5,6.5
-Wesleyan University (CT),Amherst,9,Wesleyan University (CT) -8.0,8.0
-Colby College,Hamilton,9,Colby College -12.0,12.0
-Bowdoin,Trinity (CT),9,Trinity (CT) -39.5,-39.5
-Middlebury,Bates,9,Middlebury -1.0,1.0
-Ripon,Illinois College,9,Illinois College -18.0,-18.0
+Eastern Michigan,Ohio,9,Ohio -20.5,-20.5
+Kent State,Bowling Green,9,Bowling Green -10.0,-10.0
+Bucknell,Georgetown,9,Georgetown -4.0,-4.0
+Georgia Tech,Syracuse,9,Georgia Tech -17.0,17.0
+Oklahoma,Ole Miss,9,Oklahoma -1.5,1.5
+Indiana,UCLA,9,Indiana -30.5,30.5
+Arkansas,Auburn,9,Auburn -5.0,-5.0
+Gallaudet,Randolph-Macon,9,Randolph-Macon -54.5,-54.5
+Grove City College,Westminster (PA),9,Grove City College -4.5,4.5
+Washington & Jefferson,Waynesburg,9,Washington & Jefferson -40.0,40.0
+Greenville,Minnesota Morris,9,Greenville -4.0,4.0
+Minnesota Duluth,University of Mary,9,Minnesota Duluth -31.0,31.0
+Lagrange College,Huntingdon College (AL),9,Lagrange College -7.0,7.0
+Westminster College (MO),Martin Luther,9,Martin Luther -10.5,-10.5
+McDaniel College,Dickinson (PA),9,Dickinson (PA) -33.5,-33.5
+Lycoming,Wilkes,9,Lycoming -1.0,1.0
+Reading,Widener,9,Widener -12.0,-12.0
+Kalamazoo,Albion,9,Albion -11.5,-11.5
+Rowan,Salisbury,9,Salisbury -15.0,-15.0
+Susquehanna,Catholic,9,Susquehanna -44.5,44.5
+Hobart College,St. Lawrence,9,Hobart College -14.5,14.5
+Ithaca College,Union (NY),9,Ithaca College -5.0,5.0
+Calvin University,Trine University,9,Trine University -4.0,-4.0
+Adrian,Hope College,9,Hope College -13.0,-13.0
+Moravian,Western Connecticut St,9,Western Connecticut St -28.0,-28.0
+Valparaiso,Morehead State,9,Morehead State -9.0,-9.0
+Augsburg,Concordia Moorhead,9,Concordia Moorhead -7.5,-7.5
+Stetson,St. Thomas (MN),9,St. Thomas (MN) -32.0,-32.0
+Gettysburg,Johns Hopkins University,9,Johns Hopkins University -56.0,-56.0
+Belhaven,Methodist,9,Belhaven -27.0,27.0
+Berry College,Millsaps,9,Berry College -26.0,26.0
+Fordham,Lehigh,9,Lehigh -35.0,-35.0
+Tennessee Tech,Southeast Missouri State,9,Tennessee Tech -19.0,19.0
+Kean,College Of New Jersey,9,College Of New Jersey -23.5,-23.5
+William Paterson,Christopher Newport,9,Christopher Newport -41.5,-41.5
+Biddeford,Husson,9,Biddeford -21.5,21.5
+Southwestern University,Maryville College (TN),9,Maryville College (TN) -20.5,-20.5
+Lebanon Valley,Kings College (PA),9,Lebanon Valley -11.0,11.0
+Misericordia,Eastern University,9,Misericordia -4.5,4.5
+Olivet College,Alma,9,Alma -54.5,-54.5
+Kenyon,Ohio Wesleyan,9,Ohio Wesleyan -2.5,-2.5
+Hampden-Sydney,Roanoke College,9,Hampden-Sydney -32.0,32.0
+John Carroll University,Wooster,9,John Carroll University -34.5,34.5
+Rhode Island,Bryant,9,Rhode Island -16.0,16.0
+Lincoln (PA),Elizabeth City State,9,Elizabeth City State -17.0,-17.0
+Ferrum,ERSKINE,9,ERSKINE -3.5,-3.5
+Fairmont State,University Of Charleston (WV),9,University Of Charleston (WV) -14.0,-14.0
+Ripon,Illinois College,9,Illinois College -16.0,-16.0
+Middlebury,Bates,9,Middlebury -4.0,4.0
+Bowdoin,Trinity (CT),9,Trinity (CT) -31.0,-31.0
+Colby College,Hamilton,9,Colby College -14.0,14.0
+Wesleyan University (CT),Amherst,9,Wesleyan University (CT) -2.5,2.5
 Virginia Union,Bowie State,9,Virginia Union -27.0,27.0
-Shaw,Fayetteville State,9,Fayetteville State -37.5,-37.5
-Susquehanna,Catholic,9,Susquehanna -43.0,43.0
-Calvin University,Trine University,9,Calvin University -6.5,6.5
-Moravian,Western Connecticut St,9,Western Connecticut St -35.5,-35.5
-Ithaca College,Union (NY),9,Ithaca College -7.0,7.0
-North Carolina Central,Delaware State,9,North Carolina Central -15.0,15.0
-Tennessee Tech,Southeast Missouri State,9,Tennessee Tech -23.0,23.0
-Long Island University,New Haven,9,Long Island University -12.5,12.5
-Rhode Island,Bryant,9,Rhode Island -13.5,13.5
-North Carolina A&T,Campbell,9,Campbell -12.5,-12.5
-Maine,Elon,9,Elon -10.0,-10.0
-New Hampshire,William & Mary,9,William & Mary -5.0,-5.0
-Valparaiso,Morehead State,9,Morehead State -8.0,-8.0
-Stetson,St. Thomas (MN),9,St. Thomas (MN) -31.0,-31.0
-Fordham,Lehigh,9,Lehigh -33.5,-33.5
-Anderson (IN),Wilmington (OH),9,Wilmington (OH) -29.5,-29.5
-University of Mount Union,Ohio Northern,9,University of Mount Union -25.0,25.0
-Muskingum University,Heidelberg,9,Heidelberg -7.0,-7.0
-Capital,Otterbein,9,Capital -15.0,15.0
-Hanover College,Manchester,9,Hanover College -57.5,57.5
-Mount St. Joseph,Franklin,9,Franklin -0.5,-0.5
-Trinity University TX,Centre College Kentucky,9,Trinity University TX -20.5,20.5
-Worcester St,Dean College,9,Worcester St -30.5,30.5
-Tufts,Williams,9,Williams -14.5,-14.5
-Concord University,West Virginia Wesleyan,9,Concord University -28.0,28.0
-Quincy,Missouri S&T,9,Quincy -6.5,6.5
-Grinnell,Chicago,9,Chicago -33.0,-33.0
-Lawrence University,Knox College,9,Lawrence University -12.0,12.0
-Beloit,Monmouth (IL),9,Monmouth (IL) -68.5,-68.5
-Cornell College (IA),Lake Forest College,9,Lake Forest College -18.0,-18.0
-Wartburg,Central College,9,Wartburg -14.5,14.5
-Coe College,Luther,9,Coe College -63.0,63.0
-Virginia St,Bluefield State,9,Virginia St -22.5,22.5
-Livingstone,Virginia University Of Lynchburg,9,Livingstone -31.0,31.0
-Hamline University,Gustavus Adolphus,9,Gustavus Adolphus -29.0,-29.0
-Concordia University Chicago,Concordia-Wisconsin,9,Concordia-Wisconsin -21.0,-21.0
-Benedictine University,Lakeland,9,Benedictine University -19.5,19.5
-St. Norbert,Rockford,9,St. Norbert -35.5,35.5
-Oberlin,Wittenberg,9,Wittenberg -51.0,-51.0
-Baldwin Wallace,Marietta,9,Baldwin Wallace -29.5,29.5
-Mary Hardin-Baylor,Howard Payne,9,Mary Hardin-Baylor -5.5,5.5
-Westfield State,Plymouth State,9,Plymouth State -9.5,-9.5
-Anderson (Sc),Wingate,9,Wingate -3.5,-3.5
-Norfolk State,South Carolina State,9,South Carolina State -22.5,-22.5
-Furman,The Citadel,9,Furman -2.0,2.0
-South Dakota,Illinois State,9,South Dakota -4.0,4.0
-Hardin-Simmons,Southwestern Assemblies Of God,9,Hardin-Simmons -3.5,3.5
-Youngstown State,Murray State,9,Youngstown State -26.5,26.5
-West Georgia,Central Arkansas,9,West Georgia -11.0,11.0
-Hampton,Monmouth,9,Monmouth -30.5,-30.5
-Charleston Southern,Eastern Illinois,9,Charleston Southern -0.5,0.5
-Wilson,Shorter,9,Shorter -7.0,-7.0
-Buena Vista,Loras College,9,Loras College -4.5,-4.5
-Simpson College (IA),Dubuque,9,Simpson College (IA) -9.0,9.0
-Ouachita Baptist,Southern Arkansas,9,Southern Arkansas -2.5,-2.5
-Southwest Baptist,Truman State,9,Truman State -14.0,-14.0
-William Jewell,Upper Iowa University,9,Upper Iowa University -11.0,-11.0
-Saginaw Valley State,Wayne State (MI),9,Saginaw Valley State -8.5,8.5
-Washburn,Fort Hays State,9,Fort Hays State -10.0,-10.0
-Bemidji State,Jamestown College,9,Bemidji State -13.5,13.5
-Minot State,Sioux Falls,9,Sioux Falls -17.5,-17.5
-Southwest Minnesota State,Augustana University (SD),9,Augustana University (SD) -37.5,-37.5
-Wayne State (NE),Minnesota State Mankato,9,Minnesota State Mankato -20.0,-20.0
-Indiana-Pennsylvania,PennWest California,9,Indiana-Pennsylvania -16.5,16.5
-Clarion,Seton Hill,9,Clarion -11.5,11.5
-Benedict College,Albany State GA,9,Albany State GA -4.5,-4.5
-Wisconsin-Eau Claire,Wisconsin-River Falls,9,Wisconsin-River Falls -29.0,-29.0
-Wisconsin-Whitewater,Wisconsin-Platteville,9,Wisconsin-Whitewater -1.0,1.0
-Wisconsin-Stout,Wisconsin-Stevens Pt,9,Wisconsin-Stout -15.5,15.5
-North Central College,Augustana (IL),9,North Central College -42.5,42.5
-Carroll University (WI),Elmhurst,9,Carroll University (WI) -37.5,37.5
-Carthage,Millikin,9,Carthage -1.0,1.0
-Illinois Wesleyan,North Park,9,Illinois Wesleyan -13.0,13.0
-Wheaton,Washington University (St. Louis),9,Wheaton -23.0,23.0
-Rose-Hulman,Bluffton,9,Bluffton -6.5,-6.5
-St. Olaf,St. Scholastica,9,St. Olaf -5.5,5.5
-Saint John's (MN),Carleton,9,Saint John's (MN) -11.5,11.5
-Bethel (MN),Macalester,9,Bethel (MN) -46.5,46.5
-Tennessee State,Western Illinois,9,Western Illinois -7.5,-7.5
-Central Missouri,Emporia State University,9,Central Missouri -5.0,5.0
-Hillsdale,Lake Erie,9,Hillsdale -20.5,20.5
-New Mexico,Utah State,9,New Mexico -2.0,2.0
-Alcorn State,Mississippi Valley State,9,Alcorn State -7.0,7.0
-Weber State,Eastern Washington,9,Eastern Washington -3.5,-3.5
-Western Colorado,Colorado School Of Mines,9,Western Colorado -17.5,17.5
-Missouri Southern State,Missouri Western,9,Missouri Southern State -6.5,6.5
-West Alabama,Delta State,9,Delta State -17.0,-17.0
-Mercer,VMI,9,Mercer -35.5,35.5
-Southern Illinois,Northern Iowa,9,Southern Illinois -18.0,18.0
-Houston Christian,SE Louisiana,9,SE Louisiana -23.0,-23.0
-Bethune-Cookman,Arkansas-Pine Bluff,9,Bethune-Cookman -12.5,12.5
-Lindenwood,Gardner-Webb,9,Gardner-Webb -11.5,-11.5
-Eastern Kentucky,Tarleton State,9,Tarleton State -21.0,-21.0
-Northern Colorado,UC Davis,9,UC Davis -12.5,-12.5
-Savannah St,Morehouse College,9,Savannah St -1.0,1.0
-Tuskegee,Allen,9,Tuskegee -9.0,9.0
-West Florida,West Virginia State,9,West Florida -24.0,24.0
-Southwestern Oklahoma State,East Central (OK),9,East Central (OK) -3.0,-3.0
-Winona State,Concordia University St Paul,9,Winona State -19.0,19.0
-Harding University,Arkansas-Monticello,9,Harding University -45.5,45.5
-Denison University,Depauw,9,Depauw -18.0,-18.0
-Wisconsin-Lacrosse,Wisconsin-Oshkosh,9,Wisconsin-Lacrosse -13.5,13.5
-Lane College,Fort Valley State,9,Fort Valley State -25.5,-25.5
-Northwest Missouri St,Nebraska-Kearney,9,Northwest Missouri St -12.0,12.0
-Hiram College,Allegheny,9,Allegheny -9.0,-9.0
-Carson-Newman College,UVA Wise,9,Carson-Newman College -28.0,28.0
-Valdosta State,North Greenville,9,Valdosta State -4.5,4.5
-Geneva,Bethany (WV),9,Geneva -29.5,29.5
-Buffalo State,University of Rochester (NY),9,University of Rochester (NY) -35.0,-35.0
-Rhodes College,Sewanee,9,Sewanee -10.0,-10.0
-Villanova,UAlbany,9,Villanova -25.0,25.0
-Central Michigan,Massachusetts,9,Central Michigan -16.5,16.5
-Stony Brook,Towson,9,Stony Brook -7.0,7.0
-Howard,Morgan State,9,Howard -7.5,7.5
-Samford,Chattanooga,9,Chattanooga -9.5,-9.5
-Alabama A&M,Alabama State,9,Alabama State -13.5,-13.5
-Miami (OH),Western Michigan,9,Western Michigan -9.0,-9.0
-East Tennessee State,Wofford,9,East Tennessee State -10.0,10.0
-Navy,Florida Atlantic,9,Navy -12.5,12.5
-Washington State,Toledo,9,Washington State -1.0,1.0
-Nicholls,McNeese,9,Nicholls -13.5,13.5
-Idaho,Portland State,9,Idaho -18.0,18.0
-North Dakota,Indiana State,9,North Dakota -19.5,19.5
-Colorado Mesa,Fort Lewis,9,Colorado Mesa -32.5,32.5
-Alfred State,Hartwick,9,Alfred State -19.5,19.5
-NEWBERG,Puget Sound,9,NEWBERG -10.5,10.5
-Washington and Lee,Bridgewater (VA),9,Washington and Lee -20.5,20.5
-Pacific Lutheran,Linfield College,9,Linfield College -26.5,-26.5
+Shaw,Fayetteville State,9,Fayetteville State -38.5,-38.5
+Johnson C Smith,Winston-Salem,9,Johnson C Smith -14.0,14.0
+Tiffin,Ashland,9,Ashland -6.5,-6.5
+McKendree,Lincoln (MO),9,McKendree -14.0,14.0
+Ferris State,Grand Valley State University,9,Ferris State -24.0,24.0
+Kentucky Wesleyan,Northwood (MI),9,Northwood (MI) -46.0,-46.0
+Wheeling,Frostburg State,9,Frostburg State -15.0,-15.0
+West Liberty,Glenville State,9,Glenville State -21.0,-21.0
+Post University,Franklin Pierce,9,Franklin Pierce -18.5,-18.5
+Southern Connecticut State,St. Anselm,9,St. Anselm -19.0,-19.0
+Shippensburg,Lock Haven University,9,Lock Haven University -10.5,-10.5
+Mars Hill,Lenoir-Rhyne,9,Lenoir-Rhyne -1.0,-1.0
+Clark Atlanta,Edward Waters,9,Edward Waters -20.5,-20.5
+Central State (OH),Miles College,9,Central State (OH) -4.5,4.5
+St John Fisher University,Cortland,9,Cortland -25.5,-25.5
+Ursinus,Franklin & Marshall,9,Ursinus -2.0,2.0
+Buffalo,Akron,9,Buffalo -4.5,4.5
+North Carolina Central,Delaware State,9,North Carolina Central -15.5,15.5
+Cornell,Brown,9,Brown -14.5,-14.5
+Holy Cross,Colgate,9,Colgate -5.5,-5.5
+North Carolina A&T,Campbell,9,Campbell -8.5,-8.5
+Maine,Elon,9,Elon -7.5,-7.5
+New Hampshire,William & Mary,9,William & Mary -3.0,-3.0
+Muskingum University,Heidelberg,9,Heidelberg -4.5,-4.5
+Tufts,Williams,9,Williams -15.5,-15.5
+Worcester St,Dean College,9,Worcester St -26.0,26.0
+Trinity University TX,Centre College Kentucky,9,Trinity University TX -22.5,22.5
+Mount St. Joseph,Franklin,9,Mount St. Joseph -2.5,2.5
+Hanover College,Manchester,9,Hanover College -55.0,55.0
+Capital,Otterbein,9,Capital -13.5,13.5
+University of Mount Union,Ohio Northern,9,University of Mount Union -21.5,21.5
+Anderson (IN),Wilmington (OH),9,Wilmington (OH) -26.5,-26.5
+Wayne State (NE),Minnesota State Mankato,9,Minnesota State Mankato -20.5,-20.5
+Clarion,Seton Hill,9,Clarion -9.0,9.0
+Benedict College,Albany State GA,9,Albany State GA -2.5,-2.5
+Lawrence University,Knox College,9,Lawrence University -1.5,1.5
+Southwest Minnesota State,Augustana University (SD),9,Augustana University (SD) -36.5,-36.5
+Indiana-Pennsylvania,PennWest California,9,Indiana-Pennsylvania -13.0,13.0
+Wisconsin-Eau Claire,Wisconsin-River Falls,9,Wisconsin-River Falls -34.5,-34.5
+Hardin-Simmons,Southwestern Assemblies Of God,9,Hardin-Simmons -3.0,3.0
+Wisconsin-Whitewater,Wisconsin-Platteville,9,Wisconsin-Whitewater -0.5,0.5
+Wisconsin-Stout,Wisconsin-Stevens Pt,9,Wisconsin-Stout -12.5,12.5
+Ouachita Baptist,Southern Arkansas,9,Southern Arkansas -5.0,-5.0
+Southwest Baptist,Truman State,9,Truman State -23.5,-23.5
+William Jewell,Upper Iowa University,9,Upper Iowa University -22.0,-22.0
+Saginaw Valley State,Wayne State (MI),9,Saginaw Valley State -18.0,18.0
+Washburn,Fort Hays State,9,Fort Hays State -1.0,-1.0
+Bemidji State,Jamestown College,9,Bemidji State -13.0,13.0
+Minot State,Sioux Falls,9,Sioux Falls -18.5,-18.5
+Anderson (Sc),Wingate,9,Wingate -9.5,-9.5
+Westfield State,Plymouth State,9,Plymouth State -10.0,-10.0
+Mary Hardin-Baylor,Howard Payne,9,Mary Hardin-Baylor -7.5,7.5
+Baldwin Wallace,Marietta,9,Baldwin Wallace -29.0,29.0
+Oberlin,Wittenberg,9,Wittenberg -50.5,-50.5
+St. Norbert,Rockford,9,St. Norbert -33.0,33.0
+Benedictine University,Lakeland,9,Benedictine University -21.0,21.0
+Concordia University Chicago,Concordia-Wisconsin,9,Concordia-Wisconsin -24.5,-24.5
+Hamline University,Gustavus Adolphus,9,Gustavus Adolphus -33.0,-33.0
+Bethel (MN),Macalester,9,Bethel (MN) -49.0,49.0
+Saint John's (MN),Carleton,9,Saint John's (MN) -14.5,14.5
+St. Olaf,St. Scholastica,9,St. Olaf -10.5,10.5
+Rose-Hulman,Bluffton,9,Bluffton -1.5,-1.5
+Wheaton,Washington University (St. Louis),9,Wheaton -24.5,24.5
+Illinois Wesleyan,North Park,9,Illinois Wesleyan -19.5,19.5
+Carthage,Millikin,9,Carthage -7.0,7.0
+Carroll University (WI),Elmhurst,9,Carroll University (WI) -29.0,29.0
+North Central College,Augustana (IL),9,North Central College -45.0,45.0
+Grinnell,Chicago,9,Chicago -32.0,-32.0
+Wilson,Shorter,9,Shorter -3.5,-3.5
+Virginia St,Bluefield State,9,Virginia St -21.0,21.0
+Buena Vista,Loras College,9,Loras College -10.5,-10.5
+Livingstone,Virginia University Of Lynchburg,9,Livingstone -20.5,20.5
+Simpson College (IA),Dubuque,9,Simpson College (IA) -4.0,4.0
+Charleston Southern,Eastern Illinois,9,Charleston Southern -5.5,5.5
+Youngstown State,Murray State,9,Youngstown State -23.0,23.0
+West Georgia,Central Arkansas,9,West Georgia -5.0,5.0
+Hampton,Monmouth,9,Monmouth -34.5,-34.5
+Coe College,Luther,9,Coe College -62.0,62.0
+Wartburg,Central College,9,Wartburg -8.5,8.5
+Cornell College (IA),Lake Forest College,9,Lake Forest College -20.5,-20.5
+Beloit,Monmouth (IL),9,Monmouth (IL) -57.0,-57.0
+Concord University,West Virginia Wesleyan,9,Concord University -29.0,29.0
+Quincy,Missouri S&T,9,Missouri S&T -2.5,-2.5
+South Dakota,Illinois State,9,South Dakota -2.0,2.0
+Norfolk State,South Carolina State,9,South Carolina State -23.0,-23.0
+Furman,The Citadel,9,The Citadel -1.0,-1.0
+Central Missouri,Emporia State University,9,Central Missouri -7.0,7.0
+Tennessee State,Western Illinois,9,Western Illinois -4.5,-4.5
+Hillsdale,Lake Erie,9,Hillsdale -15.5,15.5
+Hiram College,Allegheny,9,Allegheny -7.5,-7.5
+Mercer,VMI,9,Mercer -37.0,37.0
+Southern Illinois,Northern Iowa,9,Southern Illinois -16.0,16.0
+Houston Christian,SE Louisiana,9,SE Louisiana -33.5,-33.5
+Bethune-Cookman,Arkansas-Pine Bluff,9,Bethune-Cookman -14.0,14.0
+Lindenwood,Gardner-Webb,9,Gardner-Webb -4.5,-4.5
+Tuskegee,Allen,9,Tuskegee -13.0,13.0
+Wisconsin-Lacrosse,Wisconsin-Oshkosh,9,Wisconsin-Lacrosse -9.0,9.0
+Geneva,Bethany (WV),9,Geneva -37.5,37.5
+Northern Colorado,UC Davis,9,UC Davis -16.0,-16.0
+Valdosta State,North Greenville,9,North Greenville -2.0,-2.0
+Harding University,Arkansas-Monticello,9,Harding University -50.0,50.0
+Buffalo State,University of Rochester (NY),9,University of Rochester (NY) -32.5,-32.5
+Southwestern Oklahoma State,East Central (OK),9,Southwestern Oklahoma State -1.5,1.5
+West Florida,West Virginia State,9,West Florida -24.5,24.5
+Northwest Missouri St,Nebraska-Kearney,9,Northwest Missouri St -19.0,19.0
+Winona State,Concordia University St Paul,9,Winona State -19.5,19.5
+Western Colorado,Colorado School Of Mines,9,Western Colorado -14.0,14.0
+Carson-Newman College,UVA Wise,9,Carson-Newman College -29.5,29.5
+Lane College,Fort Valley State,9,Fort Valley State -27.0,-27.0
+Savannah St,Morehouse College,9,Morehouse College -0.5,-0.5
+Rhodes College,Sewanee,9,Sewanee -8.5,-8.5
+Denison University,Depauw,9,Depauw -16.5,-16.5
+New Mexico,Utah State,9,Utah State -1.0,-1.0
+Rice,UConn,9,UConn -16.0,-16.0
+West Alabama,Delta State,9,Delta State -15.5,-15.5
+Missouri Southern State,Missouri Western,9,Missouri Southern State -8.5,8.5
+St. Francis (PA),Robert Morris,9,Robert Morris -7.5,-7.5
+Weber State,Eastern Washington,9,Eastern Washington -2.0,-2.0
+Eastern Kentucky,Tarleton State,9,Tarleton State -31.5,-31.5
+Alcorn State,Mississippi Valley State,9,Alcorn State -1.5,1.5
+Prairie View A&M,Lincoln (CA),9,Prairie View A&M -40.0,40.0
+East Tennessee State,Wofford,9,East Tennessee State -4.0,4.0
+Vanderbilt,Missouri,9,Vanderbilt -2.0,2.0
+Howard,Morgan State,9,Howard -1.5,1.5
+Washington State,Toledo,9,Toledo -0.5,-0.5
+Villanova,UAlbany,9,Villanova -29.5,29.5
+Samford,Chattanooga,9,Chattanooga -13.5,-13.5
+Fresno State,San Diego State,9,San Diego State -15.0,-15.0
+Iowa State,BYU,9,BYU -5.5,-5.5
+Iowa,Minnesota,9,Iowa -10.5,10.5
+Pittsburgh,NC State,9,Pittsburgh -3.0,3.0
+Central Michigan,Massachusetts,9,Central Michigan -21.0,21.0
+Alabama A&M,Alabama State,9,Alabama State -14.5,-14.5
+South Carolina,Alabama,9,Alabama -15.5,-15.5
+Navy,Florida Atlantic,9,Navy -14.0,14.0
+Southern Miss,UL Monroe,9,Southern Miss -18.5,18.5
+Miami (OH),Western Michigan,9,Western Michigan -11.5,-11.5
+Stony Brook,Towson,9,Stony Brook -3.5,3.5
+Tulsa,Temple,9,Temple -11.5,-11.5
+Northern Illinois,Ball State,9,Ball State -4.0,-4.0
+Washington,Illinois,9,Illinois -1.5,-1.5
 Pacific (OR),Willamette,9,Pacific (OR) -15.5,15.5
-Lewis & Clark College,Whitworth,9,Lewis & Clark College -8.0,8.0
-Northwestern Oklahoma State,Southern Nazarene,9,Southern Nazarene -10.0,-10.0
-Austin Peay,North Alabama,9,Austin Peay -28.5,28.5
-Eastern New Mexico,Western New Mexico,9,Eastern New Mexico -19.0,19.0
-Austin,Texas Lutheran,9,Texas Lutheran -21.5,-21.5
-Arkansas Tech,Henderson State,9,Henderson State -8.5,-8.5
-Northwestern State,Lamar,9,Lamar -24.0,-24.0
-Idaho State,Northern Arizona,9,Northern Arizona -2.0,-2.0
-Greensboro College,Brevard College,9,Brevard College -17.0,-17.0
-Chowan,UNC Pembroke,9,UNC Pembroke -38.0,-38.0
-Catawba,Greeneville,9,Catawba -20.5,20.5
-Newberry,Emory & Henry College,9,Emory & Henry College -23.5,-23.5
-Grambling,Jackson State,9,Jackson State -8.5,-8.5
-CENTENARY,McMurry,9,McMurry -43.0,-43.0
+Colorado Mesa,Fort Lewis,9,Colorado Mesa -30.5,30.5
+Washington and Lee,Bridgewater (VA),9,Washington and Lee -16.5,16.5
+Northwestern Oklahoma State,Southern Nazarene,9,Southern Nazarene -11.0,-11.0
+North Dakota,Indiana State,9,North Dakota -24.5,24.5
+Alfred State,Hartwick,9,Alfred State -14.5,14.5
+NEWBERG,Puget Sound,9,NEWBERG -13.5,13.5
+Austin Peay,North Alabama,9,Austin Peay -21.0,21.0
+Lewis & Clark College,Whitworth,9,Whitworth -3.5,-3.5
+Pacific Lutheran,Linfield College,9,Linfield College -17.0,-17.0
+Idaho,Portland State,9,Idaho -14.5,14.5
+Texas Tech,Oklahoma State,9,Texas Tech -39.5,39.5
+Nicholls,McNeese,9,Nicholls -2.0,2.0
+Cincinnati,Baylor,9,Cincinnati -6.5,6.5
+Mississippi State,Texas,9,Texas -8.0,-8.0
+Northwestern State,Lamar,9,Lamar -24.5,-24.5
+Southern,Florida A&M,9,Florida A&M -2.5,-2.5
+Eastern New Mexico,Western New Mexico,9,Eastern New Mexico -16.0,16.0
+Austin,Texas Lutheran,9,Texas Lutheran -22.0,-22.0
+Arkansas Tech,Henderson State,9,Henderson State -12.0,-12.0
+CENTENARY,McMurry,9,McMurry -34.5,-34.5
 Eureka College,Wisconsin-Lutheran,9,Wisconsin-Lutheran -32.5,-32.5
-Central Oklahoma,Northeastern State,9,Central Oklahoma -10.5,10.5
-Oklahoma Baptist,Southeastern Oklahoma State,9,Southeastern Oklahoma State -10.0,-10.0
-UT Permian Basin,West Texas A&M,9,UT Permian Basin -16.0,16.0
-Northern State,Minnesota State Moorhead,9,Northern State -5.5,5.5
-Hendrix College,LYONCOLL,9,Hendrix College -24.5,24.5
-East Texas A&M,Stephen F. Austin,9,Stephen F. Austin -3.0,-3.0
-Arkansas State,Georgia Southern,9,Arkansas State -1.0,1.0
-Wyoming,Colorado State,9,Colorado State -2.5,-2.5
+Catawba,Greeneville,9,Catawba -20.5,20.5
+Chowan,UNC Pembroke,9,UNC Pembroke -35.5,-35.5
+Grambling,Jackson State,9,Jackson State -12.0,-12.0
+Newberry,Emory & Henry College,9,Emory & Henry College -17.5,-17.5
+Greensboro College,Brevard College,9,Brevard College -18.0,-18.0
+West Virginia,TCU,9,TCU -23.0,-23.0
+Idaho State,Northern Arizona,9,Northern Arizona -4.0,-4.0
+Miami,Stanford,9,Miami -34.0,34.0
+Hendrix College,LYONCOLL,9,Hendrix College -28.0,28.0
+East Texas A&M,Stephen F. Austin,9,Stephen F. Austin -7.5,-7.5
+Troy,Louisiana,9,Troy -8.0,8.0
+Central Oklahoma,Northeastern State,9,Central Oklahoma -8.0,8.0
+UT Permian Basin,West Texas A&M,9,UT Permian Basin -8.5,8.5
+Northern State,Minnesota State Moorhead,9,Northern State -4.5,4.5
+Oregon,Wisconsin,9,Oregon -33.5,33.5
+Arkansas State,Georgia Southern,9,Georgia Southern -1.5,-1.5
+Oklahoma Baptist,Southeastern Oklahoma State,9,Southeastern Oklahoma State -11.0,-11.0
+LSU,Texas A&M,9,Texas A&M -6.5,-6.5
+Louisville,Boston College,9,Louisville -37.5,37.5
+Wyoming,Colorado State,9,Colorado State -1.0,-1.0
+Michigan State,Michigan,9,Michigan -18.5,-18.5
+Kentucky,Tennessee,9,Tennessee -12.5,-12.5
 UT Rio Grande Valley,Incarnate Word,9,Incarnate Word -2.5,-2.5
-Northwestern (MN),Crown College,9,Crown College -7.5,-7.5
-Adams State,New Mexico Highlands,9,New Mexico Highlands -16.5,-16.5
-Midwestern State,Central Washington,9,Central Washington -40.5,-40.5
-Cal Poly,Montana State,9,Montana State -17.0,-17.0
-Sul Ross State,Angelo State,9,Angelo State -48.0,-48.0
-Utah Tech,Southern Utah,9,Southern Utah -8.5,-8.5
-Texas A&M-Kingsville,Western Oregon,9,Texas A&M-Kingsville -10.5,10.5
-California Lutheran University,Redlands,9,California Lutheran University -3.5,3.5
-Pomona Pitzer,La Verne,9,Pomona Pitzer -24.5,24.5
-Chapman,Claremont-Mudd-Scripps College,9,Chapman -21.5,21.5
-Kennesaw State,UTEP,10,Kennesaw State -18.5,18.5
-Texas State,James Madison,10,James Madison -7.5,-7.5
-Middle Tennessee,Jacksonville State,10,Jacksonville State -7.0,-7.0
-Missouri State,Florida International,10,Missouri State -9.5,9.5
-Delaware State,Norfolk State,10,Delaware State -14.5,14.5
-Coastal Carolina,Marshall,10,Marshall -14.5,-14.5
-UTSA,Tulane,10,Tulane -7.5,-7.5
-Pennsylvania,Brown,10,Pick'em,0.0
-Rice,Memphis,10,Memphis -31.0,-31.0
-Syracuse,North Carolina,10,Syracuse -16.5,16.5
-Louisiana Tech,Sam Houston,10,Louisiana Tech -31.0,31.0
-Northern Arizona,Idaho,10,Idaho -2.5,-2.5
-Kansas State,Texas Tech,10,Texas Tech -20.0,-20.0
-North Texas,Navy,10,North Texas -14.0,14.0
-California,Virginia,10,Virginia -23.5,-23.5
-Nebraska,USC,10,USC -11.0,-11.0
-Ohio State,Penn State,10,Ohio State -20.5,20.5
-Maryland,Indiana,10,Indiana -23.0,-23.0
-Tennessee,Oklahoma,10,Oklahoma -2.5,-2.5
-Troy,Arkansas State,10,Troy -9.5,9.5
-Clemson,Duke,10,Duke -6.0,-6.0
-Iowa State,Arizona State,10,Iowa State -5.5,5.5
-South Dakota Mines,Chadron St,10,Chadron St -26.0,-26.0
-ERSKINE,Chowan,10,Chowan -2.0,-2.0
-Boise State,Fresno State,10,Boise State -19.0,19.0
-Utah,Cincinnati,10,Utah -14.5,14.5
-SMU,Miami,10,Miami -26.5,-26.5
-Virginia Tech,Louisville,10,Louisville -19.5,-19.5
-Florida State,Wake Forest,10,Florida State -11.0,11.0
-Auburn,Kentucky,10,Auburn -12.0,12.0
-Arkansas,Mississippi State,10,Mississippi State -0.5,-0.5
-St. Francis (PA),Wagner,10,Wagner -12.5,-12.5
-Central Connecticut,Long Island University,10,Long Island University -0.5,-0.5
-Prairie View A&M,Alabama State,10,Alabama State -7.0,-7.0
-South Alabama,Louisiana,10,South Alabama -2.5,2.5
-Bowling Green,Buffalo,10,Bowling Green -9.5,9.5
-Illinois,Rutgers,10,Illinois -17.5,17.5
-Michigan,Purdue,10,Michigan -9.0,9.0
+Arizona State,Houston,9,Pick'em,0.0
+South Dakota State,North Dakota State,9,North Dakota State -11.0,-11.0
+Adams State,New Mexico Highlands,9,New Mexico Highlands -22.0,-22.0
+Cal Poly,Montana State,9,Montana State -16.5,-16.5
+Utah Tech,Southern Utah,9,Southern Utah -9.5,-9.5
+Northwestern (MN),Crown College,9,Crown College -4.0,-4.0
+Sul Ross State,Angelo State,9,Angelo State -44.0,-44.0
+Midwestern State,Central Washington,9,Central Washington -38.0,-38.0
+Texas A&M-Kingsville,Western Oregon,9,Texas A&M-Kingsville -8.0,8.0
+Pomona Pitzer,La Verne,9,Pomona Pitzer -21.0,21.0
+California Lutheran University,Redlands,9,California Lutheran University -2.0,2.0
+Chapman,Claremont-Mudd-Scripps College,9,Chapman -20.5,20.5
+Utah,Colorado,9,Utah -14.5,14.5
+Texas State,James Madison,10,James Madison -16.0,-16.0
+Kennesaw State,UTEP,10,Kennesaw State -16.0,16.0
+Middle Tennessee,Jacksonville State,10,Jacksonville State -12.5,-12.5
+Missouri State,Florida International,10,Missouri State -4.5,4.5
+Delaware State,Norfolk State,10,Delaware State -14.0,14.0
+Coastal Carolina,Marshall,10,Marshall -12.0,-12.0
+UTSA,Tulane,10,Tulane -12.0,-12.0
+Rice,Memphis,10,Memphis -26.0,-26.0
+Pennsylvania,Brown,10,Pennsylvania -4.5,4.5
+Syracuse,North Carolina,10,Syracuse -13.5,13.5
+Louisiana Tech,Sam Houston,10,Louisiana Tech -32.5,32.5
+Northern Arizona,Idaho,10,Northern Arizona -1.0,1.0
+Virginia Tech,Louisville,10,Louisville -22.5,-22.5
+Michigan,Purdue,10,Michigan -14.5,14.5
 Ole Miss,South Carolina,10,Ole Miss -12.5,12.5
-St. Thomas (MN),Marist,10,St. Thomas (MN) -7.5,7.5
-Temple,East Carolina,10,East Carolina -11.5,-11.5
-Colorado,Arizona,10,Arizona -1.0,-1.0
-UL Monroe,Old Dominion,10,Old Dominion -28.5,-28.5
-Kansas,Oklahoma State,10,Kansas -25.5,25.5
-Houston,West Virginia,10,Houston -14.5,14.5
-Baylor,UCF,10,Baylor -4.5,4.5
-Boston College,Notre Dame,10,Notre Dame -52.5,-52.5
-Stanford,Pittsburgh,10,Pittsburgh -21.5,-21.5
-Minnesota,Michigan State,10,Minnesota -2.5,2.5
-NC State,Georgia Tech,10,Georgia Tech -6.5,-6.5
-American International,Post University,10,Post University -2.5,-2.5
-Grambling,Alabama A&M,10,Grambling -9.5,9.5
-Western Michigan,Central Michigan,10,Western Michigan -15.0,15.0
-UConn,UAB,10,UConn -17.5,17.5
-Air Force,Army,10,Army -9.0,-9.0
-Hartwick,SUNY Morrisville,10,SUNY Morrisville -12.0,-12.0
-Ohio Dominican,Lake Erie,10,Ohio Dominican -9.5,9.5
-Denison University,Oberlin,10,Denison University -50.5,50.5
-Fitchburg State,Bridgewater State,10,Fitchburg State -9.5,9.5
-West Chester,Bloomsburg,10,West Chester -8.5,8.5
-Michigan Tech,Roosevelt,10,Michigan Tech -31.0,31.0
-St. Anselm,Bentley,10,St. Anselm -4.5,4.5
-North Greenville,Ferrum,10,North Greenville -19.5,19.5
-Brevard College,Huntingdon College (AL),10,Huntingdon College (AL) -1.5,-1.5
-Northwood (MI),Findlay,10,Findlay -3.5,-3.5
-Thomas More College,Hillsdale,10,Hillsdale -16.0,-16.0
-Dean College,UMass Dartmouth,10,UMass Dartmouth -46.5,-46.5
-Brockport,Alfred University,10,Brockport -9.0,9.0
-Upper Iowa University,McKendree,10,Upper Iowa University -0.5,0.5
-Davenport,Saginaw Valley State,10,Saginaw Valley State -4.0,-4.0
-Wilkes,Juniata College,10,Wilkes -21.0,21.0
-MIT,Worcester Polytechnic Institute,10,MIT -18.0,18.0
-University of Rochester (NY),Hobart College,10,University of Rochester (NY) -5.0,5.0
-Shepherd,Shippensburg,10,Shepherd -6.5,6.5
-Plymouth State,Framingham State,10,Framingham State -4.5,-4.5
-Seton Hill,Edinboro University,10,Edinboro University -12.0,-12.0
-Catholic,Lycoming,10,Lycoming -13.0,-13.0
-Kutztown University,East Stroudsburg University,10,Kutztown University -22.5,22.5
-FDU-Florham,Misericordia,10,Misericordia -37.0,-37.0
-Endicott College,Maine Maritime,10,Endicott College -96.5,96.5
-Millersville,Lock Haven University,10,Lock Haven University -19.0,-19.0
-Westfield State,Mass Maritime,10,Mass Maritime -4.5,-4.5
-Salve Regina,Coast Guard,10,Salve Regina -10.5,10.5
-Norwich,Springfield,10,Springfield -62.0,-62.0
-College Of New Jersey,Rowan,10,Rowan -2.5,-2.5
-Assumption,Southern Connecticut State,10,Assumption -25.0,25.0
-Husson,Curry College,10,Husson -8.5,8.5
-Wheeling,Concord University,10,Wheeling -1.5,1.5
-North Carolina A&T,Towson,10,Towson -14.5,-14.5
-Lehigh,Georgetown,10,Lehigh -28.5,28.5
-Texas,Vanderbilt,10,Vanderbilt -2.0,-2.0
-Sacred Heart,New Haven,10,Sacred Heart -16.0,16.0
-Yale,Columbia,10,Yale -13.5,13.5
-Hamilton,Middlebury,10,Middlebury -14.5,-14.5
-Trinity (CT),Amherst,10,Trinity (CT) -12.5,12.5
-Carroll University (WI),North Central College,10,North Central College -48.5,-48.5
-Tennessee Tech,Gardner-Webb,10,Tennessee Tech -6.0,6.0
-Bluefield State,Virginia Union,10,Virginia Union -41.0,-41.0
-Centre College Kentucky,Berry College,10,Berry College -31.0,-31.0
-Stevenson,Lebanon Valley,10,Lebanon Valley -4.0,-4.0
-Tufts,Colby College,10,Colby College -3.0,-3.0
-Colgate,Merrimack,10,Colgate -4.0,4.0
-Maine,Stony Brook,10,Stony Brook -9.5,-9.5
-Bryant,Monmouth,10,Monmouth -16.5,-16.5
-Holy Cross,Lafayette,10,Lafayette -14.5,-14.5
-Bethany (WV),Waynesburg,10,Waynesburg -29.0,-29.0
-Biddeford,Nichols College,10,Biddeford -45.0,45.0
-Christopher Newport,Montclair State,10,Christopher Newport -39.5,39.5
-Sewanee,Trinity University TX,10,Trinity University TX -30.5,-30.5
-Maryville College (TN),Rhodes College,10,Maryville College (TN) -42.0,42.0
-Southern Virginia,Belhaven,10,Belhaven -5.5,-5.5
-Kean,Castleton,10,Kean -16.0,16.0
-Wooster,Kenyon,10,Kenyon -3.0,-3.0
-Wabash College,Wittenberg,10,Wabash College -21.0,21.0
-Gallaudet,Hampden-Sydney,10,Hampden-Sydney -61.5,-61.5
-Randolph-Macon,Shenandoah,10,Randolph-Macon -17.5,17.5
-Ohio Wesleyan,Depauw,10,Depauw -25.5,-25.5
-Hiram College,Thiel,10,Hiram College -8.0,8.0
-Fayetteville State,Johnson C Smith,10,Fayetteville State -4.0,4.0
-Elmhurst,Wheaton,10,Wheaton -73.0,-73.0
-Calvin University,Olivet College,10,Calvin University -30.5,30.5
-Williams,Wesleyan University (CT),10,Wesleyan University (CT) -3.5,-3.5
-Albion,Hope College,10,Hope College -30.0,-30.0
-Kalamazoo,Adrian,10,Adrian -23.0,-23.0
-Millikin,Washington University (St. Louis),10,Washington University (St. Louis) -19.5,-19.5
-Ithaca College,Buffalo State,10,Ithaca College -47.5,47.5
-Franklin & Marshall,McDaniel College,10,Franklin & Marshall -23.5,23.5
-Utica,St John Fisher University,10,Utica -17.5,17.5
-Morehouse College,Allen,10,Morehouse College -3.5,3.5
-Albany State GA,Savannah St,10,Albany State GA -26.0,26.0
-Carson-Newman College,Catawba,10,Carson-Newman College -7.5,7.5
-Anderson (Sc),Newberry,10,Anderson (Sc) -8.0,8.0
-Slippery Rock,Clarion,10,Slippery Rock -7.0,7.0
-Minnesota State Mankato,Southwest Minnesota State,10,Minnesota State Mankato -51.0,51.0
-Presbyterian,Valparaiso,10,Presbyterian -37.5,37.5
-Morehead State,Davidson,10,Morehead State -12.5,12.5
-Butler,Drake,10,Drake -14.5,-14.5
-Stonehill,Robert Morris,10,Stonehill -15.5,15.5
-Cornell,Princeton,10,Princeton -13.0,-13.0
-Westminster (PA),Allegheny,10,Westminster (PA) -23.5,23.5
-Ashland,Walsh,10,Ashland -27.0,27.0
-Alfred State,Cortland,10,Cortland -32.5,-32.5
-Union (NY),Hilbert College,10,Union (NY) -52.0,52.0
-Wayne State (MI),Grand Valley State University,10,Grand Valley State University -20.0,-20.0
-Ferris State,Northern Michigan,10,Ferris State -48.5,48.5
-Tiffin,Kentucky Wesleyan,10,Tiffin -44.0,44.0
-Valdosta State,West Alabama,10,West Alabama -1.5,-1.5
-Nebraska-Kearney,Central Oklahoma,10,Nebraska-Kearney -1.5,1.5
-University Of Charleston (WV),West Virginia Wesleyan,10,University Of Charleston (WV) -46.5,46.5
-West Liberty,Fairmont State,10,Fairmont State -7.5,-7.5
-PennWest California,Frostburg State,10,PennWest California -7.0,7.0
-West Virginia State,Glenville State,10,Glenville State -9.0,-9.0
+Kansas State,Texas Tech,10,Texas Tech -14.5,-14.5
+Florida State,Wake Forest,10,Florida State -5.0,5.0
+Boise State,Fresno State,10,Boise State -20.0,20.0
+South Dakota Mines,Chadron St,10,Chadron St -24.0,-24.0
+Iowa State,Arizona State,10,Iowa State -3.0,3.0
+Stanford,Pittsburgh,10,Pittsburgh -17.0,-17.0
+Arkansas,Mississippi State,10,Arkansas -1.5,1.5
+Auburn,Kentucky,10,Auburn -10.0,10.0
+Grambling,Alabama A&M,10,Grambling -6.5,6.5
+Illinois,Rutgers,10,Illinois -21.5,21.5
+ERSKINE,Chowan,10,ERSKINE -1.0,1.0
+North Texas,Navy,10,North Texas -16.5,16.5
+Utah,Cincinnati,10,Utah -11.5,11.5
+American International,Post University,10,American International -1.5,1.5
+SMU,Miami,10,Miami -18.5,-18.5
+Houston,West Virginia,10,Houston -20.0,20.0
+Baylor,UCF,10,Baylor -1.0,1.0
+Clemson,Duke,10,Duke -6.0,-6.0
+Troy,Arkansas State,10,Troy -7.0,7.0
+Boston College,Notre Dame,10,Notre Dame -51.0,-51.0
+Tennessee,Oklahoma,10,Oklahoma -6.0,-6.0
+Colorado,Arizona,10,Arizona -2.0,-2.0
+UL Monroe,Old Dominion,10,Old Dominion -23.5,-23.5
+Kansas,Oklahoma State,10,Kansas -24.0,24.0
+Central Connecticut,Long Island University,10,Central Connecticut -2.0,2.0
+St. Francis (PA),Wagner,10,Wagner -13.0,-13.0
+Minnesota,Michigan State,10,Minnesota -3.5,3.5
+NC State,Georgia Tech,10,Georgia Tech -7.5,-7.5
+Temple,East Carolina,10,East Carolina -9.5,-9.5
+South Alabama,Louisiana,10,South Alabama -0.5,0.5
+Bowling Green,Buffalo,10,Bowling Green -7.0,7.0
+Maryland,Indiana,10,Indiana -26.0,-26.0
+Ohio State,Penn State,10,Ohio State -17.0,17.0
+Nebraska,USC,10,USC -17.5,-17.5
+Western Michigan,Central Michigan,10,Western Michigan -11.0,11.0
+California,Virginia,10,Virginia -23.5,-23.5
+Prairie View A&M,Alabama State,10,Alabama State -9.5,-9.5
+St. Thomas (MN),Marist,10,St. Thomas (MN) -11.5,11.5
+Lehigh,Georgetown,10,Lehigh -27.5,27.5
+UConn,UAB,10,UConn -12.5,12.5
+Sacred Heart,New Haven,10,Sacred Heart -17.0,17.0
+Yale,Columbia,10,Yale -18.0,18.0
+Texas,Vanderbilt,10,Vanderbilt -4.5,-4.5
+Air Force,Army,10,Army -9.5,-9.5
+North Carolina A&T,Towson,10,Towson -12.5,-12.5
+Denison University,Oberlin,10,Denison University -51.5,51.5
+Catholic,Lycoming,10,Lycoming -18.5,-18.5
+Salve Regina,Coast Guard,10,Salve Regina -3.5,3.5
+Westfield State,Mass Maritime,10,Mass Maritime -8.5,-8.5
+MIT,Worcester Polytechnic Institute,10,MIT -12.0,12.0
+Plymouth State,Framingham State,10,Framingham State -4.0,-4.0
+Dean College,UMass Dartmouth,10,UMass Dartmouth -45.5,-45.5
+North Greenville,Ferrum,10,North Greenville -24.5,24.5
+Thomas More College,Hillsdale,10,Hillsdale -13.0,-13.0
+Northwood (MI),Findlay,10,Northwood (MI) -4.0,4.0
+Brockport,Alfred University,10,Brockport -14.0,14.0
+Upper Iowa University,McKendree,10,Upper Iowa University -13.5,13.5
+Davenport,Saginaw Valley State,10,Saginaw Valley State -3.0,-3.0
+St. Anselm,Bentley,10,St. Anselm -5.5,5.5
+Michigan Tech,Roosevelt,10,Michigan Tech -33.5,33.5
+Wheeling,Concord University,10,Wheeling -2.0,2.0
+Assumption,Southern Connecticut State,10,Assumption -29.0,29.0
+West Chester,Bloomsburg,10,West Chester -11.0,11.0
+Seton Hill,Edinboro University,10,Edinboro University -5.5,-5.5
+Kutztown University,East Stroudsburg University,10,Kutztown University -22.0,22.0
+Millersville,Lock Haven University,10,Lock Haven University -16.0,-16.0
+Shepherd,Shippensburg,10,Shepherd -10.5,10.5
+Hartwick,SUNY Morrisville,10,SUNY Morrisville -10.0,-10.0
+Wilkes,Juniata College,10,Wilkes -25.5,25.5
+University of Rochester (NY),Hobart College,10,University of Rochester (NY) -2.5,2.5
+Norwich,Springfield,10,Springfield -54.0,-54.0
+Brevard College,Huntingdon College (AL),10,Brevard College -2.0,2.0
+Ohio Dominican,Lake Erie,10,Ohio Dominican -11.5,11.5
+Husson,Curry College,10,Husson -1.0,1.0
+College Of New Jersey,Rowan,10,Rowan -4.5,-4.5
+Endicott College,Maine Maritime,10,Endicott College -93.5,93.5
+FDU-Florham,Misericordia,10,Misericordia -33.5,-33.5
+Fitchburg State,Bridgewater State,10,Fitchburg State -8.0,8.0
+Hamilton,Middlebury,10,Middlebury -17.5,-17.5
+Presbyterian,Valparaiso,10,Presbyterian -36.5,36.5
+Holy Cross,Lafayette,10,Lafayette -9.0,-9.0
+Bryant,Monmouth,10,Monmouth -20.5,-20.5
+Maine,Stony Brook,10,Stony Brook -4.5,-4.5
+Butler,Drake,10,Drake -12.0,-12.0
+Morehead State,Davidson,10,Morehead State -13.0,13.0
+Bethany (WV),Waynesburg,10,Waynesburg -25.0,-25.0
+Fayetteville State,Johnson C Smith,10,Pick'em,0.0
+Bluefield State,Virginia Union,10,Virginia Union -38.5,-38.5
+Trinity (CT),Amherst,10,Trinity (CT) -11.5,11.5
+Williams,Wesleyan University (CT),10,Williams -3.5,3.5
+Tufts,Colby College,10,Colby College -4.0,-4.0
+Westminster (PA),Allegheny,10,Westminster (PA) -25.0,25.0
+Albany State GA,Savannah St,10,Albany State GA -24.0,24.0
+Tennessee Tech,Gardner-Webb,10,Tennessee Tech -17.0,17.0
+Colgate,Merrimack,10,Colgate -2.0,2.0
+Stonehill,Robert Morris,10,Stonehill -12.0,12.0
+Cornell,Princeton,10,Princeton -16.0,-16.0
 Widener,Eastern University,10,Eastern University -17.5,-17.5
-Salisbury,William Paterson,10,Salisbury -36.5,36.5
-Reading,Delaware Valley,10,Delaware Valley -22.5,-22.5
-Kings College (PA),Albright,10,Albright -5.5,-5.5
-Ursinus,Gettysburg,10,Ursinus -28.0,28.0
-Western New England,New England College,10,Western New England -73.0,73.0
-Greensboro College,Lagrange College,10,Lagrange College -20.0,-20.0
-Grove City College,Saint Vincent,10,Grove City College -35.5,35.5
-Trine University,Alma,10,Alma -28.0,-28.0
-St. Lawrence,Rensselaer,10,Rensselaer -27.5,-27.5
-Concordia University St Paul,Wayne State (NE),10,Wayne State (NE) -25.5,-25.5
-Western Connecticut St,Susquehanna,10,Susquehanna -10.5,-10.5
-Anderson (IN),Franklin,10,Franklin -35.5,-35.5
-Manchester,Rose-Hulman,10,Rose-Hulman -23.5,-23.5
-Muskingum University,Baldwin Wallace,10,Baldwin Wallace -31.0,-31.0
-Ohio Northern,Mount St. Joseph,10,Ohio Northern -17.0,17.0
-Wofford,Samford,10,Wofford -15.5,15.5
-University of Mount Union,Capital,10,University of Mount Union -50.5,50.5
-Heidelberg,Otterbein,10,Heidelberg -25.0,25.0
-Worcester St,Anna Maria College,10,Anna Maria College -14.5,-14.5
-Bluffton,Hanover College,10,Hanover College -28.0,-28.0
-Livingstone,Shaw,10,Livingstone -10.0,10.0
-Bowie State,Elizabeth City State,10,Bowie State -2.5,2.5
-Chicago,Monmouth (IL),10,Monmouth (IL) -18.0,-18.0
-Knox College,Cornell College (IA),10,Cornell College (IA) -22.5,-22.5
-Furman,Mercer,10,Mercer -14.5,-14.5
-South Dakota,North Dakota,10,North Dakota -13.5,-13.5
-Richmond,Fordham,10,Richmond -13.5,13.5
-Northern Colorado,Montana State,10,Montana State -21.5,-21.5
-Ripon,Beloit,10,Ripon -27.0,27.0
-Lake Forest College,Lawrence University,10,Lake Forest College -28.5,28.5
-Illinois College,Grinnell,10,Illinois College -27.5,27.5
-Central College,Buena Vista,10,Central College -33.5,33.5
-Virginia St,Lincoln (PA),10,Virginia St -30.0,30.0
-The Citadel,VMI,10,The Citadel -19.0,19.0
-Benedict College,Virginia University Of Lynchburg,10,Benedict College -58.0,58.0
-Greeneville,Mars Hill,10,Mars Hill -17.5,-17.5
-Colorado School Of Mines,New Mexico Highlands,10,Colorado School Of Mines -14.0,14.0
-Indiana-Pennsylvania,Gannon,10,Indiana-Pennsylvania -33.5,33.5
-Sioux Falls,Winona State,10,Sioux Falls -11.0,11.0
-Augustana University (SD),Northern State,10,Northern State -1.5,-1.5
-Minnesota State Moorhead,Bemidji State,10,Minnesota State Moorhead -13.5,13.5
-Fort Hays State,Central Missouri,10,Central Missouri -3.5,-3.5
-Emporia State University,Northwest Missouri St,10,Northwest Missouri St -16.0,-16.0
-Western New Mexico,UT Permian Basin,10,UT Permian Basin -45.0,-45.0
-Lincoln (MO),Truman State,10,Truman State -31.5,-31.5
-Ouachita Baptist,Northwestern Oklahoma State,10,Ouachita Baptist -30.5,30.5
-Howard Payne,Hardin-Simmons,10,Hardin-Simmons -25.5,-25.5
-Nebraska Wesleyan,Wartburg,10,Wartburg -41.0,-41.0
-Loras College,Simpson College (IA),10,Simpson College (IA) -26.0,-26.0
-Dubuque,Coe College,10,Coe College -23.0,-23.0
-South Carolina State,Morgan State,10,South Carolina State -19.0,19.0
-Southeast Missouri State,Charleston Southern,10,Charleston Southern -5.5,-5.5
-Westminster College (MO),Greenville,10,Greenville -11.5,-11.5
-Jamestown College,Minnesota Duluth,10,Minnesota Duluth -43.5,-43.5
-Mary Hardin-Baylor,East Texas Baptist University,10,Mary Hardin-Baylor -15.0,15.0
-Martin Luther,Northwestern (MN),10,Martin Luther -5.5,5.5
-Minnesota Morris,Crown College,10,Crown College -4.5,-4.5
-Austin,LYONCOLL,10,Pick'em,0.0
-Wilmington (OH),Marietta,10,Marietta -1.5,-1.5
-St. Norbert,Benedictine University,10,Benedictine University -11.5,-11.5
-Concordia-Wisconsin,Rockford,10,Concordia-Wisconsin -39.0,39.0
-Lakeland,Concordia University Chicago,10,Lakeland -9.5,9.5
-Wisconsin-Lutheran,Aurora,10,Aurora -22.5,-22.5
-Concordia Moorhead,Bethel (MN),10,Bethel (MN) -23.0,-23.0
-Gustavus Adolphus,Saint John's (MN),10,Saint John's (MN) -26.5,-26.5
-St. Scholastica,Hamline University,10,St. Scholastica -18.0,18.0
-Carleton,Augsburg,10,Carleton -16.0,16.0
-Millsaps,Southwestern University,10,Millsaps -4.5,4.5
-North Park,Carthage,10,Carthage -3.5,-3.5
-Augustana (IL),Illinois Wesleyan,10,Augustana (IL) -2.0,2.0
-Wisconsin-River Falls,Wisconsin-Whitewater,10,Wisconsin-River Falls -6.0,6.0
-Wisconsin-Platteville,Wisconsin-Oshkosh,10,Wisconsin-Platteville -9.5,9.5
-Wisconsin-Lacrosse,Wisconsin-Stout,10,Wisconsin-Lacrosse -17.0,17.0
-Wisconsin-Stevens Pt,Wisconsin-Eau Claire,10,Wisconsin-Eau Claire -6.0,-6.0
-Muhlenberg,Johns Hopkins University,10,Johns Hopkins University -30.0,-30.0
+Salisbury,William Paterson,10,Salisbury -39.5,39.5
+Reading,Delaware Valley,10,Delaware Valley -28.5,-28.5
+Kings College (PA),Albright,10,Kings College (PA) -1.0,1.0
+Ursinus,Gettysburg,10,Ursinus -25.0,25.0
+Western New England,New England College,10,Western New England -67.5,67.5
+Greensboro College,Lagrange College,10,Lagrange College -23.0,-23.0
+Grove City College,Saint Vincent,10,Grove City College -37.5,37.5
+Randolph-Macon,Shenandoah,10,Randolph-Macon -15.5,15.5
+Gallaudet,Hampden-Sydney,10,Hampden-Sydney -64.0,-64.0
+Wabash College,Wittenberg,10,Wabash College -22.5,22.5
+Wooster,Kenyon,10,Wooster -1.0,1.0
+Hiram College,Thiel,10,Hiram College -6.5,6.5
+Ohio Wesleyan,Depauw,10,Depauw -27.5,-27.5
+Stevenson,Lebanon Valley,10,Lebanon Valley -4.0,-4.0
+Biddeford,Nichols College,10,Biddeford -45.5,45.5
+Calvin University,Olivet College,10,Calvin University -31.0,31.0
+Albion,Hope College,10,Hope College -29.5,-29.5
+Kalamazoo,Adrian,10,Adrian -28.0,-28.0
+Elmhurst,Wheaton,10,Wheaton -66.5,-66.5
+Millikin,Washington University (St. Louis),10,Washington University (St. Louis) -19.5,-19.5
+Carroll University (WI),North Central College,10,North Central College -53.5,-53.5
+Centre College Kentucky,Berry College,10,Berry College -30.5,-30.5
+Christopher Newport,Montclair State,10,Christopher Newport -37.5,37.5
+Sewanee,Trinity University TX,10,Trinity University TX -32.0,-32.0
+Maryville College (TN),Rhodes College,10,Maryville College (TN) -33.5,33.5
+Southern Virginia,Belhaven,10,Belhaven -6.5,-6.5
+Kean,Castleton,10,Kean -17.0,17.0
+Trine University,Alma,10,Alma -20.0,-20.0
+St. Lawrence,Rensselaer,10,Rensselaer -28.5,-28.5
+Ithaca College,Buffalo State,10,Ithaca College -45.5,45.5
+Western Connecticut St,Susquehanna,10,Susquehanna -19.5,-19.5
+Franklin & Marshall,McDaniel College,10,Franklin & Marshall -31.5,31.5
+Utica,St John Fisher University,10,Utica -16.5,16.5
+Morehouse College,Allen,10,Morehouse College -5.5,5.5
+Carson-Newman College,Catawba,10,Carson-Newman College -10.0,10.0
+Anderson (Sc),Newberry,10,Anderson (Sc) -2.0,2.0
+Slippery Rock,Clarion,10,Slippery Rock -10.5,10.5
+Minnesota State Mankato,Southwest Minnesota State,10,Minnesota State Mankato -50.5,50.5
+Concordia University St Paul,Wayne State (NE),10,Wayne State (NE) -26.0,-26.0
+West Virginia State,Glenville State,10,Glenville State -10.0,-10.0
+PennWest California,Frostburg State,10,PennWest California -4.0,4.0
+West Liberty,Fairmont State,10,Fairmont State -9.5,-9.5
+University Of Charleston (WV),West Virginia Wesleyan,10,University Of Charleston (WV) -46.0,46.0
+Nebraska-Kearney,Central Oklahoma,10,Central Oklahoma -6.0,-6.0
+Valdosta State,West Alabama,10,West Alabama -3.5,-3.5
+Tiffin,Kentucky Wesleyan,10,Tiffin -43.5,43.5
+Ferris State,Northern Michigan,10,Ferris State -44.0,44.0
+Wayne State (MI),Grand Valley State University,10,Grand Valley State University -26.0,-26.0
+Union (NY),Hilbert College,10,Union (NY) -54.0,54.0
+Alfred State,Cortland,10,Cortland -37.5,-37.5
+Ashland,Walsh,10,Ashland -24.5,24.5
+Muskingum University,Baldwin Wallace,10,Baldwin Wallace -27.5,-27.5
+Wofford,Samford,10,Wofford -19.0,19.0
+Ohio Northern,Mount St. Joseph,10,Ohio Northern -15.0,15.0
+Worcester St,Anna Maria College,10,Anna Maria College -19.0,-19.0
+Bluffton,Hanover College,10,Hanover College -29.5,-29.5
+Anderson (IN),Franklin,10,Franklin -33.5,-33.5
+Manchester,Rose-Hulman,10,Rose-Hulman -24.0,-24.0
+University of Mount Union,Capital,10,University of Mount Union -51.0,51.0
+Heidelberg,Otterbein,10,Heidelberg -25.5,25.5
+Richmond,Fordham,10,Richmond -12.0,12.0
+Knox College,Cornell College (IA),10,Cornell College (IA) -21.0,-21.0
+Ripon,Beloit,10,Ripon -18.5,18.5
+The Citadel,VMI,10,The Citadel -18.5,18.5
+Lake Forest College,Lawrence University,10,Lake Forest College -40.0,40.0
+Illinois College,Grinnell,10,Illinois College -25.5,25.5
+South Carolina State,Morgan State,10,South Carolina State -17.0,17.0
+Furman,Mercer,10,Mercer -19.0,-19.0
+South Dakota,North Dakota,10,North Dakota -17.0,-17.0
+Northern Colorado,Montana State,10,Montana State -24.5,-24.5
+Central College,Buena Vista,10,Central College -37.0,37.0
+Livingstone,Shaw,10,Livingstone -9.0,9.0
+Virginia St,Lincoln (PA),10,Virginia St -28.5,28.5
+Bowie State,Elizabeth City State,10,Bowie State -1.5,1.5
+Chicago,Monmouth (IL),10,Monmouth (IL) -16.0,-16.0
+Southeast Missouri State,Charleston Southern,10,Southeast Missouri State -2.0,2.0
+Dubuque,Coe College,10,Coe College -20.5,-20.5
+Muhlenberg,Johns Hopkins University,10,Johns Hopkins University -25.0,-25.0
 Edward Waters,Central State (OH),10,Edward Waters -16.5,16.5
-Arkansas Tech,Southern Nazarene,10,Arkansas Tech -16.0,16.0
-Tuskegee,Lane College,10,Tuskegee -26.5,26.5
-Kentucky State,Clark Atlanta,10,Kentucky State -22.5,22.5
-Wingate,Lenoir-Rhyne,10,Wingate -10.0,10.0
-Harvard,Dartmouth,10,Harvard -25.0,25.0
-UNLV,New Mexico,10,UNLV -0.5,0.5
-Western Colorado,CSU Pueblo,10,Western Colorado -3.5,3.5
-Black Hills State,Colorado Mesa,10,Colorado Mesa -20.5,-20.5
-University of Mary,Minot State,10,University of Mary -1.0,1.0
-Missouri Western,Washburn,10,Washburn -5.0,-5.0
-Pittsburg St,Missouri Southern State,10,Pittsburg St -20.0,20.0
-Southeastern Oklahoma State,Henderson State,10,Henderson State -16.0,-16.0
-East Central (OK),Southern Arkansas,10,Southern Arkansas -6.0,-6.0
-UNC Pembroke,Wilson,10,UNC Pembroke -43.0,43.0
-Eastern Illinois,UT Martin,10,Eastern Illinois -7.0,7.0
-Arkansas-Monticello,Southwestern Oklahoma State,10,Southwestern Oklahoma State -15.0,-15.0
-Illinois State,Northern Iowa,10,Illinois State -8.0,8.0
-South Dakota State,Indiana State,10,South Dakota State -26.0,26.0
-Bethune-Cookman,Mississippi Valley State,10,Bethune-Cookman -19.0,19.0
-Arkansas-Pine Bluff,Southern,10,Arkansas-Pine Bluff -6.0,6.0
-Texas Southern,Alcorn State,10,Texas Southern -10.5,10.5
-Incarnate Word,Lamar,10,Lamar -10.0,-10.0
-Weber State,Montana,10,Montana -37.5,-37.5
-North Dakota State,Youngstown State,10,North Dakota State -26.5,26.5
-Liberty,Delaware,10,Delaware -7.5,-7.5
-Florida,Georgia,10,Georgia -12.0,-12.0
-Howard,North Carolina Central,10,North Carolina Central -18.5,-18.5
-Dickinson (PA),Carnegie Mellon,10,Carnegie Mellon -18.5,-18.5
-Western Kentucky,New Mexico State,10,Western Kentucky -8.0,8.0
-William & Mary,UAlbany,10,William & Mary -19.0,19.0
-Eastern Washington,Sacramento State,10,Sacramento State -18.0,-18.0
-La Verne,Redlands,10,Redlands -18.5,-18.5
-Delta State,West Florida,10,Delta State -7.0,7.0
-Missouri S&T,William Jewell,10,William Jewell -2.5,-2.5
-Harding University,Oklahoma Baptist,10,Harding University -45.5,45.5
-Abilene Christian,Tarleton State,10,Tarleton State -19.0,-19.0
-Nicholls,Houston Christian,10,Nicholls -6.5,6.5
-Claremont-Mudd-Scripps College,California Lutheran University,10,California Lutheran University -7.5,-7.5
-Chattanooga,Western Carolina,10,Western Carolina -14.0,-14.0
-Averett,Washington and Lee,10,Washington and Lee -48.5,-48.5
-Whitworth,Pacific Lutheran,10,Whitworth -14.0,14.0
-Puget Sound,Pacific (OR),10,Pacific (OR) -22.5,-22.5
-Linfield College,Lewis & Clark College,10,Linfield College -4.5,4.5
-San Diego,Dayton,10,San Diego -4.5,4.5
-UC Davis,Idaho State,10,UC Davis -14.0,14.0
-Utah Tech,North Alabama,10,Utah Tech -12.0,12.0
-Western Oregon,Midwestern State,10,Midwestern State -0.5,-0.5
-Willamette,NEWBERG,10,NEWBERG -3.5,-3.5
-Tennessee State,Lindenwood,10,Lindenwood -17.5,-17.5
-Central Arkansas,Eastern Kentucky,10,Eastern Kentucky -5.0,-5.0
-Methodist,North Carolina Wesleyan,10,North Carolina Wesleyan -13.5,-13.5
-Murray State,Southern Illinois,10,Southern Illinois -32.5,-32.5
+Benedict College,Virginia University Of Lynchburg,10,Benedict College -50.0,50.0
+Greeneville,Mars Hill,10,Mars Hill -15.0,-15.0
+Colorado School Of Mines,New Mexico Highlands,10,Colorado School Of Mines -13.0,13.0
+Indiana-Pennsylvania,Gannon,10,Indiana-Pennsylvania -31.5,31.5
+Sioux Falls,Winona State,10,Sioux Falls -11.5,11.5
+Augustana University (SD),Northern State,10,Northern State -1.0,-1.0
+Minnesota State Moorhead,Bemidji State,10,Minnesota State Moorhead -14.5,14.5
+Fort Hays State,Central Missouri,10,Central Missouri -3.0,-3.0
+Emporia State University,Northwest Missouri St,10,Northwest Missouri St -25.0,-25.0
+Western New Mexico,UT Permian Basin,10,UT Permian Basin -41.0,-41.0
+Lincoln (MO),Truman State,10,Truman State -34.0,-34.0
+Ouachita Baptist,Northwestern Oklahoma State,10,Ouachita Baptist -34.5,34.5
+Howard Payne,Hardin-Simmons,10,Hardin-Simmons -24.5,-24.5
+Nebraska Wesleyan,Wartburg,10,Wartburg -36.0,-36.0
+Loras College,Simpson College (IA),10,Simpson College (IA) -18.0,-18.0
+Wisconsin-Stevens Pt,Wisconsin-Eau Claire,10,Wisconsin-Eau Claire -4.0,-4.0
+Millsaps,Southwestern University,10,Millsaps -10.0,10.0
+Carleton,Augsburg,10,Carleton -15.5,15.5
+St. Scholastica,Hamline University,10,St. Scholastica -13.0,13.0
+Gustavus Adolphus,Saint John's (MN),10,Saint John's (MN) -24.5,-24.5
+Concordia Moorhead,Bethel (MN),10,Bethel (MN) -27.5,-27.5
+Wisconsin-Lutheran,Aurora,10,Aurora -21.0,-21.0
+Lakeland,Concordia University Chicago,10,Lakeland -9.5,9.5
+Concordia-Wisconsin,Rockford,10,Concordia-Wisconsin -40.0,40.0
+St. Norbert,Benedictine University,10,Benedictine University -13.0,-13.0
+Wilmington (OH),Marietta,10,Marietta -0.5,-0.5
+Austin,LYONCOLL,10,Austin -7.5,7.5
+Minnesota Morris,Crown College,10,Crown College -7.5,-7.5
+Martin Luther,Northwestern (MN),10,Pick'em,0.0
+Mary Hardin-Baylor,East Texas Baptist University,10,Mary Hardin-Baylor -13.5,13.5
+Jamestown College,Minnesota Duluth,10,Minnesota Duluth -44.0,-44.0
+Westminster College (MO),Greenville,10,Greenville -11.0,-11.0
+North Park,Carthage,10,Carthage -10.0,-10.0
+Augustana (IL),Illinois Wesleyan,10,Illinois Wesleyan -1.5,-1.5
+Wisconsin-River Falls,Wisconsin-Whitewater,10,Wisconsin-River Falls -6.0,6.0
+Wisconsin-Platteville,Wisconsin-Oshkosh,10,Wisconsin-Platteville -14.5,14.5
+Wisconsin-Lacrosse,Wisconsin-Stout,10,Wisconsin-Lacrosse -14.0,14.0
+Arkansas Tech,Southern Nazarene,10,Arkansas Tech -13.5,13.5
+Kentucky State,Clark Atlanta,10,Kentucky State -24.0,24.0
+Tuskegee,Lane College,10,Tuskegee -29.5,29.5
+UNC Pembroke,Wilson,10,UNC Pembroke -36.5,36.5
+Arkansas-Monticello,Southwestern Oklahoma State,10,Southwestern Oklahoma State -20.5,-20.5
+East Central (OK),Southern Arkansas,10,Southern Arkansas -12.5,-12.5
+Southeastern Oklahoma State,Henderson State,10,Henderson State -13.5,-13.5
+Pittsburg St,Missouri Southern State,10,Pittsburg St -19.5,19.5
+Missouri Western,Washburn,10,Washburn -13.0,-13.0
+University of Mary,Minot State,10,University of Mary -1.5,1.5
+Black Hills State,Colorado Mesa,10,Colorado Mesa -15.5,-15.5
+Western Colorado,CSU Pueblo,10,Western Colorado -3.0,3.0
+Wingate,Lenoir-Rhyne,10,Wingate -13.0,13.0
+Eastern Illinois,UT Martin,10,UT Martin -5.0,-5.0
+Weber State,Montana,10,Montana -29.5,-29.5
+Arkansas-Pine Bluff,Southern,10,Arkansas-Pine Bluff -5.0,5.0
+Harvard,Dartmouth,10,Harvard -22.5,22.5
+Texas Southern,Alcorn State,10,Texas Southern -9.0,9.0
+South Dakota State,Indiana State,10,South Dakota State -25.5,25.5
+UNLV,New Mexico,10,New Mexico -1.0,-1.0
+Bethune-Cookman,Mississippi Valley State,10,Bethune-Cookman -16.5,16.5
+Incarnate Word,Lamar,10,Lamar -9.5,-9.5
+Illinois State,Northern Iowa,10,Illinois State -7.5,7.5
+William & Mary,UAlbany,10,William & Mary -23.0,23.0
+North Dakota State,Youngstown State,10,North Dakota State -28.0,28.0
+Liberty,Delaware,10,Delaware -3.0,-3.0
+Florida,Georgia,10,Georgia -14.5,-14.5
+Howard,North Carolina Central,10,North Carolina Central -22.0,-22.0
+Western Kentucky,New Mexico State,10,Western Kentucky -6.0,6.0
+Dickinson (PA),Carnegie Mellon,10,Carnegie Mellon -13.5,-13.5
+Utah Tech,North Alabama,10,Utah Tech -5.5,5.5
+Harding University,Oklahoma Baptist,10,Harding University -46.0,46.0
+Eastern Washington,Sacramento State,10,Sacramento State -14.5,-14.5
+Missouri S&T,William Jewell,10,Missouri S&T -8.0,8.0
+Delta State,West Florida,10,Delta State -5.5,5.5
+La Verne,Redlands,10,Redlands -21.5,-21.5
+Claremont-Mudd-Scripps College,California Lutheran University,10,California Lutheran University -9.5,-9.5
+Linfield College,Lewis & Clark College,10,Linfield College -5.5,5.5
+Puget Sound,Pacific (OR),10,Pacific (OR) -14.0,-14.0
+Whitworth,Pacific Lutheran,10,Whitworth -15.5,15.5
+Averett,Washington and Lee,10,Washington and Lee -45.5,-45.5
+UC Davis,Idaho State,10,UC Davis -16.0,16.0
+Nicholls,Houston Christian,10,Nicholls -9.5,9.5
+Chattanooga,Western Carolina,10,Western Carolina -9.5,-9.5
+Abilene Christian,Tarleton State,10,Tarleton State -23.0,-23.0
+San Diego,Dayton,10,San Diego -7.5,7.5
+Western Oregon,Midwestern State,10,Western Oregon -7.0,7.0
+Willamette,NEWBERG,10,NEWBERG -15.0,-15.0
+Tennessee State,Lindenwood,10,Lindenwood -11.5,-11.5
 Cal Poly,Portland State,10,Cal Poly -20.0,20.0
-Bowdoin,Bates,10,Bates -21.5,-21.5
+Murray State,Southern Illinois,10,Southern Illinois -28.5,-28.5
+Central Arkansas,Eastern Kentucky,10,Central Arkansas -3.5,3.5
 West Texas A&M,Texas A&M-Kingsville,10,West Texas A&M -1.0,1.0
-Washington & Jefferson,Case Western Reserve,10,Washington & Jefferson -10.0,10.0
-Roanoke College,Guilford College,10,Roanoke College -17.0,17.0
-Fort Valley State,Miles College,10,Fort Valley State -13.5,13.5
-McNeese,Northwestern State,10,Northwestern State -5.0,-5.0
-McMurry,Texas Lutheran,10,McMurry -8.0,8.0
-Northeastern State,Lincoln (CA),10,Northeastern State -23.5,23.5
+Methodist,North Carolina Wesleyan,10,North Carolina Wesleyan -16.5,-16.5
+Bowdoin,Bates,10,Bates -13.5,-13.5
+Washington & Jefferson,Case Western Reserve,10,Washington & Jefferson -10.5,10.5
+Fort Valley State,Miles College,10,Fort Valley State -12.0,12.0
+Roanoke College,Guilford College,10,Roanoke College -16.5,16.5
+Stephen F. Austin,UT Rio Grande Valley,10,Stephen F. Austin -12.0,12.0
 San Diego State,Wyoming,10,San Diego State -15.0,15.0
-SE Louisiana,East Texas A&M,10,SE Louisiana -9.0,9.0
-Stephen F. Austin,UT Rio Grande Valley,10,Stephen F. Austin -7.0,7.0
-Florida A&M,Jackson State,10,Jackson State -26.0,-26.0
-Hendrix College,CENTENARY,10,Hendrix College -37.5,37.5
-Quincy,Indianapolis,10,Indianapolis -32.0,-32.0
-Oregon State,Washington State,10,Washington State -17.0,-17.0
-Fort Lewis,Adams State,10,Fort Lewis -3.5,3.5
-Eastern New Mexico,Sul Ross State,10,Eastern New Mexico -30.5,30.5
-Macalester,St. Olaf,10,St. Olaf -8.5,-8.5
-Southern Utah,Austin Peay,10,Austin Peay -8.0,-8.0
-Central Washington,Angelo State,10,Central Washington -22.5,22.5
-Chapman,Pomona Pitzer,10,Chapman -12.0,12.0
-San José State,Hawai'i,10,Hawai'i -5.0,-5.0
-Akron,Massachusetts,11,Akron -13.5,13.5
-Ohio,Miami (OH),11,Ohio -7.5,7.5
-Toledo,Northern Illinois,11,Toledo -20.0,20.0
-Ball State,Kent State,11,Kent State -5.5,-5.5
-South Florida,UTSA,11,South Florida -18.0,18.0
-App State,Georgia Southern,11,App State -4.0,4.0
-UCF,Houston,11,Houston -9.0,-9.0
-Columbia,Harvard,11,Harvard -38.0,-38.0
-Morgan State,Delaware State,11,Delaware State -11.0,-11.0
-USC,Northwestern,11,USC -19.0,19.0
-Memphis,Tulane,11,Memphis -5.0,5.0
-Miami,Syracuse,11,Miami -33.0,33.0
-Clemson,Florida State,11,Florida State -11.5,-11.5
-Louisville,California,11,Louisville -22.5,22.5
-Wisconsin,Washington,11,Washington -26.5,-26.5
-East Carolina,Charlotte,11,East Carolina -32.0,32.0
-Penn State,Indiana,11,Indiana -21.5,-21.5
+Florida A&M,Jackson State,10,Jackson State -27.0,-27.0
+Northeastern State,Lincoln (CA),10,Northeastern State -29.5,29.5
+SE Louisiana,East Texas A&M,10,SE Louisiana -12.5,12.5
+McNeese,Northwestern State,10,McNeese -4.0,4.0
+Hendrix College,CENTENARY,10,Hendrix College -31.0,31.0
+McMurry,Texas Lutheran,10,McMurry -3.0,3.0
+Quincy,Indianapolis,10,Indianapolis -33.0,-33.0
+Oregon State,Washington State,10,Washington State -14.5,-14.5
+Eastern New Mexico,Sul Ross State,10,Eastern New Mexico -24.5,24.5
+Fort Lewis,Adams State,10,Fort Lewis -3.0,3.0
+Macalester,St. Olaf,10,St. Olaf -10.5,-10.5
+Southern Utah,Austin Peay,10,Austin Peay -6.0,-6.0
+Central Washington,Angelo State,10,Central Washington -18.5,18.5
+Chapman,Pomona Pitzer,10,Chapman -14.0,14.0
+San José State,Hawai'i,10,Hawai'i -7.0,-7.0
+Akron,Massachusetts,11,Akron -12.0,12.0
+Ohio,Miami (OH),11,Ohio -8.0,8.0
+Ball State,Kent State,11,Ball State -1.0,1.0
+Toledo,Northern Illinois,11,Toledo -24.5,24.5
+App State,Georgia Southern,11,Georgia Southern -2.0,-2.0
+South Florida,UTSA,11,South Florida -22.0,22.0
+UCF,Houston,11,Houston -6.0,-6.0
+Morgan State,Delaware State,11,Delaware State -8.0,-8.0
+Columbia,Harvard,11,Harvard -35.5,-35.5
+Memphis,Tulane,11,Pick'em,0.0
+USC,Northwestern,11,USC -15.0,15.0
+Eastern Michigan,Bowling Green,11,Bowling Green -16.0,-16.0
+Louisiana,Texas State,11,Texas State -7.5,-7.5
+East Carolina,Charlotte,11,East Carolina -33.5,33.5
+St. Francis (PA),Mercyhurst,11,Mercyhurst -26.5,-26.5
+Missouri,Texas A&M,11,Texas A&M -7.5,-7.5
+Arkansas State,Southern Miss,11,Southern Miss -12.0,-12.0
+Iowa,Oregon,11,Oregon -17.5,-17.5
+Arizona,Kansas,11,Arizona -2.5,2.5
+San José State,Air Force,11,Air Force -1.5,-1.5
+Marshall,James Madison,11,James Madison -12.0,-12.0
+Colorado State,UNLV,11,UNLV -4.0,-4.0
+Long Island University,Duquesne,11,Duquesne -11.0,-11.0
+Penn State,Indiana,11,Indiana -18.0,-18.0
+South Dakota,South Dakota State,11,South Dakota State -17.5,-17.5
+Alabama,LSU,11,Alabama -4.5,4.5
+McMurry,Hendrix College,11,McMurry -3.5,3.5
 American International,Pace,11,American International -0.5,0.5
-Long Island University,Duquesne,11,Duquesne -4.5,-4.5
-Arizona,Kansas,11,Arizona -1.5,1.5
-Alabama,LSU,11,Alabama -1.0,1.0
-Rutgers,Maryland,11,Maryland -7.5,-7.5
-Louisiana,Texas State,11,Texas State -10.5,-10.5
-Coastal Carolina,Georgia State,11,Coastal Carolina -4.0,4.0
-West Virginia,Colorado,11,Colorado -14.5,-14.5
-Purdue,Ohio State,11,Ohio State -26.5,-26.5
-McMurry,Hendrix College,11,McMurry -5.5,5.5
-San José State,Air Force,11,Air Force -1.0,-1.0
-Boston College,SMU,11,SMU -25.0,-25.0
-Rice,UAB,11,Rice -2.5,2.5
-Vanderbilt,Auburn,11,Vanderbilt -4.0,4.0
-UCLA,Nebraska,11,Nebraska -13.5,-13.5
-Kentucky,Florida,11,Florida -10.0,-10.0
-Eastern Michigan,Bowling Green,11,Bowling Green -19.5,-19.5
-Iowa,Oregon,11,Oregon -12.0,-12.0
-Arkansas State,Southern Miss,11,Southern Miss -12.5,-12.5
-Missouri,Texas A&M,11,Texas A&M -12.0,-12.0
+Rutgers,Maryland,11,Maryland -7.0,-7.0
+North Carolina,Stanford,11,Stanford -9.5,-9.5
+Clemson,Florida State,11,Florida State -7.5,-7.5
+Boston College,SMU,11,SMU -27.5,-27.5
 Florida Atlantic,Tulsa,11,Tulsa -1.5,-1.5
-Marshall,James Madison,11,James Madison -2.5,-2.5
-Colorado State,UNLV,11,UNLV -3.0,-3.0
-Texas Tech,BYU,11,Texas Tech -11.0,11.0
-Grambling,Bethune-Cookman,11,Grambling -1.0,1.0
-South Dakota,South Dakota State,11,South Dakota State -19.5,-19.5
-St. Francis (PA),Mercyhurst,11,Mercyhurst -31.5,-31.5
-Virginia,Wake Forest,11,Virginia -11.0,11.0
-North Carolina,Stanford,11,Stanford -4.0,-4.0
-TCU,Iowa State,11,Iowa State -0.5,-0.5
-Johns Hopkins University,McDaniel College,11,Johns Hopkins University -60.5,60.5
-Susquehanna,Wilkes,11,Susquehanna -27.5,27.5
-University of Rochester (NY),Union (NY),11,Union (NY) -5.5,-5.5
-Merchant Marine Academy,Worcester Polytechnic Institute,11,Merchant Marine Academy -23.0,23.0
-Western Connecticut St,Catholic,11,Western Connecticut St -32.5,32.5
-Brown,Yale,11,Brown -5.5,5.5
-Chattanooga,Furman,11,Furman -8.5,-8.5
-Springfield,Coast Guard,11,Springfield -21.0,21.0
-Robert Morris,Wagner,11,Wagner -4.5,-4.5
-UMass Dartmouth,Westfield State,11,UMass Dartmouth -16.5,16.5
-Norwich,Salve Regina,11,Salve Regina -51.0,-51.0
-North Carolina Wesleyan,Greensboro College,11,North Carolina Wesleyan -3.0,3.0
-Olivet College,Albion,11,Albion -17.5,-17.5
-Maine Maritime,Western New England,11,Western New England -78.0,-78.0
-Monmouth,New Hampshire,11,Monmouth -11.0,11.0
-Stony Brook,North Carolina A&T,11,Stony Brook -21.5,21.5
-Curry College,Biddeford,11,Biddeford -28.0,-28.0
-Army,Temple,11,Army -1.5,1.5
-Sacred Heart,Virginia University Of Lynchburg,11,Sacred Heart -65.0,65.0
-Plymouth State,Fitchburg State,11,Pick'em,0.0
-Oberlin,Wabash College,11,Wabash College -72.0,-72.0
-New England College,Endicott College,11,Endicott College -91.5,-91.5
-Lehigh,Holy Cross,11,Lehigh -26.5,26.5
-Carnegie Mellon,Franklin & Marshall,11,Carnegie Mellon -25.5,25.5
-Juniata College,Moravian,11,Moravian -3.0,-3.0
-Albright,Stevenson,11,Stevenson -5.0,-5.0
-Gannon,PennWest California,11,PennWest California -17.0,-17.0
-Clarion,Indiana-Pennsylvania,11,Indiana-Pennsylvania -21.5,-21.5
-Edinboro University,Slippery Rock,11,Slippery Rock -6.0,-6.0
-Eastern University,FDU-Florham,11,Eastern University -30.0,30.0
-Mass Maritime,Worcester St,11,Mass Maritime -3.5,3.5
-Mississippi State,Georgia,11,Georgia -16.0,-16.0
-Cortland,Brockport,11,Cortland -21.0,21.0
-Bentley,Assumption,11,Assumption -12.0,-12.0
-Lake Erie,Kentucky Wesleyan,11,Lake Erie -14.5,14.5
-Thomas More College,Ohio Dominican,11,Ohio Dominican -4.5,-4.5
-Wesleyan University (CT),Trinity (CT),11,Trinity (CT) -4.5,-4.5
+TCU,Iowa State,11,TCU -0.5,0.5
+Kentucky,Florida,11,Florida -6.5,-6.5
+Virginia,Wake Forest,11,Virginia -9.5,9.5
+Grambling,Bethune-Cookman,11,Bethune-Cookman -1.5,-1.5
+Miami,Syracuse,11,Miami -30.0,30.0
+West Alabama,Lincoln (CA),11,West Alabama -23.5,23.5
+Rice,UAB,11,UAB -3.5,-3.5
+Purdue,Ohio State,11,Ohio State -28.0,-28.0
+West Virginia,Colorado,11,Colorado -18.5,-18.5
+Coastal Carolina,Georgia State,11,Coastal Carolina -6.0,6.0
+Texas Tech,BYU,11,Texas Tech -5.0,5.0
+Vanderbilt,Auburn,11,Vanderbilt -6.0,6.0
+UCLA,Nebraska,11,Nebraska -5.5,-5.5
+Wisconsin,Washington,11,Washington -21.5,-21.5
+Louisville,California,11,Louisville -26.5,26.5
+Northwood (MI),Tiffin,11,Northwood (MI) -2.5,2.5
+Bentley,Assumption,11,Assumption -15.5,-15.5
+Clarion,Indiana-Pennsylvania,11,Indiana-Pennsylvania -18.5,-18.5
+Edinboro University,Slippery Rock,11,Slippery Rock -14.5,-14.5
+Cortland,Brockport,11,Cortland -18.5,18.5
+Carnegie Mellon,Franklin & Marshall,11,Carnegie Mellon -15.5,15.5
+Johns Hopkins University,McDaniel College,11,Johns Hopkins University -64.0,64.0
+Juniata College,Moravian,11,Moravian -5.0,-5.0
+Susquehanna,Wilkes,11,Susquehanna -27.0,27.0
+University of Rochester (NY),Union (NY),11,Union (NY) -8.0,-8.0
+Western Connecticut St,Catholic,11,Western Connecticut St -25.0,25.0
+Norwich,Salve Regina,11,Salve Regina -44.5,-44.5
+North Carolina Wesleyan,Greensboro College,11,North Carolina Wesleyan -8.0,8.0
+Chattanooga,Furman,11,Furman -1.5,-1.5
+Olivet College,Albion,11,Albion -24.5,-24.5
+Maine Maritime,Western New England,11,Western New England -71.5,-71.5
+Curry College,Biddeford,11,Biddeford -22.0,-22.0
+Plymouth State,Fitchburg State,11,Plymouth State -2.0,2.0
+Oberlin,Wabash College,11,Wabash College -72.5,-72.5
+Central Connecticut,Stonehill,11,Central Connecticut -3.5,3.5
+Brown,Yale,11,Yale -6.0,-6.0
+New England College,Endicott College,11,Endicott College -89.5,-89.5
+Albright,Stevenson,11,Stevenson -8.0,-8.0
+Eastern University,FDU-Florham,11,Eastern University -29.0,29.0
+Merchant Marine Academy,Worcester Polytechnic Institute,11,Merchant Marine Academy -21.0,21.0
+Stony Brook,North Carolina A&T,11,Stony Brook -15.5,15.5
+Springfield,Coast Guard,11,Springfield -13.0,13.0
+Sacred Heart,Virginia University Of Lynchburg,11,Sacred Heart -57.5,57.5
+UMass Dartmouth,Westfield State,11,UMass Dartmouth -17.5,17.5
+Mass Maritime,Worcester St,11,Mass Maritime -10.0,10.0
+Thomas More College,Ohio Dominican,11,Ohio Dominican -9.0,-9.0
+Nichols College,Husson,11,Husson -24.0,-24.0
+Wesleyan University (CT),Trinity (CT),11,Trinity (CT) -9.0,-9.0
+Lehigh,Holy Cross,11,Lehigh -24.5,24.5
 Bates,Hamilton,11,Bates -13.5,13.5
-Amherst,Williams,11,Williams -4.5,-4.5
-Nichols College,Husson,11,Husson -26.0,-26.0
-Walsh,Hillsdale,11,Hillsdale -10.0,-10.0
-Framingham State,Dean College,11,Framingham State -44.0,44.0
-Hilbert College,Hobart College,11,Hobart College -42.0,-42.0
-Davenport,Northern Michigan,11,Davenport -8.5,8.5
-Northwood (MI),Tiffin,11,Tiffin -0.5,-0.5
-Central Connecticut,Stonehill,11,Stonehill -0.5,-0.5
-Middlebury,Tufts,11,Middlebury -5.0,5.0
-Lafayette,Colgate,11,Lafayette -4.5,4.5
-Ashland,Findlay,11,Ashland -6.0,6.0
-Drake,St. Thomas (MN),11,Drake -7.0,7.0
-Marist,Stetson,11,Marist -23.5,23.5
-Pennsylvania,Cornell,11,Pennsylvania -22.5,22.5
-Dartmouth,Princeton,11,Dartmouth -3.5,3.5
-UAlbany,Bryant,11,Bryant -8.5,-8.5
-Hampton,Maine,11,Maine -17.0,-17.0
-Thiel,Bethany (WV),11,Thiel -9.0,9.0
-Rhodes College,Southwestern University,11,Southwestern University -13.5,-13.5
-Widener,Kings College (PA),11,Kings College (PA) -2.5,-2.5
-Gettysburg,Muhlenberg,11,Muhlenberg -28.0,-28.0
-Dickinson (PA),Ursinus,11,Dickinson (PA) -0.5,0.5
-Post University,St. Anselm,11,St. Anselm -13.0,-13.0
-Greenville,Northwestern (MN),11,Greenville -5.5,5.5
-Eastern Illinois,Tennessee Tech,11,Tennessee Tech -18.5,-18.5
-Towson,Villanova,11,Villanova -11.0,-11.0
-Ole Miss,The Citadel,11,Ole Miss -49.0,49.0
-Indiana State,Illinois State,11,Illinois State -2.0,-2.0
-Morehead State,Butler,11,Butler -15.5,-15.5
-Valparaiso,San Diego,11,San Diego -31.0,-31.0
-Fordham,Bucknell,11,Bucknell -6.0,-6.0
-Lagrange College,Belhaven,11,Lagrange College -4.5,4.5
-Elizabeth City State,Bluefield State,11,Elizabeth City State -11.5,11.5
-Minnesota Morris,Westminster College (MO),11,Minnesota Morris -9.0,9.0
-Waynesburg,Saint Vincent,11,Waynesburg -13.0,13.0
-Geneva,Washington & Jefferson,11,Washington & Jefferson -34.0,-34.0
-Washington and Lee,Roanoke College,11,Washington and Lee -12.0,12.0
-Hampden-Sydney,Bridgewater (VA),11,Hampden-Sydney -38.5,38.5
-John Carroll University,Ohio Wesleyan,11,John Carroll University -31.0,31.0
+Amherst,Williams,11,Williams -6.5,-6.5
+Walsh,Hillsdale,11,Hillsdale -4.5,-4.5
+Framingham State,Dean College,11,Framingham State -42.0,42.0
+Hilbert College,Hobart College,11,Hobart College -43.5,-43.5
+Davenport,Northern Michigan,11,Davenport -9.5,9.5
+Lake Erie,Kentucky Wesleyan,11,Lake Erie -14.0,14.0
+Robert Morris,Wagner,11,Wagner -5.5,-5.5
+Monmouth,New Hampshire,11,Monmouth -11.0,11.0
+Gannon,PennWest California,11,PennWest California -18.0,-18.0
+Army,Temple,11,Army -2.0,2.0
+Mississippi State,Georgia,11,Georgia -17.5,-17.5
+Middlebury,Tufts,11,Middlebury -7.5,7.5
+Lafayette,Colgate,11,Lafayette -4.0,4.0
+Gettysburg,Muhlenberg,11,Muhlenberg -30.5,-30.5
+Widener,Kings College (PA),11,Kings College (PA) -7.0,-7.0
+Pennsylvania,Cornell,11,Pennsylvania -19.0,19.0
+Rhodes College,Southwestern University,11,Southwestern University -13.0,-13.0
+UAlbany,Bryant,11,Bryant -10.0,-10.0
+Dartmouth,Princeton,11,Pick'em,0.0
+Indiana State,Illinois State,11,Illinois State -6.0,-6.0
+Knox College,Lake Forest College,11,Lake Forest College -41.5,-41.5
+Lincoln (PA),Bowie State,11,Bowie State -18.5,-18.5
+Virginia Union,Virginia St,11,Virginia Union -17.5,17.5
+Fayetteville State,Winston-Salem,11,Fayetteville State -14.0,14.0
+Johnson C Smith,Livingstone,11,Johnson C Smith -29.5,29.5
+Emory & Henry College,Shaw,11,Emory & Henry College -49.0,49.0
+Chowan,Ferrum,11,Chowan -2.0,2.0
+Luther,Dubuque,11,Dubuque -41.0,-41.0
+Ashland,Findlay,11,Ashland -8.0,8.0
+Alfred State,Alfred University,11,Alfred University -5.5,-5.5
+Lincoln (MO),Missouri S&T,11,Missouri S&T -13.5,-13.5
+Northeastern State,McKendree,11,Northeastern State -12.0,12.0
+Saginaw Valley State,Ferris State,11,Ferris State -31.5,-31.5
+University Of Charleston (WV),West Liberty,11,University Of Charleston (WV) -23.5,23.5
+Frostburg State,West Virginia State,11,Frostburg State -13.0,13.0
+Franklin Pierce,Southern Connecticut State,11,Franklin Pierce -20.5,20.5
+Minnesota Duluth,Bemidji State,11,Minnesota Duluth -31.0,31.0
+Minnesota State Moorhead,Jamestown College,11,Minnesota State Moorhead -27.5,27.5
+Lock Haven University,Shepherd,11,Pick'em,0.0
+Shippensburg,West Chester,11,West Chester -12.0,-12.0
+Newberry,Carson-Newman College,11,Carson-Newman College -13.0,-13.0
+Mars Hill,UVA Wise,11,Mars Hill -14.0,14.0
+Towson,Villanova,11,Villanova -13.0,-13.0
+Eastern Illinois,Tennessee Tech,11,Tennessee Tech -26.5,-26.5
+Hampton,Maine,11,Maine -19.0,-19.0
+SUNY Morrisville,St John Fisher University,11,St John Fisher University -17.0,-17.0
+Utica,Hartwick,11,Utica -43.5,43.5
+Rensselaer,Ithaca College,11,Ithaca College -1.5,-1.5
+Depauw,Wooster,11,Depauw -29.5,29.5
 Westminster (PA),Hiram College,11,Westminster (PA) -32.5,32.5
-Depauw,Wooster,11,Depauw -32.5,32.5
-Rensselaer,Ithaca College,11,Ithaca College -3.5,-3.5
-Utica,Hartwick,11,Utica -45.5,45.5
-SUNY Morrisville,St John Fisher University,11,St John Fisher University -16.5,-16.5
-Mars Hill,UVA Wise,11,Mars Hill -17.5,17.5
-Georgetown,Richmond,11,Richmond -8.5,-8.5
-Newberry,Carson-Newman College,11,Carson-Newman College -14.0,-14.0
-Shippensburg,West Chester,11,West Chester -13.0,-13.0
-Lock Haven University,Shepherd,11,Lock Haven University -3.5,3.5
-Minnesota State Moorhead,Jamestown College,11,Minnesota State Moorhead -27.0,27.0
-Minnesota Duluth,Bemidji State,11,Minnesota Duluth -30.0,30.0
-Franklin Pierce,Southern Connecticut State,11,Franklin Pierce -17.0,17.0
-Frostburg State,West Virginia State,11,Frostburg State -11.0,11.0
-University Of Charleston (WV),West Liberty,11,University Of Charleston (WV) -25.5,25.5
-Saginaw Valley State,Ferris State,11,Ferris State -36.5,-36.5
-Northeastern State,McKendree,11,McKendree -1.5,-1.5
-Lincoln (MO),Missouri S&T,11,Missouri S&T -10.5,-10.5
-Alfred State,Alfred University,11,Alfred University -3.0,-3.0
-Luther,Dubuque,11,Dubuque -40.5,-40.5
-Chowan,Ferrum,11,Chowan -3.5,3.5
-Emory & Henry College,Shaw,11,Emory & Henry College -48.0,48.0
-Johnson C Smith,Livingstone,11,Johnson C Smith -23.5,23.5
-Fayetteville State,Winston-Salem,11,Fayetteville State -18.0,18.0
-Virginia Union,Virginia St,11,Virginia Union -18.5,18.5
-Lincoln (PA),Bowie State,11,Bowie State -21.5,-21.5
-Knox College,Lake Forest College,11,Lake Forest College -40.5,-40.5
-Rockford,Wisconsin-Lutheran,11,Wisconsin-Lutheran -27.0,-27.0
-SUNY Maritime,MIT,11,SUNY Maritime -4.5,4.5
-Buffalo State,St. Lawrence,11,St. Lawrence -16.5,-16.5
-Kenyon,Denison University,11,Denison University -11.5,-11.5
-Misericordia,Delaware Valley,11,Misericordia -9.0,9.0
-Lebanon Valley,Reading,11,Lebanon Valley -24.0,24.0
-Hope College,Calvin University,11,Hope College -17.0,17.0
-Alma,Kalamazoo,11,Alma -43.5,43.5
-St. Olaf,Hamline University,11,St. Olaf -23.5,23.5
-Saint John's (MN),St. Scholastica,11,Saint John's (MN) -37.5,37.5
-Augsburg,Gustavus Adolphus,11,Gustavus Adolphus -1.0,-1.0
-Washington University (St. Louis),North Park,11,Washington University (St. Louis) -22.0,22.0
-Elmhurst,North Central College,11,North Central College -86.0,-86.0
-Wheaton,Millikin,11,Wheaton -43.0,43.0
-Illinois Wesleyan,Carroll University (WI),11,Illinois Wesleyan -4.0,4.0
-Carthage,Augustana (IL),11,Augustana (IL) -12.0,-12.0
-William Paterson,Kean,11,William Paterson -7.5,7.5
-Berry College,Maryville College (TN),11,Berry College -9.0,9.0
-Methodist,Brevard College,11,Brevard College -27.0,-27.0
-Rowan,Castleton,11,Rowan -41.0,41.0
-Adrian,Trine University,11,Adrian -7.5,7.5
-Case Western Reserve,Grove City College,11,Case Western Reserve -1.5,1.5
+John Carroll University,Ohio Wesleyan,11,John Carroll University -33.0,33.0
+Hampden-Sydney,Bridgewater (VA),11,Hampden-Sydney -35.5,35.5
+Washington and Lee,Roanoke College,11,Washington and Lee -13.0,13.0
+Geneva,Washington & Jefferson,11,Washington & Jefferson -28.0,-28.0
+Waynesburg,Saint Vincent,11,Waynesburg -7.0,7.0
+Minnesota Morris,Westminster College (MO),11,Minnesota Morris -7.0,7.0
+Elizabeth City State,Bluefield State,11,Elizabeth City State -9.5,9.5
+Lagrange College,Belhaven,11,Lagrange College -4.0,4.0
+Greenville,Northwestern (MN),11,Greenville -0.5,0.5
+Post University,St. Anselm,11,St. Anselm -16.5,-16.5
+Dickinson (PA),Ursinus,11,Dickinson (PA) -0.5,0.5
+Thiel,Bethany (WV),11,Thiel -11.5,11.5
+Buffalo State,St. Lawrence,11,St. Lawrence -15.5,-15.5
+SUNY Maritime,MIT,11,SUNY Maritime -7.0,7.0
+Case Western Reserve,Grove City College,11,Grove City College -1.0,-1.0
+Marist,Stetson,11,Marist -20.5,20.5
+Liberty,Missouri State,11,Missouri State -3.0,-3.0
+Drake,St. Thomas (MN),11,Drake -5.0,5.0
+Georgetown,Richmond,11,Richmond -4.5,-4.5
+Fordham,Bucknell,11,Bucknell -3.5,-3.5
+Concord University,Fairmont State,11,Fairmont State -2.5,-2.5
 Glenville State,Wheeling,11,Glenville State -12.0,12.0
-Concord University,Fairmont State,11,Pick'em,0.0
-Liberty,Missouri State,11,Missouri State -4.0,-4.0
-Marietta,University of Mount Union,11,University of Mount Union -46.0,-46.0
-Mount St. Joseph,Manchester,11,Mount St. Joseph -36.5,36.5
-Ohio Northern,Baldwin Wallace,11,Baldwin Wallace -8.5,-8.5
-Capital,Muskingum University,11,Muskingum University -3.0,-3.0
+Valparaiso,San Diego,11,San Diego -30.0,-30.0
+Morehead State,Butler,11,Butler -15.0,-15.0
+Rowan,Castleton,11,Rowan -45.0,45.0
+Adrian,Trine University,11,Adrian -6.5,6.5
+St. Olaf,Hamline University,11,St. Olaf -23.5,23.5
+Alma,Kalamazoo,11,Alma -41.5,41.5
+Hope College,Calvin University,11,Hope College -23.0,23.0
+Lebanon Valley,Reading,11,Lebanon Valley -30.0,30.0
+Misericordia,Delaware Valley,11,Misericordia -6.0,6.0
+Rockford,Wisconsin-Lutheran,11,Wisconsin-Lutheran -25.0,-25.0
+Kenyon,Denison University,11,Denison University -14.0,-14.0
+Carthage,Augustana (IL),11,Augustana (IL) -8.0,-8.0
+William Paterson,Kean,11,William Paterson -3.5,3.5
+Berry College,Maryville College (TN),11,Berry College -15.5,15.5
+Methodist,Brevard College,11,Brevard College -26.5,-26.5
+Ole Miss,The Citadel,11,Ole Miss -49.5,49.5
+Illinois Wesleyan,Carroll University (WI),11,Illinois Wesleyan -10.0,10.0
+Wheaton,Millikin,11,Wheaton -44.0,44.0
+Elmhurst,North Central College,11,North Central College -82.0,-82.0
+Washington University (St. Louis),North Park,11,Washington University (St. Louis) -22.5,22.5
+Augsburg,Gustavus Adolphus,11,Gustavus Adolphus -5.5,-5.5
+Saint John's (MN),St. Scholastica,11,Saint John's (MN) -44.5,44.5
+Ohio Northern,Baldwin Wallace,11,Baldwin Wallace -5.0,-5.0
+Capital,Muskingum University,11,Muskingum University -7.0,-7.0
+VMI,Wofford,11,Wofford -22.0,-22.0
+Gardner-Webb,Southeast Missouri State,11,Gardner-Webb -2.0,2.0
 Heidelberg,Wilmington (OH),11,Heidelberg -7.0,7.0
-Franklin,Bluffton,11,Franklin -7.0,7.0
-Hanover College,Otterbein,11,Hanover College -45.0,45.0
-VMI,Wofford,11,Wofford -19.0,-19.0
-South Carolina State,Howard,11,South Carolina State -11.5,11.5
-Gardner-Webb,Southeast Missouri State,11,Gardner-Webb -17.0,17.0
-Western Illinois,Lindenwood,11,Lindenwood -9.5,-9.5
-Elon,Rhode Island,11,Rhode Island -0.5,-0.5
-North Carolina Central,Norfolk State,11,North Carolina Central -29.5,29.5
-Campbell,William & Mary,11,William & Mary -7.0,-7.0
-Wisconsin-Whitewater,Wisconsin-Eau Claire,11,Wisconsin-Whitewater -23.5,23.5
-Wisconsin-River Falls,Wisconsin-Lacrosse,11,Wisconsin-River Falls -3.0,3.0
-UT Martin,Tennessee State,11,UT Martin -9.5,9.5
-North Dakota,North Dakota State,11,North Dakota State -12.5,-12.5
-Northwestern State,Incarnate Word,11,Incarnate Word -13.5,-13.5
-Youngstown State,Southern Illinois,11,Southern Illinois -6.0,-6.0
-Northern Iowa,Murray State,11,Northern Iowa -15.0,15.0
-Roosevelt,Wayne State (MI),11,Wayne State (MI) -13.0,-13.0
-Grand Valley State University,Michigan Tech,11,Grand Valley State University -2.0,2.0
-Upper Iowa University,Quincy,11,Upper Iowa University -7.0,7.0
-Augustana University (SD),Minnesota State Mankato,11,Minnesota State Mankato -13.5,-13.5
-Washburn,Emporia State University,11,Emporia State University -8.5,-8.5
-Central Missouri,Pittsburg St,11,Pittsburg St -8.5,-8.5
-Crown College,Martin Luther,11,Crown College -2.5,2.5
-University of Mary,Winona State,11,Winona State -5.5,-5.5
-Eureka College,Lakeland,11,Lakeland -33.5,-33.5
-Benedictine University,Concordia University Chicago,11,Benedictine University -29.0,29.0
-Southwest Baptist,Indianapolis,11,Indianapolis -31.0,-31.0
-Aurora,St. Norbert,11,Aurora -13.5,13.5
-Bethel (MN),Carleton,11,Bethel (MN) -17.5,17.5
-Macalester,Concordia Moorhead,11,Concordia Moorhead -23.5,-23.5
-Trinity University TX,Millsaps,11,Trinity University TX -23.0,23.0
-Rose-Hulman,Anderson (IN),11,Rose-Hulman -22.0,22.0
-Sewanee,Centre College Kentucky,11,Centre College Kentucky -10.0,-10.0
-LYONCOLL,Texas Lutheran,11,Texas Lutheran -21.5,-21.5
-Wisconsin-Oshkosh,Wisconsin-Stevens Pt,11,Wisconsin-Oshkosh -19.0,19.0
-Allen,Edward Waters,11,Edward Waters -18.0,-18.0
-Henderson State,East Central (OK),11,Henderson State -8.0,8.0
-East Texas Baptist University,Howard Payne,11,Howard Payne -9.0,-9.0
-Mary Hardin-Baylor,Hardin-Simmons,11,Hardin-Simmons -19.5,-19.5
-Coe College,Loras College,11,Coe College -39.5,39.5
-Buena Vista,Nebraska Wesleyan,11,Nebraska Wesleyan -6.5,-6.5
-Simpson College (IA),Central College,11,Central College -3.0,-3.0
-Cornell College (IA),Illinois College,11,Illinois College -23.0,-23.0
-Fort Valley State,Albany State GA,11,Albany State GA -22.5,-22.5
-Southwest Minnesota State,Concordia University St Paul,11,Concordia University St Paul -5.5,-5.5
-Greeneville,Wingate,11,Wingate -25.5,-25.5
-Colorado School Of Mines,CSU Pueblo,11,CSU Pueblo -14.0,-14.0
-Beloit,Chicago,11,Chicago -50.5,-50.5
-Grinnell,Lawrence University,11,Grinnell -5.5,5.5
-Monmouth (IL),Ripon,11,Monmouth (IL) -41.5,41.5
-Adams State,Black Hills State,11,Black Hills State -15.5,-15.5
-Bloomsburg,Kutztown University,11,Kutztown University -41.5,-41.5
+South Carolina State,Howard,11,South Carolina State -15.5,15.5
+Hanover College,Otterbein,11,Hanover College -43.5,43.5
+Mount St. Joseph,Manchester,11,Mount St. Joseph -40.0,40.0
+Marietta,University of Mount Union,11,University of Mount Union -46.0,-46.0
+Franklin,Bluffton,11,Franklin -12.0,12.0
+Fort Valley State,Albany State GA,11,Albany State GA -19.0,-19.0
+North Carolina Central,Norfolk State,11,North Carolina Central -30.0,30.0
+Northwestern State,Incarnate Word,11,Incarnate Word -15.0,-15.0
+Bethel (MN),Carleton,11,Bethel (MN) -20.0,20.0
+North Dakota,North Dakota State,11,North Dakota State -11.5,-11.5
+Aurora,St. Norbert,11,Aurora -13.0,13.0
+Augustana University (SD),Minnesota State Mankato,11,Minnesota State Mankato -14.0,-14.0
+Southwest Minnesota State,Concordia University St Paul,11,Concordia University St Paul -4.5,-4.5
 Sioux Falls,Wayne State (NE),11,Sioux Falls -5.0,5.0
-Huntingdon College (AL),Southern Virginia,11,Huntingdon College (AL) -8.5,8.5
-Central Oklahoma,Missouri Southern State,11,Central Oklahoma -9.0,9.0
-Midwestern State,West Texas A&M,11,West Texas A&M -11.0,-11.0
-Northwest Missouri St,Missouri Western,11,Northwest Missouri St -29.5,29.5
-Western Carolina,Mercer,11,Mercer -9.0,-9.0
-UTEP,Jacksonville State,11,Jacksonville State -3.0,-3.0
-Houston Christian,Stephen F. Austin,11,Stephen F. Austin -16.5,-16.5
-Alabama A&M,Prairie View A&M,11,Prairie View A&M -7.0,-7.0
-Eastern Kentucky,Southern Utah,11,Southern Utah -0.5,-0.5
-Montana,Eastern Washington,11,Montana -34.0,34.0
-Guilford College,Averett,11,Guilford College -19.5,19.5
-Wisconsin-Platteville,Wisconsin-Stout,11,Wisconsin-Platteville -12.5,12.5
-Miles College,Tuskegee,11,Tuskegee -14.5,-14.5
-Lane College,Kentucky State,11,Kentucky State -40.0,-40.0
-Delaware,Louisiana Tech,11,Louisiana Tech -10.5,-10.5
-Middle Tennessee,Florida International,11,Florida International -2.5,-2.5
-Abilene Christian,Utah Tech,11,Abilene Christian -9.5,9.5
-Alabama State,Texas Southern,11,Alabama State -7.0,7.0
-Arkansas-Pine Bluff,Florida A&M,11,Arkansas-Pine Bluff -4.0,4.0
-Mississippi Valley State,Jackson State,11,Jackson State -28.5,-28.5
-Oklahoma Baptist,Arkansas Tech,11,Arkansas Tech -17.5,-17.5
-Montana State,Weber State,11,Montana State -35.0,35.0
-Clark Atlanta,Morehouse College,11,Morehouse College -3.5,-3.5
-Savannah St,Benedict College,11,Benedict College -21.0,-21.0
-New Mexico Highlands,Fort Lewis,11,New Mexico Highlands -13.0,13.0
-Chadron St,Western Colorado,11,Western Colorado -14.0,-14.0
-Northern State,Minot State,11,Northern State -20.5,20.5
-Southern Arkansas,Southeastern Oklahoma State,11,Southern Arkansas -14.5,14.5
-Southwestern Oklahoma State,Ouachita Baptist,11,Ouachita Baptist -7.0,-7.0
-Southern Nazarene,Harding University,11,Harding University -44.0,-44.0
+Wisconsin-River Falls,Wisconsin-Lacrosse,11,Wisconsin-River Falls -12.0,12.0
+Wisconsin-Oshkosh,Wisconsin-Stevens Pt,11,Wisconsin-Oshkosh -17.5,17.5
+LYONCOLL,Texas Lutheran,11,Texas Lutheran -29.0,-29.0
+Sewanee,Centre College Kentucky,11,Centre College Kentucky -10.0,-10.0
+Rose-Hulman,Anderson (IN),11,Rose-Hulman -20.5,20.5
+Trinity University TX,Millsaps,11,Trinity University TX -18.0,18.0
+Bloomsburg,Kutztown University,11,Kutztown University -42.0,-42.0
+Adams State,Black Hills State,11,Black Hills State -18.0,-18.0
+Crown College,Martin Luther,11,Crown College -4.0,4.0
+University of Mary,Winona State,11,Winona State -5.5,-5.5
+Eureka College,Lakeland,11,Lakeland -32.5,-32.5
+Benedictine University,Concordia University Chicago,11,Benedictine University -30.5,30.5
+Youngstown State,Southern Illinois,11,Southern Illinois -6.0,-6.0
+Northern Iowa,Murray State,11,Northern Iowa -12.5,12.5
+Western Illinois,Lindenwood,11,Lindenwood -6.5,-6.5
+Elon,Rhode Island,11,Rhode Island -3.5,-3.5
+Campbell,William & Mary,11,William & Mary -10.0,-10.0
+Colorado School Of Mines,CSU Pueblo,11,CSU Pueblo -11.0,-11.0
+Greeneville,Wingate,11,Wingate -28.5,-28.5
+Allen,Edward Waters,11,Edward Waters -19.0,-19.0
+Monmouth (IL),Ripon,11,Monmouth (IL) -39.0,39.0
+Grinnell,Lawrence University,11,Grinnell -13.0,13.0
+Beloit,Chicago,11,Chicago -41.0,-41.0
+Cornell College (IA),Illinois College,11,Illinois College -19.5,-19.5
+Simpson College (IA),Central College,11,Central College -8.5,-8.5
+Buena Vista,Nebraska Wesleyan,11,Nebraska Wesleyan -9.5,-9.5
+Coe College,Loras College,11,Coe College -34.5,34.5
+Mary Hardin-Baylor,Hardin-Simmons,11,Hardin-Simmons -17.0,-17.0
+East Texas Baptist University,Howard Payne,11,Howard Payne -5.5,-5.5
+Henderson State,East Central (OK),11,Henderson State -9.5,9.5
+Southwest Baptist,Indianapolis,11,Indianapolis -33.0,-33.0
+Upper Iowa University,Quincy,11,Upper Iowa University -16.5,16.5
+Grand Valley State University,Michigan Tech,11,Grand Valley State University -2.5,2.5
+Roosevelt,Wayne State (MI),11,Wayne State (MI) -9.5,-9.5
+Midwestern State,West Texas A&M,11,West Texas A&M -16.0,-16.0
+Central Oklahoma,Missouri Southern State,11,Central Oklahoma -13.0,13.0
+Washburn,Emporia State University,11,Washburn -3.0,3.0
+Wisconsin-Whitewater,Wisconsin-Eau Claire,11,Wisconsin-Whitewater -28.5,28.5
+Macalester,Concordia Moorhead,11,Concordia Moorhead -22.0,-22.0
+Central Missouri,Pittsburg St,11,Pittsburg St -11.5,-11.5
+UT Martin,Tennessee State,11,UT Martin -11.0,11.0
+Huntingdon College (AL),Southern Virginia,11,Huntingdon College (AL) -4.0,4.0
+Western Carolina,Mercer,11,Mercer -11.5,-11.5
+Northwest Missouri St,Missouri Western,11,Northwest Missouri St -35.0,35.0
+Miles College,Tuskegee,11,Tuskegee -15.0,-15.0
+Wisconsin-Platteville,Wisconsin-Stout,11,Wisconsin-Platteville -19.5,19.5
+Alabama A&M,Prairie View A&M,11,Prairie View A&M -5.0,-5.0
+Southern Arkansas,Southeastern Oklahoma State,11,Southern Arkansas -16.0,16.0
+Mississippi Valley State,Jackson State,11,Jackson State -27.5,-27.5
+Arkansas-Pine Bluff,Florida A&M,11,Arkansas-Pine Bluff -2.5,2.5
+Alabama State,Texas Southern,11,Alabama State -13.0,13.0
+Abilene Christian,Utah Tech,11,Abilene Christian -9.0,9.0
+Southwestern Oklahoma State,Ouachita Baptist,11,Ouachita Baptist -6.0,-6.0
+Eastern Kentucky,Southern Utah,11,Southern Utah -9.5,-9.5
+New Mexico Highlands,Fort Lewis,11,New Mexico Highlands -19.0,19.0
+Clark Atlanta,Morehouse College,11,Morehouse College -7.0,-7.0
+Guilford College,Averett,11,Guilford College -16.0,16.0
+Savannah St,Benedict College,11,Benedict College -21.5,-21.5
 Northwestern Oklahoma State,Arkansas-Monticello,11,Arkansas-Monticello -8.5,-8.5
-New Haven,Merrimack,11,Merrimack -15.5,-15.5
-Samford,East Tennessee State,11,East Tennessee State -25.5,-25.5
-UConn,Duke,11,Duke -17.0,-17.0
-Lamar,SE Louisiana,11,SE Louisiana -0.5,-0.5
-Austin Peay,Central Arkansas,11,Austin Peay -14.0,14.0
-Bridgewater State,Anna Maria College,11,Anna Maria College -15.0,-15.0
-Truman State,William Jewell,11,Truman State -18.5,18.5
-Valdosta State,Delta State,11,Delta State -18.5,-18.5
-Colorado Mesa,South Dakota Mines,11,Colorado Mesa -27.5,27.5
-Puget Sound,Linfield College,11,Linfield College -41.0,-41.0
-Lewis & Clark College,Pacific Lutheran,11,Lewis & Clark College -22.0,22.0
-Willamette,Whitworth,11,Whitworth -22.0,-22.0
-New Mexico State,Kennesaw State,11,Kennesaw State -15.5,-15.5
-NEWBERG,Pacific (OR),11,Pacific (OR) -12.0,-12.0
-North Alabama,West Georgia,11,West Georgia -25.5,-25.5
-Alcorn State,Southern,11,Alcorn State -6.0,6.0
-La Verne,Chapman,11,Chapman -36.0,-36.0
-Portland State,Sacramento State,11,Sacramento State -23.5,-23.5
-Davidson,Presbyterian,11,Presbyterian -42.0,-42.0
-Colby College,Bowdoin,11,Colby College -20.0,20.0
-Montclair State,College Of New Jersey,11,College Of New Jersey -16.5,-16.5
-East Texas A&M,McNeese,11,East Texas A&M -20.5,20.5
-Catawba,Anderson (Sc),11,Anderson (Sc) -1.5,-1.5
-Shenandoah,Gallaudet,11,Shenandoah -32.5,32.5
-Wilson,ERSKINE,11,ERSKINE -3.5,-3.5
-UT Rio Grande Valley,Nicholls,11,UT Rio Grande Valley -3.0,3.0
-Northern Arizona,Northern Colorado,11,Northern Arizona -0.5,0.5
-Idaho State,Cal Poly,11,Cal Poly -6.0,-6.0
-Christopher Newport,Salisbury,11,Christopher Newport -1.5,1.5
-East Stroudsburg University,Millersville,11,East Stroudsburg University -32.0,32.0
-Shorter,North Greenville,11,North Greenville -14.0,-14.0
-Angelo State,Western Oregon,11,Angelo State -19.0,19.0
-CENTENARY,Austin,11,Austin -13.5,-13.5
-Idaho,UC Davis,11,UC Davis -9.5,-9.5
-Notre Dame,Navy,11,Notre Dame -38.0,38.0
-Utah State,Nevada,11,Utah State -17.0,17.0
-Texas A&M-Kingsville,Western New Mexico,11,Texas A&M-Kingsville -28.5,28.5
-UT Permian Basin,Eastern New Mexico,11,UT Permian Basin -26.0,26.0
-Sul Ross State,Central Washington,11,Central Washington -70.5,-70.5
-Pomona Pitzer,California Lutheran University,11,Pomona Pitzer -2.0,2.0
-Oregon State,Sam Houston,11,Oregon State -12.0,12.0
-Redlands,Claremont-Mudd-Scripps College,11,Redlands -3.5,3.5
-Hawai'i,San Diego State,11,San Diego State -15.0,-15.0
-Akron,Kent State,12,Kent State -5.0,-5.0
-Western Michigan,Ohio,12,Western Michigan -1.0,1.0
-Massachusetts,Northern Illinois,12,Northern Illinois -14.0,-14.0
-Miami (OH),Toledo,12,Toledo -11.5,-11.5
-Central Michigan,Buffalo,12,Buffalo -2.0,-2.0
-Old Dominion,Troy,12,Old Dominion -14.0,14.0
-North Carolina Central,South Carolina State,12,North Carolina Central -7.0,7.0
-Salisbury,Castleton,12,Salisbury -59.5,59.5
-College Of New Jersey,Christopher Newport,12,Christopher Newport -22.5,-22.5
-Louisville,Clemson,12,Louisville -10.0,10.0
-Oregon,Minnesota,12,Oregon -25.0,25.0
-Charlotte,UTSA,12,UTSA -25.0,-25.0
-LSU,Arkansas,12,LSU -13.0,13.0
-Alabama,Oklahoma,12,Alabama -1.5,1.5
-Georgia,Texas,12,Georgia -8.0,8.0
-Wake Forest,North Carolina,12,Wake Forest -24.0,24.0
-Fresno State,Wyoming,12,Wyoming -3.0,-3.0
-New Mexico,Colorado State,12,New Mexico -2.5,2.5
-Pittsburgh,Notre Dame,12,Notre Dame -25.5,-25.5
-Miami,NC State,12,Miami -24.0,24.0
-Florida State,Virginia Tech,12,Florida State -21.0,21.0
-Georgia Southern,Coastal Carolina,12,Coastal Carolina -1.0,-1.0
-USC,Iowa,12,USC -10.5,10.5
-Tulsa,Oregon State,12,Tulsa -1.0,1.0
-Illinois,Maryland,12,Illinois -10.0,10.0
-UAB,North Texas,12,North Texas -31.5,-31.5
-James Madison,App State,12,James Madison -14.0,14.0
-Washington,Purdue,12,Washington -18.5,18.5
-Indiana,Wisconsin,12,Indiana -36.0,36.0
-Ohio State,UCLA,12,Ohio State -32.5,32.5
-Texas A&M,South Carolina,12,Texas A&M -19.5,19.5
-Missouri,Mississippi State,12,Missouri -8.0,8.0
-Ole Miss,Florida,12,Ole Miss -9.0,9.0
-BYU,TCU,12,BYU -4.0,4.0
-Cincinnati,Arizona,12,Cincinnati -1.5,1.5
-Oklahoma State,Kansas State,12,Kansas State -24.5,-24.5
-Texas Tech,UCF,12,Texas Tech -28.0,28.0
-Portland State,Montana,12,Montana -39.0,-39.0
-Mississippi Valley State,Alabama State,12,Alabama State -24.0,-24.0
-Michigan State,Penn State,12,Penn State -13.0,-13.0
-Northwestern,Michigan,12,Michigan -9.5,-9.5
-Boston College,Georgia Tech,12,Georgia Tech -33.5,-33.5
-Duke,Virginia,12,Virginia -5.0,-5.0
-Wagner,Stonehill,12,Stonehill -11.0,-11.0
-Mercyhurst,Robert Morris,12,Mercyhurst -24.0,24.0
-St. Francis (PA),Long Island University,12,Long Island University -23.5,-23.5
-St. Thomas (MN),Presbyterian,12,Presbyterian -6.0,-6.0
-Southern,Texas Southern,12,Texas Southern -16.5,-16.5
-Jackson State,Bethune-Cookman,12,Jackson State -9.5,9.5
-UL Monroe,South Alabama,12,South Alabama -6.0,-6.0
-Southern Miss,Texas State,12,Southern Miss -2.5,2.5
-East Carolina,Memphis,12,Memphis -5.5,-5.5
-Tulane,Florida Atlantic,12,Tulane -23.5,23.5
-Ball State,Eastern Michigan,12,Ball State -4.5,4.5
-Georgia State,Marshall,12,Marshall -18.5,-18.5
-Prairie View A&M,Arkansas-Pine Bluff,12,Prairie View A&M -10.5,10.5
-Baylor,Utah,12,Utah -21.5,-21.5
-Arizona State,West Virginia,12,Arizona State -13.5,13.5
-Davenport,Ferris State,12,Ferris State -40.5,-40.5
-Navy,South Florida,12,South Florida -21.5,-21.5
-Pace,Franklin Pierce,12,Franklin Pierce -15.5,-15.5
-Bentley,American International,12,Bentley -11.0,11.0
-West Liberty,Wheeling,12,Wheeling -9.0,-9.0
-West Virginia State,University Of Charleston (WV),12,University Of Charleston (WV) -14.0,-14.0
-Fairmont State,Frostburg State,12,Frostburg State -15.5,-15.5
-Norfolk State,Morgan State,12,Morgan State -3.5,-3.5
-Murray State,North Dakota,12,North Dakota -40.0,-40.0
-Western Carolina,East Tennessee State,12,East Tennessee State -2.5,-2.5
-Bucknell,Holy Cross,12,Holy Cross -1.5,-1.5
-UConn,Air Force,12,UConn -8.5,8.5
-Columbia,Brown,12,Brown -19.0,-19.0
-Hartwick,Hilbert College,12,Hartwick -17.5,17.5
-Anna Maria College,Dean College,12,Anna Maria College -45.0,45.0
-St John Fisher University,Alfred State,12,St John Fisher University -9.0,9.0
-Findlay,Tiffin,12,Findlay -3.0,3.0
-West Chester,Assumption,12,Assumption -3.5,-3.5
-Worcester Polytechnic Institute,Salve Regina,12,Salve Regina -33.0,-33.0
-Delaware Valley,Widener,12,Delaware Valley -15.0,15.0
-Bryant,New Hampshire,12,New Hampshire -5.5,-5.5
-North Carolina A&T,Monmouth,12,Monmouth -25.5,-25.5
-UAlbany,Towson,12,Towson -14.0,-14.0
-Youngstown State,Indiana State,12,Youngstown State -6.0,6.0
-Dayton,Drake,12,Drake -11.5,-11.5
+Oklahoma Baptist,Arkansas Tech,11,Arkansas Tech -12.0,-12.0
+Southern Nazarene,Harding University,11,Harding University -47.0,-47.0
+Northern State,Minot State,11,Northern State -21.0,21.0
+Chadron St,Western Colorado,11,Western Colorado -11.5,-11.5
+Lane College,Kentucky State,11,Kentucky State -39.0,-39.0
+Houston Christian,Stephen F. Austin,11,Stephen F. Austin -28.0,-28.0
+Montana State,Weber State,11,Montana State -30.5,30.5
+Delaware,Louisiana Tech,11,Louisiana Tech -13.5,-13.5
+UTEP,Jacksonville State,11,Jacksonville State -5.5,-5.5
+Montana,Eastern Washington,11,Montana -27.0,27.0
+Middle Tennessee,Florida International,11,Florida International -7.5,-7.5
+UConn,Duke,11,Duke -14.0,-14.0
+New Haven,Merrimack,11,Merrimack -16.5,-16.5
+Samford,East Tennessee State,11,East Tennessee State -23.5,-23.5
+New Mexico State,Kennesaw State,11,Kennesaw State -17.5,-17.5
+Austin Peay,Central Arkansas,11,Austin Peay -12.0,12.0
+Alcorn State,Southern,11,Alcorn State -3.5,3.5
+Lamar,SE Louisiana,11,SE Louisiana -5.5,-5.5
+NEWBERG,Pacific (OR),11,Pacific (OR) -1.0,-1.0
+Willamette,Whitworth,11,Whitworth -33.0,-33.0
+Lewis & Clark College,Pacific Lutheran,11,Lewis & Clark College -11.5,11.5
+Puget Sound,Linfield College,11,Linfield College -33.5,-33.5
+La Verne,Chapman,11,Chapman -35.0,-35.0
+Colorado Mesa,South Dakota Mines,11,Colorado Mesa -20.0,20.0
+Valdosta State,Delta State,11,Delta State -19.0,-19.0
+Truman State,William Jewell,11,Truman State -28.5,28.5
+Bridgewater State,Anna Maria College,11,Anna Maria College -17.0,-17.0
+North Alabama,West Georgia,11,West Georgia -14.0,-14.0
+Portland State,Sacramento State,11,Sacramento State -22.5,-22.5
+Colby College,Bowdoin,11,Colby College -14.5,14.5
+East Texas A&M,McNeese,11,East Texas A&M -13.5,13.5
+Davidson,Presbyterian,11,Presbyterian -41.0,-41.0
+Montclair State,College Of New Jersey,11,College Of New Jersey -15.5,-15.5
+Wilson,ERSKINE,11,ERSKINE -2.5,-2.5
+Catawba,Anderson (Sc),11,Catawba -1.0,1.0
+Shenandoah,Gallaudet,11,Shenandoah -38.5,38.5
+Christopher Newport,Salisbury,11,Christopher Newport -2.0,2.0
+UT Rio Grande Valley,Nicholls,11,UT Rio Grande Valley -6.5,6.5
+Northern Arizona,Northern Colorado,11,Northern Arizona -3.5,3.5
+Idaho State,Cal Poly,11,Cal Poly -8.5,-8.5
+East Stroudsburg University,Millersville,11,East Stroudsburg University -27.0,27.0
+Angelo State,Western Oregon,11,Angelo State -12.5,12.5
+Shorter,North Greenville,11,North Greenville -20.5,-20.5
+CENTENARY,Austin,11,Austin -10.0,-10.0
+Idaho,UC Davis,11,UC Davis -13.0,-13.0
+Notre Dame,Navy,11,Notre Dame -36.0,36.0
+Utah State,Nevada,11,Utah State -17.5,17.5
+Texas A&M-Kingsville,Western New Mexico,11,Texas A&M-Kingsville -31.5,31.5
+UT Permian Basin,Eastern New Mexico,11,UT Permian Basin -25.0,25.0
+Sul Ross State,Central Washington,11,Central Washington -62.5,-62.5
+Redlands,Claremont-Mudd-Scripps College,11,Redlands -7.0,7.0
+Oregon State,Sam Houston,11,Oregon State -16.0,16.0
+Pomona Pitzer,California Lutheran University,11,California Lutheran University -3.0,-3.0
+Hawai'i,San Diego State,11,San Diego State -10.0,-10.0
+Akron,Kent State,12,Kent State -1.5,-1.5
+Western Michigan,Ohio,12,Western Michigan -3.5,3.5
+Central Michigan,Buffalo,12,Central Michigan -5.0,5.0
+Massachusetts,Northern Illinois,12,Northern Illinois -10.5,-10.5
+Miami (OH),Toledo,12,Toledo -14.5,-14.5
+Old Dominion,Troy,12,Old Dominion -9.5,9.5
+North Carolina Central,South Carolina State,12,North Carolina Central -6.5,6.5
+Salisbury,Castleton,12,Salisbury -60.5,60.5
+College Of New Jersey,Christopher Newport,12,Christopher Newport -22.0,-22.0
+Louisville,Clemson,12,Louisville -14.5,14.5
+Oregon,Minnesota,12,Oregon -27.5,27.5
+Pittsburgh,Notre Dame,12,Notre Dame -22.5,-22.5
+Florida State,Virginia Tech,12,Florida State -15.0,15.0
+New Mexico,Colorado State,12,New Mexico -5.0,5.0
+UAB,North Texas,12,North Texas -29.5,-29.5
+Southern Miss,Texas State,12,Southern Miss -5.0,5.0
+East Carolina,Memphis,12,Memphis -1.0,-1.0
+Tulane,Florida Atlantic,12,Tulane -24.0,24.0
+Ball State,Eastern Michigan,12,Ball State -7.0,7.0
+Portland State,Montana,12,Montana -35.5,-35.5
+LSU,Arkansas,12,LSU -10.5,10.5
+Georgia,Texas,12,Georgia -9.5,9.5
+Alabama,Oklahoma,12,Alabama -2.0,2.0
+Georgia Southern,Coastal Carolina,12,Georgia Southern -3.0,3.0
+Georgia State,Marshall,12,Marshall -18.0,-18.0
+Wake Forest,North Carolina,12,Wake Forest -23.0,23.0
+UL Monroe,South Alabama,12,South Alabama -6.5,-6.5
+James Madison,App State,12,James Madison -23.0,23.0
+Baylor,Utah,12,Utah -18.0,-18.0
+Arizona State,West Virginia,12,Arizona State -20.0,20.0
+Miami,NC State,12,Miami -20.0,20.0
+Ohio State,UCLA,12,Ohio State -30.0,30.0
+Jackson State,Bethune-Cookman,12,Jackson State -10.5,10.5
+Prairie View A&M,Arkansas-Pine Bluff,12,Prairie View A&M -11.0,11.0
+Mississippi Valley State,Alabama State,12,Alabama State -23.5,-23.5
+USC,Iowa,12,USC -12.0,12.0
+Duke,Virginia,12,Virginia -6.0,-6.0
+Boston College,Georgia Tech,12,Georgia Tech -33.0,-33.0
+Northwestern,Michigan,12,Michigan -8.0,-8.0
+Michigan State,Penn State,12,Penn State -15.0,-15.0
+Indiana,Wisconsin,12,Indiana -35.0,35.0
+Tulsa,Oregon State,12,Oregon State -2.0,-2.0
+Washington,Purdue,12,Washington -15.5,15.5
+Texas A&M,South Carolina,12,Texas A&M -17.0,17.0
+Missouri,Mississippi State,12,Missouri -11.0,11.0
+Ole Miss,Florida,12,Ole Miss -10.0,10.0
+St. Francis (PA),Long Island University,12,Long Island University -21.5,-21.5
+Charlotte,UTSA,12,UTSA -22.5,-22.5
+Wagner,Stonehill,12,Stonehill -7.0,-7.0
+Mercyhurst,Robert Morris,12,Mercyhurst -19.0,19.0
+Illinois,Maryland,12,Illinois -14.0,14.0
+St. Thomas (MN),Presbyterian,12,Presbyterian -5.5,-5.5
+Southern,Texas Southern,12,Texas Southern -12.5,-12.5
+Texas Tech,UCF,12,Texas Tech -19.5,19.5
+Oklahoma State,Kansas State,12,Kansas State -25.0,-25.0
+Cincinnati,Arizona,12,Cincinnati -1.0,1.0
+Fresno State,Wyoming,12,Pick'em,0.0
+BYU,TCU,12,BYU -5.0,5.0
+Harvard,Pennsylvania,12,Harvard -19.0,19.0
+Columbia,Brown,12,Brown -12.0,-12.0
+Bucknell,Holy Cross,12,Holy Cross -7.0,-7.0
+UAlbany,Towson,12,Towson -16.5,-16.5
+Murray State,North Dakota,12,North Dakota -39.0,-39.0
 Sacred Heart,Merrimack,12,Sacred Heart -0.5,0.5
-Harvard,Pennsylvania,12,Harvard -19.5,19.5
-Duquesne,Central Connecticut,12,Duquesne -5.0,5.0
+Duquesne,Central Connecticut,12,Duquesne -9.5,9.5
+Youngstown State,Indiana State,12,Youngstown State -8.5,8.5
+Bryant,New Hampshire,12,New Hampshire -9.5,-9.5
+Western Carolina,East Tennessee State,12,East Tennessee State -0.5,-0.5
+Dayton,Drake,12,Drake -13.5,-13.5
+North Carolina A&T,Monmouth,12,Monmouth -26.5,-26.5
+Norfolk State,Morgan State,12,Morgan State -6.0,-6.0
+St John Fisher University,Alfred State,12,St John Fisher University -12.5,12.5
 Princeton,Yale,12,Yale -4.5,-4.5
-UMass Dartmouth,Plymouth State,12,UMass Dartmouth -7.0,7.0
-Worcester St,Framingham State,12,Framingham State -13.5,-13.5
-Bridgewater State,Mass Maritime,12,Mass Maritime -4.5,-4.5
-FDU-Florham,Reading,12,Reading -5.0,-5.0
-Endicott College,Curry College,12,Endicott College -48.0,48.0
-Walsh,Northwood (MI),12,Northwood (MI) -17.5,-17.5
-Northwestern (MN),Westminster College (MO),12,Northwestern (MN) -6.0,6.0
+Findlay,Tiffin,12,Tiffin -2.0,-2.0
+Anna Maria College,Dean College,12,Anna Maria College -45.0,45.0
+Hartwick,Hilbert College,12,Hartwick -20.0,20.0
+Davenport,Ferris State,12,Ferris State -34.5,-34.5
+Michigan Tech,Saginaw Valley State,12,Michigan Tech -5.5,5.5
+West Virginia State,University Of Charleston (WV),12,University Of Charleston (WV) -12.5,-12.5
+Fairmont State,Frostburg State,12,Frostburg State -14.5,-14.5
+West Liberty,Wheeling,12,Wheeling -9.0,-9.0
+Bentley,American International,12,Bentley -9.5,9.5
+Pace,Franklin Pierce,12,Franklin Pierce -17.5,-17.5
+Bloomsburg,Slippery Rock,12,Slippery Rock -24.5,-24.5
+Millersville,Edinboro University,12,Edinboro University -16.5,-16.5
+Kutztown University,Indiana-Pennsylvania,12,Kutztown University -10.0,10.0
+Shepherd,Seton Hill,12,Shepherd -5.0,5.0
+Ithaca College,Cortland,12,Cortland -13.0,-13.0
+Wilkes,Western Connecticut St,12,Western Connecticut St -7.5,-7.5
+MIT,Norwich,12,MIT -32.0,32.0
+Maryville College (TN),Trinity University TX,12,Trinity University TX -7.0,-7.0
+Biddeford,New England College,12,Biddeford -68.5,68.5
+Albright,Lebanon Valley,12,Lebanon Valley -12.0,-12.0
+Misericordia,Kings College (PA),12,Misericordia -15.0,15.0
+Fitchburg State,Westfield State,12,Fitchburg State -8.0,8.0
+Otterbein,Ohio Northern,12,Ohio Northern -43.0,-43.0
+Ursinus,Carnegie Mellon,12,Carnegie Mellon -13.5,-13.5
 Coast Guard,Merchant Marine Academy,12,Merchant Marine Academy -0.5,-0.5
-Ursinus,Carnegie Mellon,12,Carnegie Mellon -19.0,-19.0
-Otterbein,Ohio Northern,12,Ohio Northern -40.5,-40.5
-Michigan Tech,Saginaw Valley State,12,Michigan Tech -10.0,10.0
-Fitchburg State,Westfield State,12,Fitchburg State -10.0,10.0
-Misericordia,Kings College (PA),12,Misericordia -22.0,22.0
-Albright,Lebanon Valley,12,Lebanon Valley -9.0,-9.0
-Biddeford,New England College,12,Biddeford -71.5,71.5
-Maryville College (TN),Trinity University TX,12,Maryville College (TN) -1.5,1.5
-MIT,Norwich,12,MIT -36.0,36.0
-Wilkes,Western Connecticut St,12,Western Connecticut St -17.0,-17.0
-Ithaca College,Cortland,12,Cortland -10.0,-10.0
-Shepherd,Seton Hill,12,Shepherd -3.0,3.0
-Kutztown University,Indiana-Pennsylvania,12,Kutztown University -9.0,9.0
-Millersville,Edinboro University,12,Edinboro University -24.5,-24.5
-Bloomsburg,Slippery Rock,12,Slippery Rock -17.5,-17.5
-Marist,Davidson,12,Marist -28.0,28.0
-Moravian,Susquehanna,12,Susquehanna -46.0,-46.0
-Saint Vincent,Westminster (PA),12,Westminster (PA) -33.5,-33.5
-Grinnell,Cornell College (IA),12,Cornell College (IA) -5.0,-5.0
-Beloit,Illinois College,12,Illinois College -45.5,-45.5
-Monmouth (IL),Knox College,12,Monmouth (IL) -68.5,68.5
-Ashland,Lake Erie,12,Ashland -38.0,38.0
-Alfred University,SUNY Morrisville,12,Alfred University -10.5,10.5
-Southeastern Oklahoma State,East Central (OK),12,East Central (OK) -8.0,-8.0
-Grand Valley State University,Roosevelt,12,Grand Valley State University -33.0,33.0
-Northern Michigan,Wayne State (MI),12,Wayne State (MI) -4.0,-4.0
-Kentucky Wesleyan,Thomas More College,12,Thomas More College -19.5,-19.5
-Nebraska-Kearney,Central Missouri,12,Central Missouri -1.0,-1.0
-West Virginia Wesleyan,Glenville State,12,Glenville State -42.0,-42.0
-Southern Connecticut State,Post University,12,Post University -4.5,-4.5
-Minnesota State Mankato,Minnesota State Moorhead,12,Minnesota State Mankato -18.0,18.0
-Concordia University St Paul,Sioux Falls,12,Sioux Falls -30.5,-30.5
-Winona State,Southwest Minnesota State,12,Winona State -24.5,24.5
+Northwestern (MN),Westminster College (MO),12,Northwestern (MN) -10.5,10.5
+Walsh,Northwood (MI),12,Northwood (MI) -20.5,-20.5
+Endicott College,Curry College,12,Endicott College -43.5,43.5
+Worcester Polytechnic Institute,Salve Regina,12,Salve Regina -24.5,-24.5
+West Chester,Assumption,12,Assumption -7.0,-7.0
+FDU-Florham,Reading,12,FDU-Florham -0.5,0.5
+Delaware Valley,Widener,12,Delaware Valley -16.5,16.5
+Bridgewater State,Mass Maritime,12,Mass Maritime -8.5,-8.5
+UMass Dartmouth,Plymouth State,12,UMass Dartmouth -8.0,8.0
+Worcester St,Framingham State,12,Framingham State -16.0,-16.0
+Marist,Davidson,12,Marist -24.0,24.0
+Navy,South Florida,12,South Florida -20.0,-20.0
+UConn,Air Force,12,UConn -7.5,7.5
+Moravian,Susquehanna,12,Susquehanna -47.5,-47.5
+Franklin & Marshall,Johns Hopkins University,12,Johns Hopkins University -32.5,-32.5
+Juniata College,Lycoming,12,Lycoming -26.5,-26.5
+Hobart College,Buffalo State,12,Hobart College -30.0,30.0
+Union (NY),Rensselaer,12,Rensselaer -4.0,-4.0
+Trine University,Kalamazoo,12,Trine University -21.5,21.5
+Southern Virginia,Lagrange College,12,Lagrange College -11.0,-11.0
+Husson,Maine Maritime,12,Husson -51.0,51.0
+Kean,Rowan,12,Rowan -28.0,-28.0
+Augustana (IL),Washington University (St. Louis),12,Washington University (St. Louis) -4.5,-4.5
+North Central College,Illinois Wesleyan,12,North Central College -43.5,43.5
+Millikin,Elmhurst,12,Millikin -22.5,22.5
+North Park,Wheaton,12,Wheaton -47.0,-47.0
+Alma,Adrian,12,Alma -13.5,13.5
+Albion,Calvin University,12,Calvin University -6.0,-6.0
+Hope College,Olivet College,12,Hope College -54.0,54.0
+Concordia University Chicago,Aurora,12,Aurora -30.5,-30.5
+Concordia-Wisconsin,Eureka College,12,Concordia-Wisconsin -47.5,47.5
+Denison University,John Carroll University,12,John Carroll University -21.5,-21.5
+Hiram College,Grove City College,12,Grove City College -37.0,-37.0
+Ohio Wesleyan,Oberlin,12,Ohio Wesleyan -40.5,40.5
+Wittenberg,Kenyon,12,Wittenberg -12.5,12.5
+Averett,Roanoke College,12,Roanoke College -32.5,-32.5
+Randolph-Macon,Hampden-Sydney,12,Hampden-Sydney -9.5,-9.5
+Shenandoah,Washington and Lee,12,Washington and Lee -6.0,-6.0
+Allegheny,Bethany (WV),12,Allegheny -25.5,25.5
+Saint Vincent,Westminster (PA),12,Westminster (PA) -33.0,-33.0
+Washington & Jefferson,Thiel,12,Washington & Jefferson -53.5,53.5
+McDaniel College,Gettysburg,12,Gettysburg -8.0,-8.0
+Western New England,Nichols College,12,Western New England -44.5,44.5
+Muhlenberg,Dickinson (PA),12,Muhlenberg -5.0,5.0
+Colgate,Lehigh,12,Lehigh -19.0,-19.0
+Georgetown,Fordham,12,Georgetown -7.5,7.5
+Greenville,Crown College,12,Crown College -3.5,-3.5
+St. Lawrence,University of Rochester (NY),12,University of Rochester (NY) -17.0,-17.0
+Stevenson,Eastern University,12,Eastern University -3.5,-3.5
+Springfield,SUNY Maritime,12,Springfield -14.5,14.5
+William Paterson,Montclair State,12,Montclair State -4.0,-4.0
+Augsburg,Hamline University,12,Augsburg -27.5,27.5
+Carleton,Concordia Moorhead,12,Carleton -7.5,7.5
+Winona State,Southwest Minnesota State,12,Winona State -24.0,24.0
+Gustavus Adolphus,Macalester,12,Gustavus Adolphus -19.5,19.5
+Concordia University St Paul,Sioux Falls,12,Sioux Falls -31.0,-31.0
+Saint John's (MN),St. Olaf,12,Saint John's (MN) -34.0,34.0
+Valparaiso,Stetson,12,Valparaiso -1.0,1.0
+Lawrence University,Ripon,12,Ripon -22.5,-22.5
+Minnesota State Mankato,Minnesota State Moorhead,12,Minnesota State Mankato -17.5,17.5
+Lake Forest College,Chicago,12,Chicago -5.5,-5.5
+Southern Connecticut State,Post University,12,Post University -2.0,-2.0
+Lenoir-Rhyne,Catawba,12,Catawba -4.5,-4.5
+Ashland,Lake Erie,12,Ashland -35.5,35.5
+Case Western Reserve,Geneva,12,Case Western Reserve -17.5,17.5
+Brevard College,North Carolina Wesleyan,12,Brevard College -10.0,10.0
+Monmouth (IL),Knox College,12,Monmouth (IL) -63.0,63.0
+Beloit,Illinois College,12,Illinois College -34.5,-34.5
+Grinnell,Cornell College (IA),12,Cornell College (IA) -6.0,-6.0
 Shippensburg,PennWest California,12,PennWest California -20.0,-20.0
-Lock Haven University,Gannon,12,Lock Haven University -7.0,7.0
-Lenoir-Rhyne,Catawba,12,Catawba -5.0,-5.0
-Carson-Newman College,Greeneville,12,Carson-Newman College -28.0,28.0
-Franklin & Marshall,Johns Hopkins University,12,Johns Hopkins University -36.5,-36.5
-Juniata College,Lycoming,12,Lycoming -19.0,-19.0
-Hobart College,Buffalo State,12,Hobart College -30.5,30.5
-Union (NY),Rensselaer,12,Rensselaer -3.5,-3.5
-Trine University,Kalamazoo,12,Trine University -15.5,15.5
-Southern Virginia,Lagrange College,12,Lagrange College -10.0,-10.0
-Husson,Maine Maritime,12,Husson -57.5,57.5
-Kean,Rowan,12,Rowan -25.0,-25.0
-Augustana (IL),Washington University (St. Louis),12,Washington University (St. Louis) -6.5,-6.5
-North Central College,Illinois Wesleyan,12,North Central College -44.5,44.5
-Millikin,Elmhurst,12,Millikin -30.5,30.5
-North Park,Wheaton,12,Wheaton -45.0,-45.0
-Alma,Adrian,12,Alma -20.5,20.5
-Albion,Calvin University,12,Calvin University -13.0,-13.0
-Hope College,Olivet College,12,Hope College -47.5,47.5
-Concordia University Chicago,Aurora,12,Aurora -31.0,-31.0
-Concordia-Wisconsin,Eureka College,12,Concordia-Wisconsin -45.0,45.0
-Denison University,John Carroll University,12,John Carroll University -23.0,-23.0
-Hiram College,Grove City College,12,Grove City College -35.0,-35.0
-Ohio Wesleyan,Oberlin,12,Ohio Wesleyan -42.5,42.5
-Wittenberg,Kenyon,12,Wittenberg -12.0,12.0
-Averett,Roanoke College,12,Roanoke College -36.5,-36.5
-Randolph-Macon,Hampden-Sydney,12,Hampden-Sydney -11.5,-11.5
-Shenandoah,Washington and Lee,12,Washington and Lee -10.5,-10.5
-Allegheny,Bethany (WV),12,Allegheny -26.0,26.0
-Washington & Jefferson,Thiel,12,Washington & Jefferson -54.5,54.5
-McDaniel College,Gettysburg,12,Gettysburg -2.0,-2.0
-Western New England,Nichols College,12,Western New England -46.5,46.5
-Muhlenberg,Dickinson (PA),12,Pick'em,0.0
-Greenville,Crown College,12,Crown College -2.0,-2.0
-St. Lawrence,University of Rochester (NY),12,University of Rochester (NY) -18.5,-18.5
-Stevenson,Eastern University,12,Eastern University -4.5,-4.5
-Springfield,SUNY Maritime,12,Springfield -21.5,21.5
-William Paterson,Montclair State,12,William Paterson -1.5,1.5
-Augsburg,Hamline University,12,Augsburg -28.0,28.0
-Carleton,Concordia Moorhead,12,Carleton -5.5,5.5
-Gustavus Adolphus,Macalester,12,Gustavus Adolphus -14.0,14.0
-Saint John's (MN),St. Olaf,12,Saint John's (MN) -32.0,32.0
-Lawrence University,Ripon,12,Ripon -15.0,-15.0
-Lake Forest College,Chicago,12,Chicago -10.0,-10.0
-Colgate,Lehigh,12,Lehigh -16.0,-16.0
-Georgetown,Fordham,12,Georgetown -5.0,5.0
-Valparaiso,Stetson,12,Pick'em,0.0
-Southern Illinois,South Dakota,12,Southern Illinois -6.0,6.0
-Villanova,Stony Brook,12,Villanova -4.0,4.0
-Maine,Rhode Island,12,Rhode Island -10.5,-10.5
-Hampton,William & Mary,12,William & Mary -24.5,-24.5
-Brevard College,North Carolina Wesleyan,12,Brevard College -13.5,13.5
-Furman,VMI,12,Furman -21.0,21.0
-Dartmouth,Cornell,12,Dartmouth -16.5,16.5
-Delaware State,Howard,12,Delaware State -3.5,3.5
-Sam Houston,Delaware,12,Delaware -20.5,-20.5
-Southwestern University,Berry College,12,Berry College -37.5,-37.5
-Hillsdale,Ohio Dominican,12,Hillsdale -11.5,11.5
-Greensboro College,Methodist,12,Greensboro College -10.5,10.5
-Case Western Reserve,Geneva,12,Case Western Reserve -24.0,24.0
-East Stroudsburg University,Clarion,12,East Stroudsburg University -8.5,8.5
-Wabash College,Depauw,12,Wabash College -3.5,3.5
-Hanover College,Franklin,12,Hanover College -21.0,21.0
-Rose-Hulman,Mount St. Joseph,12,Mount St. Joseph -13.0,-13.0
-Baldwin Wallace,Heidelberg,12,Baldwin Wallace -24.0,24.0
-Wilmington (OH),Capital,12,Wilmington (OH) -3.0,3.0
-University of Mount Union,Muskingum University,12,University of Mount Union -47.5,47.5
-Manchester,Anderson (IN),12,Anderson (IN) -1.5,-1.5
-Kentucky,Tennessee Tech,12,Kentucky -14.5,14.5
-Rhodes College,Centre College Kentucky,12,Centre College Kentucky -20.0,-20.0
-Quincy,Southwest Baptist,12,Southwest Baptist -1.0,-1.0
-Western New Mexico,Midwestern State,12,Midwestern State -18.5,-18.5
-Emporia State University,Fort Hays State,12,Fort Hays State -1.5,-1.5
-Bemidji State,University of Mary,12,Bemidji State -0.5,0.5
-Minot State,Minnesota Duluth,12,Minnesota Duluth -31.5,-31.5
-Jamestown College,Northern State,12,Northern State -32.5,-32.5
-Wayne State (NE),Augustana University (SD),12,Augustana University (SD) -6.5,-6.5
-South Dakota Mines,Adams State,12,South Dakota Mines -8.0,8.0
-Fort Lewis,Colorado School Of Mines,12,Colorado School Of Mines -27.0,-27.0
-UVA Wise,Emory & Henry College,12,Emory & Henry College -37.0,-37.0
-Brockport,Utica,12,Utica -15.0,-15.0
-Wisconsin-Eau Claire,Wisconsin-Platteville,12,Wisconsin-Platteville -22.0,-22.0
-Wisconsin-Stevens Pt,Wisconsin-Lacrosse,12,Wisconsin-Lacrosse -32.5,-32.5
-Wisconsin-Oshkosh,Wisconsin-Whitewater,12,Wisconsin-Whitewater -10.5,-10.5
-Wisconsin-Stout,Wisconsin-River Falls,12,Wisconsin-River Falls -19.5,-19.5
-Carthage,Carroll University (WI),12,Carroll University (WI) -5.5,-5.5
-Marietta,Bluffton,12,Marietta -2.5,2.5
-Lakeland,St. Norbert,12,St. Norbert -8.0,-8.0
-Martin Luther,Minnesota Morris,12,Martin Luther -2.5,2.5
-Belhaven,Huntingdon College (AL),12,Huntingdon College (AL) -3.0,-3.0
-Ferrum,Concord University,12,Concord University -6.5,-6.5
-Missouri Southern State,Washburn,12,Missouri Southern State -1.5,1.5
-West Alabama,Northeastern State,12,Northeastern State -2.5,-2.5
-Millsaps,Sewanee,12,Millsaps -7.5,7.5
-UT Martin,Charleston Southern,12,Charleston Southern -7.5,-7.5
-Loras College,Luther,12,Loras College -23.5,23.5
-Howard Payne,Mary Hardin-Baylor,12,Mary Hardin-Baylor -5.5,-5.5
-Hardin-Simmons,East Texas Baptist University,12,Hardin-Simmons -34.5,34.5
-Nebraska Wesleyan,Simpson College (IA),12,Simpson College (IA) -24.0,-24.0
-William Jewell,Lincoln (MO),12,William Jewell -13.0,13.0
-Ouachita Baptist,Henderson State,12,Henderson State -4.5,-4.5
-Campbell,Elon,12,Elon -9.0,-9.0
-Western Illinois,Southeast Missouri State,12,Southeast Missouri State -4.0,-4.0
+Lock Haven University,Gannon,12,Lock Haven University -8.5,8.5
+Carson-Newman College,Greeneville,12,Carson-Newman College -30.5,30.5
+West Virginia Wesleyan,Glenville State,12,Glenville State -43.0,-43.0
+Nebraska-Kearney,Central Missouri,12,Central Missouri -1.0,-1.0
+Kentucky Wesleyan,Thomas More College,12,Thomas More College -16.5,-16.5
+Northern Michigan,Wayne State (MI),12,Northern Michigan -6.0,6.0
+Grand Valley State University,Roosevelt,12,Grand Valley State University -35.5,35.5
+Greensboro College,Methodist,12,Greensboro College -8.5,8.5
+Southern Illinois,South Dakota,12,Southern Illinois -6.5,6.5
+Villanova,Stony Brook,12,Villanova -10.0,10.0
+Hampton,William & Mary,12,William & Mary -26.5,-26.5
+Southeastern Oklahoma State,East Central (OK),12,East Central (OK) -4.0,-4.0
+Hillsdale,Ohio Dominican,12,Hillsdale -4.0,4.0
+Alfred University,SUNY Morrisville,12,Alfred University -10.0,10.0
+Maine,Rhode Island,12,Rhode Island -11.0,-11.0
+Dartmouth,Cornell,12,Dartmouth -16.0,16.0
+Delaware State,Howard,12,Delaware State -6.5,6.5
+Sam Houston,Delaware,12,Delaware -19.0,-19.0
+Furman,VMI,12,Furman -18.0,18.0
+Southwestern University,Berry College,12,Berry College -36.0,-36.0
+East Stroudsburg University,Clarion,12,East Stroudsburg University -6.5,6.5
+Wabash College,Depauw,12,Wabash College -4.5,4.5
+Manchester,Anderson (IN),12,Anderson (IN) -3.5,-3.5
+Rose-Hulman,Mount St. Joseph,12,Mount St. Joseph -15.5,-15.5
+Baldwin Wallace,Heidelberg,12,Baldwin Wallace -22.5,22.5
+Wilmington (OH),Capital,12,Wilmington (OH) -4.5,4.5
+University of Mount Union,Muskingum University,12,University of Mount Union -44.0,44.0
+Kentucky,Tennessee Tech,12,Kentucky -12.5,12.5
+Hanover College,Franklin,12,Hanover College -17.5,17.5
+William Jewell,Lincoln (MO),12,William Jewell -5.5,5.5
+UT Martin,Charleston Southern,12,Charleston Southern -0.5,-0.5
+Ouachita Baptist,Henderson State,12,Henderson State -2.0,-2.0
+Howard Payne,Mary Hardin-Baylor,12,Mary Hardin-Baylor -7.5,-7.5
+Hardin-Simmons,East Texas Baptist University,12,Hardin-Simmons -30.5,30.5
+Nebraska Wesleyan,Simpson College (IA),12,Simpson College (IA) -19.0,-19.0
+Loras College,Luther,12,Loras College -27.5,27.5
+Wartburg,Buena Vista,12,Wartburg -45.5,45.5
+Central College,Coe College,12,Coe College -8.0,-8.0
+Campbell,Elon,12,Elon -10.0,-10.0
+Western Illinois,Southeast Missouri State,12,Southeast Missouri State -9.0,-9.0
 Austin Peay,Samford,12,Austin Peay -33.5,33.5
-West Georgia,Utah Tech,12,West Georgia -13.5,13.5
-The Citadel,Wofford,12,The Citadel -0.5,0.5
-Richmond,Lafayette,12,Lafayette -8.0,-8.0
-Wartburg,Buena Vista,12,Wartburg -48.0,48.0
-Jacksonville State,Kennesaw State,12,Kennesaw State -15.5,-15.5
-Central College,Coe College,12,Coe College -11.0,-11.0
-St. Scholastica,Bethel (MN),12,Bethel (MN) -43.5,-43.5
-Benedictine University,Wisconsin-Lutheran,12,Benedictine University -20.5,20.5
-Bridgewater (VA),Guilford College,12,Bridgewater (VA) -8.5,8.5
-Tennessee State,Gardner-Webb,12,Gardner-Webb -28.5,-28.5
-Pittsburg St,Northwest Missouri St,12,Northwest Missouri St -2.5,-2.5
-CSU Pueblo,Chadron St,12,CSU Pueblo -10.5,10.5
-Missouri State,UTEP,12,Missouri State -7.5,7.5
-Black Hills State,New Mexico Highlands,12,New Mexico Highlands -1.5,-1.5
-Missouri Western,Central Oklahoma,12,Central Oklahoma -16.0,-16.0
-Eastern New Mexico,Texas A&M-Kingsville,12,Texas A&M-Kingsville -9.5,-9.5
-West Florida,Valdosta State,12,West Florida -11.5,11.5
-Indianapolis,Upper Iowa University,12,Indianapolis -25.0,25.0
-Southern Nazarene,Oklahoma Baptist,12,Southern Nazarene -1.5,1.5
-Southern Arkansas,Arkansas-Monticello,12,Southern Arkansas -24.5,24.5
-Arkansas Tech,Harding University,12,Harding University -28.0,-28.0
-Western Colorado,Colorado Mesa,12,Western Colorado -12.5,12.5
-Mercer,Chattanooga,12,Mercer -22.5,22.5
-Wingate,Mars Hill,12,Wingate -8.0,8.0
-Lindenwood,Eastern Illinois,12,Lindenwood -1.0,1.0
-Eastern Kentucky,Abilene Christian,12,Abilene Christian -1.5,-1.5
+West Georgia,Utah Tech,12,West Georgia -8.5,8.5
+The Citadel,Wofford,12,Wofford -3.5,-3.5
+Richmond,Lafayette,12,Lafayette -7.5,-7.5
+Ferrum,Concord University,12,Concord University -8.0,-8.0
+Missouri Southern State,Washburn,12,Washburn -4.5,-4.5
+West Alabama,Northeastern State,12,Northeastern State -6.5,-6.5
+Millsaps,Sewanee,12,Millsaps -14.0,14.0
+Jacksonville State,Kennesaw State,12,Kennesaw State -10.5,-10.5
+Western New Mexico,Midwestern State,12,Midwestern State -16.5,-16.5
+Wayne State (NE),Augustana University (SD),12,Augustana University (SD) -6.5,-6.5
+South Dakota Mines,Adams State,12,South Dakota Mines -13.5,13.5
+Fort Lewis,Colorado School Of Mines,12,Colorado School Of Mines -32.0,-32.0
+UVA Wise,Emory & Henry College,12,Emory & Henry College -34.0,-34.0
+Brockport,Utica,12,Utica -9.5,-9.5
+Wisconsin-Eau Claire,Wisconsin-Platteville,12,Wisconsin-Platteville -28.0,-28.0
+Wisconsin-Stevens Pt,Wisconsin-Lacrosse,12,Wisconsin-Lacrosse -26.5,-26.5
+Wisconsin-Oshkosh,Wisconsin-Whitewater,12,Wisconsin-Whitewater -15.0,-15.0
+Wisconsin-Stout,Wisconsin-River Falls,12,Wisconsin-River Falls -26.0,-26.0
+Rhodes College,Centre College Kentucky,12,Centre College Kentucky -18.5,-18.5
+Carthage,Carroll University (WI),12,Carthage -0.5,0.5
+Marietta,Bluffton,12,Marietta -5.0,5.0
+Lakeland,St. Norbert,12,St. Norbert -8.0,-8.0
+Martin Luther,Minnesota Morris,12,Martin Luther -4.0,4.0
+Belhaven,Huntingdon College (AL),12,Belhaven -3.0,3.0
+Bridgewater (VA),Guilford College,12,Bridgewater (VA) -13.5,13.5
+Benedictine University,Wisconsin-Lutheran,12,Benedictine University -21.0,21.0
+St. Scholastica,Bethel (MN),12,Bethel (MN) -49.5,-49.5
+Minot State,Minnesota Duluth,12,Minnesota Duluth -32.5,-32.5
+Bemidji State,University of Mary,12,Pick'em,0.0
+Emporia State University,Fort Hays State,12,Fort Hays State -4.0,-4.0
+Jamestown College,Northern State,12,Northern State -32.0,-32.0
+Quincy,Southwest Baptist,12,Pick'em,0.0
+Tennessee State,Gardner-Webb,12,Gardner-Webb -16.0,-16.0
+Pittsburg St,Northwest Missouri St,12,Northwest Missouri St -6.5,-6.5
+Southern Nazarene,Oklahoma Baptist,12,Oklahoma Baptist -1.0,-1.0
+Arkansas Tech,Harding University,12,Harding University -34.0,-34.0
+Southern Arkansas,Arkansas-Monticello,12,Southern Arkansas -31.0,31.0
+Indianapolis,Upper Iowa University,12,Indianapolis -16.0,16.0
+West Florida,Valdosta State,12,West Florida -14.0,14.0
+Eastern New Mexico,Texas A&M-Kingsville,12,Texas A&M-Kingsville -15.5,-15.5
+Missouri Western,Central Oklahoma,12,Central Oklahoma -21.5,-21.5
+Black Hills State,New Mexico Highlands,12,New Mexico Highlands -4.5,-4.5
+CSU Pueblo,Chadron St,12,CSU Pueblo -8.5,8.5
+Western Colorado,Colorado Mesa,12,Western Colorado -15.5,15.5
+Wingate,Mars Hill,12,Wingate -14.0,14.0
+Eastern Kentucky,Abilene Christian,12,Abilene Christian -8.5,-8.5
+Alabama A&M,Florida A&M,12,Alabama A&M -8.5,8.5
 Alcorn State,Grambling,12,Grambling -13.5,-13.5
-Alabama A&M,Florida A&M,12,Alabama A&M -8.0,8.0
-Incarnate Word,SE Louisiana,12,SE Louisiana -11.0,-11.0
-South Dakota State,Illinois State,12,South Dakota State -24.0,24.0
-Western Kentucky,Middle Tennessee,12,Western Kentucky -15.0,15.0
-Nevada,San José State,12,San José State -9.0,-9.0
-North Dakota State,Northern Iowa,12,North Dakota State -38.0,38.0
-Linfield College,Willamette,12,Linfield College -34.0,34.0
-McKendree,Truman State,12,Truman State -8.5,-8.5
-Whitworth,Puget Sound,12,Whitworth -28.5,28.5
+South Dakota State,Illinois State,12,South Dakota State -19.5,19.5
+Incarnate Word,SE Louisiana,12,SE Louisiana -15.0,-15.0
+Lindenwood,Eastern Illinois,12,Lindenwood -5.0,5.0
+Missouri State,UTEP,12,Missouri State -5.5,5.5
+Mercer,Chattanooga,12,Mercer -20.5,20.5
+Western Kentucky,Middle Tennessee,12,Western Kentucky -11.5,11.5
+Nevada,San José State,12,San José State -8.5,-8.5
+North Dakota State,Northern Iowa,12,North Dakota State -38.5,38.5
+Northern Arizona,Cal Poly,12,Cal Poly -4.5,-4.5
+San Diego,Butler,12,San Diego -6.0,6.0
+Eastern Washington,Northern Colorado,12,Northern Colorado -3.5,-3.5
+Nicholls,Northwestern State,12,Nicholls -6.5,6.5
+Linfield College,Willamette,12,Linfield College -35.0,35.0
 Pacific (OR),Lewis & Clark College,12,Lewis & Clark College -14.0,-14.0
-Northwestern Oklahoma State,Southwestern Oklahoma State,12,Southwestern Oklahoma State -24.0,-24.0
-San Diego,Butler,12,San Diego -7.5,7.5
-Pacific Lutheran,NEWBERG,12,Pacific Lutheran -4.0,4.0
-Nicholls,Northwestern State,12,Nicholls -8.0,8.0
-Northern Arizona,Cal Poly,12,Cal Poly -4.0,-4.0
-Eastern Washington,Northern Colorado,12,Northern Colorado -10.0,-10.0
-Western Oregon,Central Washington,12,Central Washington -41.0,-41.0
-Tennessee,New Mexico State,12,Tennessee -32.5,32.5
-East Texas A&M,Houston Christian,12,East Texas A&M -13.5,13.5
-Florida International,Liberty,12,Liberty -5.5,-5.5
-West Texas A&M,Angelo State,12,Angelo State -7.0,-7.0
-Idaho State,Weber State,12,Idaho State -12.0,12.0
-UNLV,Utah State,12,UNLV -2.5,2.5
-Stephen F. Austin,Lamar,12,Lamar -5.5,-5.5
-McNeese,UT Rio Grande Valley,12,UT Rio Grande Valley -16.5,-16.5
-Tarleton State,North Alabama,12,Tarleton State -40.5,40.5
-UT Permian Basin,Sul Ross State,12,UT Permian Basin -56.5,56.5
+Northwestern Oklahoma State,Southwestern Oklahoma State,12,Southwestern Oklahoma State -28.5,-28.5
+Whitworth,Puget Sound,12,Whitworth -31.5,31.5
+Pacific Lutheran,NEWBERG,12,Pacific Lutheran -3.0,3.0
+McKendree,Truman State,12,Truman State -20.0,-20.0
+Western Oregon,Central Washington,12,Central Washington -31.0,-31.0
+Tennessee,New Mexico State,12,Tennessee -32.0,32.0
+Florida International,Liberty,12,Liberty -1.5,-1.5
+West Texas A&M,Angelo State,12,Angelo State -3.5,-3.5
+East Texas A&M,Houston Christian,12,East Texas A&M -20.5,20.5
+Idaho State,Weber State,12,Idaho State -5.5,5.5
+McNeese,UT Rio Grande Valley,12,UT Rio Grande Valley -8.5,-8.5
+UNLV,Utah State,12,Utah State -2.0,-2.0
+Tarleton State,North Alabama,12,Tarleton State -37.5,37.5
+Stephen F. Austin,Lamar,12,Stephen F. Austin -0.5,0.5
+UT Permian Basin,Sul Ross State,12,UT Permian Basin -49.0,49.0
 Southern Utah,Central Arkansas,12,Southern Utah -6.0,6.0
-Sacramento State,Idaho,12,Sacramento State -5.5,5.5
+Sacramento State,Idaho,12,Sacramento State -8.0,8.0
 Washington State,Louisiana Tech,12,Louisiana Tech -2.0,-2.0
+San Diego State,Boise State,12,Boise State -5.0,-5.0
 Montana State,UC Davis,12,Montana State -9.0,9.0
-San Diego State,Boise State,12,Boise State -1.0,-1.0
-Northern Illinois,Western Michigan,13,Western Michigan -17.5,-17.5
-Bowling Green,Akron,13,Bowling Green -15.0,15.0
-Ohio,Massachusetts,13,Ohio -30.5,30.5
-Kent State,Central Michigan,13,Kent State -2.0,2.0
+Northern Illinois,Western Michigan,13,Western Michigan -21.5,-21.5
+Bowling Green,Akron,13,Bowling Green -11.5,11.5
+Ohio,Massachusetts,13,Ohio -28.5,28.5
 Buffalo,Miami (OH),13,Miami (OH) -4.0,-4.0
-SE Louisiana,Nicholls,13,SE Louisiana -16.5,16.5
-Northwestern State,Stephen F. Austin,13,Stephen F. Austin -18.0,-18.0
-Arkansas State,Louisiana,13,Arkansas State -0.5,0.5
-NC State,Florida State,13,Florida State -9.5,-9.5
-UNLV,Hawai'i,13,UNLV -5.5,5.5
-UCLA,Washington,13,Washington -24.5,-24.5
-Iowa State,Kansas,13,Iowa State -4.5,4.5
-Prairie View A&M,Mississippi Valley State,13,Prairie View A&M -17.5,17.5
-Northern Colorado,Portland State,13,Northern Colorado -15.0,15.0
-Texas,Arkansas,13,Texas -8.0,8.0
-Penn State,Nebraska,13,Nebraska -1.5,-1.5
-Virginia Tech,Miami,13,Miami -35.5,-35.5
-Houston,TCU,13,TCU -3.5,-3.5
-Cincinnati,BYU,13,BYU -5.0,-5.0
-Arizona,Baylor,13,Arizona -6.0,6.0
-Wake Forest,Delaware,13,Wake Forest -15.0,15.0
-Florida,Tennessee,13,Tennessee -5.5,-5.5
-Rice,North Texas,13,North Texas -29.0,-29.0
-App State,Marshall,13,Marshall -11.0,-11.0
-LSU,Western Kentucky,13,LSU -27.5,27.5
-South Carolina,Coastal Carolina,13,South Carolina -24.0,24.0
-Vanderbilt,Kentucky,13,Vanderbilt -16.0,16.0
-Northwestern,Minnesota,13,Northwestern -4.5,4.5
-Maryland,Michigan,13,Michigan -4.0,-4.0
-Georgia Tech,Pittsburgh,13,Georgia Tech -6.5,6.5
-Clemson,Furman,13,Clemson -33.5,33.5
-Colorado,Arizona State,13,Colorado -1.5,1.5
-UCF,Oklahoma State,13,UCF -16.5,16.5
-Utah,Kansas State,13,Utah -18.5,18.5
-San Diego State,San José State,13,San Diego State -20.0,20.0
-Georgia Southern,Old Dominion,13,Old Dominion -24.5,-24.5
-Troy,Georgia State,13,Troy -14.0,14.0
-UAB,South Florida,13,South Florida -39.0,-39.0
-UTSA,East Carolina,13,East Carolina -7.0,-7.0
-Temple,Tulane,13,Tulane -12.0,-12.0
+Kent State,Central Michigan,13,Central Michigan -7.5,-7.5
+SE Louisiana,Nicholls,13,SE Louisiana -24.0,24.0
+Northwestern State,Stephen F. Austin,13,Stephen F. Austin -25.0,-25.0
+Arkansas State,Louisiana,13,Arkansas State -1.0,1.0
+NC State,Florida State,13,Florida State -4.5,-4.5
+UNLV,Hawai'i,13,Pick'em,0.0
+Georgia Tech,Pittsburgh,13,Georgia Tech -4.5,4.5
+Maryland,Michigan,13,Michigan -12.0,-12.0
+UCLA,Washington,13,Washington -17.0,-17.0
+Temple,Tulane,13,Tulane -10.5,-10.5
+Central Connecticut,Mercyhurst,13,Mercyhurst -3.5,-3.5
+Northwestern,Minnesota,13,Northwestern -7.0,7.0
+Vanderbilt,Kentucky,13,Vanderbilt -16.5,16.5
 Toledo,Ball State,13,Toledo -20.5,20.5
-James Madison,Washington State,13,Pick'em,0.0
-Texas State,UL Monroe,13,Texas State -14.5,14.5
-Stanford,California,13,California -7.0,-7.0
-Oregon,USC,13,Oregon -1.5,1.5
-Iowa,Michigan State,13,Iowa -15.0,15.0
-Ohio State,Rutgers,13,Ohio State -29.0,29.0
+South Carolina,Coastal Carolina,13,South Carolina -22.0,22.0
+LSU,Western Kentucky,13,LSU -29.0,29.0
+UTSA,East Carolina,13,East Carolina -11.0,-11.0
+Cincinnati,BYU,13,BYU -7.0,-7.0
+Houston,TCU,13,TCU -3.0,-3.0
+Long Island University,Wagner,13,Long Island University -8.5,8.5
+Florida,Tennessee,13,Tennessee -5.5,-5.5
+Iowa State,Kansas,13,Iowa State -5.0,5.0
+Boise State,Colorado State,13,Boise State -19.5,19.5
+UAB,South Florida,13,South Florida -33.0,-33.0
+Arizona,Baylor,13,Arizona -5.5,5.5
+Troy,Georgia State,13,Troy -14.5,14.5
+Wake Forest,Delaware,13,Wake Forest -17.5,17.5
+Georgia Southern,Old Dominion,13,Old Dominion -15.0,-15.0
+San Diego State,San José State,13,San Diego State -17.5,17.5
+Utah,Kansas State,13,Utah -14.5,14.5
+App State,Marshall,13,Marshall -11.0,-11.0
+UCF,Oklahoma State,13,UCF -20.0,20.0
+Colorado,Arizona State,13,Arizona State -1.5,-1.5
 Wisconsin,Illinois,13,Illinois -23.0,-23.0
-Long Island University,Wagner,13,Long Island University -11.0,11.0
-Boise State,Colorado State,13,Boise State -13.5,13.5
-Central Connecticut,Mercyhurst,13,Mercyhurst -9.0,-9.0
-Cornell,Columbia,13,Columbia -3.5,-3.5
-SMU,Louisville,13,Louisville -10.5,-10.5
-North Carolina,Duke,13,Duke -29.5,-29.5
-Florida Atlantic,UConn,13,UConn -12.5,-12.5
-South Alabama,Southern Miss,13,Southern Miss -10.5,-10.5
-Stony Brook,Bryant,13,Stony Brook -12.5,12.5
-Yale,Harvard,13,Harvard -24.5,-24.5
-Monmouth,UAlbany,13,Monmouth -25.0,25.0
-VMI,Western Carolina,13,Western Carolina -26.5,-26.5
-Brown,Dartmouth,13,Brown -6.0,6.0
-Merrimack,Fordham,13,Merrimack -13.5,13.5
-Morgan State,North Carolina Central,13,North Carolina Central -26.0,-26.0
+Clemson,Furman,13,Clemson -35.5,35.5
+Rice,North Texas,13,North Texas -32.5,-32.5
+Cornell,Columbia,13,Columbia -3.0,-3.0
+South Alabama,Southern Miss,13,Southern Miss -12.0,-12.0
+James Madison,Washington State,13,James Madison -7.5,7.5
+SMU,Louisville,13,Louisville -10.0,-10.0
+Oregon,USC,13,Oregon -5.5,5.5
+Florida Atlantic,UConn,13,UConn -13.0,-13.0
+Texas State,UL Monroe,13,Texas State -13.5,13.5
+Stanford,California,13,Stanford -0.5,0.5
+North Carolina,Duke,13,Duke -26.5,-26.5
+Iowa,Michigan State,13,Iowa -13.5,13.5
+Penn State,Nebraska,13,Penn State -7.0,7.0
+Northern Colorado,Portland State,13,Northern Colorado -12.0,12.0
+Ohio State,Rutgers,13,Ohio State -32.5,32.5
+Texas,Arkansas,13,Texas -6.5,6.5
+Virginia Tech,Miami,13,Miami -31.0,-31.0
+Prairie View A&M,Mississippi Valley State,13,Prairie View A&M -13.5,13.5
+Morgan State,North Carolina Central,13,North Carolina Central -23.5,-23.5
+Texas A&M,Samford,13,Texas A&M -70.0,70.0
+Army,Tulsa,13,Army -13.5,13.5
 Oklahoma,Missouri,13,Oklahoma -4.0,4.0
-Texas A&M,Samford,13,Texas A&M -72.0,72.0
-Army,Tulsa,13,Army -11.5,11.5
-Lafayette,Lehigh,13,Lehigh -12.0,-12.0
-Georgia,Charlotte,13,Georgia -48.5,48.5
-Delaware State,South Carolina State,13,South Carolina State -8.0,-8.0
-Illinois State,Southern Illinois,13,Southern Illinois -10.0,-10.0
-Rhode Island,Hampton,13,Rhode Island -27.5,27.5
-Pennsylvania,Princeton,13,Pennsylvania -9.5,9.5
-Drake,Morehead State,13,Drake -30.0,30.0
-Holy Cross,Georgetown,13,Holy Cross -2.5,2.5
+Yale,Harvard,13,Harvard -17.5,-17.5
+Monmouth,UAlbany,13,Monmouth -30.5,30.5
+Stony Brook,Bryant,13,Stony Brook -9.5,9.5
+Merrimack,Fordham,13,Merrimack -13.5,13.5
+Brown,Dartmouth,13,Dartmouth -1.5,-1.5
+VMI,Western Carolina,13,Western Carolina -25.5,-25.5
+Lafayette,Lehigh,13,Lehigh -15.5,-15.5
+Georgia,Charlotte,13,Georgia -51.0,51.0
+Stonehill,St. Francis (PA),13,Stonehill -20.0,20.0
+Drake,Morehead State,13,Drake -27.5,27.5
+Holy Cross,Georgetown,13,Holy Cross -3.0,3.0
 Stetson,San Diego,13,San Diego -31.0,-31.0
-Presbyterian,Marist,13,Presbyterian -14.0,14.0
-Davidson,Dayton,13,Dayton -31.0,-31.0
-Butler,Valparaiso,13,Butler -23.5,23.5
-Indiana State,Murray State,13,Indiana State -20.5,20.5
-William & Mary,Richmond,13,William & Mary -7.0,7.0
-Villanova,Sacred Heart,13,Villanova -12.0,12.0
-Tennessee Tech,UT Martin,13,Tennessee Tech -25.5,25.5
-New Hampshire,Maine,13,New Hampshire -2.5,2.5
-Towson,Campbell,13,Towson -1.5,1.5
-Stonehill,St. Francis (PA),13,Stonehill -23.5,23.5
-Colgate,Bucknell,13,Colgate -11.5,11.5
-East Tennessee State,The Citadel,13,East Tennessee State -9.5,9.5
-Gardner-Webb,Western Illinois,13,Gardner-Webb -21.0,21.0
-Wofford,Chattanooga,13,Wofford -6.0,6.0
-Robert Morris,Duquesne,13,Duquesne -20.0,-20.0
-Charleston Southern,Tennessee State,13,Charleston Southern -17.0,17.0
-Elon,North Carolina A&T,13,Elon -21.5,21.5
-Northern Iowa,Youngstown State,13,Youngstown State -11.5,-11.5
-North Dakota,South Dakota State,13,South Dakota State -6.0,-6.0
-Alabama,Eastern Illinois,13,Alabama -53.0,53.0
-Wyoming,Nevada,13,Wyoming -14.0,14.0
-North Alabama,Southern Utah,13,Southern Utah -20.5,-20.5
-Auburn,Mercer,13,Auburn -25.5,25.5
-Kennesaw State,Missouri State,13,Kennesaw State -11.0,11.0
-Southeast Missouri State,Lindenwood,13,Lindenwood -6.0,-6.0
-Montana,Montana State,13,Montana -2.5,2.5
-Weber State,Northern Arizona,13,Northern Arizona -14.0,-14.0
-Louisiana Tech,Liberty,13,Louisiana Tech -18.0,18.0
-Middle Tennessee,Sam Houston,13,Middle Tennessee -5.0,5.0
-Alabama State,Arkansas-Pine Bluff,13,Alabama State -17.5,17.5
-Houston Christian,Incarnate Word,13,Incarnate Word -12.0,-12.0
-UTEP,New Mexico State,13,New Mexico State -3.0,-3.0
-Texas Southern,Alabama A&M,13,Texas Southern -7.0,7.0
+Presbyterian,Marist,13,Presbyterian -17.0,17.0
+Davidson,Dayton,13,Dayton -27.0,-27.0
+Butler,Valparaiso,13,Butler -24.0,24.0
+Indiana State,Murray State,13,Indiana State -14.5,14.5
+William & Mary,Richmond,13,William & Mary -9.5,9.5
+Villanova,Sacred Heart,13,Villanova -14.5,14.5
+Tennessee Tech,UT Martin,13,Tennessee Tech -21.5,21.5
+New Hampshire,Maine,13,New Hampshire -4.5,4.5
+Rhode Island,Hampton,13,Rhode Island -30.0,30.0
+Towson,Campbell,13,Towson -4.0,4.0
+East Tennessee State,The Citadel,13,East Tennessee State -7.5,7.5
+Colgate,Bucknell,13,Colgate -12.0,12.0
+Pennsylvania,Princeton,13,Pennsylvania -3.0,3.0
+Illinois State,Southern Illinois,13,Southern Illinois -8.5,-8.5
+Delaware State,South Carolina State,13,South Carolina State -9.0,-9.0
+Wofford,Chattanooga,13,Wofford -5.5,5.5
+Gardner-Webb,Western Illinois,13,Gardner-Webb -11.0,11.0
+Robert Morris,Duquesne,13,Duquesne -25.0,-25.0
+Northern Iowa,Youngstown State,13,Youngstown State -10.5,-10.5
+Elon,North Carolina A&T,13,Elon -18.5,18.5
+Charleston Southern,Tennessee State,13,Charleston Southern -11.5,11.5
+Auburn,Mercer,13,Auburn -24.5,24.5
+North Dakota,South Dakota State,13,South Dakota State -1.0,-1.0
+Alabama,Eastern Illinois,13,Alabama -59.0,59.0
+Kennesaw State,Missouri State,13,Kennesaw State -10.5,10.5
+Southeast Missouri State,Lindenwood,13,Southeast Missouri State -2.5,2.5
+Montana,Montana State,13,Montana State -1.0,-1.0
+North Alabama,Southern Utah,13,Southern Utah -15.0,-15.0
+Wyoming,Nevada,13,Wyoming -11.0,11.0
+Weber State,Northern Arizona,13,Northern Arizona -9.5,-9.5
+UTEP,New Mexico State,13,UTEP -1.0,1.0
+Texas Southern,Alabama A&M,13,Texas Southern -2.0,2.0
+Louisiana Tech,Liberty,13,Louisiana Tech -16.5,16.5
+Houston Christian,Incarnate Word,13,Incarnate Word -18.5,-18.5
+Middle Tennessee,Sam Houston,13,Middle Tennessee -6.5,6.5
+Alabama State,Arkansas-Pine Bluff,13,Alabama State -20.5,20.5
 North Dakota State,St. Thomas (MN),13,North Dakota State -37.5,37.5
-Howard,Norfolk State,13,Howard -11.0,11.0
-Florida International,Jacksonville State,13,Jacksonville State -5.0,-5.0
+Florida International,Jacksonville State,13,Jacksonville State -4.5,-4.5
+Notre Dame,Syracuse,13,Notre Dame -35.5,35.5
 Florida A&M,Bethune-Cookman,13,Bethune-Cookman -16.5,-16.5
-Alcorn State,Jackson State,13,Jackson State -22.0,-22.0
-Notre Dame,Syracuse,13,Notre Dame -34.5,34.5
-Utah Tech,Eastern Kentucky,13,Eastern Kentucky -7.5,-7.5
-UC Davis,Sacramento State,13,UC Davis -4.0,4.0
-Idaho,Idaho State,13,Idaho -4.5,4.5
-Lamar,McNeese,13,Lamar -29.0,29.0
-Central Arkansas,Abilene Christian,13,Abilene Christian -7.0,-7.0
-Cal Poly,Eastern Washington,13,Cal Poly -14.5,14.5
-Tarleton State,Austin Peay,13,Tarleton State -12.0,12.0
-UT Rio Grande Valley,East Texas A&M,13,East Texas A&M -4.0,-4.0
-Air Force,New Mexico,13,New Mexico -9.0,-9.0
-Fresno State,Utah State,13,Utah State -6.0,-6.0
-Massachusetts,Bowling Green,14,Bowling Green -28.5,-28.5
-Eastern Michigan,Western Michigan,14,Western Michigan -22.5,-22.5
-Alabama State,Tuskegee,14,Alabama State -30.5,30.5
-Memphis,Navy,14,Memphis -16.0,16.0
-Arizona State,Arizona,14,Arizona -2.5,-2.5
-UTSA,Army,14,UTSA -3.0,3.0
-Kansas,Utah,14,Utah -17.5,-17.5
-Mississippi State,Ole Miss,14,Ole Miss -13.0,-13.0
-Nebraska,Iowa,14,Iowa -1.0,-1.0
-Northern Illinois,Kent State,14,Kent State -4.5,-4.5
-Buffalo,Ohio,14,Ohio -11.5,-11.5
-Colorado State,Air Force,14,Colorado State -6.5,6.5
-New Mexico,San Diego State,14,San Diego State -10.0,-10.0
-Georgia Tech,Georgia,14,Georgia -8.0,-8.0
-Utah State,Boise State,14,Boise State -13.0,-13.0
-Purdue,Indiana,14,Indiana -27.5,-27.5
-Texas,Texas A&M,14,Texas A&M -12.0,-12.0
-Washington,Oregon,14,Oregon -1.5,-1.5
-Michigan State,Maryland,14,Maryland -12.0,-12.0
-TCU,Cincinnati,14,TCU -0.5,0.5
-Oklahoma State,Iowa State,14,Iowa State -30.0,-30.0
-Kansas State,Colorado,14,Colorado -1.5,-1.5
-BYU,UCF,14,BYU -17.0,17.0
-Baylor,Houston,14,Houston -4.5,-4.5
-Virginia,Virginia Tech,14,Virginia -21.0,21.0
-Minnesota,Wisconsin,14,Minnesota -3.5,3.5
-Florida,Florida State,14,Florida State -7.0,-7.0
-Louisville,Kentucky,14,Louisville -16.0,16.0
-Oklahoma,LSU,14,LSU -0.5,-0.5
-Tennessee,Vanderbilt,14,Vanderbilt -0.5,-0.5
-Syracuse,Boston College,14,Syracuse -18.0,18.0
-Illinois,Northwestern,14,Illinois -15.5,15.5
-Rutgers,Penn State,14,Penn State -8.5,-8.5
-Arkansas,Missouri,14,Missouri -8.5,-8.5
-NC State,North Carolina,14,NC State -25.5,25.5
-Pittsburgh,Miami,14,Miami -24.0,-24.0
-Duke,Wake Forest,14,Duke -6.0,6.0
-California,SMU,14,SMU -12.0,-12.0
-Tulane,Charlotte,14,Tulane -32.5,32.5
-Coastal Carolina,James Madison,14,James Madison -17.0,-17.0
-Marshall,Georgia Southern,14,Marshall -15.0,15.0
-Old Dominion,Georgia State,14,Old Dominion -28.0,28.0
-South Florida,Rice,14,South Florida -36.5,36.5
-USC,UCLA,14,USC -24.5,24.5
-Louisiana,UL Monroe,14,Louisiana -4.0,4.0
-Florida Atlantic,East Carolina,14,East Carolina -23.0,-23.0
-Southern Miss,Troy,14,Southern Miss -2.5,2.5
-Texas State,South Alabama,14,Texas State -8.0,8.0
-North Texas,Temple,14,North Texas -15.0,15.0
-Tulsa,UAB,14,Tulsa -6.5,6.5
-Central Michigan,Toledo,14,Toledo -17.5,-17.5
-Miami (OH),Ball State,14,Miami (OH) -9.0,9.0
+Howard,Norfolk State,13,Howard -7.5,7.5
+Alcorn State,Jackson State,13,Jackson State -26.0,-26.0
+Utah Tech,Eastern Kentucky,13,Pick'em,0.0
+Idaho,Idaho State,13,Idaho -3.0,3.0
+UC Davis,Sacramento State,13,UC Davis -5.0,5.0
+Lamar,McNeese,13,Lamar -20.5,20.5
+Central Arkansas,Abilene Christian,13,Abilene Christian -5.5,-5.5
+Tarleton State,Austin Peay,13,Tarleton State -16.5,16.5
+Cal Poly,Eastern Washington,13,Cal Poly -11.5,11.5
+UT Rio Grande Valley,East Texas A&M,13,East Texas A&M -4.5,-4.5
+Air Force,New Mexico,13,New Mexico -6.0,-6.0
+Fresno State,Utah State,13,Utah State -7.0,-7.0
+Massachusetts,Bowling Green,14,Bowling Green -23.5,-23.5
+Eastern Michigan,Western Michigan,14,Western Michigan -24.0,-24.0
+Alabama State,Tuskegee,14,Alabama State -30.0,30.0
+Memphis,Navy,14,Memphis -10.0,10.0
+Arizona State,Arizona,14,Arizona -0.5,-0.5
+UTSA,Army,14,Army -3.5,-3.5
+Nebraska,Iowa,14,Iowa -6.0,-6.0
+Buffalo,Ohio,14,Ohio -12.0,-12.0
+Northern Illinois,Kent State,14,Kent State -3.0,-3.0
+Kansas,Utah,14,Utah -15.0,-15.0
+Mississippi State,Ole Miss,14,Ole Miss -13.5,-13.5
+Colorado State,Air Force,14,Colorado State -1.5,1.5
+North Texas,Temple,14,North Texas -17.0,17.0
+New Mexico,San Diego State,14,San Diego State -9.5,-9.5
+Georgia Tech,Georgia,14,Georgia -8.5,-8.5
+Utah State,Boise State,14,Boise State -13.5,-13.5
+Texas,Texas A&M,14,Texas A&M -10.0,-10.0
+Purdue,Indiana,14,Indiana -29.0,-29.0
+Virginia,Virginia Tech,14,Virginia -19.5,19.5
+App State,Arkansas State,14,Arkansas State -0.5,-0.5
+Coastal Carolina,James Madison,14,James Madison -24.0,-24.0
+Marshall,Georgia Southern,14,Marshall -9.0,9.0
+Old Dominion,Georgia State,14,Old Dominion -24.0,24.0
+Louisiana,UL Monroe,14,Louisiana -6.0,6.0
+Southern Miss,Troy,14,Southern Miss -4.5,4.5
+Texas State,South Alabama,14,Texas State -7.0,7.0
+Tulsa,UAB,14,Tulsa -0.5,0.5
+Central Michigan,Toledo,14,Toledo -14.0,-14.0
+Miami (OH),Ball State,14,Miami (OH) -6.0,6.0
+California,SMU,14,SMU -16.5,-16.5
+Tennessee,Vanderbilt,14,Vanderbilt -4.0,-4.0
+Oklahoma,LSU,14,Oklahoma -3.0,3.0
+Louisville,Kentucky,14,Louisville -17.0,17.0
+Florida,Florida State,14,Florida State -3.0,-3.0
+Arkansas,Missouri,14,Missouri -9.0,-9.0
+Michigan State,Maryland,14,Maryland -7.0,-7.0
+Illinois,Northwestern,14,Illinois -10.5,10.5
+Rutgers,Penn State,14,Penn State -15.0,-15.0
+Minnesota,Wisconsin,14,Minnesota -5.5,5.5
+Washington,Oregon,14,Oregon -11.5,-11.5
+Auburn,Alabama,14,Alabama -10.0,-10.0
+Duke,Wake Forest,14,Duke -3.5,3.5
 West Virginia,Texas Tech,14,Texas Tech -33.0,-33.0
 San José State,Fresno State,14,Fresno State -2.0,-2.0
-Auburn,Alabama,14,Alabama -8.0,-8.0
-Stanford,Notre Dame,14,Notre Dame -46.5,-46.5
-App State,Arkansas State,14,App State -3.0,3.0
-Michigan,Ohio State,14,Ohio State -18.0,-18.0
-South Carolina,Clemson,14,South Carolina -1.0,1.0
-Delaware,UTEP,14,Delaware -11.5,11.5
-Sam Houston,Florida International,14,Florida International -7.5,-7.5
-Southern,Grambling,14,Grambling -19.5,-19.5
-Jacksonville State,Western Kentucky,14,Western Kentucky -8.0,-8.0
-Missouri State,Louisiana Tech,14,Louisiana Tech -14.0,-14.0
-New Mexico State,Middle Tennessee,14,New Mexico State -7.0,7.0
-Mississippi Valley State,Florida A&M,14,Florida A&M -2.5,-2.5
-Liberty,Kennesaw State,14,Kennesaw State -14.5,-14.5
-Washington State,Oregon State,14,Washington State -17.0,17.0
-Nevada,UNLV,14,UNLV -19.5,-19.5
-Hawai'i,Wyoming,14,Hawai'i -0.5,0.5
-Navy,Army,16,Army -0.5,-0.5
+TCU,Cincinnati,14,TCU -2.0,2.0
+Oklahoma State,Iowa State,14,Iowa State -29.0,-29.0
+Kansas State,Colorado,14,Pick'em,0.0
+BYU,UCF,14,BYU -14.5,14.5
+Baylor,Houston,14,Houston -5.0,-5.0
+NC State,North Carolina,14,NC State -23.5,23.5
+Pittsburgh,Miami,14,Miami -17.0,-17.0
+Tulane,Charlotte,14,Tulane -34.5,34.5
+Stanford,Notre Dame,14,Notre Dame -39.5,-39.5
+USC,UCLA,14,USC -23.5,23.5
+Syracuse,Boston College,14,Syracuse -16.0,16.0
+South Florida,Rice,14,South Florida -36.5,36.5
+Florida Atlantic,East Carolina,14,East Carolina -22.5,-22.5
+South Carolina,Clemson,14,South Carolina -2.0,2.0
+Michigan,Ohio State,14,Ohio State -13.5,-13.5
+Sam Houston,Florida International,14,Florida International -14.5,-14.5
+Delaware,UTEP,14,Delaware -5.5,5.5
+Missouri State,Louisiana Tech,14,Louisiana Tech -13.5,-13.5
+Southern,Grambling,14,Grambling -17.0,-17.0
+Jacksonville State,Western Kentucky,14,Jacksonville State -0.5,0.5
+Mississippi Valley State,Florida A&M,14,Florida A&M -0.5,-0.5
+New Mexico State,Middle Tennessee,14,New Mexico State -5.5,5.5
+Liberty,Kennesaw State,14,Kennesaw State -13.5,-13.5
+Washington State,Oregon State,14,Washington State -14.5,14.5
+Nevada,UNLV,14,UNLV -15.5,-15.5
+Hawai'i,Wyoming,14,Hawai'i -5.0,5.0
+Navy,Army,16,Army -1.5,-1.5
