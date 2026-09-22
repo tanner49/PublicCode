@@ -53,3 +53,9 @@ Run verification with `python -m unittest discover -s tests`.
 The archived `cbd.ipynb` calls these "Week 0" pseudo-games against a zero-rated baseline and comments `1.0 ~ one game`. Git commit `32c71d8` used weight 2; `c25e1c0` used 0.5; the preserved local notebook used 0.00005. The 2026 model now uses 1.0. This is an extra least-squares equation per team, not just an initial solver guess. Its relative influence diminishes as actual games accumulate. The prior target retains the original signed encoding (including the winner bonus), rather than inserting the previous rating completely unchanged.
 
 The superseded local Week 4 snapshot with weight 0.00005 is preserved in `archive/model-revisions/2026-week04-prior-0.00005/`. It was replaced before deployment and is not presented as a different week on the site.
+
+## Social graphics
+
+Weekly updates also regenerate 1200x630 PNG graphics (FBS Top 10, highest-combined-rating upcoming FBS matchups, and toughest schedules played) in the website's `tanner-ratings/share/SEASON/week-NN/` directory. The page offers PNG downloads and embeds the latest Top 10 in static Open Graph/Twitter metadata for link previews. Week selection changes the on-page graphics; link previews always represent the latest published week. Platforms may cache previews.
+
+To regenerate graphics without recalculating ratings, run `python share_cards.py`. Use `--site PATH` for an alternative website data directory. The bundled Barlow Condensed fonts are distributed under their included SIL Open Font License.

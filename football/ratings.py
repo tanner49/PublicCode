@@ -165,6 +165,8 @@ def main():
         saved = json.loads(path.read_text(encoding="utf-8"))
         manifest.append({"season": saved["season"], "week": saved["week"], "path": path.relative_to(args.site).as_posix()})
     write_json(args.site / "index.json", {"snapshots": sorted(manifest, key=lambda s: (s["season"], s["week"]))})
+    from share_cards import publish_share_cards
+    publish_share_cards(args.site)
     print(f"Published {args.season} Week {args.week}: {snapshot['gameCount']} games, {len(snapshot['teams'])} teams")
     if snapshot["excludedMissingScores"]:
         print("Excluded completed games without scores: " + ", ".join(snapshot["excludedMissingScores"]))
