@@ -60,6 +60,10 @@ Weekly updates also regenerate 1200x630 PNG graphics (FBS Top 10, highest-combin
 
 To regenerate graphics without recalculating ratings, run `python share_cards.py`. Use `--site PATH` for an alternative website data directory. The bundled Barlow Condensed fonts are distributed under their included SIL Open Font License.
 
+### Team logos
+
+Run `python team_logos.py` to cache logos for all FBS teams in the published snapshots, then `python share_cards.py` to update the graphics. Logos are stored in the sibling website's `tanner-ratings/logos/` folder, so the page and regular graphics build need no external image requests. The index records each ESPN team ID and original image URL. Matching uses school names, with explicit IDs for the ambiguous Charlotte and Troy names. Missing logos fall back to initials on the page. Official school marks retain their respective owners' rights; they are not covered by an open-source code license.
+
 ## Resume-style graphics
 
 `profile_metrics.py` calculates two exploratory indices without changing ratings. `share_cards.py` generates their PNGs and a public `profile-metrics.json` audit file. Identical inputs reuse cached calculations; the cache fingerprints the snapshot, priors, solver, and metric source.
@@ -68,3 +72,5 @@ To regenerate graphics without recalculating ratings, run `python share_cards.py
 - **Cupcake Annihilators:** all FBS candidates. For every game, calculate `max(team rating - opponent rating, 0) * max(encoded_margin, 0) / 30.75`, then average across all games. Winning margins saturate at 28 plus the 2.75 bonus; losses and wins against stronger opponents contribute zero. Opponents from every division are included.
 
 The indices are not opposites, not calibrated predictions, and not evidence of overrating. Definitions were explored on the current snapshot, not established via an out-of-sample test. No team-name exceptions are used. Cards include scope, raw index values, records, and game evidence. Exact reconstruction of the published fit is checked before performing leave-one-game-out fits; a changed prior file fails rather than silently using a different baseline.
+
+The graphics publisher also versions the ratings page CSS, JavaScript, and graphic URLs using a content hash. Run `python share_cards.py` after changing those assets and before publishing, so returning visitors fetch a consistent release. JSON requests revalidate cached data.

@@ -43,7 +43,25 @@ def record(team):
     return f"{team['wins']}–{team['losses']}" + (f"–{team['ties']}" if team['ties'] else '')
 
 
+def logo_badge(image, site, logos, name, x, y, size=48):
+    """Use an opaque off-white plate to keep official team marks legible."""
+    entry = logos.get(name)
+    if not entry:
+        return
+    path = site / entry['path']
+    if not path.exists():
+        return
+    draw = ImageDraw.Draw(image, 'RGBA')
+    draw.rounded_rectangle((x, y, x + size, y + size), radius=8, fill=(248, 248, 242, 255))
+    with Image.open(path) as source:
+        mark = source.convert('RGBA')
+    mark.thumbnail((size - 8, size - 8), Image.Resampling.LANCZOS)
+    image.paste(mark, (x + (size - mark.width) // 2, y + (size - mark.height) // 2), mark)
+
+
 def render_cards(snapshot, site):
+    logo_index = site / 'logos/index.json'
+    logos = json.loads(logo_index.read_text(encoding='utf-8')) if logo_index.exists() else {}
     folder = site / 'share' / str(snapshot['season']) / f"week-{snapshot['week']:02}"
     folder.mkdir(parents=True, exist_ok=True)
     teams = sorted((t for t in snapshot['teams'] if t['classification'] == 'fbs'), key=lambda t: (-t['rating'], t['team']))
@@ -52,8 +70,9 @@ def render_cards(snapshot, site):
         x, y = 42 + (i // 5) * 578, 215 + (i % 5) * 67
         draw.rectangle((x, y - 5, x + 538, y + 55), fill='#243c2e')
         text(draw, (x + 12, y + 3), f'{i+1:02}', 40, LIME if i < 3 else MUTED, True)
-        text(draw, (x + 74, y + 1), team['team'], 35, bold=True, width=330)
-        text(draw, (x + 74, y + 37), record(team), 20, MUTED)
+        logo_badge(image, site, logos, team['team'], x + 66, y)
+        text(draw, (x + 127, y + 1), team['team'], 35, bold=True, width=275)
+        text(draw, (x + 127, y + 37), record(team), 20, MUTED)
         text(draw, (x + 522, y + 5), f"{team['rating']:.2f}", 33, LIME, True, anchor='rt')
     image.save(folder / 'top10.png', optimize=True)
 
@@ -66,7 +85,9 @@ def render_cards(snapshot, site):
         draw.line((42, y + 54, 1158, y + 54), fill='#334c3b')
         text(draw, (45, y), f'{i+1:02}', 40, LIME, True)
         matchup = f"{game['away']} {'vs.' if game['neutral'] else 'at'} {game['home']}"
-        text(draw, (112, y), matchup, 35, bold=True, width=690)
+        logo_badge(image, site, logos, game['away'], 108, y, 42)
+        logo_badge(image, site, logos, game['home'], 157, y, 42)
+        text(draw, (214, y), matchup, 35, bold=True, width=590)
         margin = game['homeEdge']
         points = math.floor(abs(margin) * 2 + .5) / 2
         line = "Pick’em" if not points else f"{game['home'] if margin > 0 else game['away']} −{points:.1f}"
@@ -81,16 +102,17 @@ def render_cards(snapshot, site):
         y = 216 + i * 66
         draw.line((42, y + 55, 1158, y + 55), fill='#334c3b')
         text(draw, (45, y), f'{i+1:02}', 40, ORANGE, True)
-        text(draw, (112, y), team['team'], 36, bold=True, width=510)
-        text(draw, (114, y + 38), f"{record(team)} record", 20, MUTED)
+        logo_badge(image, site, logos, team['team'], 110, y)
+        text(draw, (174, y), team['team'], 36, bold=True, width=510)
+        text(draw, (174, y + 38), f"{record(team)} record", 20, MUTED)
         strength = team['scheduleStrength']
         text(draw, (1158, y + 2), f'{strength:.2f}', 38, PAPER, True, anchor='rt')
     image.save(folder / 'schedules.png', optimize=True)
-    render_profile_cards(snapshot, folder)
+    render_profile_cards(snapshot, folder, site, logos)
     return folder
 
 
-def render_profile_cards(snapshot, folder):
+def render_profile_cards(snapshot, folder, site, logos):
     from profile_metrics import calculate_profiles
     profiles = calculate_profiles(snapshot, folder / 'profile-metrics.json')
     teams = {t['team']: t for t in snapshot['teams']}
@@ -105,7 +127,8 @@ def render_profile_cards(snapshot, folder):
             y = 211 + i * 64
             draw.line((42, y + 55, 1158, y + 55), fill='#334c3b')
             text(draw, (45, y), f'{i+1:02}', 40, color, True)
-            text(draw, (112, y), row['team'], 35, bold=True, width=690)
+            logo_badge(image, site, logos, row['team'], 110, y)
+            text(draw, (174, y), row['team'], 35, bold=True, width=630)
             if kind == 'brawlers':
                 g = row['games'][0]
                 result = 'W' if g['margin'] > 0 else 'L' if g['margin'] < 0 else 'T'
@@ -113,7 +136,7 @@ def render_profile_cards(snapshot, folder):
             else:
                 max_wins = sum(g['margin'] >= 28 and g['ratingGap'] > 0 for g in row['games'])
                 detail = f"{record(t)} | {max_wins} wins by 28+ over weaker opponents"
-            text(draw, (114, y + 38), detail, 23, MUTED, width=850)
+            text(draw, (174, y + 38), detail, 23, MUTED, width=780)
             text(draw, (1158, y + 2), f"{row['score']:.1f}", 38, color, True, anchor='rt')
             text(draw, (1158, y + 41), 'SCORE', 15, MUTED, anchor='rt')
         image.save(folder / f'{kind}.png', optimize=True)
@@ -123,11 +146,19 @@ def publish_share_cards(data_directory):
     site = data_directory.parent
     manifest = json.loads((data_directory / 'index.json').read_text(encoding='utf-8'))
     entries = sorted(manifest['snapshots'], key=lambda s: (s['season'], s['week']))
+    build_hash = hashlib.sha256()
     for entry in entries:
         snapshot = json.loads((data_directory / entry['path']).read_text(encoding='utf-8'))
         folder = render_cards(snapshot, site)
+        for graphic in sorted(folder.glob('*.png')):
+            build_hash.update(graphic.read_bytes())
     if not entries:
         return
+    assets = {'app.js': site / 'app.js', 'styles.css': site / 'styles.css',
+              '/assets/site.css': site.parent / 'assets/site.css'}
+    for asset in assets.values():
+        build_hash.update(asset.read_bytes())
+    build_version = build_hash.hexdigest()[:12]
     relative = (folder / 'top10.png').relative_to(site).as_posix()
     version = hashlib.sha256((folder / 'top10.png').read_bytes()).hexdigest()[:12]
     image_url = f'https://tanner49.github.io/tanner-ratings/{relative}?v={version}'
@@ -142,9 +173,14 @@ def publish_share_cards(data_directory):
             source = re.sub(r'<!-- social-preview:start -->.*?<!-- social-preview:end -->', lambda _: block, source, flags=re.S)
         else:
             source = source.replace('</head>', '  ' + block + '\n</head>')
-        source = re.sub(r'(id="share-image" src=")[^"]+', lambda m: m[1] + relative, source)
+        for url in assets:
+            source = re.sub(r'((?:src|href)=")' + re.escape(url) + r'(?:\?[^"\s]*)?"',
+                            lambda m: m[1] + url + '?v=' + build_version + '"', source)
+        source = re.sub(r'(<img id="share-image"[^>]*?) data-version="[^"]*"', r'\1', source)
+        source = source.replace('<img id="share-image"', f'<img id="share-image" data-version="{build_version}"')
+        source = re.sub(r'(<img id="share-image"[^>]*src=")[^"]+', lambda m: m[1] + relative + '?v=' + build_version, source)
         source = re.sub(r'(<img id="share-image"[^>]*alt=")[^"]*', lambda m: m[1] + html.escape(tags['og:image:alt'], quote=True), source)
-        source = re.sub(r'(id="share-download" href=")[^"]+', lambda m: m[1] + relative, source)
+        source = re.sub(r'(id="share-download" href=")[^"]+', lambda m: m[1] + relative + '?v=' + build_version, source)
         path.write_text(source, encoding='utf-8')
 
 
