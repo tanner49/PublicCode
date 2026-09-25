@@ -92,7 +92,39 @@ def render_cards(snapshot, site):
         draw.rectangle((760, y + 15, 760 + bar, y + 30), fill=ORANGE)
         text(draw, (1158, y + 2), f'{strength:.2f}', 38, PAPER, True, anchor='rt')
     image.save(folder / 'schedules.png', optimize=True)
+    render_profile_cards(snapshot, folder)
     return folder
+
+
+def render_profile_cards(snapshot, folder):
+    from profile_metrics import calculate_profiles
+    profiles = calculate_profiles(snapshot, folder / 'profile-metrics.json')
+    teams = {t['team']: t for t in snapshot['teams']}
+    for kind, title, subtitle, color in [
+        ('brawlers', 'THE BRAWLERS.', 'FBS Top 50 · Positive game lifts, weighted by opponent strength · Index, not rating points', LIME),
+        ('cupcakes', 'CUPCAKE ANNIHILATORS.', 'All FBS · Weaker-opponent rating gaps, weighted by winning margins · 28-point cap', ORANGE),
+    ]:
+        rows = [r for r in profiles[kind] if r['score'] > 0]
+        image, draw = canvas(snapshot, title, subtitle)
+        for i, row in enumerate(rows[:5]):
+            t = teams[row['team']]
+            y = 211 + i * 64
+            draw.line((42, y + 55, 1158, y + 55), fill='#334c3b')
+            text(draw, (45, y), f'{i+1:02}', 40, color, True)
+            text(draw, (112, y), row['team'], 35, bold=True, width=690)
+            if kind == 'brawlers':
+                g = row['games'][0]
+                result = 'W' if g['margin'] > 0 else 'L' if g['margin'] < 0 else 'T'
+                detail = f"FBS #{row['rank']} · {record(t)} · KEY GAME: {result} BY {abs(g['margin'])} vs {g['opponent']} · LIFT +{g['lift']:.2f}"
+            else:
+                max_wins = sum(g['margin'] >= 28 and g['ratingGap'] > 0 for g in row['games'])
+                detail = f"FBS #{row['rank']} · {record(t)} · {max_wins} MAX-CREDIT WINS OVER WEAKER TEAMS · SOS {t['scheduleStrength']:.2f}"
+            text(draw, (114, y + 38), detail, 18, MUTED, width=850)
+            text(draw, (1158, y + 2), f"{row['score']:.2f}", 38, color, True, anchor='rt')
+            text(draw, (1158, y + 41), 'INDEX', 15, MUTED, anchor='rt')
+        next_names = ' / '.join(f"{i+6}. {r['team']}" for i, r in enumerate(rows[5:8]))
+        text(draw, (43, 548), 'NEXT: ' + next_names if next_names else 'No additional qualifying teams.', 18, MUTED, width=1110)
+        image.save(folder / f'{kind}.png', optimize=True)
 
 
 def publish_share_cards(data_directory):

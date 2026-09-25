@@ -59,3 +59,12 @@ The superseded local Week 4 snapshot with weight 0.00005 is preserved in `archiv
 Weekly updates also regenerate 1200x630 PNG graphics (FBS Top 10, highest-combined-rating upcoming FBS matchups, and toughest schedules played) in the website's `tanner-ratings/share/SEASON/week-NN/` directory. The page offers PNG downloads and embeds the latest Top 10 in static Open Graph/Twitter metadata for link previews. Week selection changes the on-page graphics; link previews always represent the latest published week. Platforms may cache previews.
 
 To regenerate graphics without recalculating ratings, run `python share_cards.py`. Use `--site PATH` for an alternative website data directory. The bundled Barlow Condensed fonts are distributed under their included SIL Open Font License.
+
+## Resume-style graphics
+
+`profile_metrics.py` calculates two exploratory indices without changing ratings. `share_cards.py` generates their PNGs and a public `profile-metrics.json` audit file. Identical inputs reuse cached calculations; the cache fingerprints the snapshot, priors, solver, and metric source.
+
+- **Brawlers:** candidates are the current FBS Top 50. Consider games with absolute margins below 28 against FBS opponents above the FBS median rating. Refit the entire production model after removing each game, including recomputing game-count weights while preserving priors. Positive rating lifts are multiplied by `(opponent rating - FBS median) / (highest FBS rating - FBS median)` and summed. Negative lifts contribute zero. This is a strength-weighted index, not additive rating points or a change over time.
+- **Cupcake Annihilators:** all FBS candidates. For every game, calculate `max(team rating - opponent rating, 0) * max(encoded_margin, 0) / 30.75`, then average across all games. Winning margins saturate at 28 plus the 2.75 bonus; losses and wins against stronger opponents contribute zero. Opponents from every division are included.
+
+The indices are not opposites, not calibrated predictions, and not evidence of overrating. Definitions were explored on the current snapshot, not established via an out-of-sample test. No team-name exceptions are used. Cards include scope, raw index values, records, and game evidence. Exact reconstruction of the published fit is checked before performing leave-one-game-out fits; a changed prior file fails rather than silently using a different baseline.
