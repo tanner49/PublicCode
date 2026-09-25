@@ -95,13 +95,11 @@ def render_profile_cards(snapshot, folder):
     profiles = calculate_profiles(snapshot, folder / 'profile-metrics.json')
     teams = {t['team']: t for t in snapshot['teams']}
     for kind, title, subtitle, color in [
-        ('brawlers', 'THE BRAWLERS.', 'Tough games. Well-earned respect.', LIME),
-        ('cupcakes', 'CUPCAKE ANNIHILATORS.', 'Big wins against easier competition.', ORANGE),
+        ('brawlers', 'THE BRAWLERS.', 'Teams whose rankings get a boost from holding their own against tough competition.', LIME),
+        ('cupcakes', 'CUPCAKE ANNIHILATORS.', 'Teams building their rankings with big wins over easier opponents.', ORANGE),
     ]:
         rows = [r for r in profiles[kind] if r['score'] > 0]
         image, draw = canvas(snapshot, title, subtitle)
-        draw.rectangle((40, 582, 520, 629), fill=INK)
-        text(draw, (42, 591), 'FBS TOP 50' if kind == 'brawlers' else 'ALL FBS TEAMS', 22, LIME, True)
         for i, row in enumerate(rows[:5]):
             t = teams[row['team']]
             y = 211 + i * 64
