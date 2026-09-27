@@ -78,8 +78,13 @@ def render_cards(snapshot, site):
 
     ratings = {t['team']: t['rating'] for t in snapshot['teams']}
     fixtures = [g for g in snapshot['fixtures'] if g['home'] in ratings and g['away'] in ratings and (g['classification'] == 'fbs' or g['awayClassification'] == 'fbs')]
+    policy = json.loads((Path(__file__).parent / 'prediction-policy.json').read_text())
+    active = (snapshot['season'], snapshot['week']) >= (policy['effectiveSeason'], policy['effectiveWeek'])
+    def forecast(g):
+        return g['homeEdge'] + (policy['homeAdvantage'] if active and not g['neutral'] else 0)
+    fixtures = [g for g in fixtures if g['homeEdge'] is not None and math.floor(abs(forecast(g)) * 2 + .5) / 2 <= 10]
     fixtures.sort(key=lambda g: (-(ratings[g['home']] + ratings[g['away']]), g['date'], g['id']))
-    image, draw = canvas(snapshot, 'THE GAMES TO WATCH.', 'Top FBS matchups | Predicted lines')
+    image, draw = canvas(snapshot, 'THE GAMES TO WATCH.', 'Top FBS matchups | Predicted margins of 10 points or less')
     for i, game in enumerate(fixtures[:5]):
         y = 218 + i * 66
         draw.line((42, y + 54, 1158, y + 54), fill='#334c3b')
@@ -88,14 +93,12 @@ def render_cards(snapshot, site):
         logo_badge(image, site, logos, game['away'], 108, y, 42)
         logo_badge(image, site, logos, game['home'], 157, y, 42)
         text(draw, (214, y), matchup, 35, bold=True, width=590)
-        policy = json.loads((Path(__file__).parent / 'prediction-policy.json').read_text())
-        active = (snapshot['season'], snapshot['week']) >= (policy['effectiveSeason'], policy['effectiveWeek'])
-        margin = game['homeEdge'] + (policy['homeAdvantage'] if active and not game['neutral'] else 0)
+        margin = forecast(game)
         points = math.floor(abs(margin) * 2 + .5) / 2
         line = "Pick’em" if not points else f"{game['home'] if margin > 0 else game['away']} −{points:.1f}"
         text(draw, (1158, y + 10), line, 29, LIME, True, width=330, anchor='rt')
     if not fixtures:
-        text(draw, (42, 270), 'No upcoming matchups available for this week.', 38)
+        text(draw, (42, 270), 'No matchups within 10 points available this week.', 38)
     image.save(folder / 'matchups.png', optimize=True)
 
     image, draw = canvas(snapshot, 'THE HARDEST ROADS.', f"FBS | Average opponent rating through Week {snapshot['throughWeek']}")

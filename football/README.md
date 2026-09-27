@@ -88,3 +88,7 @@ The audit `share/SEASON/week-NN/new-light.json` includes every FBS team's prior 
 ## Home advantage for predictions
 
 `prediction-policy.json` adds 3 points to the home margin for non-neutral fixtures starting with 2026 Week 5. The publisher copies this policy to the website; the upcoming list and share graphic apply the same adjustment. The interactive builder uses home and away inputs and always applies the current 3-point policy, including when exploring historical ratings. The rating fit and immutable snapshot `homeEdge` remain unadjusted, preserving the original model output. Week 4 scheduled predictions are unchanged. The original Week 5 matchup graphic is archived under `archive/prediction-revisions/2026-week05-no-home-advantage/`.
+
+Games to Watch selects the five highest-combined-rating FBS-involving fixtures with a displayed predicted margin of 10 points or less, including the active home adjustment. The full upcoming-game list remains available.
+
+The isolated halftime-blowout experiment is documented in `analysis/results/halftime-2025/README.md`; it does not affect production ratings.

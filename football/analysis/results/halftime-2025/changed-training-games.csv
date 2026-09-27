@@ -1,0 +1,687 @@
+id,home,away,week,homeClass,awayClass,final,halftime,cap28,half1.0,half1.25,half1.5,softcap25pct,uncapped
+401773397,Marian College,Indianapolis,1,,ii,-24,-28,-26.75,-30.75,-37.75,-44.75,-26.75,-26.75
+401773093,University Of Charleston (WV),Livingstone,1,ii,ii,29,24,30.75,30.75,32.75,38.75,31.0,31.75
+401773065,Wilson,Virginia St,1,ii,ii,-28,-21,-30.75,-30.75,-30.75,-34.25,-30.75,-30.75
+401773639,Minnesota State Mankato,Northwest Missouri St,1,ii,ii,24,21,26.75,26.75,29.0,34.25,26.75,26.75
+401767620,Drake,Upper Iowa University,1,fcs,ii,34,24,30.75,30.75,32.75,38.75,32.25,36.75
+401752674,Missouri,Central Arkansas,1,fbs,fcs,55,26,30.75,30.75,35.25,41.75,37.5,57.75
+401773910,CSU Pueblo,South Dakota Mines,1,ii,ii,43,22,30.75,30.75,30.75,35.75,34.5,45.75
+401773604,Emporia State University,Minot State,1,ii,ii,20,24,22.75,26.75,32.75,38.75,22.75,22.75
+401766898,Florida International,Bethune-Cookman,1,fbs,fcs,33,22,30.75,30.75,30.75,35.75,32.0,35.75
+401752802,Michigan State,Western Michigan,1,fbs,fbs,17,21,19.75,23.75,29.0,34.25,19.75,19.75
+401773529,West Florida,Lenoir-Rhyne,1,ii,ii,27,24,29.75,29.75,32.75,38.75,29.75,29.75
+401752795,Illinois,Western Illinois,1,fbs,fcs,49,31,30.75,33.75,41.5,49.25,36.0,51.75
+401756854,Kansas,Wagner,1,fbs,fcs,39,22,30.75,30.75,30.75,35.75,33.5,41.75
+401752797,Maryland,Florida Atlantic,1,fbs,fbs,32,26,30.75,30.75,35.25,41.75,31.75,34.75
+401762434,Navy,VMI,1,fbs,fcs,45,28,30.75,30.75,37.75,44.75,35.0,47.75
+401752801,Purdue,Ball State,1,fbs,fbs,31,21,30.75,30.75,30.75,34.25,31.5,33.75
+401754520,Pittsburgh,Duquesne,1,fbs,fcs,52,28,30.75,30.75,37.75,44.75,36.75,54.75
+401767602,Davidson,Georgetown,1,fcs,fcs,-37,-24,-30.75,-30.75,-32.75,-38.75,-33.0,-39.75
+401767230,Tennessee Tech,Cumberland (TN),1,fcs,,65,45,30.75,47.75,58.75,58.75,40.0,67.75
+401773699,Post University,West Virginia Wesleyan,1,ii,ii,37,30,30.75,32.75,40.25,47.75,33.0,39.75
+401773099,Shaw,Albany State GA,1,ii,ii,-44,-24,-30.75,-30.75,-32.75,-38.75,-34.75,-46.75
+401757167,UConn,Central Connecticut,1,fbs,fcs,46,25,30.75,30.75,34.0,40.25,35.25,48.75
+401773086,Morehouse College,Johnson C Smith,1,ii,ii,-36,-23,-30.75,-30.75,-31.5,-37.25,-32.75,-38.75
+401754519,Louisville,Eastern Kentucky,1,fbs,fcs,34,34,30.75,36.75,45.25,53.75,32.25,36.75
+401752669,Georgia,Marshall,1,fbs,fbs,38,24,30.75,30.75,32.75,38.75,33.25,40.75
+401760359,Air Force,Bucknell,1,fbs,fcs,36,21,30.75,30.75,30.75,34.25,32.75,38.75
+401752807,Penn State,Nevada,1,fbs,fbs,35,24,30.75,30.75,32.75,38.75,32.5,37.75
+401752804,Oregon,Montana State,1,fbs,fcs,46,35,30.75,37.75,46.5,55.25,35.25,48.75
+401752666,Arkansas,Alabama A&M,1,fbs,fcs,45,24,30.75,30.75,32.75,38.75,35.0,47.75
+401762433,Memphis,Chattanooga,1,fbs,fcs,35,25,30.75,30.75,34.0,40.25,32.5,37.75
+401767454,East Tennessee State,Murray State,1,fcs,fcs,28,21,30.75,30.75,30.75,34.25,30.75,30.75
+401761590,James Madison,Weber State,1,fbs,fcs,35,21,30.75,30.75,30.75,34.25,32.5,37.75
+401773926,Catawba,Ferrum,1,ii,ii,32,29,30.75,31.75,39.0,46.25,31.75,34.75
+401754616,Virginia,Coastal Carolina,1,fbs,fbs,41,28,30.75,30.75,37.75,44.75,34.0,43.75
+401752675,Oklahoma,Illinois State,1,fbs,fcs,32,21,30.75,30.75,30.75,34.25,31.75,34.75
+401773406,Lincoln (MO),Lincoln (CA),1,ii,ii,49,21,30.75,30.75,30.75,34.25,36.0,51.75
+401767547,Southern Illinois,Thomas More College,1,fcs,ii,46,25,30.75,30.75,34.0,40.25,35.25,48.75
+401752668,Florida,Long Island University,1,fbs,fcs,55,38,30.75,40.75,50.25,58.75,37.5,57.75
+401752679,Vanderbilt,Charleston Southern,1,fbs,fcs,42,28,30.75,30.75,37.75,44.75,34.25,44.75
+401767490,McNeese,Louisiana College,1,fcs,,45,29,30.75,31.75,39.0,46.25,35.0,47.75
+401788977,Grambling,Langston University,1,fcs,,48,35,30.75,37.75,46.5,55.25,35.75,50.75
+401757226,Western Kentucky,North Alabama,1,fbs,fcs,49,36,30.75,38.75,47.75,56.75,36.0,51.75
+401756877,Texas Tech,Arkansas-Pine Bluff,1,fbs,fcs,60,47,30.75,49.75,58.75,58.75,38.75,62.75
+401752798,USC,Missouri State,1,fbs,fbs,60,32,30.75,34.75,42.75,50.75,38.75,62.75
+401756851,BYU,Portland State,1,fbs,fcs,69,49,30.75,51.75,58.75,58.75,41.0,71.75
+401762435,North Texas,Lamar,1,fbs,fcs,51,37,30.75,39.75,49.0,58.25,36.5,53.75
+401767526,UT Rio Grande Valley,Sul Ross State,1,fcs,ii,66,49,30.75,51.75,58.75,58.75,40.25,68.75
+401773700,West Virginia Wesleyan,Clarion,2,ii,ii,-28,-41,-30.75,-43.75,-54.0,-58.75,-30.75,-30.75
+401774218,North Carolina Wesleyan,Averett,2,iii,iii,52,37,30.75,39.75,49.0,58.25,36.75,54.75
+401777085,Heidelberg,Hiram College,2,iii,iii,38,23,30.75,30.75,31.5,37.25,33.25,40.75
+401778004,Buffalo State,Brockport,2,iii,iii,-41,-21,-30.75,-30.75,-30.75,-34.25,-34.0,-43.75
+401773361,Northwestern Oklahoma State,Harding University,2,ii,ii,-42,-35,-30.75,-37.75,-46.5,-55.25,-34.25,-44.75
+401773382,Southern Arkansas,Oklahoma Baptist,2,ii,ii,35,28,30.75,30.75,37.75,44.75,32.5,37.75
+401773044,Cornell College (IA),Coe College,2,iii,iii,-56,-42,-30.75,-44.75,-55.25,-58.75,-37.75,-58.75
+401777236,Randolph-Macon,Dickinson (PA),2,iii,iii,14,21,16.75,23.75,29.0,34.25,16.75,16.75
+401777027,Thiel,Concordia-Wisconsin,2,iii,iii,-19,-21,-21.75,-23.75,-29.0,-34.25,-21.75,-21.75
+401777002,Fitchburg State,Dean College,2,iii,iii,35,21,30.75,30.75,30.75,34.25,32.5,37.75
+401752817,Northwestern,Western Illinois,2,fbs,fcs,35,22,30.75,30.75,30.75,35.75,32.5,37.75
+401783282,Reading,Ursinus,2,iii,iii,-24,-24,-26.75,-26.75,-32.75,-38.75,-26.75,-26.75
+401760363,Boise State,Eastern Washington,2,fbs,fcs,37,23,30.75,30.75,31.5,37.25,33.0,39.75
+401773276,Eastern University,Anna Maria College,2,iii,iii,39,29,30.75,31.75,39.0,46.25,33.5,41.75
+401767750,Duquesne,Lincoln (PA),2,fcs,ii,41,34,30.75,36.75,45.25,53.75,34.0,43.75
+401776968,Hartwick,Maine Maritime,2,iii,iii,49,21,30.75,30.75,30.75,34.25,36.0,51.75
+401776793,Oberlin,Calvin University,2,iii,iii,-82,-34,-30.75,-36.75,-45.25,-53.75,-44.25,-84.75
+401752693,Texas,San José State,2,fbs,fbs,31,21,30.75,30.75,30.75,34.25,31.5,33.75
+401756885,Texas Tech,Kent State,2,fbs,fbs,48,48,30.75,50.75,58.75,58.75,35.75,50.75
+401754621,Florida State,East Texas A&M,2,fbs,fcs,74,49,30.75,51.75,58.75,58.75,42.25,76.75
+401776805,University of Rochester (NY),Olivet College,2,iii,iii,21,25,23.75,27.75,34.0,40.25,23.75,23.75
+401774036,FDU-Florham,St John Fisher University,2,iii,iii,-21,-21,-23.75,-23.75,-29.0,-34.25,-23.75,-23.75
+401752813,Minnesota,Northwestern State,2,fbs,fcs,66,59,30.75,58.75,58.75,58.75,40.25,68.75
+401777774,MIT,Nichols College,2,iii,iii,33,23,30.75,30.75,31.5,37.25,32.0,35.75
+401777095,Otterbein,Ohio Wesleyan,2,iii,iii,-37,-23,-30.75,-30.75,-31.5,-37.25,-33.0,-39.75
+401752694,Texas A&M,Utah State,2,fbs,fbs,22,24,24.75,26.75,32.75,38.75,24.75,24.75
+401766652,Lawrence University,Martin Luther,2,iii,iii,-19,-23,-21.75,-25.75,-31.5,-37.25,-21.75,-21.75
+401767771,Stonehill,Lafayette,2,fcs,fcs,-16,-22,-18.75,-24.75,-30.25,-35.75,-18.75,-18.75
+401777197,Waynesburg,John Carroll University,2,iii,iii,-34,-38,-30.75,-40.75,-50.25,-58.75,-32.25,-36.75
+401774072,Ithaca College,Johns Hopkins University,2,iii,iii,-28,-28,-30.75,-30.75,-37.75,-44.75,-30.75,-30.75
+401788304,Anderson (Sc),ERSKINE,2,ii,ii,28,28,30.75,30.75,37.75,44.75,30.75,30.75
+401777274,Widener,Geneva,2,iii,iii,26,29,28.75,31.75,39.0,46.25,28.75,28.75
+401767231,Tennessee Tech,Chattanooga,2,fcs,fcs,28,21,30.75,30.75,30.75,34.25,30.75,30.75
+401777953,Lake Erie,Ferris State,2,ii,ii,-57,-36,-30.75,-38.75,-47.75,-56.75,-38.0,-59.75
+401773489,Saginaw Valley State,Gannon,2,ii,ii,21,21,23.75,23.75,29.0,34.25,23.75,23.75
+401773767,Augustana University (SD),Jamestown College,2,ii,ii,30,30,30.75,32.75,40.25,47.75,31.25,32.75
+401774182,Aurora,Wisconsin-Platteville,2,iii,iii,-41,-34,-30.75,-36.75,-45.25,-53.75,-34.0,-43.75
+401773179,Loras College,Hope College,2,iii,iii,-62,-41,-30.75,-43.75,-54.0,-58.75,-39.25,-64.75
+401767550,Youngstown State,Robert Morris,2,fcs,fcs,39,39,30.75,41.75,51.5,58.75,33.5,41.75
+401777045,St. Norbert,Wabash College,2,iii,iii,-34,-21,-30.75,-30.75,-30.75,-34.25,-32.25,-36.75
+401777134,Wittenberg,Baldwin Wallace,2,iii,iii,-18,-24,-20.75,-26.75,-32.75,-38.75,-20.75,-20.75
+401762462,Temple,Howard,2,fbs,fcs,48,24,30.75,30.75,32.75,38.75,35.75,50.75
+401767224,Tennessee State,North Dakota State,2,fcs,fcs,-56,-45,-30.75,-47.75,-58.75,-58.75,-37.75,-58.75
+401762794,Buffalo,St. Francis (PA),2,fbs,fcs,39,24,30.75,30.75,32.75,38.75,33.5,41.75
+401754622,Georgia Tech,Gardner-Webb,2,fbs,fcs,47,22,30.75,30.75,30.75,35.75,35.5,49.75
+401752692,Tennessee,East Tennessee State,2,fbs,fcs,55,41,30.75,43.75,54.0,58.75,37.5,57.75
+401752815,Ohio State,Grambling,2,fbs,fcs,70,35,30.75,37.75,46.5,55.25,41.25,72.75
+401752824,Oregon,Oklahoma State,2,fbs,fbs,66,38,30.75,40.75,50.25,58.75,40.25,68.75
+401777166,Puget Sound,Lewis & Clark College,2,iii,iii,-36,-36,-30.75,-38.75,-47.75,-56.75,-32.75,-38.75
+401752682,Arkansas,Arkansas State,2,fbs,fbs,42,21,30.75,30.75,30.75,34.25,34.25,44.75
+401767652,Stetson,Warner University,2,fcs,,46,35,30.75,37.75,46.5,55.25,35.25,48.75
+401773742,Southwest Minnesota State,Minnesota State Moorhead,2,ii,ii,-48,-31,-30.75,-33.75,-41.5,-49.25,-35.75,-50.75
+401767149,Elon,Davidson,2,fcs,fcs,48,41,30.75,43.75,54.0,58.75,35.75,50.75
+401756887,Utah,Cal Poly,2,fbs,fcs,54,29,30.75,31.75,39.0,46.25,37.25,56.75
+401762460,Florida Atlantic,Florida A&M,2,fbs,fcs,42,39,30.75,41.75,51.5,58.75,34.25,44.75
+401777102,Wilmington (OH),Wooster,2,iii,iii,24,21,26.75,26.75,29.0,34.25,26.75,26.75
+401762459,East Carolina,Campbell,2,fbs,fcs,53,32,30.75,34.75,42.75,50.75,37.0,55.75
+401774335,Berry College,Huntingdon College (AL),2,iii,iii,30,37,30.75,39.75,49.0,58.25,31.25,32.75
+401756886,UCF,North Carolina A&T,2,fbs,fcs,61,40,30.75,42.75,52.75,58.75,39.0,63.75
+401773135,Delta State,North Greenville,2,ii,ii,32,25,30.75,30.75,34.0,40.25,31.75,34.75
+401754641,Miami,Bethune-Cookman,2,fbs,fcs,42,25,30.75,30.75,34.0,40.25,34.25,44.75
+401774434,Rose-Hulman,Depauw,2,iii,iii,-40,-27,-30.75,-30.75,-36.5,-43.25,-33.75,-42.75
+401766650,Ripon,North Park,2,iii,iii,-16,-21,-18.75,-23.75,-29.0,-34.25,-18.75,-18.75
+401767127,North Dakota,Portland State,2,fcs,fcs,30,30,30.75,32.75,40.25,47.75,31.25,32.75
+401767304,Tarleton State,Mississippi Valley State,2,fcs,fcs,56,28,30.75,30.75,37.75,44.75,37.75,58.75
+401773798,Wayne State (NE),University of Mary,2,ii,ii,35,21,30.75,30.75,30.75,34.25,32.5,37.75
+401757232,Toledo,Western Kentucky,2,fbs,fbs,24,24,26.75,26.75,32.75,38.75,26.75,26.75
+401773775,Concordia University St Paul,Minnesota Duluth,2,ii,ii,-54,-40,-30.75,-42.75,-52.75,-58.75,-37.25,-56.75
+401752810,Nebraska,Akron,2,fbs,fbs,68,33,30.75,35.75,44.0,52.25,40.75,70.75
+401752683,Auburn,Ball State,2,fbs,fbs,39,21,30.75,30.75,30.75,34.25,33.5,41.75
+401752681,Alabama,UL Monroe,2,fbs,fbs,73,42,30.75,44.75,55.25,58.75,42.0,75.75
+401773564,Texas A&M-Kingsville,Lincoln (CA),2,ii,ii,48,38,30.75,40.75,50.25,58.75,35.75,50.75
+401773556,Midwestern State,Western Colorado,2,ii,ii,-25,-21,-27.75,-27.75,-29.0,-34.25,-27.75,-27.75
+401774392,Washington University (St. Louis),Rhodes College,2,iii,iii,49,42,30.75,44.75,55.25,58.75,36.0,51.75
+401757231,UTEP,UT Martin,2,fbs,fcs,25,21,27.75,27.75,29.0,34.25,27.75,27.75
+401756879,Arizona,Weber State,2,fbs,fcs,45,34,30.75,36.75,45.25,53.75,35.0,47.75
+401773900,Phoenix,Fort Lewis,2,,ii,-48,-35,-30.75,-37.75,-46.5,-55.25,-35.75,-50.75
+401752821,Washington,UC Davis,2,fbs,fcs,60,32,30.75,34.75,42.75,50.75,38.75,62.75
+401773701,West Virginia Wesleyan,Ohio Dominican,3,ii,ii,-31,-24,-30.75,-30.75,-32.75,-38.75,-31.5,-33.75
+401773332,Arkansas Tech,Northwestern Oklahoma State,3,ii,ii,44,23,30.75,30.75,31.5,37.25,34.75,46.75
+401773362,Harding University,Southwestern Oklahoma State,3,ii,ii,55,28,30.75,30.75,37.75,44.75,37.5,57.75
+401752836,Indiana,Indiana State,3,fbs,fcs,73,45,30.75,47.75,58.75,58.75,42.0,75.75
+401754532,Syracuse,Colgate,3,fbs,fcs,42,35,30.75,37.75,46.5,55.25,34.25,44.75
+401774219,Apprentice School,North Carolina Wesleyan,3,iii,iii,-33,-28,-30.75,-30.75,-37.75,-44.75,-32.0,-35.75
+401773707,American International,Assumption,3,ii,ii,-18,-23,-20.75,-25.75,-31.5,-37.25,-20.75,-20.75
+401774131,Castleton,Norwich,3,iii,iii,22,27,24.75,29.75,36.5,43.25,24.75,24.75
+401773287,Dean College,Mass Maritime,3,iii,iii,-28,-21,-30.75,-30.75,-30.75,-34.25,-30.75,-30.75
+401774300,Springfield,Husson,3,iii,iii,32,21,30.75,30.75,30.75,34.25,31.75,34.75
+401756891,Baylor,Samford,3,fbs,fcs,35,28,30.75,30.75,37.75,44.75,32.5,37.75
+401754619,Virginia,William & Mary,3,fbs,fcs,39,35,30.75,37.75,46.5,55.25,33.5,41.75
+401752696,Alabama,Wisconsin,3,fbs,fbs,24,21,26.75,26.75,29.0,34.25,26.75,26.75
+401752703,Temple,Oklahoma,3,fbs,fbs,-39,-25,-30.75,-30.75,-34.0,-40.25,-33.5,-41.75
+401752828,Nebraska,Houston Christian,3,fbs,fcs,52,38,30.75,40.75,50.25,58.75,36.75,54.75
+401752839,Michigan,Central Michigan,3,fbs,fbs,60,32,30.75,34.75,42.75,50.75,38.75,62.75
+401776994,Misericordia,Albright,3,iii,iii,21,21,23.75,23.75,29.0,34.25,23.75,23.75
+401752838,Maryland,Towson,3,fbs,fcs,27,34,29.75,36.75,45.25,53.75,29.75,29.75
+401777206,Grove City College,University of Mount Union,3,iii,iii,-35,-21,-30.75,-30.75,-30.75,-34.25,-32.5,-37.75
+401776802,Kalamazoo,Bethany (WV),3,iii,iii,43,36,30.75,38.75,47.75,56.75,34.5,45.75
+401774287,Gettysburg,Christopher Newport,3,iii,iii,-35,-35,-30.75,-37.75,-46.5,-55.25,-32.5,-37.75
+401774314,Ursinus,Kean,3,iii,iii,28,35,30.75,37.75,46.5,55.25,30.75,30.75
+401776775,Adrian,Thiel,3,iii,iii,76,49,30.75,51.75,58.75,58.75,42.75,78.75
+401777620,Dickinson (PA),Waynesburg,3,iii,iii,33,21,30.75,30.75,30.75,34.25,32.0,35.75
+401783308,Rowan,Moravian,3,iii,iii,56,35,30.75,37.75,46.5,55.25,37.75,58.75
+401783344,Delaware Valley,Kings College (PA),3,iii,iii,42,35,30.75,37.75,46.5,55.25,34.25,44.75
+401804601,SUNY Maritime,Anderson (IN),3,iii,iii,48,27,30.75,30.75,36.5,43.25,35.75,50.75
+401773115,Chowan,Valdosta State,3,ii,ii,-53,-35,-30.75,-37.75,-46.5,-55.25,-37.0,-55.75
+401774422,Manchester,Concordia University Chicago,3,iii,iii,-21,-28,-23.75,-30.75,-37.75,-44.75,-23.75,-23.75
+401773834,Gannon,East Stroudsburg University,3,ii,ii,-47,-32,-30.75,-34.75,-42.75,-50.75,-35.5,-49.75
+401767232,Tennessee Tech,Davidson,3,fcs,fcs,58,31,30.75,33.75,41.5,49.25,38.25,60.75
+401752702,Missouri,Louisiana,3,fbs,fbs,42,28,30.75,30.75,37.75,44.75,34.25,44.75
+401777775,Nichols College,Merchant Marine Academy,3,iii,iii,-32,-30,-30.75,-32.75,-40.25,-47.75,-31.75,-34.75
+401774408,Franklin,Hope College,3,iii,iii,-24,-24,-26.75,-26.75,-32.75,-38.75,-26.75,-26.75
+401809170,Saint Xavier (IL),Wisconsin-Whitewater,3,,iii,-37,-24,-30.75,-30.75,-32.75,-38.75,-33.0,-39.75
+401776750,Saint John's (MN),Minnesota Morris,3,iii,iii,49,21,30.75,30.75,30.75,34.25,36.0,51.75
+401773186,Martin Luther,Luther,3,iii,iii,34,24,30.75,30.75,32.75,38.75,32.25,36.75
+401766653,Monmouth (IL),Lawrence University,3,iii,iii,71,52,30.75,54.75,58.75,58.75,41.5,73.75
+401766656,Knox College,Ripon,3,iii,iii,-43,-26,-30.75,-30.75,-35.25,-41.75,-34.5,-45.75
+401777768,New England College,MIT,3,,iii,-55,-28,-30.75,-30.75,-37.75,-44.75,-37.5,-57.75
+401773917,Anderson (Sc),Greeneville,3,ii,ii,30,24,30.75,30.75,32.75,38.75,31.25,32.75
+401773733,Bemidji State,Sioux Falls,3,ii,ii,-33,-21,-30.75,-30.75,-30.75,-34.25,-32.0,-35.75
+401767421,Jackson State,Tuskegee,3,fcs,ii,30,21,30.75,30.75,30.75,34.25,31.25,32.75
+401767106,Montana State,San Diego,3,fcs,fcs,34,24,30.75,30.75,32.75,38.75,32.25,36.75
+401767341,Delaware State,Bowie State,3,fcs,ii,22,23,24.75,25.75,31.5,37.25,24.75,24.75
+401752835,Penn State,Villanova,3,fbs,fcs,46,21,30.75,30.75,30.75,34.25,35.25,48.75
+401762819,Toledo,Morgan State,3,fbs,fcs,60,46,30.75,48.75,58.75,58.75,38.75,62.75
+401762467,UTSA,Incarnate Word,3,fbs,fcs,28,24,30.75,30.75,32.75,38.75,30.75,30.75
+401752949,North Texas,Washington State,3,fbs,fbs,49,39,30.75,41.75,51.5,58.75,36.0,51.75
+401756892,Cincinnati,Northwestern State,3,fbs,fcs,70,56,30.75,58.75,58.75,58.75,41.25,72.75
+401773911,Upper Iowa University,South Dakota Mines,3,ii,ii,44,30,30.75,32.75,40.25,47.75,34.75,46.75
+401752938,Texas Tech,Oregon State,3,fbs,fbs,31,28,30.75,30.75,37.75,44.75,31.5,33.75
+401752833,Rutgers,Norfolk State,3,fbs,fcs,50,23,30.75,30.75,31.5,37.25,36.25,52.75
+401777160,Pacific Lutheran,Simpson University (Ca),3,iii,,26,21,28.75,28.75,29.0,34.25,28.75,28.75
+401777139,Lewis & Clark College,NEWBERG,3,iii,iii,28,24,30.75,30.75,32.75,38.75,30.75,30.75
+401754535,Miami,South Florida,3,fbs,fbs,37,22,30.75,30.75,30.75,35.75,33.0,39.75
+401767360,Alabama State,Miles College,3,fcs,ii,28,28,30.75,30.75,37.75,44.75,30.75,30.75
+401778030,Westminster College (MO),Eureka College,3,iii,iii,23,26,25.75,28.75,35.25,41.75,25.75,25.75
+401783234,Wingate,Bluefield State,3,ii,ii,65,49,30.75,51.75,58.75,58.75,40.0,67.75
+401774209,Averett,Southern Virginia,3,iii,iii,-32,-33,-30.75,-35.75,-44.0,-52.25,-31.75,-34.75
+401777086,Hiram College,Oberlin,3,iii,iii,37,23,30.75,30.75,31.5,37.25,33.0,39.75
+401761606,Marshall,Eastern Kentucky,3,fbs,fcs,31,31,30.75,33.75,41.5,49.25,31.5,33.75
+401752701,Mississippi State,Alcorn State,3,fbs,fcs,63,42,30.75,44.75,55.25,58.75,39.5,65.75
+401773490,Saginaw Valley State,Northwood (MI),3,ii,ii,-24,-28,-26.75,-30.75,-37.75,-44.75,-26.75,-26.75
+401767030,Bryant,Bentley,3,fcs,ii,36,21,30.75,30.75,30.75,34.25,32.75,38.75
+401774058,Utica,Rensselaer,3,iii,iii,27,28,29.75,30.75,37.75,44.75,29.75,29.75
+401767529,Chattanooga,Stetson,3,fcs,fcs,63,35,30.75,37.75,46.5,55.25,39.5,65.75
+401773956,Newberry,Point University,3,ii,,49,35,30.75,37.75,46.5,55.25,36.0,51.75
+401767639,Presbyterian,ERSKINE,3,fcs,ii,28,28,30.75,30.75,37.75,44.75,30.75,30.75
+401754536,Virginia Tech,Old Dominion,3,fbs,fbs,-19,-28,-21.75,-30.75,-37.75,-44.75,-21.75,-21.75
+401767285,North Alabama,Northeastern State,3,fcs,ii,28,29,30.75,31.75,39.0,46.25,30.75,30.75
+401767237,Western Illinois,Valparaiso,3,fcs,fcs,21,25,23.75,27.75,34.0,40.25,23.75,23.75
+401774463,Millsaps,CENTENARY,3,iii,iii,42,21,30.75,30.75,30.75,34.25,34.25,44.75
+401767458,Texas Southern,Lamar,3,fcs,fcs,-24,-21,-26.75,-26.75,-29.0,-34.25,-26.75,-26.75
+401774121,Trine University,Rose-Hulman,3,iii,iii,17,21,19.75,23.75,29.0,34.25,19.75,19.75
+401776774,Bethel (MN),Northwestern (MN),3,iii,iii,47,30,30.75,32.75,40.25,47.75,35.5,49.75
+401778033,Trinity University TX,Belhaven,3,iii,iii,49,42,30.75,44.75,55.25,58.75,36.0,51.75
+401767305,Central Arkansas,Tarleton State,3,fcs,fcs,-46,-35,-30.75,-37.75,-46.5,-55.25,-35.25,-48.75
+401773425,Missouri Western,Missouri S&T,3,ii,ii,17,24,19.75,26.75,32.75,38.75,19.75,19.75
+401788912,East Texas Baptist University,Oklahoma Panhandle St,3,iii,ii,28,28,30.75,30.75,37.75,44.75,30.75,30.75
+401767426,SE Louisiana,Mississippi Valley State,3,fcs,fcs,53,39,30.75,41.75,51.5,58.75,37.0,55.75
+401767248,Austin Peay,Morehead State,3,fcs,fcs,49,42,30.75,44.75,55.25,58.75,36.0,51.75
+401774336,Lagrange College,Berry College,3,iii,iii,-48,-28,-30.75,-30.75,-37.75,-44.75,-35.75,-50.75
+401752830,Iowa,Massachusetts,3,fbs,fbs,40,23,30.75,30.75,31.5,37.25,33.75,42.75
+401756894,TCU,Abilene Christian,3,fbs,fcs,21,28,23.75,30.75,37.75,44.75,23.75,23.75
+401767524,Stephen F. Austin,Sul Ross State,3,fcs,ii,63,56,30.75,58.75,58.75,58.75,39.5,65.75
+401767071,Cal Poly,Western Oregon,3,fcs,ii,49,35,30.75,37.75,46.5,55.25,36.0,51.75
+401767527,UT Rio Grande Valley,Langston University,3,fcs,,80,52,30.75,54.75,58.75,58.75,43.75,82.75
+401773581,Western New Mexico,West Texas A&M,3,ii,ii,-31,-35,-30.75,-37.75,-46.5,-55.25,-31.5,-33.75
+401760369,Fresno State,Southern,3,fbs,fcs,49,28,30.75,30.75,37.75,44.75,36.0,51.75
+401767551,Brown,Georgetown,4,fcs,fcs,46,32,30.75,34.75,42.75,50.75,35.25,48.75
+401774220,North Carolina Wesleyan,Sewanee,4,iii,iii,-33,-26,-30.75,-30.75,-35.25,-41.75,-32.0,-35.75
+401773811,PennWest California,Lock Haven University,4,ii,ii,36,29,30.75,31.75,39.0,46.25,32.75,38.75
+401773144,Shorter,Virginia University Of Lynchburg,4,ii,,37,42,30.75,44.75,55.25,58.75,33.0,39.75
+401777004,Fitchburg State,New England College,4,iii,,48,41,30.75,43.75,54.0,58.75,35.75,50.75
+401774132,Castleton,Biddeford,4,iii,iii,-27,-25,-29.75,-29.75,-34.0,-40.25,-29.75,-29.75
+401800975,Endicott College,SUNY Maritime,4,iii,iii,34,28,30.75,30.75,37.75,44.75,32.25,36.75
+401778034,Belhaven,Wisconsin-River Falls,4,iii,iii,-65,-35,-30.75,-37.75,-46.5,-55.25,-40.0,-67.75
+401752715,Tennessee,UAB,4,fbs,fbs,32,35,30.75,37.75,46.5,55.25,31.75,34.75
+401762822,Central Michigan,Wagner,4,fbs,fcs,39,32,30.75,34.75,42.75,50.75,33.5,41.75
+401777198,John Carroll University,Oberlin,4,iii,iii,63,42,30.75,44.75,55.25,58.75,39.5,65.75
+401783283,Moravian,Ursinus,4,iii,iii,-28,-28,-30.75,-30.75,-37.75,-44.75,-30.75,-30.75
+401777229,Hampden-Sydney,Shenandoah,4,iii,iii,35,21,30.75,30.75,30.75,34.25,32.5,37.75
+401767653,Stetson,Harvard,4,fcs,fcs,-52,-45,-30.75,-47.75,-58.75,-58.75,-36.75,-54.75
+401774183,Wisconsin-Platteville,Springfield,4,iii,iii,16,28,18.75,30.75,37.75,44.75,18.75,18.75
+401767342,St. Francis (PA),Delaware State,4,fcs,fcs,-29,-23,-30.75,-30.75,-31.5,-37.25,-31.0,-31.75
+401767640,Presbyterian,BLUEFIELD,4,fcs,,73,54,30.75,56.75,58.75,58.75,42.0,75.75
+401773744,Minnesota State Moorhead,Wayne State (NE),4,ii,ii,-10,-21,-12.75,-23.75,-29.0,-34.25,-12.75,-12.75
+401774064,Franklin & Marshall,Catholic,4,iii,iii,35,28,30.75,30.75,37.75,44.75,32.5,37.75
+401774141,Western Connecticut St,Gettysburg,4,iii,iii,34,21,30.75,30.75,30.75,34.25,32.25,36.75
+401783339,Reading,Stevenson,4,iii,iii,-22,-21,-24.75,-24.75,-29.0,-34.25,-24.75,-24.75
+401774210,Keystone,Southern Virginia,4,iii,iii,-42,-33,-30.75,-35.75,-44.0,-52.25,-34.25,-44.75
+401773081,Elizabeth City State,Fayetteville State,4,ii,ii,-43,-23,-30.75,-30.75,-31.5,-37.25,-34.5,-45.75
+401777776,Coast Guard,Nichols College,4,iii,iii,32,36,30.75,38.75,47.75,56.75,31.75,34.75
+401773305,Hilbert College,Ithaca College,4,iii,iii,-62,-28,-30.75,-30.75,-37.75,-44.75,-39.25,-64.75
+401773250,Hardin-Simmons,Louisiana College,4,iii,,35,21,30.75,30.75,30.75,34.25,32.5,37.75
+401773046,Coe College,Nebraska Wesleyan,4,iii,iii,48,27,30.75,30.75,36.5,43.25,35.75,50.75
+401776751,Hamline University,Saint John's (MN),4,iii,iii,-58,-37,-30.75,-39.75,-49.0,-58.25,-38.25,-60.75
+401776767,Gustavus Adolphus,Bethel (MN),4,iii,iii,-34,-24,-30.75,-30.75,-32.75,-38.75,-32.25,-36.75
+401774160,Wisconsin-Eau Claire,Martin Luther,4,iii,iii,36,35,30.75,37.75,46.5,55.25,32.75,38.75
+401767541,South Dakota,Drake,4,fcs,fcs,21,21,23.75,23.75,29.0,34.25,23.75,23.75
+401773037,Luther,Central College,4,iii,iii,-37,-36,-30.75,-38.75,-47.75,-56.75,-33.0,-39.75
+401774367,North Central College,Carthage,4,iii,iii,62,27,30.75,30.75,36.5,43.25,39.25,64.75
+401774148,Norwich,Maine Maritime,4,iii,iii,63,42,30.75,44.75,55.25,58.75,39.5,65.75
+401773789,Sioux Falls,Minnesota Duluth,4,ii,ii,-17,-28,-19.75,-30.75,-37.75,-44.75,-19.75,-19.75
+401773861,West Chester,Seton Hill,4,ii,ii,18,24,20.75,26.75,32.75,38.75,20.75,20.75
+401773734,Bemidji State,Augustana University (SD),4,ii,ii,-28,-35,-30.75,-37.75,-46.5,-55.25,-30.75,-30.75
+401773841,Indiana-Pennsylvania,Millersville,4,ii,ii,46,42,30.75,44.75,55.25,58.75,35.25,48.75
+401777020,Concordia University Chicago,St. Norbert,4,iii,iii,-31,-28,-30.75,-30.75,-37.75,-44.75,-31.5,-33.75
+401776757,Carleton,Macalester,4,iii,iii,44,30,30.75,32.75,40.25,47.75,34.75,46.75
+401774046,Hartwick,Cortland,4,iii,iii,-50,-31,-30.75,-33.75,-41.5,-49.25,-36.25,-52.75
+401777161,Pacific Lutheran,Trinity University TX,4,iii,iii,-37,-31,-30.75,-33.75,-41.5,-49.25,-33.0,-39.75
+401788907,Ferris State,University of Rio Grande,4,ii,,76,42,30.75,44.75,55.25,58.75,42.75,78.75
+401773717,Bentley,Franklin Pierce,4,ii,ii,-14,-21,-16.75,-23.75,-29.0,-34.25,-16.75,-16.75
+401767099,Montana,Indiana State,4,fcs,fcs,43,28,30.75,30.75,37.75,44.75,34.5,45.75
+401754541,Florida State,Kent State,4,fbs,fbs,56,38,30.75,40.75,50.25,58.75,37.75,58.75
+401767502,North Dakota,Valparaiso,4,fcs,fcs,51,24,30.75,30.75,32.75,38.75,36.5,53.75
+401773594,Western Oregon,Sul Ross State,4,ii,ii,63,32,30.75,34.75,42.75,50.75,39.5,65.75
+401773131,UNC Pembroke,Ferrum,4,ii,ii,27,24,29.75,29.75,32.75,38.75,29.75,29.75
+401767081,Idaho State,Lincoln (CA),4,fcs,ii,90,69,30.75,58.75,58.75,58.75,46.25,92.75
+401773868,Slippery Rock,Shippensburg,4,ii,ii,42,35,30.75,37.75,46.5,55.25,34.25,44.75
+401762821,Akron,Duquesne,4,fbs,fcs,44,38,30.75,40.75,50.25,58.75,34.75,46.75
+401773268,Alfred State,Buffalo State,4,iii,iii,36,28,30.75,30.75,37.75,44.75,32.75,38.75
+401777096,Ohio Wesleyan,Wittenberg,4,iii,iii,-38,-31,-30.75,-33.75,-41.5,-49.25,-33.25,-40.75
+401757260,Jacksonville State,Murray State,4,fbs,fcs,35,21,30.75,30.75,30.75,34.25,32.5,37.75
+401773344,Arkansas-Monticello,Henderson State,4,ii,ii,-30,-21,-30.75,-30.75,-30.75,-34.25,-31.25,-32.75
+401773547,Midwestern State,Eastern New Mexico,4,ii,ii,-25,-21,-27.75,-27.75,-29.0,-34.25,-27.75,-27.75
+401757265,Missouri State,UT Martin,4,fbs,fcs,32,35,30.75,37.75,46.5,55.25,31.75,34.75
+401774309,Augustana (IL),Wheaton,4,iii,iii,-43,-29,-30.75,-31.75,-39.0,-46.25,-34.5,-45.75
+401767218,Southeast Missouri State,Southern Illinois,4,fcs,fcs,-28,-24,-30.75,-30.75,-32.75,-38.75,-30.75,-30.75
+401767603,Davidson,Greensboro College,4,fcs,iii,48,42,30.75,44.75,55.25,58.75,35.75,50.75
+401774194,Northwestern (MN),Wisconsin-Stout,4,iii,iii,-43,-35,-30.75,-37.75,-46.5,-55.25,-34.5,-45.75
+401767310,Alabama A&M,Lane College,4,fcs,ii,42,28,30.75,30.75,37.75,44.75,34.25,44.75
+401752716,Vanderbilt,Georgia State,4,fbs,fbs,49,33,30.75,35.75,44.0,52.25,36.0,51.75
+401752843,Indiana,Illinois,4,fbs,fbs,53,25,30.75,30.75,34.0,40.25,37.0,55.75
+401752710,LSU,SE Louisiana,4,fbs,fcs,46,35,30.75,37.75,46.5,55.25,35.25,48.75
+401767239,Abilene Christian,Austin Peay,4,fcs,fcs,14,21,16.75,23.75,29.0,34.25,16.75,16.75
+401773872,Adams State,Western Colorado,4,ii,ii,-39,-25,-30.75,-30.75,-34.0,-40.25,-33.5,-41.75
+401761612,Texas State,Nicholls,4,fbs,fcs,32,25,30.75,30.75,34.0,40.25,31.75,34.75
+401767528,UT Rio Grande Valley,Texas Wesleyan,4,fcs,,48,40,30.75,42.75,52.75,58.75,35.75,50.75
+401752723,Texas,Sam Houston,4,fbs,fbs,55,31,30.75,33.75,41.5,49.25,37.5,57.75
+401760377,Utah State,McNeese,4,fbs,fcs,41,27,30.75,30.75,36.5,43.25,34.0,43.75
+401773582,Central Washington,West Texas A&M,4,ii,ii,46,29,30.75,31.75,39.0,46.25,35.25,48.75
+401767132,Sacramento State,Central Arkansas,4,fcs,fcs,29,22,30.75,30.75,30.75,35.75,31.0,31.75
+401762471,East Carolina,Army,5,fbs,fbs,22,21,24.75,24.75,29.0,34.25,24.75,24.75
+401752717,Arkansas,Notre Dame,5,fbs,fbs,-43,-29,-30.75,-31.75,-39.0,-46.25,-34.5,-45.75
+401767614,Dayton,Stetson,5,fcs,fcs,34,28,30.75,30.75,37.75,44.75,32.25,36.75
+401754545,Syracuse,Duke,5,fbs,fbs,-35,-21,-30.75,-30.75,-30.75,-34.25,-32.5,-37.75
+401783332,Albright,Widener,5,iii,iii,26,21,28.75,28.75,29.0,34.25,28.75,28.75
+401783350,FDU-Florham,Stevenson,5,iii,iii,-35,-27,-30.75,-30.75,-36.5,-43.25,-32.5,-37.75
+401773289,Curry College,Dean College,5,iii,iii,40,42,30.75,44.75,55.25,58.75,33.75,42.75
+401773845,Shepherd,Kutztown University,5,ii,ii,-39,-32,-30.75,-34.75,-42.75,-50.75,-33.5,-41.75
+401774047,SUNY Morrisville,Cortland,5,iii,iii,-45,-27,-30.75,-30.75,-36.5,-43.25,-35.0,-47.75
+401776996,Misericordia,Reading,5,iii,iii,31,31,30.75,33.75,41.5,49.25,31.5,33.75
+401774113,Rensselaer,University of Rochester (NY),5,iii,iii,28,21,30.75,30.75,30.75,34.25,30.75,30.75
+401774149,Norwich,Merchant Marine Academy,5,iii,iii,-49,-21,-30.75,-30.75,-30.75,-34.25,-36.0,-51.75
+401774302,Husson,Endicott College,5,iii,iii,-34,-28,-30.75,-30.75,-37.75,-44.75,-32.25,-36.75
+401767636,Presbyterian,Morehead State,5,fcs,fcs,41,35,30.75,37.75,46.5,55.25,34.0,43.75
+401766677,Amherst,Tufts,5,iii,iii,16,30,18.75,32.75,40.25,47.75,18.75,18.75
+401773269,Utica,Alfred State,5,iii,iii,32,28,30.75,30.75,37.75,44.75,31.75,34.75
+401773973,Albany State GA,Allen,5,ii,ii,43,29,30.75,31.75,39.0,46.25,34.5,45.75
+401777199,Kenyon,John Carroll University,5,iii,iii,-52,-24,-30.75,-30.75,-32.75,-38.75,-36.75,-54.75
+401777781,Brockport,Hartwick,5,iii,iii,56,42,30.75,44.75,55.25,58.75,37.75,58.75
+401777230,Guilford College,Hampden-Sydney,5,iii,iii,-55,-41,-30.75,-43.75,-54.0,-58.75,-37.5,-57.75
+401773075,Shaw,Virginia Union,5,ii,ii,-52,-31,-30.75,-33.75,-41.5,-49.25,-36.75,-54.75
+401777021,Wisconsin-Lutheran,Concordia University Chicago,5,iii,iii,22,21,24.75,24.75,29.0,34.25,24.75,24.75
+401776762,Hamline University,Bethel (MN),5,iii,iii,-50,-27,-30.75,-30.75,-36.5,-43.25,-36.25,-52.75
+401774359,Wheaton,Carroll University (WI),5,iii,iii,48,30,30.75,32.75,40.25,47.75,35.75,50.75
+401767249,Austin Peay,Utah Tech,5,fcs,fcs,32,25,30.75,30.75,34.0,40.25,31.75,34.75
+401776728,Saint John's (MN),Augsburg,5,iii,iii,63,35,30.75,37.75,46.5,55.25,39.5,65.75
+401776776,Olivet College,Adrian,5,iii,iii,-32,-38,-30.75,-40.75,-50.25,-58.75,-31.75,-34.75
+401778009,Catholic,Salisbury,5,iii,iii,-49,-27,-30.75,-30.75,-36.5,-43.25,-36.0,-51.75
+401773409,Upper Iowa University,Lincoln (MO),5,ii,ii,21,25,23.75,27.75,34.0,40.25,23.75,23.75
+401773089,Johnson C Smith,Bluefield State,5,ii,ii,56,22,30.75,30.75,30.75,35.75,37.75,58.75
+401777220,Averett,Bridgewater (VA),5,iii,iii,-27,-24,-29.75,-29.75,-32.75,-38.75,-29.75,-29.75
+401773244,Hillsdale,Kentucky Wesleyan,5,ii,ii,44,28,30.75,30.75,37.75,44.75,34.75,46.75
+401773622,Central Missouri,Missouri Southern State,5,ii,ii,52,35,30.75,37.75,46.5,55.25,36.75,54.75
+401767510,North Dakota State,South Dakota,5,fcs,fcs,38,31,30.75,33.75,41.5,49.25,33.25,40.75
+401777070,Wabash College,Denison University,5,iii,iii,36,23,30.75,30.75,31.5,37.25,32.75,38.75
+401777268,Bethany (WV),Case Western Reserve,5,iii,iii,-55,-31,-30.75,-33.75,-41.5,-49.25,-37.5,-57.75
+401773795,Wayne State (NE),Southwest Minnesota State,5,ii,ii,45,44,30.75,46.75,57.75,58.75,35.0,47.75
+401773187,Nebraska Wesleyan,Luther,5,iii,iii,37,30,30.75,32.75,40.25,47.75,33.0,39.75
+401774084,College Of New Jersey,Juniata College,5,iii,iii,35,28,30.75,30.75,37.75,44.75,32.5,37.75
+401773762,University of Mary,Northern State,5,ii,ii,-41,-27,-30.75,-30.75,-36.5,-43.25,-34.0,-43.75
+401762824,Toledo,Akron,5,fbs,fbs,42,32,30.75,34.75,42.75,50.75,34.25,44.75
+401756908,West Virginia,Utah,5,fbs,fbs,-34,-28,-30.75,-30.75,-37.75,-44.75,-32.25,-36.75
+401790373,CSU Pueblo,Adams State,5,ii,ii,48,45,30.75,47.75,58.75,58.75,35.75,50.75
+401767062,Montana State,Eastern Washington,5,fcs,fcs,54,27,30.75,30.75,36.5,43.25,37.25,56.75
+401789237,Catawba,Southern Connecticut State,5,ii,ii,40,22,30.75,30.75,30.75,35.75,33.75,42.75
+401767226,Tennessee State,Tennessee Tech,5,fcs,fcs,-27,-21,-29.75,-29.75,-29.75,-34.25,-29.75,-29.75
+401774117,Union (NY),St. Lawrence,5,iii,iii,32,34,30.75,36.75,45.25,53.75,31.75,34.75
+401767552,Harvard,Brown,5,fcs,fcs,34,27,30.75,30.75,36.5,43.25,32.25,36.75
+401762828,Western Michigan,Rhode Island,5,fbs,fcs,33,24,30.75,30.75,32.75,38.75,32.0,35.75
+401777281,Grove City College,Washington & Jefferson,5,iii,iii,-20,-24,-22.75,-26.75,-32.75,-38.75,-22.75,-22.75
+401773354,Northwestern Oklahoma State,East Central (OK),5,ii,ii,-21,-25,-23.75,-27.75,-34.0,-40.25,-23.75,-23.75
+401773557,UT Permian Basin,Midwestern State,5,ii,ii,22,31,24.75,33.75,41.5,49.25,24.75,24.75
+401777012,Eureka College,Aurora,5,iii,iii,-66,-52,-30.75,-54.75,-58.75,-58.75,-40.25,-68.75
+401773679,West Virginia Wesleyan,Frostburg State,5,ii,ii,-46,-31,-30.75,-33.75,-41.5,-49.25,-35.25,-48.75
+401773124,Delta State,ERSKINE,5,ii,ii,52,35,30.75,37.75,46.5,55.25,36.75,54.75
+401773587,Western New Mexico,Central Washington,5,ii,ii,-60,-46,-30.75,-48.75,-58.75,-58.75,-38.75,-62.75
+401774267,Chapman,La Verne,5,iii,iii,50,35,30.75,37.75,46.5,55.25,36.25,52.75
+401774075,Johns Hopkins University,Dickinson (PA),6,iii,iii,45,42,30.75,44.75,55.25,58.75,35.0,47.75
+401762475,South Florida,Charlotte,6,fbs,fbs,28,26,30.75,30.75,35.25,41.75,30.75,30.75
+401754552,North Carolina,Clemson,6,fbs,fbs,-28,-32,-30.75,-34.75,-42.75,-50.75,-30.75,-30.75
+401776979,Endicott College,Biddeford,6,iii,iii,39,27,30.75,30.75,36.5,43.25,33.5,41.75
+401754550,Pittsburgh,Boston College,6,fbs,fbs,41,31,30.75,33.75,41.5,49.25,34.0,43.75
+401773280,Westfield State,Anna Maria College,6,iii,iii,-27,-28,-29.75,-30.75,-37.75,-44.75,-29.75,-29.75
+401773846,Kutztown University,Shippensburg,6,ii,ii,49,21,30.75,30.75,30.75,34.25,36.0,51.75
+401777080,Depauw,Oberlin,6,iii,iii,75,61,30.75,58.75,58.75,58.75,42.5,77.75
+401778007,Gallaudet,Guilford College,6,iii,iii,-55,-34,-30.75,-36.75,-45.25,-53.75,-37.5,-57.75
+401777292,Westminster (PA),Bethany (WV),6,iii,iii,52,49,30.75,51.75,58.75,58.75,36.75,54.75
+401777269,Saint Vincent,Case Western Reserve,6,iii,iii,-28,-28,-30.75,-30.75,-37.75,-44.75,-30.75,-30.75
+401774085,Juniata College,Western Connecticut St,6,iii,iii,-48,-28,-30.75,-30.75,-37.75,-44.75,-35.75,-50.75
+401774322,Salisbury,College Of New Jersey,6,iii,iii,45,38,30.75,40.75,50.25,58.75,35.0,47.75
+401774338,Berry College,Rhodes College,6,iii,iii,40,26,30.75,30.75,35.25,41.75,33.75,42.75
+401766684,Wesleyan University (CT),Hamilton,6,iii,iii,42,35,30.75,37.75,46.5,55.25,34.25,44.75
+401773307,St. Lawrence,Hilbert College,6,iii,iii,31,24,30.75,30.75,32.75,38.75,31.5,33.75
+401773796,Minnesota Duluth,Southwest Minnesota State,6,ii,ii,35,28,30.75,30.75,37.75,44.75,32.5,37.75
+401776970,Maine Maritime,Nichols College,6,iii,iii,-29,-21,-30.75,-30.75,-30.75,-34.25,-31.0,-31.75
+401777089,Hiram College,Washington & Jefferson,6,iii,iii,-57,-42,-30.75,-44.75,-55.25,-58.75,-38.0,-59.75
+401767233,Tennessee Tech,Western Illinois,6,fcs,fcs,46,21,30.75,30.75,30.75,34.25,35.25,48.75
+401773920,Anderson (Sc),UVA Wise,6,ii,ii,43,24,30.75,30.75,32.75,38.75,34.5,45.75
+401767727,Holy Cross,Harvard,6,fcs,fcs,-35,-35,-30.75,-37.75,-46.5,-55.25,-32.5,-37.75
+401776790,Alma,Calvin University,6,iii,iii,49,38,30.75,40.75,50.25,58.75,36.0,51.75
+401776737,Concordia Moorhead,St. Scholastica,6,iii,iii,28,21,30.75,30.75,30.75,34.25,30.75,30.75
+401767033,Bryant,Maine,6,fcs,fcs,-20,-34,-22.75,-36.75,-45.25,-53.75,-22.75,-22.75
+401767690,Cornell,Colgate,6,fcs,fcs,-20,-22,-22.75,-24.75,-30.25,-35.75,-22.75,-22.75
+401766682,Illinois College,Lawrence University,6,iii,iii,59,49,30.75,51.75,58.75,58.75,38.5,61.75
+401773485,Roosevelt,Ferris State,6,ii,ii,-66,-42,-30.75,-44.75,-55.25,-58.75,-40.25,-68.75
+401773251,Hardin-Simmons,Howard Payne,6,iii,iii,55,24,30.75,30.75,32.75,38.75,37.5,57.75
+401777042,Benedictine University,Rockford,6,iii,iii,33,21,30.75,30.75,30.75,34.25,32.0,35.75
+401777022,Concordia University Chicago,Eureka College,6,iii,iii,29,28,30.75,30.75,37.75,44.75,31.0,31.75
+401777202,Ohio Northern,Marietta,6,iii,iii,33,25,30.75,30.75,34.0,40.25,32.0,35.75
+401754557,NC State,Campbell,6,fbs,fcs,46,42,30.75,44.75,55.25,58.75,35.25,48.75
+401766680,Knox College,Chicago,6,iii,iii,-52,-31,-30.75,-33.75,-41.5,-49.25,-36.75,-54.75
+401777557,Jamestown College,University of Mary,6,ii,ii,-22,-27,-24.75,-29.75,-36.5,-43.25,-24.75,-24.75
+401773480,Saginaw Valley State,Northern Michigan,6,ii,ii,22,30,24.75,32.75,40.25,47.75,24.75,24.75
+401777261,Carnegie Mellon,McDaniel College,6,iii,iii,49,42,30.75,44.75,55.25,58.75,36.0,51.75
+401774416,Rose-Hulman,Hanover College,6,iii,iii,-34,-34,-30.75,-36.75,-45.25,-53.75,-32.25,-36.75
+401773107,Wilson,Delta State,6,ii,ii,-45,-25,-30.75,-30.75,-34.0,-40.25,-35.0,-47.75
+401774184,Wisconsin-Platteville,Wisconsin-Stevens Pt,6,iii,iii,52,24,30.75,30.75,32.75,38.75,36.75,54.75
+401773908,New Mexico Highlands,CSU Pueblo,6,ii,ii,-46,-31,-30.75,-33.75,-41.5,-49.25,-35.25,-48.75
+401767496,South Dakota,Murray State,6,fcs,fcs,25,28,27.75,30.75,37.75,44.75,27.75,27.75
+401774019,Miles College,Kentucky State,6,ii,ii,-21,-21,-23.75,-23.75,-29.0,-34.25,-23.75,-23.75
+401773355,Harding University,East Central (OK),6,ii,ii,65,37,30.75,39.75,49.0,58.25,40.0,67.75
+401773974,Lane College,Albany State GA,6,ii,ii,-41,-27,-30.75,-30.75,-36.5,-43.25,-34.0,-43.75
+401767241,Abilene Christian,North Alabama,6,fcs,fcs,29,21,30.75,30.75,30.75,34.25,31.0,31.75
+401757171,UConn,Florida International,6,fbs,fbs,41,24,30.75,30.75,32.75,38.75,34.0,43.75
+401754555,SMU,Syracuse,6,fbs,fbs,13,21,15.75,23.75,29.0,34.25,15.75,15.75
+401767575,Mercer,Samford,6,fcs,fcs,24,28,26.75,30.75,37.75,44.75,26.75,26.75
+401752729,Oklahoma,Kent State,6,fbs,fbs,44,23,30.75,30.75,31.5,37.25,34.75,46.75
+401773588,Western Oregon,Western New Mexico,6,ii,ii,21,21,23.75,23.75,29.0,34.25,23.75,23.75
+401773169,Kentucky Wesleyan,Ashland,6,ii,ii,-55,-38,-30.75,-40.75,-50.25,-58.75,-37.5,-57.75
+401767312,Alabama A&M,Jackson State,6,fcs,fcs,-33,-23,-30.75,-30.75,-31.5,-37.25,-32.0,-35.75
+401773400,Indianapolis,William Jewell,6,ii,ii,46,32,30.75,34.75,42.75,50.75,35.25,48.75
+401761619,Old Dominion,Coastal Carolina,6,fbs,fbs,40,34,30.75,36.75,45.25,53.75,33.75,42.75
+401777295,Austin,CENTENARY,6,iii,iii,26,24,28.75,28.75,32.75,38.75,28.75,28.75
+401767381,Texas Southern,Arkansas-Pine Bluff,6,fcs,fcs,44,27,30.75,30.75,36.5,43.25,34.75,46.75
+401774386,North Central College,Wheaton,6,iii,iii,35,21,30.75,30.75,30.75,34.25,32.5,37.75
+401773607,Missouri Western,Emporia State University,6,ii,ii,-36,-28,-30.75,-30.75,-37.75,-44.75,-32.75,-38.75
+401767492,McNeese,SE Louisiana,6,fcs,fcs,-38,-38,-30.75,-40.75,-50.25,-58.75,-33.25,-40.75
+401760385,Wyoming,UNLV,6,fbs,fbs,-14,-21,-16.75,-23.75,-29.0,-34.25,-16.75,-16.75
+401767447,Southern Illinois,Indiana State,6,fcs,fcs,28,24,30.75,30.75,32.75,38.75,30.75,30.75
+401773584,West Texas A&M,Sul Ross State,6,ii,ii,49,49,30.75,51.75,58.75,58.75,36.0,51.75
+401776758,Macalester,Hamline University,6,iii,iii,29,22,30.75,30.75,30.75,35.75,31.0,31.75
+401762478,Memphis,Tulsa,6,fbs,fbs,38,21,30.75,30.75,30.75,34.25,33.25,40.75
+401773548,Central Washington,Eastern New Mexico,6,ii,ii,51,52,30.75,54.75,58.75,58.75,36.5,53.75
+401760388,Colorado State,Fresno State,7,fbs,fbs,28,21,30.75,30.75,30.75,34.25,30.75,30.75
+401776971,Curry College,Maine Maritime,7,iii,iii,60,43,30.75,45.75,56.5,58.75,38.75,62.75
+401777136,Wittenberg,John Carroll University,7,iii,iii,-37,-30,-30.75,-32.75,-40.25,-47.75,-33.0,-39.75
+401774094,Susquehanna,Lycoming,7,iii,iii,62,45,30.75,47.75,58.75,58.75,39.25,64.75
+401774134,Castleton,Christopher Newport,7,iii,iii,-62,-35,-30.75,-37.75,-46.5,-55.25,-39.25,-64.75
+401777954,Northwood (MI),Lake Erie,7,ii,ii,45,31,30.75,33.75,41.5,49.25,35.0,47.75
+401773862,Seton Hill,Slippery Rock,7,ii,ii,-42,-28,-30.75,-30.75,-37.75,-44.75,-34.25,-44.75
+401767667,Lafayette,Bucknell,7,fcs,fcs,38,24,30.75,30.75,32.75,38.75,33.25,40.75
+401767605,Davidson,St. Thomas (MN),7,fcs,fcs,-44,-29,-30.75,-31.75,-39.0,-46.25,-34.75,-46.75
+401766695,Hamilton,Trinity (CT),7,iii,iii,-49,-28,-30.75,-30.75,-37.75,-44.75,-36.0,-51.75
+401773411,Lincoln (MO),Northeastern State,7,ii,ii,-49,-21,-30.75,-30.75,-30.75,-34.25,-36.0,-51.75
+401773210,Ashland,Thomas More College,7,ii,ii,24,31,26.75,33.75,41.5,49.25,26.75,26.75
+401777221,Randolph-Macon,Averett,7,iii,iii,57,28,30.75,30.75,37.75,44.75,38.0,59.75
+401777733,Ursinus,McDaniel College,7,iii,iii,52,28,30.75,30.75,37.75,44.75,36.75,54.75
+401767400,Morgan State,Virginia University Of Lynchburg,7,fcs,,38,23,30.75,30.75,31.5,37.25,33.25,40.75
+401773496,Ferris State,Wayne State (MI),7,ii,ii,59,42,30.75,44.75,55.25,58.75,38.5,61.75
+401777245,Guilford College,Shenandoah,7,iii,iii,-38,-28,-30.75,-30.75,-37.75,-44.75,-33.25,-40.75
+401777251,Washington and Lee,Gallaudet,7,iii,iii,45,28,30.75,30.75,37.75,44.75,35.0,47.75
+401767752,Duquesne,St. Francis (PA),7,fcs,fcs,45,45,30.75,47.75,58.75,58.75,35.0,47.75
+401776730,Augsburg,Bethel (MN),7,iii,iii,-49,-35,-30.75,-37.75,-46.5,-55.25,-36.0,-51.75
+401779512,New Haven,Western Connecticut St,7,fcs,iii,69,42,30.75,44.75,55.25,58.75,41.0,71.75
+401774114,Rensselaer,Buffalo State,7,iii,iii,44,27,30.75,30.75,36.5,43.25,34.75,46.75
+401774417,Mount St. Joseph,Hanover College,7,iii,iii,-24,-24,-26.75,-26.75,-32.75,-38.75,-26.75,-26.75
+401777208,Wilmington (OH),University of Mount Union,7,iii,iii,-59,-38,-30.75,-40.75,-50.25,-58.75,-38.5,-61.75
+401777178,Otterbein,Baldwin Wallace,7,iii,iii,-42,-21,-30.75,-30.75,-30.75,-34.25,-34.25,-44.75
+401777212,Muskingum University,Ohio Northern,7,iii,iii,-38,-28,-30.75,-30.75,-37.75,-44.75,-33.25,-40.75
+401774401,Anderson (IN),Bluffton,7,iii,iii,-42,-28,-30.75,-30.75,-37.75,-44.75,-34.25,-44.75
+401774453,Hendrix College,Austin,7,iii,iii,39,27,30.75,30.75,36.5,43.25,33.5,41.75
+401773373,Henderson State,Northwestern Oklahoma State,7,ii,ii,59,31,30.75,33.75,41.5,49.25,38.5,61.75
+401767616,Valparaiso,Dayton,7,fcs,fcs,-31,-41,-30.75,-43.75,-54.0,-58.75,-31.5,-33.75
+401766690,Lake Forest College,Beloit,7,iii,iii,59,35,30.75,37.75,46.5,55.25,38.5,61.75
+401773672,Fairmont State,West Virginia Wesleyan,7,ii,ii,35,35,30.75,37.75,46.5,55.25,32.5,37.75
+401777977,Bentley,Post University,7,ii,ii,59,42,30.75,44.75,55.25,58.75,38.5,61.75
+401774459,McMurry,LYONCOLL,7,iii,iii,58,35,30.75,37.75,46.5,55.25,38.25,60.75
+401774376,Illinois Wesleyan,Wheaton,7,iii,iii,-44,-29,-30.75,-31.75,-39.0,-46.25,-34.75,-46.75
+401774191,Wisconsin-Stevens Pt,Wisconsin-Whitewater,7,iii,iii,-31,-24,-30.75,-30.75,-32.75,-38.75,-31.5,-33.75
+401773048,Simpson College (IA),Coe College,7,iii,iii,-27,-28,-29.75,-30.75,-37.75,-44.75,-29.75,-29.75
+401773486,Saginaw Valley State,Roosevelt,7,ii,ii,45,28,30.75,30.75,37.75,44.75,35.0,47.75
+401766692,Chicago,Lawrence University,7,iii,iii,66,28,30.75,30.75,37.75,44.75,40.25,68.75
+401776763,Hamline University,Concordia Moorhead,7,iii,iii,-46,-23,-30.75,-30.75,-31.5,-37.25,-35.25,-48.75
+401777014,Aurora,Rockford,7,iii,iii,48,41,30.75,43.75,54.0,58.75,35.75,50.75
+401773785,Minnesota State Mankato,Winona State,7,ii,ii,26,23,28.75,28.75,31.5,37.25,28.75,28.75
+401776753,Saint John's (MN),Macalester,7,iii,iii,70,56,30.75,58.75,58.75,58.75,41.25,72.75
+401773176,Wartburg,Dubuque,7,iii,iii,26,24,28.75,28.75,32.75,38.75,28.75,28.75
+401773133,UNC Pembroke,Shorter,7,ii,ii,31,31,30.75,33.75,41.5,49.25,31.5,33.75
+401767372,Alcorn State,Lincoln (CA),7,fcs,ii,42,21,30.75,30.75,30.75,34.25,34.25,44.75
+401767413,Florida A&M,North Carolina Central,7,fcs,fcs,-38,-28,-30.75,-30.75,-37.75,-44.75,-33.25,-40.75
+401767560,East Tennessee State,VMI,7,fcs,fcs,35,24,30.75,30.75,32.75,38.75,32.5,37.75
+401762834,Western Michigan,Ball State,7,fbs,fbs,42,21,30.75,30.75,30.75,34.25,34.25,44.75
+401754563,Oregon State,Wake Forest,7,fbs,fbs,-25,-25,-27.75,-27.75,-34.0,-40.25,-27.75,-27.75
+401773903,CSU Pueblo,Fort Lewis,7,ii,ii,36,28,30.75,30.75,37.75,44.75,32.75,38.75
+401777624,Oberlin,Kenyon,7,iii,iii,-55,-34,-30.75,-36.75,-45.25,-53.75,-37.5,-57.75
+401773401,Missouri S&T,Indianapolis,7,ii,ii,-43,-28,-30.75,-30.75,-37.75,-44.75,-34.5,-45.75
+401767504,North Dakota,Youngstown State,7,fcs,fcs,18,21,20.75,23.75,29.0,34.25,20.75,20.75
+401767287,North Alabama,Central Arkansas,7,fcs,fcs,-28,-21,-30.75,-30.75,-30.75,-34.25,-30.75,-30.75
+401777257,Case Western Reserve,Allegheny,7,iii,iii,41,42,30.75,44.75,55.25,58.75,34.0,43.75
+401762482,Florida Atlantic,UAB,7,fbs,fbs,20,21,22.75,23.75,29.0,34.25,22.75,22.75
+401773847,Lock Haven University,Kutztown University,7,ii,ii,-27,-27,-29.75,-29.75,-36.5,-43.25,-29.75,-29.75
+401783913,Eureka College,Benedictine University,7,iii,iii,-56,-28,-30.75,-30.75,-37.75,-44.75,-37.75,-58.75
+401752869,Wisconsin,Iowa,7,fbs,fbs,-37,-23,-30.75,-30.75,-31.5,-37.25,-33.0,-39.75
+401777285,Bethany (WV),Saint Vincent,7,iii,iii,-22,-33,-24.75,-35.75,-44.0,-52.25,-24.75,-24.75
+401774381,North Central College,Millikin,7,iii,iii,49,21,30.75,30.75,30.75,34.25,36.0,51.75
+401774352,Elmhurst,Augustana (IL),7,iii,iii,-41,-25,-30.75,-30.75,-34.0,-40.25,-34.0,-43.75
+401762485,UTSA,Rice,7,fbs,fbs,48,28,30.75,30.75,37.75,44.75,35.75,50.75
+401754558,Boston College,Clemson,7,fbs,fbs,-31,-24,-30.75,-30.75,-32.75,-38.75,-31.5,-33.75
+401760390,Nevada,San Diego State,7,fbs,fbs,-34,-35,-30.75,-37.75,-46.5,-55.25,-32.25,-36.75
+401774125,Olivet College,Trine University,8,iii,iii,-52,-52,-30.75,-54.75,-58.75,-58.75,-36.75,-54.75
+401776972,Maine Maritime,Biddeford,8,iii,iii,-63,-42,-30.75,-44.75,-55.25,-58.75,-39.5,-65.75
+401774377,Millikin,Illinois Wesleyan,8,iii,iii,-22,-28,-24.75,-30.75,-37.75,-44.75,-24.75,-24.75
+401773711,Post University,Assumption,8,ii,ii,-36,-28,-30.75,-30.75,-37.75,-44.75,-32.75,-38.75
+401774135,Castleton,College Of New Jersey,8,iii,iii,-41,-27,-30.75,-30.75,-36.5,-43.25,-34.0,-43.75
+401777771,Husson,New England College,8,iii,,48,27,30.75,30.75,36.5,43.25,35.75,50.75
+401783346,FDU-Florham,Delaware Valley,8,iii,iii,-27,-28,-29.75,-30.75,-37.75,-44.75,-29.75,-29.75
+401783902,Montclair State,Salisbury,8,iii,iii,-35,-21,-30.75,-30.75,-30.75,-34.25,-32.5,-37.75
+401773506,Thomas More College,Tiffin,8,ii,ii,-35,-39,-30.75,-41.75,-51.5,-58.75,-32.5,-37.75
+401767773,Yale,Stonehill,8,fcs,fcs,40,23,30.75,30.75,31.5,37.25,33.75,42.75
+401767197,Southeast Missouri State,Eastern Illinois,8,fcs,fcs,29,29,30.75,31.75,39.0,46.25,31.0,31.75
+401767606,Drake,Davidson,8,fcs,fcs,45,31,30.75,33.75,41.5,49.25,35.0,47.75
+401773300,Cortland,Alfred University,8,iii,iii,53,39,30.75,41.75,51.5,58.75,37.0,55.75
+401767184,Villanova,Hampton,8,fcs,fcs,42,49,30.75,51.75,58.75,58.75,34.25,44.75
+401777293,Westminster (PA),Thiel,8,iii,iii,42,21,30.75,30.75,30.75,34.25,34.25,44.75
+401773096,Winston-Salem,Livingstone,8,ii,ii,32,25,30.75,30.75,34.0,40.25,31.75,34.75
+401767505,Southern Illinois,North Dakota,8,fcs,fcs,-19,-28,-21.75,-30.75,-37.75,-44.75,-21.75,-21.75
+401773090,Shaw,Johnson C Smith,8,ii,ii,-52,-28,-30.75,-30.75,-37.75,-44.75,-36.75,-54.75
+401767641,Presbyterian,Stetson,8,fcs,fcs,35,21,30.75,30.75,30.75,34.25,32.5,37.75
+401776778,Calvin University,Adrian,8,iii,iii,-31,-35,-30.75,-37.75,-46.5,-55.25,-31.5,-33.75
+401774289,Christopher Newport,Kean,8,iii,iii,49,42,30.75,44.75,55.25,58.75,36.0,51.75
+401774087,Juniata College,Susquehanna,8,iii,iii,-49,-35,-30.75,-37.75,-46.5,-55.25,-36.0,-51.75
+401783819,Trinity University TX,Rhodes College,8,iii,iii,63,23,30.75,30.75,31.5,37.25,39.5,65.75
+401783340,Kings College (PA),Reading,8,iii,iii,52,42,30.75,44.75,55.25,58.75,36.75,54.75
+401777286,Saint Vincent,Washington & Jefferson,8,iii,iii,-46,-25,-30.75,-30.75,-34.0,-40.25,-35.25,-48.75
+401777262,Carnegie Mellon,Gettysburg,8,iii,iii,24,31,26.75,33.75,41.5,49.25,26.75,26.75
+401777240,Guilford College,Randolph-Macon,8,iii,iii,-47,-34,-30.75,-36.75,-45.25,-53.75,-35.5,-49.75
+401774077,Johns Hopkins University,Ursinus,8,iii,iii,31,31,30.75,33.75,41.5,49.25,31.5,33.75
+401773457,Wayne State (MI),Davenport,8,ii,ii,-35,-21,-30.75,-30.75,-30.75,-34.25,-32.5,-37.75
+401777186,Ohio Northern,Capital,8,iii,iii,56,35,30.75,37.75,46.5,55.25,37.75,58.75
+401774418,Hanover College,Anderson (IN),8,iii,iii,58,41,30.75,43.75,54.0,58.75,38.25,60.75
+401777215,Otterbein,Wilmington (OH),8,iii,iii,-13,-27,-15.75,-29.75,-36.5,-43.25,-15.75,-15.75
+401774436,Baldwin Wallace,Rose-Hulman,8,iii,iii,32,38,30.75,40.75,50.25,58.75,31.75,34.75
+401774151,SUNY Maritime,Norwich,8,iii,iii,42,28,30.75,30.75,37.75,44.75,34.25,44.75
+401767459,Texas Southern,Virginia University Of Lynchburg,8,fcs,,51,34,30.75,36.75,45.25,53.75,36.5,53.75
+401773402,Indianapolis,Lincoln (MO),8,ii,ii,55,38,30.75,40.75,50.25,58.75,37.5,57.75
+401777023,Rockford,Concordia University Chicago,8,iii,iii,-11,-28,-13.75,-30.75,-37.75,-44.75,-13.75,-13.75
+401776799,Hope College,Kalamazoo,8,iii,iii,35,35,30.75,37.75,46.5,55.25,32.5,37.75
+401777734,McDaniel College,Muhlenberg,8,iii,iii,-49,-42,-30.75,-44.75,-55.25,-58.75,-36.0,-51.75
+401774387,North Park,North Central College,8,iii,iii,-75,-34,-30.75,-36.75,-45.25,-53.75,-42.5,-77.75
+401776747,Bethel (MN),St. Olaf,8,iii,iii,54,44,30.75,46.75,57.75,58.75,37.25,56.75
+401778008,Bridgewater (VA),Gallaudet,8,iii,iii,60,36,30.75,38.75,47.75,56.75,38.75,62.75
+401777047,St. Norbert,Eureka College,8,iii,iii,44,27,30.75,30.75,36.5,43.25,34.75,46.75
+401773890,Fort Lewis,Chadron St,8,ii,ii,-41,-21,-30.75,-30.75,-30.75,-34.25,-34.0,-43.75
+401773516,Delta State,Ferrum,8,ii,ii,41,24,30.75,30.75,32.75,38.75,34.0,43.75
+401773442,Upper Iowa University,Southwest Baptist,8,ii,ii,37,24,30.75,30.75,32.75,38.75,33.0,39.75
+401773875,Colorado School Of Mines,Adams State,8,ii,ii,58,35,30.75,37.75,46.5,55.25,38.25,60.75
+401773805,Bloomsburg,Shepherd,8,ii,ii,-24,-23,-26.75,-26.75,-31.5,-37.25,-26.75,-26.75
+401776764,Carleton,Hamline University,8,iii,iii,49,35,30.75,37.75,46.5,55.25,36.0,51.75
+401766700,Lake Forest College,Grinnell,8,iii,iii,70,40,30.75,42.75,52.75,58.75,41.25,72.75
+401766699,Lawrence University,Beloit,8,iii,iii,-34,-34,-30.75,-36.75,-45.25,-53.75,-32.25,-36.75
+401776739,Gustavus Adolphus,St. Scholastica,8,iii,iii,39,24,30.75,30.75,32.75,38.75,33.5,41.75
+401767649,St. Thomas (MN),Valparaiso,8,fcs,fcs,38,24,30.75,30.75,32.75,38.75,33.25,40.75
+401773618,Northwest Missouri St,Fort Hays State,8,ii,ii,49,21,30.75,30.75,30.75,34.25,36.0,51.75
+401773435,Truman State,Quincy,8,ii,ii,23,24,25.75,26.75,32.75,38.75,25.75,25.75
+401773848,Kutztown University,Millersville,8,ii,ii,29,29,30.75,31.75,39.0,46.25,31.0,31.75
+401773337,Southern Arkansas,Arkansas Tech,8,ii,ii,35,21,30.75,30.75,30.75,34.25,32.5,37.75
+401767100,Montana,Sacred Heart,8,fcs,fcs,22,22,24.75,24.75,30.25,35.75,24.75,24.75
+401766701,Monmouth (IL),Cornell College (IA),8,iii,iii,42,25,30.75,30.75,34.0,40.25,34.25,44.75
+401773378,Southeastern Oklahoma State,Northwestern Oklahoma State,8,ii,ii,42,35,30.75,37.75,46.5,55.25,34.25,44.75
+401762489,Charlotte,Temple,8,fbs,fbs,-35,-21,-30.75,-30.75,-30.75,-34.25,-32.5,-37.75
+401767321,UAlbany,Rhode Island,8,fcs,fcs,-41,-28,-30.75,-30.75,-37.75,-44.75,-34.0,-43.75
+401777155,Pacific Lutheran,Pacific (OR),8,iii,iii,18,24,20.75,26.75,32.75,38.75,20.75,20.75
+401777222,Averett,Hampden-Sydney,8,iii,iii,-60,-46,-30.75,-48.75,-58.75,-58.75,-38.75,-62.75
+401777170,Puget Sound,Willamette,8,iii,iii,17,21,19.75,23.75,29.0,34.25,19.75,19.75
+401767521,SE Louisiana,Northwestern State,8,fcs,fcs,49,28,30.75,30.75,37.75,44.75,36.0,51.75
+401773764,Northern State,Southwest Minnesota State,8,ii,ii,32,25,30.75,30.75,34.0,40.25,31.75,34.75
+401767753,Mercyhurst,Duquesne,8,fcs,fcs,-37,-27,-30.75,-30.75,-36.5,-43.25,-33.0,-39.75
+401752876,Rutgers,Oregon,8,fbs,fbs,-46,-39,-30.75,-41.75,-51.5,-58.75,-35.25,-48.75
+401767301,Tarleton State,West Georgia,8,fcs,fcs,35,24,30.75,30.75,32.75,38.75,32.5,37.75
+401773600,Central Oklahoma,Emporia State University,8,ii,ii,34,23,30.75,30.75,31.5,37.25,32.25,36.75
+401773550,West Texas A&M,Eastern New Mexico,8,ii,ii,29,22,30.75,30.75,30.75,35.75,31.0,31.75
+401767701,Dartmouth,Columbia,9,fcs,fcs,46,35,30.75,37.75,46.5,55.25,35.25,48.75
+401777778,Nichols College,Endicott College,9,iii,iii,-53,-35,-30.75,-37.75,-46.5,-55.25,-37.0,-55.75
+401777270,Thiel,Case Western Reserve,9,iii,iii,-48,-45,-30.75,-47.75,-58.75,-58.75,-35.75,-50.75
+401774152,Coast Guard,Norwich,9,iii,iii,31,21,30.75,30.75,30.75,34.25,31.5,33.75
+401752885,Indiana,UCLA,9,fbs,fbs,50,32,30.75,34.75,42.75,50.75,36.25,52.75
+401774055,SUNY Morrisville,Brockport,9,iii,iii,-58,-48,-30.75,-50.75,-58.75,-58.75,-38.25,-60.75
+401773301,Alfred University,Utica,9,iii,iii,-23,-23,-25.75,-25.75,-31.5,-37.25,-25.75,-25.75
+401773458,Davenport,Roosevelt,9,ii,ii,52,40,30.75,42.75,52.75,58.75,36.75,54.75
+401773849,West Chester,Kutztown University,9,ii,ii,-34,-28,-30.75,-30.75,-37.75,-44.75,-32.25,-36.75
+401783364,Springfield,Merchant Marine Academy,9,iii,iii,28,21,30.75,30.75,30.75,34.25,30.75,30.75
+401773309,Hilbert College,Rensselaer,9,iii,iii,-55,-42,-30.75,-44.75,-55.25,-58.75,-37.5,-57.75
+401783341,Reading,Widener,9,iii,iii,-18,-25,-20.75,-27.75,-34.0,-40.25,-20.75,-20.75
+401774095,Susquehanna,Catholic,9,iii,iii,56,28,30.75,30.75,37.75,44.75,37.75,58.75
+401774068,Ursinus,Franklin & Marshall,9,iii,iii,-32,-21,-30.75,-30.75,-30.75,-34.25,-31.75,-34.75
+401767650,Stetson,St. Thomas (MN),9,fcs,fcs,-42,-22,-30.75,-30.75,-30.75,-35.75,-34.25,-44.75
+401800973,Worcester Polytechnic Institute,SUNY Maritime,9,iii,iii,-21,-21,-23.75,-23.75,-29.0,-34.25,-23.75,-23.75
+401773063,Lincoln (PA),Elizabeth City State,9,ii,ii,-48,-27,-30.75,-30.75,-36.5,-43.25,-35.75,-50.75
+401766713,Bowdoin,Trinity (CT),9,iii,iii,-42,-25,-30.75,-30.75,-34.0,-40.25,-34.25,-44.75
+401773500,Kentucky Wesleyan,Northwood (MI),9,ii,ii,-35,-35,-30.75,-37.75,-46.5,-55.25,-32.5,-37.75
+401773681,Wheeling,Frostburg State,9,ii,ii,-18,-24,-20.75,-26.75,-32.75,-38.75,-20.75,-20.75
+401773091,Johnson C Smith,Winston-Salem,9,ii,ii,25,22,27.75,27.75,30.25,35.75,27.75,27.75
+401773953,Mars Hill,Lenoir-Rhyne,9,ii,ii,-45,-28,-30.75,-30.75,-37.75,-44.75,-35.0,-47.75
+401774340,Berry College,Millsaps,9,iii,iii,23,22,25.75,25.75,30.25,35.75,25.75,25.75
+401776791,Olivet College,Alma,9,iii,iii,-32,-25,-30.75,-30.75,-34.0,-40.25,-31.75,-34.75
+401766707,Ripon,Illinois College,9,iii,iii,-31,-21,-30.75,-30.75,-30.75,-34.25,-31.5,-33.75
+401777107,John Carroll University,Wooster,9,iii,iii,59,35,30.75,37.75,46.5,55.25,38.5,61.75
+401777290,Washington & Jefferson,Waynesburg,9,iii,iii,56,35,30.75,37.75,46.5,55.25,37.75,58.75
+401777241,Gallaudet,Randolph-Macon,9,iii,iii,-40,-29,-30.75,-31.75,-39.0,-46.25,-33.75,-42.75
+401774241,Southwestern University,Maryville College (TN),9,iii,iii,-31,-24,-30.75,-30.75,-32.75,-38.75,-31.5,-33.75
+401774310,William Paterson,Christopher Newport,9,iii,iii,-45,-28,-30.75,-30.75,-37.75,-44.75,-35.0,-47.75
+401774078,Gettysburg,Johns Hopkins University,9,iii,iii,-38,-31,-30.75,-33.75,-41.5,-49.25,-33.25,-40.75
+401774103,Hobart College,St. Lawrence,9,iii,iii,32,28,30.75,30.75,37.75,44.75,31.75,34.75
+401774419,Hanover College,Manchester,9,iii,iii,69,56,30.75,58.75,58.75,58.75,41.0,71.75
+401766710,Beloit,Monmouth (IL),9,iii,iii,-72,-55,-30.75,-57.75,-58.75,-58.75,-41.75,-74.75
+401774164,Wisconsin-Eau Claire,Wisconsin-River Falls,9,iii,iii,-52,-21,-30.75,-30.75,-30.75,-34.25,-36.75,-54.75
+401766711,Cornell College (IA),Lake Forest College,9,iii,iii,-25,-25,-27.75,-27.75,-34.0,-40.25,-27.75,-27.75
+401773254,Hardin-Simmons,Southwestern Assemblies Of God,9,iii,,54,37,30.75,39.75,49.0,58.25,37.25,56.75
+401777137,Oberlin,Wittenberg,9,iii,iii,-52,-28,-30.75,-30.75,-37.75,-44.75,-36.75,-54.75
+401773041,Wartburg,Central College,9,iii,iii,15,21,17.75,23.75,29.0,34.25,17.75,17.75
+401777043,St. Norbert,Rockford,9,iii,iii,51,21,30.75,30.75,30.75,34.25,36.5,53.75
+401776765,Hamline University,Gustavus Adolphus,9,iii,iii,-54,-40,-30.75,-42.75,-52.75,-58.75,-37.25,-56.75
+401776759,Bethel (MN),Macalester,9,iii,iii,53,35,30.75,37.75,46.5,55.25,37.0,55.75
+401776755,Saint John's (MN),Carleton,9,iii,iii,39,28,30.75,30.75,37.75,44.75,33.5,41.75
+401773977,Benedict College,Albany State GA,9,ii,ii,-28,-24,-30.75,-30.75,-32.75,-38.75,-30.75,-30.75
+401774354,North Central College,Augustana (IL),9,iii,iii,62,48,30.75,50.75,58.75,58.75,39.25,64.75
+401767408,Norfolk State,South Carolina State,9,fcs,fcs,-31,-24,-30.75,-30.75,-32.75,-38.75,-31.5,-33.75
+401773772,Southwest Minnesota State,Augustana University (SD),9,ii,ii,-28,-26,-30.75,-30.75,-35.25,-41.75,-30.75,-30.75
+401773049,Coe College,Luther,9,iii,iii,21,42,23.75,44.75,55.25,58.75,23.75,23.75
+401773247,Hillsdale,Lake Erie,9,ii,ii,25,25,27.75,27.75,34.0,40.25,27.75,27.75
+401773941,Carson-Newman College,UVA Wise,9,ii,ii,21,21,23.75,23.75,29.0,34.25,23.75,23.75
+401767577,Mercer,VMI,9,fcs,fcs,62,41,30.75,43.75,54.0,58.75,39.25,64.75
+401774171,Wisconsin-Lacrosse,Wisconsin-Oshkosh,9,iii,iii,31,22,30.75,30.75,30.75,35.75,31.5,33.75
+401777279,Geneva,Bethany (WV),9,iii,iii,47,23,30.75,30.75,31.5,37.25,35.5,49.75
+401773531,West Florida,West Virginia State,9,ii,ii,49,27,30.75,30.75,36.5,43.25,36.0,51.75
+401767435,Prairie View A&M,Lincoln (CA),9,fcs,ii,38,24,30.75,30.75,32.75,38.75,33.25,40.75
+401767374,Alcorn State,Mississippi Valley State,9,fcs,fcs,22,22,24.75,24.75,30.25,35.75,24.75,24.75
+401773348,Harding University,Arkansas-Monticello,9,ii,ii,55,34,30.75,36.75,45.25,53.75,37.5,57.75
+401767539,Southern Illinois,Northern Iowa,9,fcs,fcs,14,21,16.75,23.75,29.0,34.25,16.75,16.75
+401767314,Alabama A&M,Alabama State,9,fcs,fcs,-43,-43,-30.75,-45.75,-56.5,-58.75,-34.5,-45.75
+401752882,Iowa,Minnesota,9,fbs,fbs,38,31,30.75,33.75,41.5,49.25,33.25,40.75
+401756933,Texas Tech,Oklahoma State,9,fbs,fbs,42,28,30.75,30.75,37.75,44.75,34.25,44.75
+401767093,Idaho,Portland State,9,fcs,fcs,39,22,30.75,30.75,30.75,35.75,33.5,41.75
+401767450,North Dakota,Indiana State,9,fcs,fcs,29,21,30.75,30.75,30.75,34.25,31.0,31.75
+401773272,Alfred State,Hartwick,9,iii,iii,26,27,28.75,29.75,36.5,43.25,28.75,28.75
+401767252,Austin Peay,North Alabama,9,fcs,fcs,28,21,30.75,30.75,30.75,34.25,30.75,30.75
+401774277,Austin,Texas Lutheran,9,iii,iii,-48,-34,-30.75,-36.75,-45.25,-53.75,-35.75,-50.75
+401783911,Eureka College,Wisconsin-Lutheran,9,iii,iii,-30,-22,-30.75,-30.75,-30.75,-35.75,-31.25,-32.75
+401773933,Catawba,Greeneville,9,ii,ii,35,25,30.75,30.75,34.0,40.25,32.5,37.75
+401760398,Wyoming,Colorado State,9,fbs,fbs,28,21,30.75,30.75,30.75,34.25,30.75,30.75
+401773560,Midwestern State,Central Washington,9,ii,ii,-43,-29,-30.75,-31.75,-39.0,-46.25,-34.5,-45.75
+401767478,UT Rio Grande Valley,Incarnate Word,9,fcs,fcs,28,35,30.75,37.75,46.5,55.25,30.75,30.75
+401767512,South Dakota State,North Dakota State,9,fcs,fcs,-31,-24,-30.75,-30.75,-32.75,-38.75,-31.5,-33.75
+401756934,Utah,Colorado,9,fbs,fbs,46,43,30.75,45.75,56.5,58.75,35.25,48.75
+401762497,Rice,Memphis,10,fbs,fbs,-24,-24,-26.75,-26.75,-32.75,-38.75,-26.75,-26.75
+401757290,Louisiana Tech,Sam Houston,10,fbs,fbs,41,27,30.75,30.75,36.5,43.25,34.0,43.75
+401757173,UConn,UAB,10,fbs,fbs,19,24,21.75,26.75,32.75,38.75,21.75,21.75
+401767275,North Carolina A&T,Towson,10,fcs,fcs,-53,-39,-30.75,-41.75,-51.5,-58.75,-37.0,-55.75
+401776974,Endicott College,Maine Maritime,10,iii,iii,62,48,30.75,50.75,58.75,58.75,39.25,64.75
+401773302,Brockport,Alfred University,10,iii,iii,51,23,30.75,30.75,31.5,37.25,36.5,53.75
+401773420,Upper Iowa University,McKendree,10,ii,ii,50,26,30.75,30.75,35.25,41.75,36.25,52.75
+401762849,Bowling Green,Buffalo,10,fbs,fbs,-25,-21,-27.75,-27.75,-29.0,-34.25,-27.75,-27.75
+401773850,Kutztown University,East Stroudsburg University,10,ii,ii,43,32,30.75,34.75,42.75,50.75,34.5,45.75
+401773854,Millersville,Lock Haven University,10,ii,ii,-35,-21,-30.75,-30.75,-30.75,-34.25,-32.5,-37.75
+401776999,FDU-Florham,Misericordia,10,iii,iii,-19,-25,-21.75,-27.75,-34.0,-40.25,-21.75,-21.75
+401773293,Dean College,UMass Dartmouth,10,iii,iii,-41,-41,-30.75,-43.75,-54.0,-58.75,-34.0,-43.75
+401773713,Assumption,Southern Connecticut State,10,ii,ii,31,35,30.75,37.75,46.5,55.25,31.5,33.75
+401773139,North Greenville,Ferrum,10,ii,ii,27,27,29.75,29.75,36.5,43.25,29.75,29.75
+401773273,Alfred State,Cortland,10,iii,iii,-42,-21,-30.75,-30.75,-30.75,-34.25,-34.25,-44.75
+401777108,Wooster,Kenyon,10,iii,iii,43,42,30.75,44.75,55.25,58.75,34.5,45.75
+401777233,Gallaudet,Hampden-Sydney,10,iii,iii,-53,-61,-30.75,-58.75,-58.75,-58.75,-37.0,-55.75
+401774396,Elmhurst,Wheaton,10,iii,iii,-65,-44,-30.75,-46.75,-57.75,-58.75,-40.0,-67.75
+401776784,Albion,Hope College,10,iii,iii,-62,-34,-30.75,-36.75,-45.25,-53.75,-39.25,-64.75
+401776780,Kalamazoo,Adrian,10,iii,iii,-27,-27,-29.75,-29.75,-36.5,-43.25,-29.75,-29.75
+401773654,University Of Charleston (WV),West Virginia Wesleyan,10,ii,ii,54,28,30.75,30.75,37.75,44.75,37.25,56.75
+401776981,Biddeford,Nichols College,10,iii,iii,24,26,26.75,28.75,35.25,41.75,26.75,26.75
+401777772,Western New England,New England College,10,iii,,55,34,30.75,36.75,45.25,53.75,37.5,57.75
+401783904,Salisbury,William Paterson,10,iii,iii,44,37,30.75,39.75,49.0,58.25,34.75,46.75
+401789790,Widener,Eastern University,10,iii,iii,-35,-21,-30.75,-30.75,-30.75,-34.25,-32.5,-37.75
+401767642,Presbyterian,Valparaiso,10,fcs,fcs,29,23,30.75,30.75,31.5,37.25,31.0,31.75
+401774109,Ithaca College,Buffalo State,10,iii,iii,42,28,30.75,30.75,37.75,44.75,34.25,44.75
+401774115,St. Lawrence,Rensselaer,10,iii,iii,-48,-27,-30.75,-30.75,-36.5,-43.25,-35.75,-50.75
+401773310,Union (NY),Hilbert College,10,iii,iii,21,24,23.75,26.75,32.75,38.75,23.75,23.75
+401777075,Denison University,Oberlin,10,iii,iii,53,26,30.75,30.75,35.25,41.75,37.0,55.75
+401774363,Carroll University (WI),North Central College,10,iii,iii,-57,-48,-30.75,-50.75,-58.75,-58.75,-38.0,-59.75
+401774127,Trine University,Alma,10,iii,iii,-14,-21,-16.75,-23.75,-29.0,-34.25,-16.75,-16.75
+401774404,Bluffton,Hanover College,10,iii,iii,-48,-28,-30.75,-30.75,-37.75,-44.75,-35.75,-50.75
+401777195,Heidelberg,Otterbein,10,iii,iii,56,31,30.75,33.75,41.5,49.25,37.75,58.75
+401773964,Greeneville,Mars Hill,10,ii,ii,-21,-21,-23.75,-23.75,-29.0,-34.25,-23.75,-23.75
+401777730,Mary Hardin-Baylor,East Texas Baptist University,10,iii,iii,48,24,30.75,30.75,32.75,38.75,35.75,50.75
+401766718,Ripon,Beloit,10,iii,iii,49,21,30.75,30.75,30.75,34.25,36.0,51.75
+401773255,Howard Payne,Hardin-Simmons,10,iii,iii,-30,-23,-30.75,-30.75,-31.5,-37.25,-31.25,-32.75
+401773380,Ouachita Baptist,Northwestern Oklahoma State,10,ii,ii,41,35,30.75,37.75,46.5,55.25,34.0,43.75
+401773413,Lincoln (MO),Truman State,10,ii,ii,-33,-24,-30.75,-30.75,-32.75,-38.75,-32.0,-35.75
+401773577,Western New Mexico,UT Permian Basin,10,ii,ii,-59,-31,-30.75,-33.75,-41.5,-49.25,-38.5,-61.75
+401774200,Wisconsin-River Falls,Wisconsin-Whitewater,10,iii,iii,38,24,30.75,30.75,32.75,38.75,33.25,40.75
+401777025,Lakeland,Concordia University Chicago,10,iii,iii,31,27,30.75,30.75,36.5,43.25,31.5,33.75
+401777032,Concordia-Wisconsin,Rockford,10,iii,iii,35,21,30.75,30.75,30.75,34.25,32.5,37.75
+401767631,St. Thomas (MN),Marist,10,fcs,fcs,45,35,30.75,37.75,46.5,55.25,35.0,47.75
+401776733,Carleton,Augsburg,10,iii,iii,31,24,30.75,30.75,32.75,38.75,31.5,33.75
+401766719,Lake Forest College,Lawrence University,10,iii,iii,72,45,30.75,47.75,58.75,58.75,41.75,74.75
+401776772,Concordia Moorhead,Bethel (MN),10,iii,iii,-46,-34,-30.75,-36.75,-45.25,-53.75,-35.25,-48.75
+401767102,Weber State,Montana,10,fcs,fcs,-21,-21,-23.75,-23.75,-29.0,-34.25,-23.75,-23.75
+401767335,William & Mary,UAlbany,10,fcs,fcs,30,28,30.75,30.75,37.75,44.75,31.25,32.75
+401761641,UL Monroe,Old Dominion,10,fbs,fbs,-25,-24,-27.75,-27.75,-32.75,-38.75,-27.75,-27.75
+401767355,Howard,North Carolina Central,10,fcs,fcs,-21,-21,-23.75,-23.75,-29.0,-34.25,-23.75,-23.75
+401777264,Dickinson (PA),Carnegie Mellon,10,iii,iii,-41,-21,-30.75,-30.75,-30.75,-34.25,-34.0,-43.75
+401773367,Harding University,Oklahoma Baptist,10,ii,ii,69,42,30.75,44.75,55.25,58.75,41.0,71.75
+401773078,Bluefield State,Virginia Union,10,ii,ii,-56,-27,-30.75,-30.75,-36.5,-43.25,-37.75,-58.75
+401774455,Hendrix College,CENTENARY,10,iii,iii,54,28,30.75,30.75,37.75,44.75,37.25,56.75
+401774278,McMurry,Texas Lutheran,10,iii,iii,-29,-21,-30.75,-30.75,-30.75,-34.25,-31.0,-31.75
+401767525,Stephen F. Austin,UT Rio Grande Valley,10,fcs,fcs,24,27,26.75,29.75,36.5,43.25,26.75,26.75
+401756937,Colorado,Arizona,10,fbs,fbs,-35,-31,-30.75,-33.75,-41.5,-49.25,-32.5,-37.75
+401773533,Northeastern State,Lincoln (CA),10,ii,ii,68,61,30.75,58.75,58.75,58.75,40.75,70.75
+401767494,McNeese,Northwestern State,10,fcs,fcs,47,26,30.75,30.75,35.25,41.75,35.5,49.75
+401767464,SE Louisiana,East Texas A&M,10,fcs,fcs,45,35,30.75,37.75,46.5,55.25,35.0,47.75
+401773542,Central Washington,Angelo State,10,ii,ii,17,21,19.75,23.75,29.0,34.25,19.75,19.75

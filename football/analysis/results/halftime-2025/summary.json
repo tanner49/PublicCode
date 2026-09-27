@@ -1,0 +1,549 @@
+{
+  "trainGames": 2855,
+  "testGames": 844,
+  "testWeeks": [
+    11,
+    12,
+    13,
+    14
+  ],
+  "trainQuarterCoverage": 2834,
+  "trainFBSQuarterCoverage": {
+    "total": 516,
+    "valid": 516
+  },
+  "cutoff": "2025-11-05T00:00:00.000Z",
+  "inputHashes": {
+    "cfbweek10.csv": "c4391faac652c8c0610480aee94b4ac937973be903be7c7a84da3d2c64d48f42",
+    "cfbweek15.csv": "411f998aa2246c6ff68802b83afa251b7daaac2f68080be4494a099ad924be1a",
+    "MasseyRatings_2024.csv": "995f5c8e7c0c17f244dbc69251079f5738f8073af2ab4ce45e682cb20d924f0d"
+  },
+  "runs": {
+    "1.0": {
+      "skipped": [],
+      "metrics": {
+        "FBSvsFBS": {
+          "cap28": {
+            "games": 236,
+            "MAE": 12.352933686112959,
+            "RMSE": 15.377408870192596,
+            "cappedMarginMAE": 10.69181603318156,
+            "winnerCorrect": 171,
+            "bias": 0.12479718595049595,
+            "MAEchange": 0.0,
+            "MAEchangeWeekBootstrap95": [
+              0.0,
+              0.0
+            ],
+            "changedWinnerPicks": 0
+          },
+          "half1.0": {
+            "games": 236,
+            "MAE": 12.256406550661927,
+            "RMSE": 15.297557365745881,
+            "cappedMarginMAE": 10.593587456976778,
+            "winnerCorrect": 170,
+            "bias": 0.160067650802419,
+            "MAEchange": -0.09652713545103049,
+            "MAEchangeWeekBootstrap95": [
+              -0.19510278902841238,
+              0.002048518126351421
+            ],
+            "changedWinnerPicks": 3
+          },
+          "half1.25": {
+            "games": 236,
+            "MAE": 12.175165567655817,
+            "RMSE": 15.213950050364284,
+            "cappedMarginMAE": 10.514167356042634,
+            "winnerCorrect": 174,
+            "bias": 0.20040529761881354,
+            "MAEchange": -0.17776811845714163,
+            "MAEchangeWeekBootstrap95": [
+              -0.4545433525453639,
+              0.09900711563108065
+            ],
+            "changedWinnerPicks": 7
+          },
+          "half1.5": {
+            "games": 236,
+            "MAE": 12.129194666714643,
+            "RMSE": 15.172337822687904,
+            "cappedMarginMAE": 10.45894156344196,
+            "winnerCorrect": 174,
+            "bias": 0.2313128533519781,
+            "MAEchange": -0.22373901939831536,
+            "MAEchangeWeekBootstrap95": [
+              -0.5977378213004354,
+              0.15904019119104795
+            ],
+            "changedWinnerPicks": 7
+          },
+          "softcap25pct": {
+            "games": 236,
+            "MAE": 12.259986247400699,
+            "RMSE": 15.267726819223732,
+            "cappedMarginMAE": 10.59262754535108,
+            "winnerCorrect": 170,
+            "bias": 0.14113446683977074,
+            "MAEchange": -0.09294743871226102,
+            "MAEchangeWeekBootstrap95": [
+              -0.18054723395488456,
+              0.049380043988333476
+            ],
+            "changedWinnerPicks": 1
+          },
+          "uncapped": {
+            "games": 236,
+            "MAE": 12.154107163904456,
+            "RMSE": 15.168556975317967,
+            "cappedMarginMAE": 10.501473000680992,
+            "winnerCorrect": 170,
+            "bias": 0.19014630950759068,
+            "MAEchange": -0.19882652220850228,
+            "MAEchangeWeekBootstrap95": [
+              -0.59544058370007,
+              0.3987983085023968
+            ],
+            "changedWinnerPicks": 7
+          }
+        },
+        "FBSvsFCS": {
+          "cap28": {
+            "games": 6,
+            "MAE": 19.968594339106005,
+            "RMSE": 23.025792633171474,
+            "cappedMarginMAE": 8.718715522763315,
+            "winnerCorrect": 6,
+            "bias": -19.349021555325077,
+            "MAEchange": 0.0,
+            "MAEchangeWeekBootstrap95": [
+              0.0,
+              0.0
+            ],
+            "changedWinnerPicks": 0
+          },
+          "half1.0": {
+            "games": 6,
+            "MAE": 19.582193617595177,
+            "RMSE": 22.739066152540378,
+            "cappedMarginMAE": 8.610246540098515,
+            "winnerCorrect": 6,
+            "bias": -18.600616378626167,
+            "MAEchange": -0.3864007215108263,
+            "MAEchangeWeekBootstrap95": [
+              -0.763911720269121,
+              -0.12711515153342745
+            ],
+            "changedWinnerPicks": 0
+          },
+          "half1.25": {
+            "games": 6,
+            "MAE": 19.146893057359804,
+            "RMSE": 22.321012991625754,
+            "cappedMarginMAE": 8.325691695511937,
+            "winnerCorrect": 6,
+            "bias": -17.198469975437973,
+            "MAEchange": -0.8217012817461983,
+            "MAEchangeWeekBootstrap95": [
+              -1.4530110973365957,
+              -0.6564809088839567
+            ],
+            "changedWinnerPicks": 0
+          },
+          "half1.5": {
+            "games": 6,
+            "MAE": 18.680936362002708,
+            "RMSE": 21.979089341338693,
+            "cappedMarginMAE": 7.998876583495707,
+            "winnerCorrect": 6,
+            "bias": -15.674206322683716,
+            "MAEchange": -1.2876579771033008,
+            "MAEchangeWeekBootstrap95": [
+              -1.6201564461555371,
+              -1.1936837279799555
+            ],
+            "changedWinnerPicks": 0
+          },
+          "softcap25pct": {
+            "games": 6,
+            "MAE": 19.262932923904472,
+            "RMSE": 22.35877061008941,
+            "cappedMarginMAE": 8.498509345595735,
+            "winnerCorrect": 6,
+            "bias": -18.21968433581325,
+            "MAEchange": -0.705661415201531,
+            "MAEchangeWeekBootstrap95": [
+              -1.7887744495342375,
+              -0.07940964590106248
+            ],
+            "changedWinnerPicks": 0
+          },
+          "uncapped": {
+            "games": 6,
+            "MAE": 17.145948678299916,
+            "RMSE": 20.803960228465375,
+            "cappedMarginMAE": 7.8378908140929795,
+            "winnerCorrect": 6,
+            "bias": -14.831672677277771,
+            "MAEchange": -2.8226456608060864,
+            "MAEchangeWeekBootstrap95": [
+              -7.155097798137,
+              -0.31763858360426767
+            ],
+            "changedWinnerPicks": 0
+          }
+        },
+        "all": {
+          "cap28": {
+            "games": 844,
+            "MAE": 13.446603680883873,
+            "RMSE": 16.83078799517067,
+            "cappedMarginMAE": 10.31784775669112,
+            "winnerCorrect": 639,
+            "bias": 0.6013205929011806,
+            "MAEchange": 0.0,
+            "MAEchangeWeekBootstrap95": [
+              0.0,
+              0.0
+            ],
+            "changedWinnerPicks": 0
+          },
+          "half1.0": {
+            "games": 844,
+            "MAE": 13.159793459912597,
+            "RMSE": 16.468240062854424,
+            "cappedMarginMAE": 10.156092486053028,
+            "winnerCorrect": 640,
+            "bias": 0.6709781841003848,
+            "MAEchange": -0.286810220971274,
+            "MAEchangeWeekBootstrap95": [
+              -0.4276434713940532,
+              -0.09644418193440836
+            ],
+            "changedWinnerPicks": 21
+          },
+          "half1.25": {
+            "games": 844,
+            "MAE": 13.016118570553054,
+            "RMSE": 16.308976886951015,
+            "cappedMarginMAE": 10.127289547069978,
+            "winnerCorrect": 648,
+            "bias": 0.7546077704279537,
+            "MAEchange": -0.4304851103308186,
+            "MAEchangeWeekBootstrap95": [
+              -0.7001752938498922,
+              -0.0843831001651226
+            ],
+            "changedWinnerPicks": 39
+          },
+          "half1.5": {
+            "games": 844,
+            "MAE": 12.981740691132115,
+            "RMSE": 16.313445909770774,
+            "cappedMarginMAE": 10.141187591821804,
+            "winnerCorrect": 648,
+            "bias": 0.8376233720276959,
+            "MAEchange": -0.4648629897517604,
+            "MAEchangeWeekBootstrap95": [
+              -0.8802310537848941,
+              -0.01054637923527055
+            ],
+            "changedWinnerPicks": 41
+          },
+          "softcap25pct": {
+            "games": 844,
+            "MAE": 13.153497107634356,
+            "RMSE": 16.470039125768274,
+            "cappedMarginMAE": 10.117070357381717,
+            "winnerCorrect": 643,
+            "bias": 0.6649641269854069,
+            "MAEchange": -0.2931065732495166,
+            "MAEchangeWeekBootstrap95": [
+              -0.4130247635521906,
+              -0.14600713103485702
+            ],
+            "changedWinnerPicks": 10
+          },
+          "uncapped": {
+            "games": 844,
+            "MAE": 12.717211959563873,
+            "RMSE": 16.009197798231636,
+            "cappedMarginMAE": 9.899910615183874,
+            "winnerCorrect": 641,
+            "bias": 0.855894729238084,
+            "MAEchange": -0.7293917213200023,
+            "MAEchangeWeekBootstrap95": [
+              -1.1694703572570375,
+              -0.26108696390686353
+            ],
+            "changedWinnerPicks": 34
+          }
+        }
+      }
+    },
+    "0.75": {
+      "skipped": [],
+      "metrics": {
+        "FBSvsFBS": {
+          "cap28": {
+            "games": 236,
+            "MAE": 12.293998242208675,
+            "RMSE": 15.303452300631761,
+            "cappedMarginMAE": 10.625117592328271,
+            "winnerCorrect": 171,
+            "bias": 0.13126870907383092,
+            "MAEchange": 0.0,
+            "MAEchangeWeekBootstrap95": [
+              0.0,
+              0.0
+            ],
+            "changedWinnerPicks": 0
+          },
+          "half1.0": {
+            "games": 236,
+            "MAE": 12.197626847275753,
+            "RMSE": 15.234507252603763,
+            "cappedMarginMAE": 10.530791323368652,
+            "winnerCorrect": 172,
+            "bias": 0.16824322057683674,
+            "MAEchange": -0.09637139493292111,
+            "MAEchangeWeekBootstrap95": [
+              -0.19104828985921507,
+              -0.0016945000066271394
+            ],
+            "changedWinnerPicks": 5
+          },
+          "half1.25": {
+            "games": 236,
+            "MAE": 12.132632817237385,
+            "RMSE": 15.177260965424534,
+            "cappedMarginMAE": 10.472403361803702,
+            "winnerCorrect": 174,
+            "bias": 0.2107245406764009,
+            "MAEchange": -0.16136542497129205,
+            "MAEchangeWeekBootstrap95": [
+              -0.4351641784321833,
+              0.11243332848959921
+            ],
+            "changedWinnerPicks": 7
+          },
+          "half1.5": {
+            "games": 236,
+            "MAE": 12.105366205314258,
+            "RMSE": 15.164456229032226,
+            "cappedMarginMAE": 10.43926603469025,
+            "winnerCorrect": 174,
+            "bias": 0.24335912079378363,
+            "MAEchange": -0.18863203689441452,
+            "MAEchangeWeekBootstrap95": [
+              -0.5638672473289773,
+              0.1866031735401482
+            ],
+            "changedWinnerPicks": 7
+          },
+          "softcap25pct": {
+            "games": 236,
+            "MAE": 12.20303837821858,
+            "RMSE": 15.204515572059066,
+            "cappedMarginMAE": 10.52953007839453,
+            "winnerCorrect": 172,
+            "bias": 0.14929154646886825,
+            "MAEchange": -0.09095986399009574,
+            "MAEchangeWeekBootstrap95": [
+              -0.18701769575803154,
+              0.044784943533570466
+            ],
+            "changedWinnerPicks": 1
+          },
+          "uncapped": {
+            "games": 236,
+            "MAE": 12.14005036916781,
+            "RMSE": 15.164045516615829,
+            "cappedMarginMAE": 10.479320380100255,
+            "winnerCorrect": 173,
+            "bias": 0.20336005865398477,
+            "MAEchange": -0.15394787304086702,
+            "MAEchangeWeekBootstrap95": [
+              -0.5383378542587254,
+              0.42198005396592553
+            ],
+            "changedWinnerPicks": 8
+          }
+        },
+        "FBSvsFCS": {
+          "cap28": {
+            "games": 6,
+            "MAE": 19.288294283260267,
+            "RMSE": 21.982809442582884,
+            "cappedMarginMAE": 8.202056169781105,
+            "winnerCorrect": 6,
+            "bias": -17.69872985687209,
+            "MAEchange": 0.0,
+            "MAEchangeWeekBootstrap95": [
+              0.0,
+              0.0
+            ],
+            "changedWinnerPicks": 0
+          },
+          "half1.0": {
+            "games": 6,
+            "MAE": 18.794817349256988,
+            "RMSE": 21.64742182488863,
+            "cappedMarginMAE": 8.027114191571444,
+            "winnerCorrect": 6,
+            "bias": -16.79474735776625,
+            "MAEchange": -0.4934769340032788,
+            "MAEchangeWeekBootstrap95": [
+              -0.9598010867317868,
+              -0.22349457106050963
+            ],
+            "changedWinnerPicks": 0
+          },
+          "half1.25": {
+            "games": 6,
+            "MAE": 18.22252948597804,
+            "RMSE": 21.2274427154219,
+            "cappedMarginMAE": 7.642594843349663,
+            "winnerCorrect": 6,
+            "bias": -15.150715934262122,
+            "MAEchange": -1.0657647972822246,
+            "MAEchangeWeekBootstrap95": [
+              -1.8854053015472125,
+              -0.8941350548981912
+            ],
+            "changedWinnerPicks": 0
+          },
+          "half1.5": {
+            "games": 6,
+            "MAE": 17.60900183859609,
+            "RMSE": 20.933144489139515,
+            "cappedMarginMAE": 7.364394880081403,
+            "winnerCorrect": 6,
+            "bias": -13.359202700567579,
+            "MAEchange": -1.679292444664177,
+            "MAEchangeWeekBootstrap95": [
+              -2.1324417696457374,
+              -1.5291292671528147
+            ],
+            "changedWinnerPicks": 0
+          },
+          "softcap25pct": {
+            "games": 6,
+            "MAE": 18.446616574233826,
+            "RMSE": 21.241943351113584,
+            "cappedMarginMAE": 7.8975644362107715,
+            "winnerCorrect": 6,
+            "bias": -16.365730185204004,
+            "MAEchange": -0.841677709026443,
+            "MAEchangeWeekBootstrap95": [
+              -2.0101263280718698,
+              -0.25319185228997654
+            ],
+            "changedWinnerPicks": 0
+          },
+          "uncapped": {
+            "games": 6,
+            "MAE": 15.921583447154505,
+            "RMSE": 19.64010913963556,
+            "cappedMarginMAE": 7.125454885046747,
+            "winnerCorrect": 6,
+            "bias": -12.366731170199749,
+            "MAEchange": -3.36671083610576,
+            "MAEchangeWeekBootstrap95": [
+              -8.040505312287479,
+              -1.01276740915997
+            ],
+            "changedWinnerPicks": 0
+          }
+        },
+        "all": {
+          "cap28": {
+            "games": 844,
+            "MAE": 13.385249094975293,
+            "RMSE": 16.731366830866953,
+            "cappedMarginMAE": 10.28067295383464,
+            "winnerCorrect": 639,
+            "bias": 0.6215113055650858,
+            "MAEchange": 0.0,
+            "MAEchangeWeekBootstrap95": [
+              0.0,
+              0.0
+            ],
+            "changedWinnerPicks": 0
+          },
+          "half1.0": {
+            "games": 844,
+            "MAE": 13.09753130090621,
+            "RMSE": 16.38423362002927,
+            "cappedMarginMAE": 10.13160217010704,
+            "winnerCorrect": 639,
+            "bias": 0.6943098507665778,
+            "MAEchange": -0.2877177940690867,
+            "MAEchangeWeekBootstrap95": [
+              -0.42904871195921135,
+              -0.09029184843088645
+            ],
+            "changedWinnerPicks": 24
+          },
+          "half1.25": {
+            "games": 844,
+            "MAE": 12.974526954733289,
+            "RMSE": 16.266133170110216,
+            "cappedMarginMAE": 10.123500789562968,
+            "winnerCorrect": 645,
+            "bias": 0.7834131837969621,
+            "MAEchange": -0.4107221402420081,
+            "MAEchangeWeekBootstrap95": [
+              -0.7002471517622277,
+              -0.06408332312032197
+            ],
+            "changedWinnerPicks": 36
+          },
+          "half1.5": {
+            "games": 844,
+            "MAE": 12.976892523819192,
+            "RMSE": 16.325160516244743,
+            "cappedMarginMAE": 10.154083443229114,
+            "winnerCorrect": 647,
+            "bias": 0.8723427494069679,
+            "MAEchange": -0.40835657115610513,
+            "MAEchangeWeekBootstrap95": [
+              -0.8292465066046553,
+              0.02374948721620835
+            ],
+            "changedWinnerPicks": 38
+          },
+          "softcap25pct": {
+            "games": 844,
+            "MAE": 13.084768808222334,
+            "RMSE": 16.37747838474176,
+            "cappedMarginMAE": 10.083456839552998,
+            "winnerCorrect": 643,
+            "bias": 0.6896555559866985,
+            "MAEchange": -0.30048028675296357,
+            "MAEchangeWeekBootstrap95": [
+              -0.4264514238795578,
+              -0.1398949172311739
+            ],
+            "changedWinnerPicks": 12
+          },
+          "uncapped": {
+            "games": 844,
+            "MAE": 12.696792271488844,
+            "RMSE": 16.014152293828463,
+            "cappedMarginMAE": 9.89479403837835,
+            "winnerCorrect": 647,
+            "bias": 0.89408830725154,
+            "MAEchange": -0.6884568234864513,
+            "MAEchangeWeekBootstrap95": [
+              -1.133237291283968,
+              -0.23689765185000797
+            ],
+            "changedWinnerPicks": 34
+          }
+        }
+      }
+    }
+  }
+}
