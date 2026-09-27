@@ -15,7 +15,7 @@ Download the season's games from https://collegefootballdata.com/exporter/games 
 Save each downloaded CSV in `data/raw/2026/` with its publication week. Then run:
 
 ```powershell
-python ratings.py --input data/raw/2026/week-04.csv --season 2026 --week 4 --rebuild-2025-priors
+python ratings.py --input data/raw/2026/week-04.csv --season 2026 --week 4 --rebuild-2025-priors --prior-weight 1 --margin-model cap28
 ```
 
 For Week 5, save a cumulative export as `week-05.csv` and run:
@@ -30,7 +30,7 @@ The command writes JSON and CSV snapshots locally and copies them to the sibling
 
 ## Method
 
-Each game supplies `rating(home) - rating(away) = sign(margin) * (min(abs(margin), 28) + 2.75)`. Ties encode as zero. The old asymmetric cap is fixed for both current ratings and regenerated 2025 priors.
+Ordinary games supply `rating(home) - rating(away) = sign(margin) * (min(abs(margin), 28) + 2.75)`. Ties encode as zero. The production halftime rule described below can increase margin credit beyond 28 when early dominance justifies it; the bonus remains 2.75. The old asymmetric cap is fixed for both current ratings and regenerated 2025 priors.
 
 Equations are weighted by `sqrt(2 / (home games + away games + 2 * prior_weight))`. Prior-season ratings act as pseudo-games against zero, with `prior_weight = 1.0` (the original notebook's approximate one-game setting) and the same signed encoding, capped at 100. Their row weight is `sqrt(2 * prior_weight / (team games + prior_weight))`. This normalization treats the zero-rated baseline as having zero games, so the prior is not exactly equal in influence to any particular real game. A sum-to-zero constraint anchors the least-squares solution. The Week 4 prior weight was 1.0; Week 5 reduces it to 0.75 without changing Week 4. Rebuilding the 2025 prior CSV still uses the archived final notebook's 0.00005 weight on 2024 ratings, so this change does not retroactively alter the 2025 baseline. No home-field adjustment is applied.
 
@@ -50,7 +50,7 @@ Run verification with `python -m unittest discover -s tests`.
 
 ## Prior implementation history
 
-The archived `cbd.ipynb` calls these "Week 0" pseudo-games against a zero-rated baseline and comments `1.0 ~ one game`. Git commit `32c71d8` used weight 2; `c25e1c0` used 0.5; the preserved local notebook used 0.00005. Week 4 used 1.0; Week 5 uses 0.75. Set `--prior-weight` explicitly for each new publication; the CLI default remains 1.0 for backward compatibility. This is an extra least-squares equation per team, not just an initial solver guess. Its relative influence diminishes as actual games accumulate. The prior target retains the original signed encoding (including the winner bonus), rather than inserting the previous rating completely unchanged.
+The archived `cbd.ipynb` calls these "Week 0" pseudo-games against a zero-rated baseline and comments `1.0 ~ one game`. Git commit `32c71d8` used weight 2; `c25e1c0` used 0.5; the preserved local notebook used 0.00005. Week 4 used 1.0; Week 5 uses 0.75. Set `--prior-weight` explicitly for each new publication; the CLI default is now 0.75. This is an extra least-squares equation per team, not just an initial solver guess. Its relative influence diminishes as actual games accumulate. The prior target retains the original signed encoding (including the winner bonus), rather than inserting the previous rating completely unchanged.
 
 The superseded local Week 4 snapshot with weight 0.00005 is preserved in `archive/model-revisions/2026-week04-prior-0.00005/`. It was replaced before deployment and is not presented as a different week on the site.
 
@@ -91,4 +91,12 @@ The audit `share/SEASON/week-NN/new-light.json` includes every FBS team's prior 
 
 Games to Watch selects the five highest-combined-rating FBS-involving fixtures with a displayed predicted margin of 10 points or less, including the active home adjustment. The full upcoming-game list remains available.
 
-The isolated halftime-blowout experiment is documented in `analysis/results/halftime-2025/README.md`; it does not affect production ratings.
+The halftime-blowout experiment is documented in `analysis/results/halftime-2025/README.md`. Its 1.25x variant is now the production default after explicit approval; historical models remain preserved.
+
+## Production halftime rule (Week 5 revision onward)
+
+The CLI defaults to `--margin-model halftime1.25 --prior-weight 0.75`. For the eventual winner, start with min(final margin, 28). If halftime lead is at least 21 and final winning margin at least 10, increase that credit to max(existing credit, min(56, 1.25 * halftime lead)). Then add the unchanged 2.75 winner bonus. Apply signs symmetrically. Missing or invalid quarters fall back to cap28. Validate period totals against final scores, including overtime. Priors retain their original transformation. The 3-point prediction-only home adjustment remains separate.
+
+New snapshots record the margin-model name, parameters, and per-game signed halftime margin (or null), allowing the fit to be reconstructed exactly. Historical snapshots without those fields use cap28. Brawlers refits use each snapshot's model; the descriptive Cupcake index retains its existing capped-final-margin definition. Seen in a New Light compares both sides at the same current model and prior, and records model-change effects separately from results elsewhere. Weekly rank movement still compares actual published rankings, so Week 5 movement includes the model update.
+
+The previous published Week 5 JSON, CSV, graphics, and audits are preserved in `archive/model-revisions/2026-week05-cap28-prior-0.75/`. Published Week 4 is unchanged. To reproduce an older model explicitly, pass `--margin-model cap28` and its saved prior weight. Neither the 2025 prior file nor retrospective experimental results were regenerated with the new rule.

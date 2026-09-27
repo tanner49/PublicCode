@@ -26,6 +26,8 @@ def reconstruct_games(snapshot):
             if g['id'] not in games:
                 # Orientation is immaterial: no home adjustment is used in this model.
                 games[g['id']] = {'Id': g['id'], 'HomeTeam': team['team'], 'AwayTeam': g['opponent'], 'HomePoints': g['scored'], 'AwayPoints': g['allowed']}
+                if 'halftimeMargin' in g:
+                    games[g['id']]['HalftimeMargin'] = g['halftimeMargin']
     if len(games) != snapshot['gameCount']:
         raise ValueError('Snapshot game count does not match reconstructed games')
     return list(games.values())
@@ -49,7 +51,8 @@ def calculate_profiles(snapshot, cache):
     games = reconstruct_games(snapshot)
     priors = {r['Team']: float(r['MasseyRating']) for r in read_csv(priors_path)}
     weight = snapshot['model']['priorWeight']
-    baseline = solve(games, priors, prior_weight=weight)
+    margin_model = snapshot['model'].get('marginModel', 'cap28')
+    baseline = solve(games, priors, prior_weight=weight, margin_model=margin_model)
     if any(abs(baseline[n] - t['rating']) > 0.000002 for n, t in teams.items()):
         raise ValueError('Reconstructed fit differs from published ratings')
     lifts = {n: [] for n in eligible}
@@ -63,7 +66,7 @@ def calculate_profiles(snapshot, cache):
                 relevant.append((name, opp, g[side + 'Points'] - g[opponent + 'Points']))
         if not relevant:
             continue
-        without = solve([x for x in games if x['Id'] != g['Id']], priors, prior_weight=weight)
+        without = solve([x for x in games if x['Id'] != g['Id']], priors, prior_weight=weight, margin_model=margin_model)
         for name, opp, margin in relevant:
             if name not in without:
                 continue  # No fit exists for a team with no remaining scored games.
@@ -84,7 +87,7 @@ def calculate_profiles(snapshot, cache):
         cupcakes.append({'team': t['team'], 'rank': t['divisionRank'], 'score': sum(g['credit'] for g in details) / len(details), 'games': details})
     result = {'fingerprint': fingerprint, 'season': snapshot['season'], 'week': snapshot['week'], 'fbsMedian': midpoint, 'fbsBest': best, 'brawlers': sorted(brawlers, key=lambda t: (-t['score'], t['team'])), 'cupcakes': sorted(cupcakes, key=lambda t: (-t['score'], t['team'])), 'method': {
         'brawlers': 'FBS Top 50 only. For games decided by fewer than 28 points against above-median FBS opponents, refit the full model without each game. Sum positive rating lifts multiplied by (opponent rating - FBS median) / (highest FBS rating - FBS median). Negative lifts contribute zero. This is an index, not additive rating points or weekly movement.',
-        'cupcakes': 'All FBS. Average over all games: max(team rating - opponent rating, 0) times max(encoded margin, 0) / 30.75. Encoded margin uses the production 28-point cap and 2.75 winner bonus. Losses and wins over stronger teams contribute zero. Higher means more dominance against weaker opposition, not proof of overrating.',
+        'cupcakes': 'All FBS. Average over all games: max(team rating - opponent rating, 0) times max(encoded margin, 0) / 30.75. This descriptive index retains a 28-point cap and 2.75 winner bonus. Losses and wins over stronger teams contribute zero. Higher means more dominance against weaker opposition, not proof of overrating.',
         'limitations': 'Early-season, current-rating-based descriptive indices. Priors remain in every fit; model game weights are recomputed after removal. These are not validated predictors, nor a causal estimate of schedule choice. The definitions were explored against this snapshot before selecting this version.'}}
     cache.write_text(json.dumps(result, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
     return result

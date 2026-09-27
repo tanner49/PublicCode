@@ -18,6 +18,34 @@ def encode_margin(margin, cap=28):
     return math.copysign(min(abs(margin), cap) + BONUS, margin) if margin else 0.0
 
 
+def halftime_margin(game):
+    if 'HalftimeMargin' in game:
+        return game['HalftimeMargin']
+    halves = []
+    for side in ('Home', 'Away'):
+        try:
+            periods = [int(x.strip()) for x in game.get(side+'LineScores', '').split(',')]
+        except (ValueError, TypeError):
+            return None
+        if len(periods) < 4 or min(periods) < 0 or sum(periods) != game[side+'Points']:
+            return None
+        halves.append(sum(periods[:2]))
+    return halves[0] - halves[1]
+
+
+def game_target(game, margin_model='cap28'):
+    if margin_model not in ('cap28', 'halftime1.25'):
+        raise ValueError(f'Unknown margin model: {margin_model}')
+    final = game['HomePoints'] - game['AwayPoints']
+    if not final:
+        return 0.0
+    credit = min(abs(final), 28)
+    half = halftime_margin(game) if margin_model == 'halftime1.25' else None
+    if half is not None and half*final > 0 and abs(half) >= 21 and abs(final) >= 10:
+        credit = max(credit, min(56, 1.25*abs(half)))
+    return math.copysign(credit + BONUS, final)
+
+
 def read_csv(path):
     with Path(path).open(encoding="utf-8-sig", newline="") as handle:
         return list(csv.DictReader(handle))
@@ -54,7 +82,7 @@ def select_games(rows, season, through_week):
     return games
 
 
-def solve(games, priors, prior_weight=PRIOR_WEIGHT):
+def solve(games, priors, prior_weight=PRIOR_WEIGHT, margin_model='cap28'):
     teams = sorted({g[side + "Team"] for g in games for side in ("Home", "Away")})
     indices = {team: i for i, team in enumerate(teams)}
     counts = {team: 0 for team in teams}
@@ -68,7 +96,7 @@ def solve(games, priors, prior_weight=PRIOR_WEIGHT):
         row = np.zeros(len(teams))
         row[indices[home]], row[indices[away]] = weight, -weight
         rows.append(row)
-        targets.append(encode_margin(game["HomePoints"] - game["AwayPoints"]) * weight)
+        targets.append(game_target(game, margin_model) * weight)
     for team, prior in priors.items():
         if team not in indices:
             continue
@@ -83,9 +111,9 @@ def solve(games, priors, prior_weight=PRIOR_WEIGHT):
     return dict(zip(teams, map(float, ratings)))
 
 
-def build_snapshot(rows, season, week, priors, source_hash, prior_weight=PRIOR_WEIGHT):
+def build_snapshot(rows, season, week, priors, source_hash, prior_weight=PRIOR_WEIGHT, margin_model='cap28'):
     games = select_games(rows, season, week - 1)
-    ratings = solve(games, priors, prior_weight=prior_weight)
+    ratings = solve(games, priors, prior_weight=prior_weight, margin_model=margin_model)
     teams = {name: {"team": name, "rating": round(rating, 6), "classification": "unknown", "conference": "Independent", "wins": 0, "losses": 0, "ties": 0, "games": []} for name, rating in ratings.items()}
     for game in sorted(games, key=lambda g: (g["StartDate"], g["Id"])):
         for side, opponent in (("Home", "Away"), ("Away", "Home")):
@@ -96,6 +124,9 @@ def build_snapshot(rows, season, week, priors, source_hash, prior_weight=PRIOR_W
             result = "W" if scored > allowed else "L" if scored < allowed else "T"
             team[{"W": "wins", "L": "losses", "T": "ties"}[result]] += 1
             team["games"].append({"id": game["Id"], "week": int(game["Week"]), "date": game["StartDate"], "opponent": game[opponent + "Team"], "venue": "N" if truth(game.get("NeutralSite")) else "H" if side == "Home" else "A", "scored": scored, "allowed": allowed, "result": result})
+            if margin_model == 'halftime1.25':
+                half = halftime_margin(game)
+                team['games'][-1]['halftimeMargin'] = None if half is None else half * (1 if side == 'Home' else -1)
     ordered = sorted(teams.values(), key=lambda t: (-t["rating"], t["team"]))
     ranks = {}
     for rank, team in enumerate(ordered, 1):
@@ -110,7 +141,7 @@ def build_snapshot(rows, season, week, priors, source_hash, prior_weight=PRIOR_W
             home, away = row["HomeTeam"], row["AwayTeam"]
             fixtures.append({"id": row["Id"], "home": home, "away": away, "date": row["StartDate"], "neutral": truth(row.get("NeutralSite")), "classification": row.get("HomeClassification", "unknown"), "awayClassification": row.get("AwayClassification", "unknown"), "homeEdge": round(ratings[home] - ratings[away], 2) if home in ratings and away in ratings else None})
     excluded = [r["Id"] for r in rows if int(r["Season"]) == season and int(r["Week"]) < week and r["SeasonType"] == "regular" and truth(r["Completed"]) and (not r["HomePoints"].strip() or not r["AwayPoints"].strip())]
-    return {"season": season, "week": week, "throughWeek": week - 1, "gameCount": len(games), "excludedMissingScores": excluded, "latestGameDate": max(g["StartDate"] for g in games), "sourceSha256": source_hash, "model": {"marginCap": 28, "winnerBonus": BONUS, "priorWeight": prior_weight, "priorSeason": season - 1, "homeAdvantage": 0}, "teams": ordered, "fixtures": sorted(fixtures, key=lambda g: (g["date"], g["id"]))}
+    return {"season": season, "week": week, "throughWeek": week - 1, "gameCount": len(games), "excludedMissingScores": excluded, "latestGameDate": max(g["StartDate"] for g in games), "sourceSha256": source_hash, "model": {"marginCap": 28, **({"marginModel": margin_model, "halftimeMultiplier": 1.25, "halftimeLeadMinimum": 21, "finalWinMinimum": 10, "halftimeCreditCap": 56} if margin_model != "cap28" else {}), "winnerBonus": BONUS, "priorWeight": prior_weight, "priorSeason": season - 1, "homeAdvantage": 0}, "teams": ordered, "fixtures": sorted(fixtures, key=lambda g: (g["date"], g["id"]))}
 
 
 def write_json(path, value):
@@ -123,7 +154,8 @@ def main():
     parser.add_argument("--input", type=Path, required=True)
     parser.add_argument("--season", type=int, required=True)
     parser.add_argument("--week", type=int, required=True, help="Publication week; includes completed games through week minus one")
-    parser.add_argument("--prior-weight", type=float, default=PRIOR_WEIGHT, help="Prior-game weight for this snapshot only")
+    parser.add_argument("--prior-weight", type=float, default=0.75, help="Prior-game weight for this snapshot only")
+    parser.add_argument("--margin-model", choices=["cap28", "halftime1.25"], default="halftime1.25")
     parser.add_argument("--priors", type=Path, help="Prior-season CSV with Team and MasseyRating")
     parser.add_argument("--rebuild-2025-priors", action="store_true", help="Regenerate 2025 priors from archived data with symmetric margin caps")
     parser.add_argument("--site", type=Path, default=ROOT.parents[1] / "tanner49.github.io" / "tanner-ratings" / "data")
@@ -146,7 +178,7 @@ def main():
     priors = {r["Team"]: float(r["MasseyRating"]) for r in read_csv(prior_path)}
     if not all(math.isfinite(value) for value in priors.values()):
         raise ValueError("Prior ratings must be finite")
-    snapshot = build_snapshot(read_csv(args.input), args.season, args.week, priors, hashlib.sha256(args.input.read_bytes()).hexdigest(), prior_weight=args.prior_weight)
+    snapshot = build_snapshot(read_csv(args.input), args.season, args.week, priors, hashlib.sha256(args.input.read_bytes()).hexdigest(), prior_weight=args.prior_weight, margin_model=args.margin_model)
     previous_path = args.site / f"{args.season}/week-{args.week-1:02}.json"
     if previous_path.exists():
         previous = json.loads(previous_path.read_text(encoding="utf-8"))

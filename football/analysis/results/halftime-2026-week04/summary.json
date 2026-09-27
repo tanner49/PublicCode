@@ -1,0 +1,143 @@
+{
+  "confirmedClose": {
+    "cap28": {
+      "games": 62,
+      "W": 30,
+      "L": 28,
+      "P": 0,
+      "PASS": 4,
+      "rawResults": {
+        "W": 30,
+        "L": 32,
+        "P": 0,
+        "PASS": 0
+      },
+      "MAE": 12.694380861992034,
+      "underdogPicks": 37
+    },
+    "half1.25": {
+      "games": 62,
+      "W": 35,
+      "L": 26,
+      "P": 0,
+      "PASS": 1,
+      "rawResults": {
+        "W": 36,
+        "L": 26,
+        "P": 0,
+        "PASS": 0
+      },
+      "MAE": 11.947862909122192,
+      "underdogPicks": 31
+    }
+  },
+  "FBSvsFBS": {
+    "cap28": {
+      "games": 50,
+      "W": 23,
+      "L": 24,
+      "P": 0,
+      "PASS": 3,
+      "rawResults": {
+        "W": 23,
+        "L": 27,
+        "P": 0,
+        "PASS": 0
+      },
+      "MAE": 12.745127262114686,
+      "underdogPicks": 28
+    },
+    "half1.25": {
+      "games": 50,
+      "W": 27,
+      "L": 22,
+      "P": 0,
+      "PASS": 1,
+      "rawResults": {
+        "W": 28,
+        "L": 22,
+        "P": 0,
+        "PASS": 0
+      },
+      "MAE": 11.90439131210302,
+      "underdogPicks": 23
+    }
+  },
+  "FBSvsFCS": {
+    "cap28": {
+      "games": 12,
+      "W": 7,
+      "L": 4,
+      "P": 0,
+      "PASS": 1,
+      "rawResults": {
+        "W": 7,
+        "L": 5,
+        "P": 0,
+        "PASS": 0
+      },
+      "MAE": 12.482937528147664,
+      "underdogPicks": 9
+    },
+    "half1.25": {
+      "games": 12,
+      "W": 8,
+      "L": 4,
+      "P": 0,
+      "PASS": 0,
+      "rawResults": {
+        "W": 8,
+        "L": 4,
+        "P": 0,
+        "PASS": 0
+      },
+      "MAE": 12.128994563368728,
+      "underdogPicks": 8
+    }
+  },
+  "allSupplied": {
+    "cap28": {
+      "games": 65,
+      "W": 31,
+      "L": 30,
+      "P": 0,
+      "PASS": 4,
+      "rawResults": {
+        "W": 31,
+        "L": 34,
+        "P": 0,
+        "PASS": 0
+      },
+      "MAE": 12.61230716015394,
+      "underdogPicks": 38
+    },
+    "half1.25": {
+      "games": 65,
+      "W": 36,
+      "L": 28,
+      "P": 0,
+      "PASS": 1,
+      "rawResults": {
+        "W": 37,
+        "L": 28,
+        "P": 0,
+        "PASS": 0
+      },
+      "MAE": 11.874128111726838,
+      "underdogPicks": 32
+    }
+  },
+  "training": {
+    "games": 1062,
+    "validQuarters": 882,
+    "changedTargets": 219,
+    "priorWeight": 0.75,
+    "homeAdvantage": 3,
+    "hashes": {
+      "week-04.csv": "93c44296ba45082623b948204e3a82cc74baa653c563eacc58dcf983463442e7",
+      "priors-2025.csv": "cf86db32674fac791ba469e7bc324534a76d201199fcf2f790c6a27a841a2f3e",
+      "game-by-game.csv": "ee02601e9514523253d51a74777898495d1cff66ce6cccfe84ba3b1536eb1f0b",
+      "week-04.json": "b5019ec8db786d9aa4c3c0211136b4276ad54804826da770047d2a2251b713ca"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+id,away,home,basis,bothFBS,homeScore,awayScore,actualHomeMargin,marketHomeMargin,cap28Raw,cap28Line,cap28Result,cap28RawResult,cap28Pick,half1.25Raw,half1.25Line,half1.25Result,half1.25RawResult,half1.25Pick
+401866425,Ball State,Kent State,Close,True,26,13,13.0,2.5,5.821609586549204,6.0,W,W,Kent State,1.1412354028996532,1.0,L,L,Ball State
+401858236,Bucknell,Pittsburgh,Close,False,59,0,59.0,54.5,51.80108459876914,52.0,L,L,Bucknell,59.73344750850956,59.5,W,W,Pittsburgh
+401856813,Colorado,Baylor,Close,True,23,13,10.0,8.5,11.803132221980697,12.0,W,W,Baylor,13.335491138495044,13.5,W,W,Baylor
+401860896,Colorado State,UTSA,Close,True,59,45,14.0,14.5,10.914910433243207,11.0,W,W,Colorado State,12.42731945352169,12.5,W,W,Colorado State
+401858465,Illinois,Ohio State,Close,True,42,19,23.0,25.5,13.49749714380259,13.5,W,W,Illinois,16.8807591321628,17.0,W,W,Illinois
+401856805,Sam Houston,Texas Tech,Close,True,49,14,35.0,34.5,31.423984473755247,31.5,L,L,Sam Houston,30.625369727190765,30.5,L,L,Sam Houston
+401860893,San Diego State,Toledo,Close,True,41,16,25.0,2.5,6.508030163456823,6.5,W,W,Toledo,8.371908598262223,8.5,W,W,Toledo
+401856704,Texas,Tennessee,Close,True,17,20,-3.0,-5.5,-4.05047059399093,-4.0,W,W,Tennessee,-2.1054478630103546,-2.0,W,W,Tennessee
+401864512,UNLV,Akron,Close,True,10,38,-28.0,-13.5,-10.766196532634439,-11.0,L,L,Akron,-12.448766591737865,-12.5,L,L,Akron
+401858242,Virginia Tech,Boston College,Close,True,14,21,-7.0,-14.5,-10.853188671617673,-11.0,W,W,Boston College,-18.85702620966714,-19.0,L,L,Virginia Tech
+401858243,Wake Forest,Louisville,Close,True,27,30,-3.0,11.5,13.102102086423045,13.0,L,L,Louisville,10.897412508617691,11.0,W,W,Wake Forest
+401864576,South Alabama,Kentucky,Close,True,45,21,24.0,20.5,19.285990010691563,19.5,L,L,South Alabama,21.17154935428121,21.0,W,W,Kentucky
+401866427,Lindenwood,Eastern Michigan,Close,False,29,3,26.0,24.5,13.10233030535371,13.0,L,L,Lindenwood,15.064229308492036,15.0,L,L,Lindenwood
+401858462,UCLA,Maryland,Close,True,3,54,-51.0,-2.5,-7.810734298710159,-8.0,W,W,UCLA,-3.9882810156424213,-4.0,W,W,UCLA
+401864511,Northern Illinois,Georgia State,Close,True,35,14,21.0,8.5,8.784499932657365,9.0,W,W,Georgia State,12.798110317411208,13.0,W,W,Georgia State
+401858467,Notre Dame,Purdue,Close,True,10,49,-39.0,-27.5,-26.72878680607947,-26.5,L,L,Purdue,-30.916970530149527,-31.0,W,W,Notre Dame
+401858237,Central Arkansas,Florida State,Close,False,34,7,27.0,45.5,37.41211456482879,37.5,W,W,Central Arkansas,38.66129032316498,38.5,W,W,Central Arkansas
+401864510,Hawai'i,Wyoming,Close,True,27,10,17.0,-2.5,-6.319677566052569,-6.5,L,L,Hawai'i,-6.5700156771198515,-6.5,L,L,Hawai'i
+401860897,Boise State,Western Michigan,Close,True,7,32,-25.0,-8.5,-2.1291136518597042,-2.0,L,L,Western Michigan,-5.201336986547091,-5.0,L,L,Western Michigan
+401868188,Gardner-Webb,Marshall,Close,False,36,35,1.0,24.5,16.019638582727385,16.0,W,W,Gardner-Webb,15.718726036773923,15.5,W,W,Gardner-Webb
+401858463,Iowa,Michigan,Close,True,19,20,-1.0,4.5,4.675701935644845,4.5,PASS,L,PASS,-3.1996635682165078,-3.0,W,W,Iowa
+401864579,New Mexico,New Mexico State,Close,True,18,42,-24.0,-11.5,-16.57406272735253,-16.5,W,W,New Mexico,-21.796918324317335,-22.0,W,W,New Mexico
+401856700,Oklahoma,Georgia,Close,True,41,13,28.0,11.5,4.37877836728682,4.5,L,L,Oklahoma,9.803687829818848,10.0,L,L,Oklahoma
+401856699,Ole Miss,Florida,Close,True,52,28,24.0,4.0,-1.2702370161657939,-1.5,L,L,Ole Miss,1.7054265906063932,1.5,L,L,Ole Miss
+401866426,Robert Morris,Buffalo,Close,False,31,28,3.0,27.5,21.5977459010102,21.5,W,W,Robert Morris,21.262515992225232,21.5,W,W,Robert Morris
+401866428,Stonehill,Ohio,Close,False,35,7,28.0,32.5,30.732922816110786,30.5,W,W,Stonehill,33.65372284195213,33.5,L,L,Ohio
+401856815,TCU,UCF,Close,True,21,13,8.0,-3.5,0.11767394088548144,0.0,W,W,UCF,5.144601187812512,5.0,W,W,UCF
+401861970,UConn,Miami (OH),Close,True,24,21,3.0,2.5,0.1569850252166063,0.0,L,L,UConn,1.0510394914148904,1.0,L,L,UConn
+401856816,Utah,Iowa State,Close,True,17,31,-14.0,-7.5,-8.056315154386162,-8.0,W,W,Utah,-7.953173011943747,-8.0,W,W,Utah
+401858244,William & Mary,Duke,Close,False,62,7,55.0,43.5,46.61290438303742,46.5,W,W,Duke,50.26831788434607,50.5,W,W,Duke
+401856806,Houston,Georgia Southern,Close,True,28,42,-14.0,-17.5,-16.430092780985397,-16.5,W,W,Georgia Southern,-21.480557615196282,-21.5,L,L,Houston
+401862781,North Carolina Central,East Carolina,Close,False,42,9,33.0,37.5,37.64079693543629,37.5,PASS,L,PASS,35.5144901681703,35.5,W,W,North Carolina Central
+401856698,Vanderbilt,Auburn,Close,True,21,15,6.0,10.0,-0.15084258804838413,-0.0,W,W,Vanderbilt,-0.4345563864972277,-0.5,W,W,Vanderbilt
+401858464,Nebraska,Michigan State,Close,True,13,31,-18.0,-6.0,-3.9421416025743454,-4.0,L,L,Michigan State,-6.657989139130251,-6.5,W,W,Nebraska
+401862785,South Florida,Bowling Green,Close,True,6,14,-8.0,-17.5,-22.794643221660603,-23.0,L,L,South Florida,-26.68478350478758,-26.5,L,L,South Florida
+401858466,Wisconsin,Penn State,Close,True,20,24,-4.0,9.5,17.09541386146705,17.0,L,L,Penn State,17.121066237393855,17.0,L,L,Penn State
+401858239,Delaware,Virginia,Close,True,42,3,39.0,19.5,15.062858788558515,15.0,L,L,Delaware,16.64110642386415,16.5,L,L,Delaware
+401860892,Incarnate Word,Texas State,Close,False,63,10,53.0,30.5,28.266822088126766,28.5,L,L,Incarnate Word,26.34852519783822,26.5,L,L,Incarnate Word
+401869961,James Madison,Old Dominion,Close,True,20,46,-26.0,-7.0,-11.181229178762493,-11.0,W,W,James Madison,-16.424779077452968,-16.5,W,W,James Madison
+401867909,Long Island University,Florida International,Close,False,20,3,17.0,37.5,29.93455892914342,30.0,W,W,Long Island University,36.353252210672686,36.5,W,W,Long Island University
+401858238,Central Michigan,Miami,Close,True,52,3,49.0,41.5,31.66866512612269,31.5,L,L,Central Michigan,36.41198386688401,36.5,L,L,Central Michigan
+401862780,Louisiana,Charlotte,Close,True,7,34,-27.0,-9.5,-16.05824113092074,-16.0,W,W,Louisiana,-19.082356316587585,-19.0,W,W,Louisiana
+401856814,Kansas State,Cincinnati,Close,True,31,26,5.0,-6.0,-3.3506786633723067,-3.5,W,W,Cincinnati,-4.926302254108947,-5.0,W,W,Cincinnati
+401869931,Kennesaw State,Arkansas State,Close,True,17,14,3.0,6.5,0.4969983847128887,0.5,W,W,Kennesaw State,-5.379879884870832,-5.5,W,W,Kennesaw State
+401870745,Mercyhurst,Western Kentucky,Close,False,52,7,45.0,39.5,21.210794532290155,21.0,L,L,Mercyhurst,21.547522441529537,21.5,L,L,Mercyhurst
+401871048,Middle Tennessee,Jacksonville State,Close,True,23,13,10.0,7.0,4.86495484144352,5.0,L,L,Middle Tennessee,7.077716032854951,7.0,PASS,W,PASS
+401856881,Oklahoma State,West Virginia,Close,True,24,41,-17.0,1.5,12.996157397418102,13.0,L,L,West Virginia,11.491236050771192,11.5,L,L,West Virginia
+401862784,Southern Miss,Tulane,Close,True,24,21,3.0,17.5,20.64900213855924,20.5,L,L,Tulane,19.847467066331884,20.0,L,L,Tulane
+401856696,South Carolina,Alabama,Close,True,49,18,31.0,12.5,23.916956478359936,24.0,W,W,Alabama,24.977132950673287,25.0,W,W,Alabama
+401864572,App State,NC State,Close,True,41,31,10.0,12.5,9.254990073779965,9.5,W,W,App State,14.038020178681684,14.0,L,L,NC State
+401856804,Arizona,Washington State,Close,True,24,34,-10.0,-11.5,-12.941261362730863,-13.0,L,L,Arizona,-14.467682477410449,-14.5,L,L,Arizona
+401862783,Houston Christian,North Texas,Close,False,63,14,49.0,38.5,40.548591483907735,40.5,W,W,North Texas,42.12091548883819,42.0,W,W,North Texas
+401858469,Oregon,USC,Close,True,27,41,-14.0,-3.5,7.8338794645950784,8.0,L,L,USC,7.186469129742989,7.0,L,L,USC
+401856702,Texas A&M,LSU,Close,True,35,6,29.0,8.5,1.7708370245351404,2.0,L,L,Texas A&M,2.565264918572254,2.5,L,L,Texas A&M
+401860894,Troy,Utah State,Close,True,21,10,11.0,3.0,2.8320275611513637,3.0,PASS,L,PASS,-1.8355879482295023,-2.0,L,L,Troy
+401856703,Missouri,Mississippi State,Close,True,31,24,7.0,3.5,7.155636276556706,7.0,W,W,Mississippi State,6.821553764861363,7.0,W,W,Mississippi State
+401862782,Florida Atlantic,UL Monroe,Close,True,17,45,-28.0,-11.5,-13.86000486358239,-14.0,W,W,Florida Atlantic,-17.989256788467156,-18.0,W,W,Florida Atlantic
+401856697,Tulsa,Arkansas,Close,True,34,6,28.0,7.0,-0.7126405194614236,-0.5,L,L,Tulsa,-0.9369608894473131,-1.0,L,L,Tulsa
+401866429,Massachusetts,Sacramento State,Close,True,6,35,-29.0,-6.0,-5.861932776336641,-6.0,PASS,L,PASS,-9.367535060383307,-9.5,W,W,Massachusetts
+401858241,Missouri State,SMU,Close,True,34,24,10.0,30.5,22.797155378089514,23.0,W,W,Missouri State,24.109886844802965,24.0,W,W,Missouri State
+401860895,Oregon State,UTEP,Close,True,7,33,-26.0,-11.5,-10.224987733410735,-10.0,L,L,UTEP,-15.004135620908158,-15.0,W,W,Oregon State
+401860891,Rice,Fresno State,Close,True,38,24,14.0,12.5,7.773556826267246,8.0,L,L,Rice,13.027788595867897,13.0,W,W,Fresno State
+401864509,Air Force,Nevada,Latest,True,33,36,-3.0,-5.5,-1.3645343050959582,-1.5,W,W,Nevada,-1.685951529147495,-1.5,W,W,Nevada
+401858240,Georgia Tech,Stanford,Latest,True,34,27,7.0,-3.0,-6.857954839980053,-7.0,L,L,Georgia Tech,-7.234328029865601,-7.0,L,L,Georgia Tech
+401858470,Minnesota,Washington,Latest,True,24,27,-3.0,11.5,14.254931431615852,14.5,L,L,Washington,12.50245039595044,12.5,L,L,Washington

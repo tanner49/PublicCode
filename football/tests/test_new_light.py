@@ -51,6 +51,18 @@ class NewLightTests(unittest.TestCase):
             self.assertAlmostEqual(row['change'], 0)
         self.assertTrue(any(abs(r['historicalCorrectionEffect']) > .01 for r in result['teams']))
 
+    def test_margin_rule_change_is_separate_from_elsewhere_results(self):
+        rows = [game('1', 'A', 'B', 35, 0, 1)]
+        rows[0].update(HomeLineScores='14,14,7,0', AwayLineScores='0,0,0,0')
+        previous = build_snapshot(rows, 2026, 4, self.priors, 'old', prior_weight=.75)
+        current = build_snapshot(rows, 2026, 5, self.priors, 'new', prior_weight=.75, margin_model='halftime1.25')
+        result = analyze(previous, current, self.priors)
+        for row in result['teams']:
+            self.assertAlmostEqual(row['change'], 0)
+            self.assertAlmostEqual(row['historicalCorrectionEffect'], 0)
+            self.assertAlmostEqual(row['modelChangeEffect'], row['currentPublishedRating'] - row['previousPublishedRating'], places=5)
+        self.assertTrue(any(abs(r['modelChangeEffect']) > .1 for r in result['teams']))
+
 
 if __name__ == '__main__':
     unittest.main()

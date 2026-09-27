@@ -1,0 +1,1 @@
+Published Week 5 cap28 model with prior 0.75, archived before the authorized halftime1.25 production revision. The saved share directory includes all six graphics and both audit files. Source remains data/raw/2026/week-05.csv; the prior file is unchanged. Historical Week 4 remains published without alteration.

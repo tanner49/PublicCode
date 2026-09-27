@@ -25,10 +25,13 @@ def analyze(previous, current, priors):
     corrected_old = [g for g in games if g['Id'] in old_ids]
     new = [g for g in games if g['Id'] not in old_ids]
     weight = current['model']['priorWeight']
-    # Both sides of the comparison use this week's prior weight.
-    before_corrections = solve(old, priors, prior_weight=weight)
-    baseline = solve(corrected_old, priors, prior_weight=weight)
-    full = solve(games, priors, prior_weight=weight)
+    margin_model = current['model'].get('marginModel', 'cap28')
+    old_model = previous['model'].get('marginModel', 'cap28')
+    # Isolate prior, score-correction, and margin-model changes before new games.
+    before_corrections = solve(old, priors, prior_weight=weight, margin_model=old_model)
+    before_model_change = solve(corrected_old, priors, prior_weight=weight, margin_model=old_model)
+    baseline = solve(corrected_old, priors, prior_weight=weight, margin_model=margin_model)
+    full = solve(games, priors, prior_weight=weight, margin_model=margin_model)
     old_teams = {t['team']: t for t in previous['teams']}
     if any(abs(full[t['team']] - t['rating']) > 2e-6 for t in current['teams']):
         raise ValueError('Reconstructed Week 5 fit differs from published ratings')
@@ -38,7 +41,7 @@ def analyze(previous, current, priors):
         if team['classification'] != 'fbs' or name not in old_teams:
             continue
         elsewhere = [g for g in new if name not in (g['HomeTeam'], g['AwayTeam'])]
-        updated = solve(corrected_old + elsewhere, priors, prior_weight=weight) if elsewhere else baseline
+        updated = solve(corrected_old + elsewhere, priors, prior_weight=weight, margin_model=margin_model) if elsewhere else baseline
         effect = updated[name] - baseline[name]
         opponents = sorted({g['opponent'] for g in old_teams[name]['games']})
         evidence = sorted([{'team': opp, 'before': baseline[opp], 'after': updated[opp],
@@ -48,14 +51,15 @@ def analyze(previous, current, priors):
                      'baselineRating': baseline[name], 'revaluedRating': updated[name],
                      'currentPublishedRating': team['rating'],
                      'priorChange': before_corrections[name] - old_teams[name]['rating'],
-                     'historicalCorrectionEffect': baseline[name] - before_corrections[name],
+                     'historicalCorrectionEffect': before_model_change[name] - before_corrections[name],
+                     'modelChangeEffect': baseline[name] - before_model_change[name],
                      'ownGameEffect': full[name] - updated[name],
                      'excludedOwnGameIds': [g['Id'] for g in new if name in (g['HomeTeam'], g['AwayTeam'])],
                      'previousOpponents': evidence})
     return {'season': current['season'], 'week': current['week'], 'previousWeek': previous['week'],
             'priorWeight': weight, 'newGames': len(new), 'correctedHistoricalGameIds': corrections,
             'teams': sorted(rows, key=lambda r: (-abs(r['change']), r['team'])),
-            'method': 'FBS teams present in both weeks. Refit the previous games with any corrected scores and the current prior weight. Add all newly recorded games except the focal team\'s own games and refit. The difference is the signed change in rating points from results elsewhere. Sort by absolute change, including upgrades and downgrades. The focal team\'s previous results stay fixed. Prior-weight changes and historical score corrections are excluded. Game-count weights and the full schedule network are recomputed, so this includes indirect opponent effects and normalization, not only a simple average of opponent-rating changes. The own-game contribution is added last; this decomposition is order-dependent. Opponent changes shown are context, not additive contributions.'}
+            'method': 'FBS teams present in both weeks. Refit the previous games with any corrected scores and the current prior weight and margin rule. Add all newly recorded games except the focal team\'s own games and refit. The difference is the signed change in rating points from results elsewhere. Sort by absolute change, including upgrades and downgrades. The focal team\'s previous results stay fixed. Prior-weight changes, historical score corrections, and margin-rule changes are excluded. Game-count weights and the full schedule network are recomputed, so this includes indirect opponent effects and normalization, not only a simple average of opponent-rating changes. The own-game contribution is added last; this decomposition is order-dependent. Opponent changes shown are context, not additive contributions.'}
 
 
 def calculate_new_light(previous, current, cache):
