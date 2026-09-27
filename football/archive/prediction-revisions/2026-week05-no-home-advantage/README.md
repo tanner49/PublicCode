@@ -1,0 +1,1 @@
+Original Week 5 matchup graphic before adding the 3-point home adjustment. The immutable Week 5 JSON retains the original neutral-field homeEdge values. Apply prediction-policy.json only when displaying scheduled predictions from Week 5 onward. Rankings and historical Week 4 predictions are unchanged.

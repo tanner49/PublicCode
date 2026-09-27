@@ -88,7 +88,9 @@ def render_cards(snapshot, site):
         logo_badge(image, site, logos, game['away'], 108, y, 42)
         logo_badge(image, site, logos, game['home'], 157, y, 42)
         text(draw, (214, y), matchup, 35, bold=True, width=590)
-        margin = game['homeEdge']
+        policy = json.loads((Path(__file__).parent / 'prediction-policy.json').read_text())
+        active = (snapshot['season'], snapshot['week']) >= (policy['effectiveSeason'], policy['effectiveWeek'])
+        margin = game['homeEdge'] + (policy['homeAdvantage'] if active and not game['neutral'] else 0)
         points = math.floor(abs(margin) * 2 + .5) / 2
         line = "Pick’em" if not points else f"{game['home'] if margin > 0 else game['away']} −{points:.1f}"
         text(draw, (1158, y + 10), line, 29, LIME, True, width=330, anchor='rt')
@@ -173,6 +175,7 @@ def render_new_light(snapshot, previous, site, folder):
 
 def publish_share_cards(data_directory):
     site = data_directory.parent
+    (data_directory / 'prediction-policy.json').write_bytes((Path(__file__).parent / 'prediction-policy.json').read_bytes())
     manifest = json.loads((data_directory / 'index.json').read_text(encoding='utf-8'))
     entries = sorted(manifest['snapshots'], key=lambda s: (s['season'], s['week']))
     build_hash = hashlib.sha256()
@@ -193,6 +196,7 @@ def publish_share_cards(data_directory):
               '/assets/site.css': site.parent / 'assets/site.css'}
     for asset in assets.values():
         build_hash.update(asset.read_bytes())
+    build_hash.update((data_directory / 'prediction-policy.json').read_bytes())
     build_version = build_hash.hexdigest()[:12]
     relative = (folder / 'top10.png').relative_to(site).as_posix()
     version = hashlib.sha256((folder / 'top10.png').read_bytes()).hexdigest()[:12]
