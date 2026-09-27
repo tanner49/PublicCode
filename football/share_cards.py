@@ -149,17 +149,25 @@ def render_new_light(snapshot, previous, site, folder):
     logos = json.loads(index.read_text(encoding='utf-8')) if index.exists() else {}
     image, draw = canvas(snapshot, 'SEEN IN A NEW LIGHT.',
                          'The biggest upgrades and downgrades as past opponents prove themselves.')
-    for i, row in enumerate(result['teams'][:5]):
-        y = 211 + i * 64
-        color = LIME if row['change'] >= 0 else ORANGE
-        draw.line((42, y + 55, 1158, y + 55), fill='#334c3b')
-        text(draw, (45, y), f'{i+1:02}', 40, color, True)
-        logo_badge(image, site, logos, row['team'], 110, y)
-        text(draw, (174, y), row['team'], 35, bold=True, width=630)
-        evidence = row['previousOpponents'][0]
-        text(draw, (174, y + 38), f"Past opponent: {evidence['team']} ({evidence['change']:+.1f})", 23, MUTED, width=780)
-        text(draw, (1158, y + 2), f"{row['change']:+.2f}", 38, color, True, anchor='rt')
-        text(draw, (1158, y + 41), 'RATING POINTS', 15, MUTED, anchor='rt')
+    gainers = sorted((r for r in result['teams'] if r['change'] > 0), key=lambda r: (-r['change'], r['team']))[:5]
+    fallers = sorted((r for r in result['teams'] if r['change'] < 0), key=lambda r: (r['change'], r['team']))[:5]
+    draw.line((599, 209, 599, 547), fill='#47604e', width=1)
+    for x, heading, label, rows, color in [
+        (42, 'UNDER RATED', 'Biggest gainers', gainers, LIME),
+        (620, 'OVER RATED', 'Biggest fallers', fallers, ORANGE),
+    ]:
+        text(draw, (x, 207), heading, 33, color, True)
+        text(draw, (x + 538, 218), label, 21, MUTED, anchor='rt')
+        for i, row in enumerate(rows):
+            y = 260 + i * 58
+            draw.line((x, y + 49, x + 538, y + 49), fill='#334c3b')
+            text(draw, (x, y + 4), f'{i+1:02}', 30, color, True)
+            logo_badge(image, site, logos, row['team'], x + 40, y, 40)
+            text(draw, (x + 93, y + 1), row['team'], 29, bold=True, width=322)
+            evidence = row['previousOpponents'][0]
+            text(draw, (x + 93, y + 31), f"Past opponent: {evidence['team']}", 19, MUTED, width=322)
+            text(draw, (x + 538, y + 3), f"{row['change']:+.2f}", 30, color, True, anchor='rt')
+            text(draw, (x + 538, y + 34), 'RATING PTS', 13, MUTED, anchor='rt')
     image.save(folder / 'newlight.png', optimize=True)
 
 
