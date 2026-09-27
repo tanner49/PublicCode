@@ -1,0 +1,149 @@
+{
+  "all_supplied_lines": {
+    "games": 65,
+    "wins": 31,
+    "losses": 32,
+    "pushes": 0,
+    "noEdge": 2,
+    "winPct": 49.21,
+    "modelMAE": 13.046,
+    "marketMAE": 11.685
+  },
+  "confirmed_close": {
+    "games": 62,
+    "wins": 30,
+    "losses": 30,
+    "pushes": 0,
+    "noEdge": 2,
+    "winPct": 50.0,
+    "modelMAE": 13.129,
+    "marketMAE": 11.815
+  },
+  "latest_not_confirmed_close": {
+    "games": 3,
+    "wins": 1,
+    "losses": 2,
+    "pushes": 0,
+    "noEdge": 0,
+    "winPct": 33.33,
+    "modelMAE": 11.333,
+    "marketMAE": 9.0
+  },
+  "fbs_vs_fbs_close": {
+    "games": 50,
+    "wins": 23,
+    "losses": 25,
+    "pushes": 0,
+    "noEdge": 2,
+    "winPct": 47.92,
+    "modelMAE": 13.29,
+    "marketMAE": 11.61
+  },
+  "fbs_vs_fcs_close": {
+    "games": 12,
+    "wins": 7,
+    "losses": 5,
+    "pushes": 0,
+    "noEdge": 0,
+    "winPct": 58.33,
+    "modelMAE": 12.458,
+    "marketMAE": 12.667
+  },
+  "close_edge_0_to_3": {
+    "games": 20,
+    "wins": 10,
+    "losses": 8,
+    "pushes": 0,
+    "noEdge": 2,
+    "winPct": 55.56,
+    "modelMAE": 11.175,
+    "marketMAE": 11.25
+  },
+  "close_edge_3_to_7": {
+    "games": 19,
+    "wins": 8,
+    "losses": 11,
+    "pushes": 0,
+    "noEdge": 0,
+    "winPct": 42.11,
+    "modelMAE": 9.342,
+    "marketMAE": 7.5
+  },
+  "close_edge_7_to_1000": {
+    "games": 23,
+    "wins": 12,
+    "losses": 11,
+    "pushes": 0,
+    "noEdge": 0,
+    "winPct": 52.17,
+    "modelMAE": 17.957,
+    "marketMAE": 15.87
+  },
+  "sourceHashes": {
+    "data\\raw\\2026\\CFB_closing_spreads_2026-09-26.xlsx": "12019ba4a579994caf1fa0c1ce7e3de242f419ac7ecf71f9f1b5bd20e79fec51",
+    "data\\generated\\2026\\week-04.json": "b5019ec8db786d9aa4c3c0211136b4276ad54804826da770047d2a2251b713ca",
+    "data\\generated\\2026\\week-05.json": "7144f9721034ed1f3bfec481be4eb7e10b170f5d4f172354150870a09ef41694"
+  },
+  "uncoveredFBSFixtures": [
+    {
+      "id": "401869941",
+      "home": "Coastal Carolina",
+      "away": "Liberty",
+      "date": "2026-09-24T23:30:00.000Z",
+      "neutral": false,
+      "classification": "fbs",
+      "awayClassification": "fbs",
+      "homeEdge": -3.74
+    },
+    {
+      "id": "401862779",
+      "home": "Temple",
+      "away": "Army",
+      "date": "2026-09-25T20:00:00.000Z",
+      "neutral": false,
+      "classification": "fbs",
+      "awayClassification": "fbs",
+      "homeEdge": -4.2
+    },
+    {
+      "id": "401858468",
+      "home": "Rutgers",
+      "away": "Howard",
+      "date": "2026-09-25T23:00:00.000Z",
+      "neutral": false,
+      "classification": "fbs",
+      "awayClassification": "fcs",
+      "homeEdge": 17.11
+    },
+    {
+      "id": "401862778",
+      "home": "UAB",
+      "away": "Navy",
+      "date": "2026-09-25T23:00:00.000Z",
+      "neutral": false,
+      "classification": "fbs",
+      "awayClassification": "fbs",
+      "homeEdge": -9.94
+    },
+    {
+      "id": "401858461",
+      "home": "Indiana",
+      "away": "Northwestern",
+      "date": "2026-09-26T00:00:00.000Z",
+      "neutral": false,
+      "classification": "fbs",
+      "awayClassification": "fbs",
+      "homeEdge": 11.29
+    },
+    {
+      "id": "401858234",
+      "home": "California",
+      "away": "Clemson",
+      "date": "2026-09-26T02:30:00.000Z",
+      "neutral": false,
+      "classification": "fbs",
+      "awayClassification": "fbs",
+      "homeEdge": -9.82
+    }
+  ]
+}

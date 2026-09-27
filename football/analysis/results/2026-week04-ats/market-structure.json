@@ -1,0 +1,296 @@
+{
+  "all_original": {
+    "n": 62,
+    "homeAdjustment": 0,
+    "correlationWithMarket": 0.954087697782411,
+    "meanAbsoluteDisagreement": 5.721129032258064,
+    "disagreementAtLeast7": 23,
+    "samePredictedWinner": 55,
+    "marketSlope": 0.9021861246761087,
+    "marketSlopeBootstrap95": [
+      0.8166097626872536,
+      0.9993188436621767
+    ],
+    "homeOffset": -3.479336512781566,
+    "extraFCSFavoriteCompression": -1.126759350450391,
+    "structuralDisagreementR2": 0.149522387085269,
+    "structuralDisagreementLOOR2": 0.05500972855837538,
+    "remainingDisagreementSD": 5.158039777105172,
+    "disagreementVsMarketErrorCorrelation": 0.009138263638773157,
+    "uniqueDisagreementOutcomeCoefficient": 0.11988351764001244,
+    "uniqueCoefficientBootstrap95": [
+      -0.6104120922790108,
+      0.9110796104976888
+    ],
+    "modelMAE": 13.121774193548385,
+    "marketMAE": 11.814516129032258,
+    "favoriteMarginBins": [
+      {
+        "spreadRange": [
+          0,
+          7
+        ],
+        "games": 17,
+        "marketFavoriteMargin": 3.8823529411764706,
+        "modelFavoriteMargin": 3.1317647058823526,
+        "difference": -0.7505882352941177
+      },
+      {
+        "spreadRange": [
+          7,
+          14
+        ],
+        "games": 21,
+        "marketFavoriteMargin": 10.071428571428571,
+        "modelFavoriteMargin": 9.35857142857143,
+        "difference": -0.7128571428571426
+      },
+      {
+        "spreadRange": [
+          14,
+          1000
+        ],
+        "games": 24,
+        "marketFavoriteMargin": 29.875,
+        "modelFavoriteMargin": 23.708333333333332,
+        "difference": -6.166666666666667
+      }
+    ],
+    "shuffledPicks": {
+      "observedWins": 30,
+      "noPicks": 2,
+      "meanRandomizedWins": 30.4744,
+      "randomizedWins95": [
+        24.0,
+        37.0
+      ],
+      "fractionAtLeastObserved": 0.6107,
+      "stratumSizes": [
+        17,
+        21,
+        12,
+        12
+      ]
+    }
+  },
+  "all_home3": {
+    "n": 62,
+    "homeAdjustment": 3,
+    "correlationWithMarket": 0.954087697782411,
+    "meanAbsoluteDisagreement": 4.529838709677419,
+    "disagreementAtLeast7": 14,
+    "samePredictedWinner": 58,
+    "marketSlope": 0.9021861246761088,
+    "marketSlopeBootstrap95": [
+      0.8166097626872537,
+      0.9993188436621766
+    ],
+    "homeOffset": -0.4793365127815653,
+    "extraFCSFavoriteCompression": -1.1267593504503914,
+    "structuralDisagreementR2": 0.14952238708526877,
+    "structuralDisagreementLOOR2": 0.05500972855837527,
+    "remainingDisagreementSD": 5.158039777105173,
+    "disagreementVsMarketErrorCorrelation": 0.009138263638773151,
+    "uniqueDisagreementOutcomeCoefficient": 0.11988351764001239,
+    "uniqueCoefficientBootstrap95": [
+      -0.6104120922790108,
+      0.9110796104976939
+    ],
+    "modelMAE": 12.587580645161289,
+    "marketMAE": 11.814516129032258,
+    "favoriteMarginBins": [
+      {
+        "spreadRange": [
+          0,
+          7
+        ],
+        "games": 17,
+        "marketFavoriteMargin": 3.8823529411764706,
+        "modelFavoriteMargin": 3.308235294117647,
+        "difference": -0.5741176470588236
+      },
+      {
+        "spreadRange": [
+          7,
+          14
+        ],
+        "games": 21,
+        "marketFavoriteMargin": 10.071428571428571,
+        "modelFavoriteMargin": 9.78714285714286,
+        "difference": -0.28428571428571414
+      },
+      {
+        "spreadRange": [
+          14,
+          1000
+        ],
+        "games": 24,
+        "marketFavoriteMargin": 29.875,
+        "modelFavoriteMargin": 25.708333333333332,
+        "difference": -4.166666666666667
+      }
+    ],
+    "shuffledPicks": {
+      "observedWins": 31,
+      "noPicks": 2,
+      "meanRandomizedWins": 30.4279,
+      "randomizedWins95": [
+        24.0,
+        37.0
+      ],
+      "fractionAtLeastObserved": 0.4864,
+      "stratumSizes": [
+        17,
+        21,
+        12,
+        12
+      ]
+    }
+  },
+  "fbs_only_original": {
+    "n": 50,
+    "homeAdjustment": 0,
+    "correlationWithMarket": 0.9281873340615487,
+    "meanAbsoluteDisagreement": 5.0874,
+    "disagreementAtLeast7": 17,
+    "samePredictedWinner": 43,
+    "marketSlope": 0.8793245547841436,
+    "marketSlopeBootstrap95": [
+      0.7916927576176365,
+      0.9776033669542485
+    ],
+    "homeOffset": -3.410980418804589,
+    "extraFCSFavoriteCompression": null,
+    "structuralDisagreementR2": 0.10489059273152779,
+    "structuralDisagreementLOOR2": 0.034841136445144194,
+    "remainingDisagreementSD": 4.896965608288233,
+    "disagreementVsMarketErrorCorrelation": -0.10230645340215842,
+    "uniqueDisagreementOutcomeCoefficient": -0.1135873570854288,
+    "uniqueCoefficientBootstrap95": [
+      -1.0265146020595095,
+      0.8308083091115954
+    ],
+    "modelMAE": 13.2906,
+    "marketMAE": 11.61,
+    "favoriteMarginBins": [
+      {
+        "spreadRange": [
+          0,
+          7
+        ],
+        "games": 17,
+        "marketFavoriteMargin": 3.8823529411764706,
+        "modelFavoriteMargin": 3.1317647058823526,
+        "difference": -0.7505882352941177
+      },
+      {
+        "spreadRange": [
+          7,
+          14
+        ],
+        "games": 21,
+        "marketFavoriteMargin": 10.071428571428571,
+        "modelFavoriteMargin": 9.35857142857143,
+        "difference": -0.7128571428571426
+      },
+      {
+        "spreadRange": [
+          14,
+          1000
+        ],
+        "games": 12,
+        "marketFavoriteMargin": 23.416666666666668,
+        "modelFavoriteMargin": 19.243333333333336,
+        "difference": -4.173333333333333
+      }
+    ],
+    "shuffledPicks": {
+      "observedWins": 23,
+      "noPicks": 2,
+      "meanRandomizedWins": 24.5554,
+      "randomizedWins95": [
+        18.0,
+        31.0
+      ],
+      "fractionAtLeastObserved": 0.7381,
+      "stratumSizes": [
+        17,
+        21,
+        12
+      ]
+    }
+  },
+  "fbs_only_home3": {
+    "n": 50,
+    "homeAdjustment": 3,
+    "correlationWithMarket": 0.9281873340615487,
+    "meanAbsoluteDisagreement": 4.145,
+    "disagreementAtLeast7": 9,
+    "samePredictedWinner": 46,
+    "marketSlope": 0.8793245547841436,
+    "marketSlopeBootstrap95": [
+      0.7916927576176365,
+      0.9776033669542484
+    ],
+    "homeOffset": -0.41098041880458935,
+    "extraFCSFavoriteCompression": null,
+    "structuralDisagreementR2": 0.10489059273152801,
+    "structuralDisagreementLOOR2": 0.034841136445144416,
+    "remainingDisagreementSD": 4.896965608288233,
+    "disagreementVsMarketErrorCorrelation": -0.10230645340215841,
+    "uniqueDisagreementOutcomeCoefficient": -0.11358735708542896,
+    "uniqueCoefficientBootstrap95": [
+      -1.02651460205951,
+      0.8308083091115954
+    ],
+    "modelMAE": 12.6282,
+    "marketMAE": 11.61,
+    "favoriteMarginBins": [
+      {
+        "spreadRange": [
+          0,
+          7
+        ],
+        "games": 17,
+        "marketFavoriteMargin": 3.8823529411764706,
+        "modelFavoriteMargin": 3.308235294117647,
+        "difference": -0.5741176470588236
+      },
+      {
+        "spreadRange": [
+          7,
+          14
+        ],
+        "games": 21,
+        "marketFavoriteMargin": 10.071428571428571,
+        "modelFavoriteMargin": 9.78714285714286,
+        "difference": -0.28428571428571414
+      },
+      {
+        "spreadRange": [
+          14,
+          1000
+        ],
+        "games": 12,
+        "marketFavoriteMargin": 23.416666666666668,
+        "modelFavoriteMargin": 20.243333333333336,
+        "difference": -3.1733333333333333
+      }
+    ],
+    "shuffledPicks": {
+      "observedWins": 23,
+      "noPicks": 2,
+      "meanRandomizedWins": 24.5362,
+      "randomizedWins95": [
+        18.0,
+        31.0
+      ],
+      "fractionAtLeastObserved": 0.7405,
+      "stratumSizes": [
+        17,
+        21,
+        12
+      ]
+    }
+  }
+}
