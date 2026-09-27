@@ -21,7 +21,7 @@ python ratings.py --input data/raw/2026/week-04.csv --season 2026 --week 4 --reb
 For Week 5, save a cumulative export as `week-05.csv` and run:
 
 ```powershell
-python ratings.py --input data/raw/2026/week-05.csv --season 2026 --week 5
+python ratings.py --input data/raw/2026/week-05.csv --season 2026 --week 5 --prior-weight 0.75
 ```
 
 Week 4 means **completed regular-season games through Week 3**. Future fixtures and missing scores never enter the fit. Completed games with missing scores are excluded and their IDs recorded in the snapshot and printed by the command. The export must contain the full season to date, not just the most recent week. `Completed` accepts true/false or 1/0. Invalid nonempty scores and duplicate completed game IDs stop the build.
@@ -32,7 +32,7 @@ The command writes JSON and CSV snapshots locally and copies them to the sibling
 
 Each game supplies `rating(home) - rating(away) = sign(margin) * (min(abs(margin), 28) + 2.75)`. Ties encode as zero. The old asymmetric cap is fixed for both current ratings and regenerated 2025 priors.
 
-Equations are weighted by `sqrt(2 / (home games + away games + 2 * prior_weight))`. Prior-season ratings act as pseudo-games against zero, with `prior_weight = 1.0` (the original notebook's approximate one-game setting) and the same signed encoding, capped at 100. Their row weight is `sqrt(2 * prior_weight / (team games + prior_weight))`. This normalization treats the zero-rated baseline as having zero games, so the prior is not exactly equal in influence to any particular real game. A sum-to-zero constraint anchors the least-squares solution. The 2026 prior weight was restored to 1.0 at the model owner's request. Rebuilding the 2025 prior CSV still uses the archived final notebook's 0.00005 weight on 2024 ratings, so this change does not retroactively alter the 2025 baseline. No home-field adjustment is applied.
+Equations are weighted by `sqrt(2 / (home games + away games + 2 * prior_weight))`. Prior-season ratings act as pseudo-games against zero, with `prior_weight = 1.0` (the original notebook's approximate one-game setting) and the same signed encoding, capped at 100. Their row weight is `sqrt(2 * prior_weight / (team games + prior_weight))`. This normalization treats the zero-rated baseline as having zero games, so the prior is not exactly equal in influence to any particular real game. A sum-to-zero constraint anchors the least-squares solution. The Week 4 prior weight was 1.0; Week 5 reduces it to 0.75 without changing Week 4. Rebuilding the 2025 prior CSV still uses the archived final notebook's 0.00005 weight on 2024 ratings, so this change does not retroactively alter the 2025 baseline. No home-field adjustment is applied.
 
 All supplied opponents participate in the fit. The site defaults to FBS; division ranks are calculated within each classification and conference filters retain those ranks. Schedule strength is the mean current rating of played opponents. Per the model owner's choice, rating differences are treated as predicted point margins: excess blowout points are assumed to have no additional predictive value. The website displays the favorite minus the absolute margin, rounded to the nearest half-point (halfway values away from zero), with no home-field adjustment. A zero margin is a pick'em. These are model predictions, not sportsbook prices; no moneyline or win probability is inferred.
 
@@ -50,13 +50,13 @@ Run verification with `python -m unittest discover -s tests`.
 
 ## Prior implementation history
 
-The archived `cbd.ipynb` calls these "Week 0" pseudo-games against a zero-rated baseline and comments `1.0 ~ one game`. Git commit `32c71d8` used weight 2; `c25e1c0` used 0.5; the preserved local notebook used 0.00005. The 2026 model now uses 1.0. This is an extra least-squares equation per team, not just an initial solver guess. Its relative influence diminishes as actual games accumulate. The prior target retains the original signed encoding (including the winner bonus), rather than inserting the previous rating completely unchanged.
+The archived `cbd.ipynb` calls these "Week 0" pseudo-games against a zero-rated baseline and comments `1.0 ~ one game`. Git commit `32c71d8` used weight 2; `c25e1c0` used 0.5; the preserved local notebook used 0.00005. Week 4 used 1.0; Week 5 uses 0.75. Set `--prior-weight` explicitly for each new publication; the CLI default remains 1.0 for backward compatibility. This is an extra least-squares equation per team, not just an initial solver guess. Its relative influence diminishes as actual games accumulate. The prior target retains the original signed encoding (including the winner bonus), rather than inserting the previous rating completely unchanged.
 
 The superseded local Week 4 snapshot with weight 0.00005 is preserved in `archive/model-revisions/2026-week04-prior-0.00005/`. It was replaced before deployment and is not presented as a different week on the site.
 
 ## Social graphics
 
-Weekly updates also regenerate 1200x630 PNG graphics (FBS Top 10, highest-combined-rating upcoming FBS matchups, and toughest schedules played) in the website's `tanner-ratings/share/SEASON/week-NN/` directory. The page offers PNG downloads and embeds the latest Top 10 in static Open Graph/Twitter metadata for link previews. Week selection changes the on-page graphics; link previews always represent the latest published week. Platforms may cache previews.
+Weekly updates generate the latest 1200x630 PNG graphics while retaining older published graphics (FBS Top 10, highest-combined-rating upcoming FBS matchups, and toughest schedules played) in the website's `tanner-ratings/share/SEASON/week-NN/` directory. The page offers PNG downloads and embeds the latest Top 10 in static Open Graph/Twitter metadata for link previews. Week selection changes the on-page graphics; link previews always represent the latest published week. Platforms may cache previews.
 
 To regenerate graphics without recalculating ratings, run `python share_cards.py`. Use `--site PATH` for an alternative website data directory. The bundled Barlow Condensed fonts are distributed under their included SIL Open Font License.
 
@@ -74,3 +74,13 @@ Run `python team_logos.py` to cache logos for all FBS teams in the published sna
 The indices are not opposites, not calibrated predictions, and not evidence of overrating. Definitions were explored on the current snapshot, not established via an out-of-sample test. No team-name exceptions are used. Cards include scope, raw index values, records, and game evidence. Exact reconstruction of the published fit is checked before performing leave-one-game-out fits; a changed prior file fails rather than silently using a different baseline.
 
 The graphics publisher also versions the ratings page CSS, JavaScript, and graphic URLs using a content hash. Run `python share_cards.py` after changing those assets and before publishing, so returning visitors fetch a consistent release. JSON requests revalidate cached data.
+
+## Week 5 and historical preservation
+
+Week 5 uses the cumulative `data/raw/2026/week-05.csv` and `--prior-weight 0.75`. Each JSON snapshot records its own model parameters, source hash, prior hash, game results, ratings, ranks, and upcoming predicted lines. Published JSON cannot be replaced with different contents. Earlier CSVs, graphics, and graphic audit files are left untouched during new-week publishing; the week selector reads the original snapshots. Weekly movement compares the actual published rankings, including changes in prior weight. The selected week's method text displays its own prior weight.
+
+## Seen in a New Light
+
+Starting with Week 5, `new_light.py` isolates the revaluation of each FBS team's existing resume. Both comparison fits use the current week's prior weight and corrected historical scores. The second fit adds new results from the rest of the schedule but excludes that team's own new games. Sort the signed rating-point differences by absolute magnitude, showing the five largest upgrades or downgrades. An idle team can qualify. Historical-score corrections and the prior reduction are reported separately and do not contribute to this graphic.
+
+The audit `share/SEASON/week-NN/new-light.json` includes every FBS team's prior effect, historical correction effect, elsewhere-results effect, own-game effect, and past-opponent rating changes. These components sum to the published rating change (within rounding); the own-game effect is applied last, so this is an explicit order-dependent decomposition, not a unique causal allocation. Game-count weights and the entire network are refitted. The past opponent shown on each card is the one with the largest absolute change in the counterfactual fit, as context rather than an additive attribution. No Week 3 snapshot is invented to backfill this graphic for Week 4.

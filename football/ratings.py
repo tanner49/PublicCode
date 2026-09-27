@@ -83,9 +83,9 @@ def solve(games, priors, prior_weight=PRIOR_WEIGHT):
     return dict(zip(teams, map(float, ratings)))
 
 
-def build_snapshot(rows, season, week, priors, source_hash):
+def build_snapshot(rows, season, week, priors, source_hash, prior_weight=PRIOR_WEIGHT):
     games = select_games(rows, season, week - 1)
-    ratings = solve(games, priors)
+    ratings = solve(games, priors, prior_weight=prior_weight)
     teams = {name: {"team": name, "rating": round(rating, 6), "classification": "unknown", "conference": "Independent", "wins": 0, "losses": 0, "ties": 0, "games": []} for name, rating in ratings.items()}
     for game in sorted(games, key=lambda g: (g["StartDate"], g["Id"])):
         for side, opponent in (("Home", "Away"), ("Away", "Home")):
@@ -110,7 +110,7 @@ def build_snapshot(rows, season, week, priors, source_hash):
             home, away = row["HomeTeam"], row["AwayTeam"]
             fixtures.append({"id": row["Id"], "home": home, "away": away, "date": row["StartDate"], "neutral": truth(row.get("NeutralSite")), "classification": row.get("HomeClassification", "unknown"), "awayClassification": row.get("AwayClassification", "unknown"), "homeEdge": round(ratings[home] - ratings[away], 2) if home in ratings and away in ratings else None})
     excluded = [r["Id"] for r in rows if int(r["Season"]) == season and int(r["Week"]) < week and r["SeasonType"] == "regular" and truth(r["Completed"]) and (not r["HomePoints"].strip() or not r["AwayPoints"].strip())]
-    return {"season": season, "week": week, "throughWeek": week - 1, "gameCount": len(games), "excludedMissingScores": excluded, "latestGameDate": max(g["StartDate"] for g in games), "sourceSha256": source_hash, "model": {"marginCap": 28, "winnerBonus": BONUS, "priorWeight": PRIOR_WEIGHT, "priorSeason": season - 1, "homeAdvantage": 0}, "teams": ordered, "fixtures": sorted(fixtures, key=lambda g: (g["date"], g["id"]))}
+    return {"season": season, "week": week, "throughWeek": week - 1, "gameCount": len(games), "excludedMissingScores": excluded, "latestGameDate": max(g["StartDate"] for g in games), "sourceSha256": source_hash, "model": {"marginCap": 28, "winnerBonus": BONUS, "priorWeight": prior_weight, "priorSeason": season - 1, "homeAdvantage": 0}, "teams": ordered, "fixtures": sorted(fixtures, key=lambda g: (g["date"], g["id"]))}
 
 
 def write_json(path, value):
@@ -123,10 +123,13 @@ def main():
     parser.add_argument("--input", type=Path, required=True)
     parser.add_argument("--season", type=int, required=True)
     parser.add_argument("--week", type=int, required=True, help="Publication week; includes completed games through week minus one")
+    parser.add_argument("--prior-weight", type=float, default=PRIOR_WEIGHT, help="Prior-game weight for this snapshot only")
     parser.add_argument("--priors", type=Path, help="Prior-season CSV with Team and MasseyRating")
     parser.add_argument("--rebuild-2025-priors", action="store_true", help="Regenerate 2025 priors from archived data with symmetric margin caps")
     parser.add_argument("--site", type=Path, default=ROOT.parents[1] / "tanner49.github.io" / "tanner-ratings" / "data")
     args = parser.parse_args()
+    if not math.isfinite(args.prior_weight) or args.prior_weight < 0:
+        parser.error("Prior weight must be finite and nonnegative")
     if args.week < 2:
         parser.error("Publication week must be at least 2")
     if args.rebuild_2025_priors:
@@ -143,7 +146,14 @@ def main():
     priors = {r["Team"]: float(r["MasseyRating"]) for r in read_csv(prior_path)}
     if not all(math.isfinite(value) for value in priors.values()):
         raise ValueError("Prior ratings must be finite")
-    snapshot = build_snapshot(read_csv(args.input), args.season, args.week, priors, hashlib.sha256(args.input.read_bytes()).hexdigest())
+    snapshot = build_snapshot(read_csv(args.input), args.season, args.week, priors, hashlib.sha256(args.input.read_bytes()).hexdigest(), prior_weight=args.prior_weight)
+    previous_path = args.site / f"{args.season}/week-{args.week-1:02}.json"
+    if previous_path.exists():
+        previous = json.loads(previous_path.read_text(encoding="utf-8"))
+        old_ids = {g["id"] for t in previous["teams"] for g in t["games"]}
+        new_ids = {g["id"] for t in snapshot["teams"] for g in t["games"]}
+        if missing := old_ids - new_ids:
+            raise ValueError(f"Export omits {len(missing)} previously published games; supply the full season export before publishing.")
     snapshot["priorSha256"] = hashlib.sha256(prior_path.read_bytes()).hexdigest()
     filename = f"{args.season}/week-{args.week:02}.json"
     # An existing published week is immutable unless the content is identical.

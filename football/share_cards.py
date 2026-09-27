@@ -142,6 +142,27 @@ def render_profile_cards(snapshot, folder, site, logos):
         image.save(folder / f'{kind}.png', optimize=True)
 
 
+def render_new_light(snapshot, previous, site, folder):
+    from new_light import calculate_new_light
+    result = calculate_new_light(previous, snapshot, folder / 'new-light.json')
+    index = site / 'logos/index.json'
+    logos = json.loads(index.read_text(encoding='utf-8')) if index.exists() else {}
+    image, draw = canvas(snapshot, 'SEEN IN A NEW LIGHT.',
+                         'The biggest upgrades and downgrades as past opponents prove themselves.')
+    for i, row in enumerate(result['teams'][:5]):
+        y = 211 + i * 64
+        color = LIME if row['change'] >= 0 else ORANGE
+        draw.line((42, y + 55, 1158, y + 55), fill='#334c3b')
+        text(draw, (45, y), f'{i+1:02}', 40, color, True)
+        logo_badge(image, site, logos, row['team'], 110, y)
+        text(draw, (174, y), row['team'], 35, bold=True, width=630)
+        evidence = row['previousOpponents'][0]
+        text(draw, (174, y + 38), f"Past opponent: {evidence['team']} ({evidence['change']:+.1f})", 23, MUTED, width=780)
+        text(draw, (1158, y + 2), f"{row['change']:+.2f}", 38, color, True, anchor='rt')
+        text(draw, (1158, y + 41), 'RATING POINTS', 15, MUTED, anchor='rt')
+    image.save(folder / 'newlight.png', optimize=True)
+
+
 def publish_share_cards(data_directory):
     site = data_directory.parent
     manifest = json.loads((data_directory / 'index.json').read_text(encoding='utf-8'))
@@ -149,7 +170,13 @@ def publish_share_cards(data_directory):
     build_hash = hashlib.sha256()
     for entry in entries:
         snapshot = json.loads((data_directory / entry['path']).read_text(encoding='utf-8'))
-        folder = render_cards(snapshot, site)
+        folder = site / 'share' / str(snapshot['season']) / f"week-{snapshot['week']:02}"
+        # Older published graphics and audit files are part of the historical record.
+        if entry == entries[-1] or not folder.exists():
+            folder = render_cards(snapshot, site)
+            previous_path = data_directory / str(snapshot['season']) / f"week-{snapshot['week']-1:02}.json"
+            if previous_path.exists():
+                render_new_light(snapshot, json.loads(previous_path.read_text(encoding='utf-8')), site, folder)
         for graphic in sorted(folder.glob('*.png')):
             build_hash.update(graphic.read_bytes())
     if not entries:
