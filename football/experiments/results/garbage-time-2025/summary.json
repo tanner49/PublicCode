@@ -1,0 +1,153 @@
+{
+  "inputSha256": "411f998aa2246c6ff68802b83afa251b7daaac2f68080be4494a099ad924be1a",
+  "priorSha256": "995f5c8e7c0c17f244dbc69251079f5738f8073af2ab4ce45e682cb20d924f0d",
+  "season": 2025,
+  "weeksAvailable": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "latestGame": "2025-11-30T04:00:00.000Z",
+  "scoredGames": 3699,
+  "validQuarterGames": 3673,
+  "validQuarterFBSvsFBS": 752,
+  "FBSvsFBSGames": 752,
+  "changedGames": 88,
+  "changedFBSvsFBSGames": 19,
+  "skippedUnratedGames": 191,
+  "timeExclusions": [],
+  "modelPriorWeight": 1.0,
+  "results": {
+    "FBS vs FBS, weeks 4-14": {
+      "baseline": {
+        "games": 607,
+        "mae": 12.681128994936081,
+        "rmse": 16.03394450030963,
+        "bias": -3.616195822005996,
+        "correct": 439,
+        "accuracy": 0.7232289950576606
+      },
+      "candidate": {
+        "games": 607,
+        "mae": 12.6774952480865,
+        "rmse": 16.03172437622159,
+        "bias": -3.6142000783576695,
+        "correct": 437,
+        "accuracy": 0.7199341021416804
+      },
+      "maeChange": -0.003633746849581781,
+      "maeChangeWeekBootstrap95": [
+        -0.025893104946694768,
+        0.018874692679192454
+      ],
+      "changedPicks": 4
+    },
+    "FBS vs FBS, weeks 2-14": {
+      "baseline": {
+        "games": 704,
+        "mae": 13.136404729265472,
+        "rmse": 16.78474075856458,
+        "bias": -4.451585709994062,
+        "correct": 504,
+        "accuracy": 0.7159090909090909
+      },
+      "candidate": {
+        "games": 704,
+        "mae": 13.132743473494088,
+        "rmse": 16.781983421054356,
+        "bias": -4.449266518330701,
+        "correct": 502,
+        "accuracy": 0.7130681818181818
+      },
+      "maeChange": -0.003661255771383111,
+      "maeChangeWeekBootstrap95": [
+        -0.022487071570509005,
+        0.015521910765637187
+      ],
+      "changedPicks": 4
+    },
+    "Any FBS team, weeks 4-14": {
+      "baseline": {
+        "games": 629,
+        "mae": 13.076390330347039,
+        "rmse": 16.499606979817074,
+        "bias": -4.328513643592571,
+        "correct": 458,
+        "accuracy": 0.7281399046104928
+      },
+      "candidate": {
+        "games": 629,
+        "mae": 13.08244479673063,
+        "rmse": 16.519683940442093,
+        "bias": -4.335824212510686,
+        "correct": 456,
+        "accuracy": 0.724960254372019
+      },
+      "maeChange": 0.006054466383590348,
+      "maeChangeWeekBootstrap95": [
+        -0.014055896828997357,
+        0.026994801484264905
+      ],
+      "changedPicks": 4
+    },
+    "All divisions, weeks 4-14": {
+      "baseline": {
+        "games": 2878,
+        "mae": 14.090904067174232,
+        "rmse": 17.776103284206812,
+        "bias": -2.5526411531250437,
+        "correct": 2180,
+        "accuracy": 0.7574704656011119
+      },
+      "candidate": {
+        "games": 2878,
+        "mae": 14.079071203287782,
+        "rmse": 17.766213795234545,
+        "bias": -2.5528391178792837,
+        "correct": 2181,
+        "accuracy": 0.7578179291174427
+      },
+      "maeChange": -0.01183286388645051,
+      "maeChangeWeekBootstrap95": [
+        -0.02444667437006419,
+        0.003886454917300055
+      ],
+      "changedPicks": 15
+    },
+    "All divisions, weeks 2-14": {
+      "baseline": {
+        "games": 3312,
+        "mae": 14.494932573245885,
+        "rmse": 18.336950727661712,
+        "bias": -3.377656702463844,
+        "correct": 2500,
+        "accuracy": 0.7548309178743962
+      },
+      "candidate": {
+        "games": 3312,
+        "mae": 14.484398223932612,
+        "rmse": 18.327639604597728,
+        "bias": -3.376517652102785,
+        "correct": 2501,
+        "accuracy": 0.7551328502415459
+      },
+      "maeChange": -0.010534349313272321,
+      "maeChangeWeekBootstrap95": [
+        -0.0219346603481486,
+        0.0028056304819723374
+      ],
+      "changedPicks": 15
+    }
+  }
+}

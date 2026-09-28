@@ -1,0 +1,106 @@
+{
+  "home3_all": {
+    "gamesWithPicks": 60,
+    "underdogPicks": 39,
+    "fairCoinTwoSidedP": 0.027340133868077935,
+    "largeSpread14Plus": {
+      "games": 24,
+      "underdogPicks": 20,
+      "wins": 13,
+      "losses": 11
+    },
+    "smallerSpread": {
+      "games": 36,
+      "underdogPicks": 19,
+      "wins": 18,
+      "losses": 18
+    },
+    "underdogRateDifference": 0.3055555555555556,
+    "rateDifferencePermutationP": 0.02704864756762162,
+    "LOOBalancedAccuracy": 0.44871794871794873,
+    "LOOCorrect": 35,
+    "LOOActualUnderdogsCorrect": 35,
+    "LOOActualFavoritesCorrect": 0,
+    "permutedLOOBalancedAccuracyMean": 0.49041575091575096,
+    "LOOPermutationP": 0.8465576721163942,
+    "nullDescription": "Shuffle choices across games while preserving total underdog/favorite counts. Outcome-blind features: market spread magnitude, market favorite is home, FBS-vs-FCS. Ridge penalty 1; exact leave-one-out predictions; balanced accuracy averages favorite and underdog recall. Covariate scaling uses the entire fixed design matrix, never game outcomes."
+  },
+  "home3_fbs_only": {
+    "gamesWithPicks": 48,
+    "underdogPicks": 29,
+    "fairCoinTwoSidedP": 0.19341265286193732,
+    "largeSpread14Plus": {
+      "games": 12,
+      "underdogPicks": 10,
+      "wins": 5,
+      "losses": 7
+    },
+    "smallerSpread": {
+      "games": 36,
+      "underdogPicks": 19,
+      "wins": 18,
+      "losses": 18
+    },
+    "underdogRateDifference": 0.3055555555555556,
+    "rateDifferencePermutationP": 0.08899555022248888,
+    "LOOBalancedAccuracy": 0.5199637023593466,
+    "LOOCorrect": 27,
+    "LOOActualUnderdogsCorrect": 21,
+    "LOOActualFavoritesCorrect": 6,
+    "permutedLOOBalancedAccuracyMean": 0.4777787658802177,
+    "LOOPermutationP": 0.18629068546572672,
+    "nullDescription": "Shuffle choices across games while preserving total underdog/favorite counts. Outcome-blind features: market spread magnitude, market favorite is home, FBS-vs-FCS. Ridge penalty 1; exact leave-one-out predictions; balanced accuracy averages favorite and underdog recall. Covariate scaling uses the entire fixed design matrix, never game outcomes."
+  },
+  "original_all": {
+    "gamesWithPicks": 60,
+    "underdogPicks": 38,
+    "fairCoinTwoSidedP": 0.051893895928921435,
+    "largeSpread14Plus": {
+      "games": 24,
+      "underdogPicks": 20,
+      "wins": 13,
+      "losses": 11
+    },
+    "smallerSpread": {
+      "games": 36,
+      "underdogPicks": 18,
+      "wins": 17,
+      "losses": 19
+    },
+    "underdogRateDifference": 0.33333333333333337,
+    "rateDifferencePermutationP": 0.013349332533373332,
+    "LOOBalancedAccuracy": 0.8110047846889952,
+    "LOOCorrect": 50,
+    "LOOActualUnderdogsCorrect": 34,
+    "LOOActualFavoritesCorrect": 16,
+    "permutedLOOBalancedAccuracyMean": 0.48651800239234444,
+    "LOOPermutationP": 4.999750012499375e-05,
+    "nullDescription": "Shuffle choices across games while preserving total underdog/favorite counts. Outcome-blind features: market spread magnitude, market favorite is home, FBS-vs-FCS. Ridge penalty 1; exact leave-one-out predictions; balanced accuracy averages favorite and underdog recall. Covariate scaling uses the entire fixed design matrix, never game outcomes."
+  },
+  "original_fbs_only": {
+    "gamesWithPicks": 48,
+    "underdogPicks": 27,
+    "fairCoinTwoSidedP": 0.4708790136217118,
+    "largeSpread14Plus": {
+      "games": 12,
+      "underdogPicks": 9,
+      "wins": 6,
+      "losses": 6
+    },
+    "smallerSpread": {
+      "games": 36,
+      "underdogPicks": 18,
+      "wins": 17,
+      "losses": 19
+    },
+    "underdogRateDifference": 0.25,
+    "rateDifferencePermutationP": 0.1847907604619769,
+    "LOOBalancedAccuracy": 0.8068783068783069,
+    "LOOCorrect": 39,
+    "LOOActualUnderdogsCorrect": 23,
+    "LOOActualFavoritesCorrect": 16,
+    "permutedLOOBalancedAccuracyMean": 0.4644616402116402,
+    "LOOPermutationP": 9.99950002499875e-05,
+    "nullDescription": "Shuffle choices across games while preserving total underdog/favorite counts. Outcome-blind features: market spread magnitude, market favorite is home, FBS-vs-FCS. Ridge penalty 1; exact leave-one-out predictions; balanced accuracy averages favorite and underdog recall. Covariate scaling uses the entire fixed design matrix, never game outcomes."
+  }
+}

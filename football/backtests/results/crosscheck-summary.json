@@ -1,0 +1,61 @@
+{
+  "matchedExplicitClose": 1155,
+  "withinHalfPoint": 928,
+  "withinOnePoint": 1061,
+  "largeDisagreements": [
+    {
+      "season": "2023",
+      "id": "401531880",
+      "home": "James Madison",
+      "away": "South Alabama",
+      "ESPNStatus": "explicit_close",
+      "ESPNHomeSpread": "3.5",
+      "crosscheckHomeSpread": -3.5,
+      "difference": 7.0,
+      "halftime1.25Result": "W"
+    },
+    {
+      "season": "2024",
+      "id": "401645331",
+      "home": "Temple",
+      "away": "Army",
+      "ESPNStatus": "explicit_close",
+      "ESPNHomeSpread": "21.5",
+      "crosscheckHomeSpread": 11.0,
+      "difference": 10.5,
+      "halftime1.25Result": "W"
+    }
+  ],
+  "crosscheckOnly": {
+    "2023": {
+      "games": 576,
+      "wins": 271,
+      "losses": 277,
+      "pushes": 9,
+      "passes": 19,
+      "winRate": 0.49452554744525545,
+      "profit": -3370,
+      "risked": 61270,
+      "ROI": -0.05500244818018606,
+      "winRateWilson95": [
+        0.452849344382704,
+        0.5362779676303834
+      ]
+    },
+    "2024": {
+      "games": 604,
+      "wins": 281,
+      "losses": 278,
+      "pushes": 15,
+      "passes": 30,
+      "winRate": 0.5026833631484794,
+      "profit": -2480,
+      "risked": 63140,
+      "ROI": -0.039277795375356354,
+      "winRateWilson95": [
+        0.4613585064594761,
+        0.5439715913024864
+      ]
+    }
+  }
+}

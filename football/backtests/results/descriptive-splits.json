@@ -1,0 +1,47 @@
+{
+  "Weeks 4-7": {
+    "games": 594,
+    "wins": 288,
+    "losses": 289,
+    "pushes": 0,
+    "passes": 17,
+    "winRate": 0.49913344887348354,
+    "profit": -2990,
+    "risked": 63470,
+    "ROI": -0.047108870332440524,
+    "winRateWilson95": [
+      0.4584771885504455,
+      0.539801171258735
+    ]
+  },
+  "Weeks 8+ regular season": {
+    "games": 1181,
+    "wins": 586,
+    "losses": 553,
+    "pushes": 0,
+    "passes": 42,
+    "winRate": 0.514486391571554,
+    "profit": -2230,
+    "risked": 125290,
+    "ROI": -0.017798706999760557,
+    "winRateWilson95": [
+      0.4854613693796108,
+      0.5434140268928107
+    ]
+  },
+  "Weeks 11+ regular season": {
+    "games": 679,
+    "wins": 342,
+    "losses": 305,
+    "pushes": 0,
+    "passes": 32,
+    "winRate": 0.5285935085007728,
+    "profit": 650,
+    "risked": 71170,
+    "ROI": 0.009133061683293522,
+    "winRateWilson95": [
+      0.4900740333855277,
+      0.5667754489247158
+    ]
+  }
+}

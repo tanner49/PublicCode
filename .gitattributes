@@ -1,0 +1,2 @@
+# Preserve exact research inputs, frozen code and audit hashes across platforms.
+football/backtests/** -text

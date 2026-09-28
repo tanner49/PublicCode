@@ -1,0 +1,11 @@
+{
+  "executionCodeSha256": "c362b47b9e3a8e43a67f5306123d0eb0e3291f550291c2ef6da9201f80e21b11",
+  "currentCodeSha256": "6003cd13d61943004c3cd2b4675e7b7f85643271f43237a85928dd8f733d1653",
+  "postRunNote": "Prior CSV writer updated to record stabilized zeros; existing prior CSVs normalized to match the values used in fitting. Numerical predictions unchanged.",
+  "testsPassed": 10,
+  "results": {
+    "leaderboard.json": "6ecbae26a62604613d5d2c48731b40d12611ef63cad0e2535141ca21f91c9893",
+    "leaderboard.csv": "0712c282731237f8b7aa24b2a720acdc5d1f59c8803bede577271efec08acea2",
+    "refinement-plan.json": "b6ad9725f5dd9e790e0ecd6d6ce4ff4c93d1f2c097744e3d83f88cef3a0519bd"
+  }
+}

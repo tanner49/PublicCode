@@ -1,0 +1,1423 @@
+{
+  "weeks": [
+    {
+      "period": 4,
+      "season": "all",
+      "eligibleSupplied": 193,
+      "games": 114,
+      "wins": 55,
+      "losses": 55,
+      "pushes": 0,
+      "passes": 4,
+      "winRate": 0.5,
+      "profit": -550,
+      "risked": 12100,
+      "ROI": -0.045454545454545456,
+      "winRateWilson95": [
+        0.40815238803027815,
+        0.5918476119697219
+      ],
+      "rawProfit": -570
+    },
+    {
+      "period": 4,
+      "season": "2023",
+      "eligibleSupplied": 67,
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": null,
+      "profit": 0,
+      "risked": 0,
+      "ROI": null,
+      "winRateWilson95": null,
+      "rawProfit": 0
+    },
+    {
+      "period": 4,
+      "season": "2024",
+      "eligibleSupplied": 64,
+      "games": 53,
+      "wins": 22,
+      "losses": 28,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.44,
+      "profit": -880,
+      "risked": 5500,
+      "ROI": -0.16,
+      "winRateWilson95": [
+        0.31162199211257485,
+        0.5769397197834278
+      ],
+      "rawProfit": -790
+    },
+    {
+      "period": 4,
+      "season": "2025",
+      "eligibleSupplied": 62,
+      "games": 61,
+      "wins": 33,
+      "losses": 27,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.55,
+      "profit": 330,
+      "risked": 6600,
+      "ROI": 0.05,
+      "winRateWilson95": [
+        0.42491935885334686,
+        0.6690634559324447
+      ],
+      "rawProfit": 220
+    },
+    {
+      "period": 5,
+      "season": "all",
+      "eligibleSupplied": 167,
+      "games": 167,
+      "wins": 88,
+      "losses": 76,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.5365853658536586,
+      "profit": 440,
+      "risked": 18040,
+      "ROI": 0.024390243902439025,
+      "winRateWilson95": [
+        0.460303187812383,
+        0.6111928542520494
+      ],
+      "rawProfit": 530
+    },
+    {
+      "period": 5,
+      "season": "2023",
+      "eligibleSupplied": 59,
+      "games": 59,
+      "wins": 31,
+      "losses": 27,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.5344827586206896,
+      "profit": 130,
+      "risked": 6380,
+      "ROI": 0.02037617554858934,
+      "winRateWilson95": [
+        0.40800175043995535,
+        0.6566797767471342
+      ],
+      "rawProfit": 20
+    },
+    {
+      "period": 5,
+      "season": "2024",
+      "eligibleSupplied": 55,
+      "games": 55,
+      "wins": 31,
+      "losses": 23,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.5740740740740741,
+      "profit": 570,
+      "risked": 5940,
+      "ROI": 0.09595959595959595,
+      "winRateWilson95": [
+        0.4416273382599042,
+        0.6966817598007043
+      ],
+      "rawProfit": 670
+    },
+    {
+      "period": 5,
+      "season": "2025",
+      "eligibleSupplied": 53,
+      "games": 53,
+      "wins": 26,
+      "losses": 26,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.5,
+      "profit": -260,
+      "risked": 5720,
+      "ROI": -0.045454545454545456,
+      "winRateWilson95": [
+        0.3688586295978088,
+        0.6311413704021912
+      ],
+      "rawProfit": -160
+    },
+    {
+      "period": 6,
+      "season": "all",
+      "eligibleSupplied": 151,
+      "games": 150,
+      "wins": 68,
+      "losses": 76,
+      "pushes": 0,
+      "passes": 6,
+      "winRate": 0.4722222222222222,
+      "profit": -1560,
+      "risked": 15840,
+      "ROI": -0.09848484848484848,
+      "winRateWilson95": [
+        0.3924680237466604,
+        0.5534199560946195
+      ],
+      "rawProfit": -1380
+    },
+    {
+      "period": 6,
+      "season": "2023",
+      "eligibleSupplied": 51,
+      "games": 51,
+      "wins": 18,
+      "losses": 30,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.375,
+      "profit": -1500,
+      "risked": 5280,
+      "ROI": -0.2840909090909091,
+      "winRateWilson95": [
+        0.25215266760868493,
+        0.5163723648078435
+      ],
+      "rawProfit": -1410
+    },
+    {
+      "period": 6,
+      "season": "2024",
+      "eligibleSupplied": 49,
+      "games": 48,
+      "wins": 24,
+      "losses": 22,
+      "pushes": 0,
+      "passes": 2,
+      "winRate": 0.5217391304347826,
+      "profit": -20,
+      "risked": 5060,
+      "ROI": -0.003952569169960474,
+      "winRateWilson95": [
+        0.3813741307280438,
+        0.6587531056595397
+      ],
+      "rawProfit": -30
+    },
+    {
+      "period": 6,
+      "season": "2025",
+      "eligibleSupplied": 51,
+      "games": 51,
+      "wins": 26,
+      "losses": 24,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.52,
+      "profit": -40,
+      "risked": 5500,
+      "ROI": -0.007272727272727273,
+      "winRateWilson95": [
+        0.38511744890044963,
+        0.6520286471342163
+      ],
+      "rawProfit": 60
+    },
+    {
+      "period": 7,
+      "season": "all",
+      "eligibleSupplied": 163,
+      "games": 163,
+      "wins": 77,
+      "losses": 82,
+      "pushes": 0,
+      "passes": 4,
+      "winRate": 0.48427672955974843,
+      "profit": -1320,
+      "risked": 17490,
+      "ROI": -0.07547169811320754,
+      "winRateWilson95": [
+        0.4078892583593868,
+        0.5614060302224632
+      ],
+      "rawProfit": -1340
+    },
+    {
+      "period": 7,
+      "season": "2023",
+      "eligibleSupplied": 55,
+      "games": 55,
+      "wins": 25,
+      "losses": 28,
+      "pushes": 0,
+      "passes": 2,
+      "winRate": 0.4716981132075472,
+      "profit": -580,
+      "risked": 5830,
+      "ROI": -0.09948542024013722,
+      "winRateWilson95": [
+        0.3438224347819647,
+        0.6033991872129335
+      ],
+      "rawProfit": -590
+    },
+    {
+      "period": 7,
+      "season": "2024",
+      "eligibleSupplied": 52,
+      "games": 52,
+      "wins": 27,
+      "losses": 23,
+      "pushes": 0,
+      "passes": 2,
+      "winRate": 0.54,
+      "profit": 170,
+      "risked": 5500,
+      "ROI": 0.03090909090909091,
+      "winRateWilson95": [
+        0.4039887139915783,
+        0.6703034780777533
+      ],
+      "rawProfit": 160
+    },
+    {
+      "period": 7,
+      "season": "2025",
+      "eligibleSupplied": 56,
+      "games": 56,
+      "wins": 25,
+      "losses": 31,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": 0.44642857142857145,
+      "profit": -910,
+      "risked": 6160,
+      "ROI": -0.14772727272727273,
+      "winRateWilson95": [
+        0.3238672125478367,
+        0.5758678521006021
+      ],
+      "rawProfit": -910
+    },
+    {
+      "period": 8,
+      "season": "all",
+      "eligibleSupplied": 173,
+      "games": 173,
+      "wins": 84,
+      "losses": 88,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.4883720930232558,
+      "profit": -1280,
+      "risked": 18920,
+      "ROI": -0.06765327695560254,
+      "winRateWilson95": [
+        0.4147434532228348,
+        0.5625087828150906
+      ],
+      "rawProfit": -1180
+    },
+    {
+      "period": 8,
+      "season": "2023",
+      "eligibleSupplied": 54,
+      "games": 54,
+      "wins": 24,
+      "losses": 30,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": 0.4444444444444444,
+      "profit": -900,
+      "risked": 5940,
+      "ROI": -0.15151515151515152,
+      "winRateWilson95": [
+        0.3200246417222996,
+        0.5762435347322439
+      ],
+      "rawProfit": -900
+    },
+    {
+      "period": 8,
+      "season": "2024",
+      "eligibleSupplied": 59,
+      "games": 59,
+      "wins": 28,
+      "losses": 30,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.4827586206896552,
+      "profit": -500,
+      "risked": 6380,
+      "ROI": -0.07836990595611286,
+      "winRateWilson95": [
+        0.35928185424055314,
+        0.608377382165902
+      ],
+      "rawProfit": -400
+    },
+    {
+      "period": 8,
+      "season": "2025",
+      "eligibleSupplied": 60,
+      "games": 60,
+      "wins": 32,
+      "losses": 28,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": 0.5333333333333333,
+      "profit": 120,
+      "risked": 6600,
+      "ROI": 0.01818181818181818,
+      "winRateWilson95": [
+        0.40893427027158225,
+        0.653720939585612
+      ],
+      "rawProfit": 120
+    },
+    {
+      "period": 9,
+      "season": "all",
+      "eligibleSupplied": 164,
+      "games": 163,
+      "wins": 81,
+      "losses": 79,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.50625,
+      "profit": -590,
+      "risked": 17600,
+      "ROI": -0.033522727272727273,
+      "winRateWilson95": [
+        0.42954855027197747,
+        0.5826583722883786
+      ],
+      "rawProfit": -920
+    },
+    {
+      "period": 9,
+      "season": "2023",
+      "eligibleSupplied": 54,
+      "games": 53,
+      "wins": 25,
+      "losses": 26,
+      "pushes": 0,
+      "passes": 2,
+      "winRate": 0.49019607843137253,
+      "profit": -360,
+      "risked": 5610,
+      "ROI": -0.06417112299465241,
+      "winRateWilson95": [
+        0.3585748589437108,
+        0.6231907610542996
+      ],
+      "rawProfit": -580
+    },
+    {
+      "period": 9,
+      "season": "2024",
+      "eligibleSupplied": 57,
+      "games": 57,
+      "wins": 26,
+      "losses": 31,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": 0.45614035087719296,
+      "profit": -810,
+      "risked": 6270,
+      "ROI": -0.1291866028708134,
+      "winRateWilson95": [
+        0.3337260558309314,
+        0.5840931402088032
+      ],
+      "rawProfit": -810
+    },
+    {
+      "period": 9,
+      "season": "2025",
+      "eligibleSupplied": 53,
+      "games": 53,
+      "wins": 30,
+      "losses": 22,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.5769230769230769,
+      "profit": 580,
+      "risked": 5720,
+      "ROI": 0.10139860139860139,
+      "winRateWilson95": [
+        0.44194325373903387,
+        0.7013194791649878
+      ],
+      "rawProfit": 470
+    },
+    {
+      "period": 10,
+      "season": "all",
+      "eligibleSupplied": 166,
+      "games": 166,
+      "wins": 79,
+      "losses": 81,
+      "pushes": 0,
+      "passes": 6,
+      "winRate": 0.49375,
+      "profit": -1010,
+      "risked": 17600,
+      "ROI": -0.05738636363636364,
+      "winRateWilson95": [
+        0.41734162771162137,
+        0.5704514497280224
+      ],
+      "rawProfit": -1040
+    },
+    {
+      "period": 10,
+      "season": "2023",
+      "eligibleSupplied": 65,
+      "games": 65,
+      "wins": 28,
+      "losses": 35,
+      "pushes": 0,
+      "passes": 2,
+      "winRate": 0.4444444444444444,
+      "profit": -1050,
+      "risked": 6930,
+      "ROI": -0.15151515151515152,
+      "winRateWilson95": [
+        0.32847096011892096,
+        0.5668036176131733
+      ],
+      "rawProfit": -1270
+    },
+    {
+      "period": 10,
+      "season": "2024",
+      "eligibleSupplied": 49,
+      "games": 49,
+      "wins": 23,
+      "losses": 24,
+      "pushes": 0,
+      "passes": 2,
+      "winRate": 0.48936170212765956,
+      "profit": -340,
+      "risked": 5170,
+      "ROI": -0.06576402321083172,
+      "winRateWilson95": [
+        0.35275555033682504,
+        0.6275754625177281
+      ],
+      "rawProfit": -350
+    },
+    {
+      "period": 10,
+      "season": "2025",
+      "eligibleSupplied": 52,
+      "games": 52,
+      "wins": 28,
+      "losses": 22,
+      "pushes": 0,
+      "passes": 2,
+      "winRate": 0.56,
+      "profit": 380,
+      "risked": 5500,
+      "ROI": 0.06909090909090909,
+      "winRateWilson95": [
+        0.4230602802165722,
+        0.6883780078874253
+      ],
+      "rawProfit": 580
+    },
+    {
+      "period": 11,
+      "season": "all",
+      "eligibleSupplied": 167,
+      "games": 167,
+      "wins": 84,
+      "losses": 80,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.5121951219512195,
+      "profit": -400,
+      "risked": 18040,
+      "ROI": -0.022172949002217297,
+      "winRateWilson95": [
+        0.4362950420323082,
+        0.5875369719891692
+      ],
+      "rawProfit": -310
+    },
+    {
+      "period": 11,
+      "season": "2023",
+      "eligibleSupplied": 65,
+      "games": 65,
+      "wins": 34,
+      "losses": 30,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.53125,
+      "profit": 100,
+      "risked": 7040,
+      "ROI": 0.014204545454545454,
+      "winRateWilson95": [
+        0.41072087051471323,
+        0.6482401257482366
+      ],
+      "rawProfit": 200
+    },
+    {
+      "period": 11,
+      "season": "2024",
+      "eligibleSupplied": 50,
+      "games": 50,
+      "wins": 23,
+      "losses": 26,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.46938775510204084,
+      "profit": -560,
+      "risked": 5390,
+      "ROI": -0.1038961038961039,
+      "winRateWilson95": [
+        0.3370350369317549,
+        0.6061913601633775
+      ],
+      "rawProfit": -670
+    },
+    {
+      "period": 11,
+      "season": "2025",
+      "eligibleSupplied": 52,
+      "games": 52,
+      "wins": 27,
+      "losses": 24,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.5294117647058824,
+      "profit": 60,
+      "risked": 5610,
+      "ROI": 0.0106951871657754,
+      "winRateWilson95": [
+        0.3952330421009681,
+        0.6594700979050009
+      ],
+      "rawProfit": 160
+    },
+    {
+      "period": 12,
+      "season": "all",
+      "eligibleSupplied": 182,
+      "games": 174,
+      "wins": 80,
+      "losses": 82,
+      "pushes": 0,
+      "passes": 12,
+      "winRate": 0.49382716049382713,
+      "profit": -1020,
+      "risked": 17820,
+      "ROI": -0.05723905723905724,
+      "winRateWilson95": [
+        0.41787810807857695,
+        0.5700621813145452
+      ],
+      "rawProfit": -870
+    },
+    {
+      "period": 12,
+      "season": "2023",
+      "eligibleSupplied": 68,
+      "games": 60,
+      "wins": 30,
+      "losses": 30,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": 0.5,
+      "profit": -300,
+      "risked": 6600,
+      "ROI": -0.045454545454545456,
+      "winRateWilson95": [
+        0.37735024241556087,
+        0.6226497575844392
+      ],
+      "rawProfit": -300
+    },
+    {
+      "period": 12,
+      "season": "2024",
+      "eligibleSupplied": 55,
+      "games": 55,
+      "wins": 19,
+      "losses": 28,
+      "pushes": 0,
+      "passes": 8,
+      "winRate": 0.40425531914893614,
+      "profit": -1180,
+      "risked": 5170,
+      "ROI": -0.22823984526112184,
+      "winRateWilson95": [
+        0.2764003451920907,
+        0.5465787704988867
+      ],
+      "rawProfit": -1430
+    },
+    {
+      "period": 12,
+      "season": "2025",
+      "eligibleSupplied": 59,
+      "games": 59,
+      "wins": 31,
+      "losses": 24,
+      "pushes": 0,
+      "passes": 4,
+      "winRate": 0.5636363636363636,
+      "profit": 460,
+      "risked": 6050,
+      "ROI": 0.07603305785123966,
+      "winRateWilson95": [
+        0.43269816346414797,
+        0.6862655763936778
+      ],
+      "rawProfit": 860
+    },
+    {
+      "period": 13,
+      "season": "all",
+      "eligibleSupplied": 194,
+      "games": 185,
+      "wins": 96,
+      "losses": 83,
+      "pushes": 0,
+      "passes": 6,
+      "winRate": 0.5363128491620112,
+      "profit": 470,
+      "risked": 19690,
+      "ROI": 0.023869984763839513,
+      "winRateWilson95": [
+        0.46326352803193277,
+        0.6078363203495475
+      ],
+      "rawProfit": 230
+    },
+    {
+      "period": 13,
+      "season": "2023",
+      "eligibleSupplied": 65,
+      "games": 57,
+      "wins": 31,
+      "losses": 26,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": 0.543859649122807,
+      "profit": 240,
+      "risked": 6270,
+      "ROI": 0.03827751196172249,
+      "winRateWilson95": [
+        0.4159068597911968,
+        0.6662739441690686
+      ],
+      "rawProfit": 240
+    },
+    {
+      "period": 13,
+      "season": "2024",
+      "eligibleSupplied": 65,
+      "games": 64,
+      "wins": 30,
+      "losses": 30,
+      "pushes": 0,
+      "passes": 4,
+      "winRate": 0.5,
+      "profit": -300,
+      "risked": 6600,
+      "ROI": -0.045454545454545456,
+      "winRateWilson95": [
+        0.37735024241556087,
+        0.6226497575844392
+      ],
+      "rawProfit": -320
+    },
+    {
+      "period": 13,
+      "season": "2025",
+      "eligibleSupplied": 64,
+      "games": 64,
+      "wins": 35,
+      "losses": 27,
+      "pushes": 0,
+      "passes": 2,
+      "winRate": 0.5645161290322581,
+      "profit": 530,
+      "risked": 6820,
+      "ROI": 0.07771260997067449,
+      "winRateWilson95": [
+        0.440929879721491,
+        0.6805741109751066
+      ],
+      "rawProfit": 310
+    },
+    {
+      "period": 14,
+      "season": "all",
+      "eligibleSupplied": 144,
+      "games": 143,
+      "wins": 78,
+      "losses": 57,
+      "pushes": 0,
+      "passes": 8,
+      "winRate": 0.5777777777777777,
+      "profit": 1530,
+      "risked": 14850,
+      "ROI": 0.10303030303030303,
+      "winRateWilson95": [
+        0.49344161293059174,
+        0.6578100389777933
+      ],
+      "rawProfit": 1070
+    },
+    {
+      "period": 14,
+      "season": "2023",
+      "eligibleSupplied": 10,
+      "games": 10,
+      "wins": 9,
+      "losses": 1,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": 0.9,
+      "profit": 790,
+      "risked": 1100,
+      "ROI": 0.7181818181818181,
+      "winRateWilson95": [
+        0.595849973204771,
+        0.9821237869049263
+      ],
+      "rawProfit": 790
+    },
+    {
+      "period": 14,
+      "season": "2024",
+      "eligibleSupplied": 67,
+      "games": 66,
+      "wins": 35,
+      "losses": 27,
+      "pushes": 0,
+      "passes": 4,
+      "winRate": 0.5645161290322581,
+      "profit": 530,
+      "risked": 6820,
+      "ROI": 0.07771260997067449,
+      "winRateWilson95": [
+        0.440929879721491,
+        0.6805741109751066
+      ],
+      "rawProfit": 300
+    },
+    {
+      "period": 14,
+      "season": "2025",
+      "eligibleSupplied": 67,
+      "games": 67,
+      "wins": 34,
+      "losses": 29,
+      "pushes": 0,
+      "passes": 4,
+      "winRate": 0.5396825396825397,
+      "profit": 210,
+      "risked": 6930,
+      "ROI": 0.030303030303030304,
+      "winRateWilson95": [
+        0.41789251880895695,
+        0.6569113542395472
+      ],
+      "rawProfit": -20
+    },
+    {
+      "period": 15,
+      "season": "all",
+      "eligibleSupplied": 10,
+      "games": 9,
+      "wins": 4,
+      "losses": 2,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.6666666666666666,
+      "profit": 180,
+      "risked": 660,
+      "ROI": 0.2727272727272727,
+      "winRateWilson95": [
+        0.29999331513839955,
+        0.9032285888942164
+      ],
+      "rawProfit": 480
+    },
+    {
+      "period": 15,
+      "season": "2023",
+      "eligibleSupplied": 1,
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": null,
+      "profit": 0,
+      "risked": 0,
+      "ROI": null,
+      "winRateWilson95": null,
+      "rawProfit": 0
+    },
+    {
+      "period": 15,
+      "season": "2024",
+      "eligibleSupplied": 9,
+      "games": 9,
+      "wins": 4,
+      "losses": 2,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.6666666666666666,
+      "profit": 180,
+      "risked": 660,
+      "ROI": 0.2727272727272727,
+      "winRateWilson95": [
+        0.29999331513839955,
+        0.9032285888942164
+      ],
+      "rawProfit": 480
+    },
+    {
+      "period": 15,
+      "season": "2025",
+      "eligibleSupplied": 0,
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": null,
+      "profit": 0,
+      "risked": 0,
+      "ROI": null,
+      "winRateWilson95": null,
+      "rawProfit": 0
+    },
+    {
+      "period": 16,
+      "season": "all",
+      "eligibleSupplied": 1,
+      "games": 1,
+      "wins": 0,
+      "losses": 1,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": 0.0,
+      "profit": -110,
+      "risked": 110,
+      "ROI": -1.0,
+      "winRateWilson95": [
+        0.0,
+        0.7934506856227534
+      ],
+      "rawProfit": -110
+    },
+    {
+      "period": 16,
+      "season": "2023",
+      "eligibleSupplied": 0,
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": null,
+      "profit": 0,
+      "risked": 0,
+      "ROI": null,
+      "winRateWilson95": null,
+      "rawProfit": 0
+    },
+    {
+      "period": 16,
+      "season": "2024",
+      "eligibleSupplied": 1,
+      "games": 1,
+      "wins": 0,
+      "losses": 1,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": 0.0,
+      "profit": -110,
+      "risked": 110,
+      "ROI": -1.0,
+      "winRateWilson95": [
+        0.0,
+        0.7934506856227534
+      ],
+      "rawProfit": -110
+    },
+    {
+      "period": 16,
+      "season": "2025",
+      "eligibleSupplied": 0,
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": null,
+      "profit": 0,
+      "risked": 0,
+      "ROI": null,
+      "winRateWilson95": null,
+      "rawProfit": 0
+    },
+    {
+      "period": "Postseason",
+      "season": "all",
+      "eligibleSupplied": 88,
+      "games": 83,
+      "wins": 37,
+      "losses": 42,
+      "pushes": 0,
+      "passes": 4,
+      "winRate": 0.46835443037974683,
+      "profit": -920,
+      "risked": 8690,
+      "ROI": -0.10586881472957423,
+      "winRateWilson95": [
+        0.3623578415657803,
+        0.5772859060072526
+      ],
+      "rawProfit": -1150
+    },
+    {
+      "period": "Postseason",
+      "season": "2023",
+      "eligibleSupplied": 42,
+      "games": 40,
+      "wins": 15,
+      "losses": 22,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.40540540540540543,
+      "profit": -920,
+      "risked": 4070,
+      "ROI": -0.22604422604422605,
+      "winRateWilson95": [
+        0.2634651819201461,
+        0.565140352697702
+      ],
+      "rawProfit": -1040
+    },
+    {
+      "period": "Postseason",
+      "season": "2024",
+      "eligibleSupplied": 46,
+      "games": 43,
+      "wins": 22,
+      "losses": 20,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.5238095238095238,
+      "profit": 0,
+      "risked": 4620,
+      "ROI": 0.0,
+      "winRateWilson95": [
+        0.37722464131345346,
+        0.6664039876929417
+      ],
+      "rawProfit": -110
+    },
+    {
+      "period": "Postseason",
+      "season": "2025",
+      "eligibleSupplied": 0,
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": null,
+      "profit": 0,
+      "risked": 0,
+      "ROI": null,
+      "winRateWilson95": null,
+      "rawProfit": 0
+    }
+  ],
+  "phases": [
+    {
+      "period": "Weeks 4-7",
+      "season": "all",
+      "eligibleSupplied": 674,
+      "games": 594,
+      "wins": 288,
+      "losses": 289,
+      "pushes": 0,
+      "passes": 17,
+      "winRate": 0.49913344887348354,
+      "profit": -2990,
+      "risked": 63470,
+      "ROI": -0.047108870332440524,
+      "winRateWilson95": [
+        0.4584771885504455,
+        0.539801171258735
+      ],
+      "rawProfit": -2760
+    },
+    {
+      "period": "Weeks 4-7",
+      "season": "2023",
+      "eligibleSupplied": 232,
+      "games": 165,
+      "wins": 74,
+      "losses": 85,
+      "pushes": 0,
+      "passes": 6,
+      "winRate": 0.46540880503144655,
+      "profit": -1950,
+      "risked": 17490,
+      "ROI": -0.11149228130360206,
+      "winRateWilson95": [
+        0.3896090014642557,
+        0.5428406334158139
+      ],
+      "rawProfit": -1980
+    },
+    {
+      "period": "Weeks 4-7",
+      "season": "2024",
+      "eligibleSupplied": 220,
+      "games": 208,
+      "wins": 104,
+      "losses": 96,
+      "pushes": 0,
+      "passes": 8,
+      "winRate": 0.52,
+      "profit": -160,
+      "risked": 22000,
+      "ROI": -0.007272727272727273,
+      "winRateWilson95": [
+        0.4510378507281443,
+        0.5882083362167652
+      ],
+      "rawProfit": 10
+    },
+    {
+      "period": "Weeks 4-7",
+      "season": "2025",
+      "eligibleSupplied": 222,
+      "games": 221,
+      "wins": 110,
+      "losses": 108,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.5045871559633027,
+      "profit": -880,
+      "risked": 23980,
+      "ROI": -0.03669724770642202,
+      "winRateWilson95": [
+        0.4387148617956364,
+        0.5703005855902217
+      ],
+      "rawProfit": -790
+    },
+    {
+      "period": "Weeks 8-10",
+      "season": "all",
+      "eligibleSupplied": 503,
+      "games": 502,
+      "wins": 244,
+      "losses": 248,
+      "pushes": 0,
+      "passes": 10,
+      "winRate": 0.4959349593495935,
+      "profit": -2880,
+      "risked": 54120,
+      "ROI": -0.05321507760532151,
+      "winRateWilson95": [
+        0.45195837130711103,
+        0.5399745340019497
+      ],
+      "rawProfit": -3140
+    },
+    {
+      "period": "Weeks 8-10",
+      "season": "2023",
+      "eligibleSupplied": 173,
+      "games": 172,
+      "wins": 77,
+      "losses": 91,
+      "pushes": 0,
+      "passes": 4,
+      "winRate": 0.4583333333333333,
+      "profit": -2310,
+      "risked": 18480,
+      "ROI": -0.125,
+      "winRateWilson95": [
+        0.3847615934311155,
+        0.5337679622647066
+      ],
+      "rawProfit": -2750
+    },
+    {
+      "period": "Weeks 8-10",
+      "season": "2024",
+      "eligibleSupplied": 165,
+      "games": 165,
+      "wins": 77,
+      "losses": 85,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.47530864197530864,
+      "profit": -1650,
+      "risked": 17820,
+      "ROI": -0.09259259259259259,
+      "winRateWilson95": [
+        0.3998735697286899,
+        0.5518875878437991
+      ],
+      "rawProfit": -1560
+    },
+    {
+      "period": "Weeks 8-10",
+      "season": "2025",
+      "eligibleSupplied": 165,
+      "games": 165,
+      "wins": 90,
+      "losses": 72,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.5555555555555556,
+      "profit": 1080,
+      "risked": 17820,
+      "ROI": 0.06060606060606061,
+      "winRateWilson95": [
+        0.478631245946668,
+        0.6299061495152318
+      ],
+      "rawProfit": 1170
+    },
+    {
+      "period": "Weeks 11-14",
+      "season": "all",
+      "eligibleSupplied": 687,
+      "games": 669,
+      "wins": 338,
+      "losses": 302,
+      "pushes": 0,
+      "passes": 29,
+      "winRate": 0.528125,
+      "profit": 580,
+      "risked": 70400,
+      "ROI": 0.008238636363636363,
+      "winRateWilson95": [
+        0.4893965221948772,
+        0.5665178640360748
+      ],
+      "rawProfit": 120
+    },
+    {
+      "period": "Weeks 11-14",
+      "season": "2023",
+      "eligibleSupplied": 208,
+      "games": 192,
+      "wins": 104,
+      "losses": 87,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.5445026178010471,
+      "profit": 830,
+      "risked": 21010,
+      "ROI": 0.039504997620180865,
+      "winRateWilson95": [
+        0.4736918325448098,
+        0.6135585919946849
+      ],
+      "rawProfit": 930
+    },
+    {
+      "period": "Weeks 11-14",
+      "season": "2024",
+      "eligibleSupplied": 237,
+      "games": 235,
+      "wins": 107,
+      "losses": 111,
+      "pushes": 0,
+      "passes": 17,
+      "winRate": 0.4908256880733945,
+      "profit": -1510,
+      "risked": 23980,
+      "ROI": -0.06296914095079233,
+      "winRateWilson95": [
+        0.42519985454190934,
+        0.5567692506863742
+      ],
+      "rawProfit": -2120
+    },
+    {
+      "period": "Weeks 11-14",
+      "season": "2025",
+      "eligibleSupplied": 242,
+      "games": 242,
+      "wins": 127,
+      "losses": 104,
+      "pushes": 0,
+      "passes": 11,
+      "winRate": 0.5497835497835498,
+      "profit": 1260,
+      "risked": 25410,
+      "ROI": 0.049586776859504134,
+      "winRateWilson95": [
+        0.48533321482077885,
+        0.6126051991011044
+      ],
+      "rawProfit": 1310
+    },
+    {
+      "period": "Weeks 15-16",
+      "season": "all",
+      "eligibleSupplied": 11,
+      "games": 10,
+      "wins": 4,
+      "losses": 3,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.5714285714285714,
+      "profit": 70,
+      "risked": 770,
+      "ROI": 0.09090909090909091,
+      "winRateWilson95": [
+        0.2504583645276634,
+        0.8417801447485258
+      ],
+      "rawProfit": 370
+    },
+    {
+      "period": "Weeks 15-16",
+      "season": "2023",
+      "eligibleSupplied": 1,
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": null,
+      "profit": 0,
+      "risked": 0,
+      "ROI": null,
+      "winRateWilson95": null,
+      "rawProfit": 0
+    },
+    {
+      "period": "Weeks 15-16",
+      "season": "2024",
+      "eligibleSupplied": 10,
+      "games": 10,
+      "wins": 4,
+      "losses": 3,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.5714285714285714,
+      "profit": 70,
+      "risked": 770,
+      "ROI": 0.09090909090909091,
+      "winRateWilson95": [
+        0.2504583645276634,
+        0.8417801447485258
+      ],
+      "rawProfit": 370
+    },
+    {
+      "period": "Weeks 15-16",
+      "season": "2025",
+      "eligibleSupplied": 0,
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": null,
+      "profit": 0,
+      "risked": 0,
+      "ROI": null,
+      "winRateWilson95": null,
+      "rawProfit": 0
+    },
+    {
+      "period": "Postseason",
+      "season": "all",
+      "eligibleSupplied": 88,
+      "games": 83,
+      "wins": 37,
+      "losses": 42,
+      "pushes": 0,
+      "passes": 4,
+      "winRate": 0.46835443037974683,
+      "profit": -920,
+      "risked": 8690,
+      "ROI": -0.10586881472957423,
+      "winRateWilson95": [
+        0.3623578415657803,
+        0.5772859060072526
+      ],
+      "rawProfit": -1150
+    },
+    {
+      "period": "Postseason",
+      "season": "2023",
+      "eligibleSupplied": 42,
+      "games": 40,
+      "wins": 15,
+      "losses": 22,
+      "pushes": 0,
+      "passes": 3,
+      "winRate": 0.40540540540540543,
+      "profit": -920,
+      "risked": 4070,
+      "ROI": -0.22604422604422605,
+      "winRateWilson95": [
+        0.2634651819201461,
+        0.565140352697702
+      ],
+      "rawProfit": -1040
+    },
+    {
+      "period": "Postseason",
+      "season": "2024",
+      "eligibleSupplied": 46,
+      "games": 43,
+      "wins": 22,
+      "losses": 20,
+      "pushes": 0,
+      "passes": 1,
+      "winRate": 0.5238095238095238,
+      "profit": 0,
+      "risked": 4620,
+      "ROI": 0.0,
+      "winRateWilson95": [
+        0.37722464131345346,
+        0.6664039876929417
+      ],
+      "rawProfit": -110
+    },
+    {
+      "period": "Postseason",
+      "season": "2025",
+      "eligibleSupplied": 0,
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "passes": 0,
+      "winRate": null,
+      "profit": 0,
+      "risked": 0,
+      "ROI": null,
+      "winRateWilson95": null,
+      "rawProfit": 0
+    }
+  ]
+}

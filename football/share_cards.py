@@ -177,6 +177,8 @@ def render_new_light(snapshot, previous, site, folder):
 
 
 def publish_share_cards(data_directory):
+    from comparison_history import publish_comparison_histories
+    publish_comparison_histories(data_directory)
     site = data_directory.parent
     (data_directory / 'prediction-policy.json').write_bytes((Path(__file__).parent / 'prediction-policy.json').read_bytes())
     manifest = json.loads((data_directory / 'index.json').read_text(encoding='utf-8'))

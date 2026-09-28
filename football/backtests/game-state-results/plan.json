@@ -1,0 +1,82 @@
+{
+  "primary": "STATE_SOFT",
+  "controls": [
+    {
+      "id": "C00",
+      "stage": "hypothesis",
+      "marginRule": "baseline",
+      "bonus": 2.75,
+      "cap": 28.0,
+      "multiplier": 1.25,
+      "decayStart": 4,
+      "decayStep": 0.25
+    },
+    {
+      "id": "OT",
+      "stage": "hypothesis",
+      "marginRule": "baseline_ot",
+      "bonus": 2.75,
+      "cap": 28.0,
+      "multiplier": 1.25,
+      "decayStart": 4,
+      "decayStep": 0.25
+    },
+    {
+      "id": "CAP",
+      "stage": "hypothesis",
+      "marginRule": "cap_ot",
+      "bonus": 2.75,
+      "cap": 28.0,
+      "multiplier": 1.25,
+      "decayStart": 4,
+      "decayStep": 0.25
+    },
+    {
+      "id": "SOFT",
+      "stage": "hypothesis",
+      "marginRule": "soft_ot",
+      "bonus": 2.75,
+      "cap": 28.0,
+      "multiplier": 1.25,
+      "decayStart": 4,
+      "decayStep": 0.25
+    },
+    {
+      "id": "STATE_CAP",
+      "stage": "hypothesis",
+      "marginRule": "state_cap_ot",
+      "bonus": 2.75,
+      "cap": 28.0,
+      "multiplier": 1.25,
+      "decayStart": 4,
+      "decayStep": 0.25
+    },
+    {
+      "id": "STATE_SOFT",
+      "stage": "hypothesis",
+      "marginRule": "state_soft_ot",
+      "bonus": 2.75,
+      "cap": 28.0,
+      "multiplier": 1.25,
+      "decayStart": 4,
+      "decayStep": 0.25
+    }
+  ],
+  "quarterWeights": "Q1=1; Q2/Q3/Q4 thresholds 28/21/14; weight=1/(1+(max(0,abs(actual entering lead)-threshold)/14)^2)",
+  "softCap": "signed(min(abs(adjustedMargin),28)+0.25*max(0,abs(adjustedMargin)-28)); then add actual winner bonus 2.75",
+  "overtime": "valid extra-period arrays with regulation tie: target actual winner bonus only; no overtime margin credit",
+  "badQuarters": "cap28 fallback; actual score determines subsequent weights; no future quarter affects an earlier weight",
+  "allOtherRules": "original baseline +3 home, regular W4 start bets, prior W4=1 / W5=.75 / W6=.5 / W7=.25 / W8+=0; fixed 2022 bootstrap and candidate-specific prior-year finals",
+  "sample": "same 1858 explicit-close matches, 47 forecast periods, 2023/2024 complete supplied seasons and 2025 through W14; hypothetical -110",
+  "optimization": "none; primary and controls fixed before evaluation; previously inspected seasons are not a new holdout",
+  "hashes": {
+    "game_state_backtest.py": "0ade9435b08cc0f94e748b94b96e786a0264f4a5cc98421a74152bd624b88a3d",
+    "grid_search.py": "6003cd13d61943004c3cd2b4675e7b7f85643271f43237a85928dd8f733d1653",
+    "results\\weekly-audit.json": "f7cd8738714f564137e30b23f44acdbcf7d68e0164b5ee0297f99c889385dc7b",
+    "results\\game-by-game.csv": "8a0cb393458d67d45feb31d580734e4aa0842f4e3f433b6584d99d60c840bf62",
+    "results\\prior-2023.csv": "b6c9f4bb13bf09ad776c634d7dba022670fa72249f51db850418bf2ac0ccd00f",
+    "data\\games_2023.csv": "4fca19df9ff94fdbef8daa17942f8c087b6a8e0b525d1f6faed628fa64157fb4",
+    "data\\games_2024.csv": "26f8760b08d5be07ebb0a17bed40b1605c8edd414964ab2c7a933e3e76a50622",
+    "data\\games_2025.csv": "411f998aa2246c6ff68802b83afa251b7daaac2f68080be4494a099ad924be1a"
+  }
+}

@@ -40,6 +40,8 @@ Early-season ratings can be volatile. Separate schedule networks are only weakly
 
 ## Files
 
+- `backtests/`: [published historical experiments and results](backtests/README.md), including weekly walk-forward tests, parameter search, game-state variants, and spread/week breakdowns. These research scripts are separate from website publishing.
+
 - `ratings.py`: reusable calculation and publishing command.
 - `data/raw/2026/week-04.csv`: exact copy of the supplied Desktop download.
 - `data/generated/priors-2025.csv`: corrected ratings from the available 2025 export (regular season through Week 16), using the archived 2024 priors. This is the available export, not a claim of a complete final-season dataset.
@@ -55,6 +57,8 @@ The archived `cbd.ipynb` calls these "Week 0" pseudo-games against a zero-rated 
 The superseded local Week 4 snapshot with weight 0.00005 is preserved in `archive/model-revisions/2026-week04-prior-0.00005/`. It was replaced before deployment and is not presented as a different week on the site.
 
 ## Social graphics
+
+Rank movement, sparklines, and team trajectories use hypothetical historical ranks recalculated with the selected week's scoring rule. Each comparison retains that historical week's original game set and prior weight. `comparison_history.py` writes separate `data/comparisons/` files when publishing; original weekly snapshots remain immutable and are still displayed when selected. These comparisons do not use later game results.
 
 Weekly updates generate the latest 1200x630 PNG graphics while retaining older published graphics (FBS Top 10, highest-combined-rating upcoming FBS matchups, and toughest schedules played) in the website's `tanner-ratings/share/SEASON/week-NN/` directory. The page offers PNG downloads and embeds the latest Top 10 in static Open Graph/Twitter metadata for link previews. Week selection changes the on-page graphics; link previews always represent the latest published week. Platforms may cache previews.
 

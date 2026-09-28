@@ -1,0 +1,23 @@
+{
+  "2023": {
+    "completedGames": 3724,
+    "validHalves": 3687,
+    "FBSGames": 910,
+    "validFBSHalves": 910,
+    "lastFBSGame": "2024-01-09T00:30:00.000Z"
+  },
+  "2024": {
+    "completedGames": 3799,
+    "validHalves": 3764,
+    "FBSGames": 919,
+    "validFBSHalves": 918,
+    "lastFBSGame": "2025-01-21T00:30:00.000Z"
+  },
+  "2025": {
+    "completedGames": 3731,
+    "validHalves": 3705,
+    "FBSGames": 878,
+    "validFBSHalves": 878,
+    "lastFBSGame": "2025-11-30T04:00:00.000Z"
+  }
+}

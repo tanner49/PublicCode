@@ -1,0 +1,818 @@
+{
+  "rules": {
+    "model": "halftime1.25",
+    "winnerBonus": 2.75,
+    "homeAdvantage": 3,
+    "riskPerBet": 110,
+    "winProfit": 100,
+    "firstBetWeek": 4,
+    "priorWeights": {
+      "4": 1,
+      "5": 0.75,
+      "6": 0.5,
+      "7": 0.25,
+      "8+": 0
+    },
+    "bookProviderId": "58",
+    "rounding": "stored 2 decimals, displayed nearest half; ties away from zero",
+    "zeroEdge": "pass",
+    "scope": "completed supplied games involving at least one FBS team",
+    "cutoff": "before first kickoff of each regular week / postseason Monday-Sunday period; require 12h since training kickoff"
+  },
+  "bootstrap": {
+    "games": 3709,
+    "model": "2022 cap28; no prior; no quarter scores available",
+    "sourceSha256": "876f432b4e5f1208ce6b360103fa8bb20d1941d0a64fae9ba1d14d7a0d8859c5"
+  },
+  "inputHashes": {
+    "games_2023.csv": "4fca19df9ff94fdbef8daa17942f8c087b6a8e0b525d1f6faed628fa64157fb4",
+    "games_2024.csv": "26f8760b08d5be07ebb0a17bed40b1605c8edd414964ab2c7a933e3e76a50622",
+    "games_2025.csv": "411f998aa2246c6ff68802b83afa251b7daaac2f68080be4494a099ad924be1a"
+  },
+  "productionCodeSha256": "e15037231a5b6005b5921a8a160a0a031b38d73ee7e1704abe077bb3299559b8",
+  "coverage": {
+    "2023": {
+      "archived_current": 69,
+      "explicit_close": 569,
+      "no_provider_58": 15,
+      "team_id_mismatch": 3
+    },
+    "2024": {
+      "no_provider_58": 10,
+      "explicit_close": 661,
+      "archived_current": 3,
+      "no_valid_spread": 2,
+      "team_id_mismatch": 2
+    },
+    "2025": {
+      "explicit_close": 628,
+      "no_valid_spread": 1
+    }
+  },
+  "noModel": [],
+  "lastCompletedGame": {
+    "2023": "2024-01-09T00:30:00.000Z",
+    "2024": "2025-01-21T00:30:00.000Z",
+    "2025": "2025-11-30T04:00:00.000Z"
+  },
+  "samples": {
+    "explicitClose": {
+      "all": {
+        "halftime1.25": {
+          "games": 1858,
+          "wins": 911,
+          "losses": 884,
+          "pushes": 0,
+          "passes": 63,
+          "winRate": 0.5075208913649025,
+          "profit": -6140,
+          "risked": 197450,
+          "ROI": -0.03109648012154976,
+          "winRateWilson95": [
+            0.48440160471751365,
+            0.5306080560102866
+          ]
+        },
+        "cap28": {
+          "games": 1858,
+          "wins": 896,
+          "losses": 870,
+          "pushes": 0,
+          "passes": 92,
+          "winRate": 0.507361268403171,
+          "profit": -6100,
+          "risked": 194260,
+          "ROI": -0.03140121486667353,
+          "winRateWilson95": [
+            0.4840534429281875,
+            0.5306371384628286
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 1858,
+          "wins": 942,
+          "losses": 916,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.5069967707212056,
+          "profit": -6560,
+          "risked": 204380,
+          "ROI": -0.032097074077698406,
+          "winRateWilson95": [
+            0.4842730052252346,
+            0.5296916639343344
+          ]
+        }
+      },
+      "2023": {
+        "halftime1.25": {
+          "games": 569,
+          "wins": 270,
+          "losses": 285,
+          "pushes": 0,
+          "passes": 14,
+          "winRate": 0.4864864864864865,
+          "profit": -4350,
+          "risked": 61050,
+          "ROI": -0.07125307125307126,
+          "winRateWilson95": [
+            0.445139716167336,
+            0.5280190397494959
+          ]
+        },
+        "cap28": {
+          "games": 569,
+          "wins": 268,
+          "losses": 274,
+          "pushes": 0,
+          "passes": 27,
+          "winRate": 0.4944649446494465,
+          "profit": -3340,
+          "risked": 59620,
+          "ROI": -0.056021469305602145,
+          "winRateWilson95": [
+            0.452561002886424,
+            0.5364467943355694
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 569,
+          "wins": 275,
+          "losses": 294,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.4833040421792619,
+          "profit": -4840,
+          "risked": 62590,
+          "ROI": -0.0773286467486819,
+          "winRateWilson95": [
+            0.4424936853622208,
+            0.5243383242498014
+          ]
+        }
+      },
+      "2024": {
+        "halftime1.25": {
+          "games": 661,
+          "wins": 314,
+          "losses": 315,
+          "pushes": 0,
+          "passes": 32,
+          "winRate": 0.49920508744038156,
+          "profit": -3250,
+          "risked": 69190,
+          "ROI": -0.04697210579563521,
+          "winRateWilson95": [
+            0.4602542956086552,
+            0.5381655297898521
+          ]
+        },
+        "cap28": {
+          "games": 661,
+          "wins": 318,
+          "losses": 311,
+          "pushes": 0,
+          "passes": 32,
+          "winRate": 0.505564387917329,
+          "profit": -2410,
+          "risked": 69190,
+          "ROI": -0.034831623066917186,
+          "winRateWilson95": [
+            0.4665773428357585,
+            0.5444838793746897
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 661,
+          "wins": 330,
+          "losses": 331,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.49924357034795763,
+          "profit": -3410,
+          "risked": 72710,
+          "ROI": -0.046898638426626324,
+          "winRateWilson95": [
+            0.4612413817690163,
+            0.5372545002390434
+          ]
+        }
+      },
+      "2025": {
+        "halftime1.25": {
+          "games": 628,
+          "wins": 327,
+          "losses": 284,
+          "pushes": 0,
+          "passes": 17,
+          "winRate": 0.5351882160392799,
+          "profit": 1460,
+          "risked": 67210,
+          "ROI": 0.02172295789317066,
+          "winRateWilson95": [
+            0.4955439627126344,
+            0.5743927655009718
+          ]
+        },
+        "cap28": {
+          "games": 628,
+          "wins": 310,
+          "losses": 285,
+          "pushes": 0,
+          "passes": 33,
+          "winRate": 0.5210084033613446,
+          "profit": -350,
+          "risked": 65450,
+          "ROI": -0.0053475935828877,
+          "winRateWilson95": [
+            0.4808624973277969,
+            0.5608847792372439
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 628,
+          "wins": 337,
+          "losses": 291,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.5366242038216561,
+          "profit": 1690,
+          "risked": 69080,
+          "ROI": 0.02446438911407064,
+          "winRateWilson95": [
+            0.49751914643295153,
+            0.575283926802947
+          ]
+        }
+      },
+      "FBSvsFBS": {
+        "halftime1.25": {
+          "games": 1806,
+          "wins": 878,
+          "losses": 866,
+          "pushes": 0,
+          "passes": 62,
+          "winRate": 0.5034403669724771,
+          "profit": -7460,
+          "risked": 191840,
+          "ROI": -0.038886572143452876,
+          "winRateWilson95": [
+            0.47999284819622273,
+            0.5268727630635633
+          ]
+        },
+        "cap28": {
+          "games": 1806,
+          "wins": 866,
+          "losses": 850,
+          "pushes": 0,
+          "passes": 90,
+          "winRate": 0.5046620046620046,
+          "profit": -6900,
+          "risked": 188760,
+          "ROI": -0.03655435473617292,
+          "winRateWilson95": [
+            0.48102206328512354,
+            0.5282811198181442
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 1806,
+          "wins": 908,
+          "losses": 898,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.5027685492801772,
+          "profit": -7980,
+          "risked": 198660,
+          "ROI": -0.040169133192389,
+          "winRateWilson95": [
+            0.4797275154557059,
+            0.5257978303978013
+          ]
+        }
+      },
+      "FBSvsOther": {
+        "halftime1.25": {
+          "games": 52,
+          "wins": 33,
+          "losses": 18,
+          "pushes": 0,
+          "passes": 1,
+          "winRate": 0.6470588235294118,
+          "profit": 1320,
+          "risked": 5610,
+          "ROI": 0.23529411764705882,
+          "winRateWilson95": [
+            0.5098605845450561,
+            0.7636551154847888
+          ]
+        },
+        "cap28": {
+          "games": 52,
+          "wins": 30,
+          "losses": 20,
+          "pushes": 0,
+          "passes": 2,
+          "winRate": 0.6,
+          "profit": 800,
+          "risked": 5500,
+          "ROI": 0.14545454545454545,
+          "winRateWilson95": [
+            0.4618143774758974,
+            0.7239161026974317
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 52,
+          "wins": 34,
+          "losses": 18,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.6538461538461539,
+          "profit": 1420,
+          "risked": 5720,
+          "ROI": 0.24825174825174826,
+          "winRateWilson95": [
+            0.5180355424727052,
+            0.7684899233353379
+          ]
+        }
+      },
+      "regularOnly": {
+        "halftime1.25": {
+          "games": 1775,
+          "wins": 874,
+          "losses": 842,
+          "pushes": 0,
+          "passes": 59,
+          "winRate": 0.5093240093240093,
+          "profit": -5220,
+          "risked": 188760,
+          "ROI": -0.02765416401780038,
+          "winRateWilson95": [
+            0.4856767298466079,
+            0.5329296363599275
+          ]
+        },
+        "cap28": {
+          "games": 1775,
+          "wins": 859,
+          "losses": 827,
+          "pushes": 0,
+          "passes": 89,
+          "winRate": 0.5094899169632265,
+          "profit": -5070,
+          "risked": 185460,
+          "ROI": -0.027337431252022,
+          "winRateWilson95": [
+            0.48563323966152794,
+            0.5333034480572905
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 1775,
+          "wins": 904,
+          "losses": 871,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.5092957746478873,
+          "profit": -5410,
+          "risked": 195250,
+          "ROI": -0.027708066581306017,
+          "winRateWilson95": [
+            0.4860443437805679,
+            0.5325070565347126
+          ]
+        }
+      },
+      "postseasonOnly": {
+        "halftime1.25": {
+          "games": 83,
+          "wins": 37,
+          "losses": 42,
+          "pushes": 0,
+          "passes": 4,
+          "winRate": 0.46835443037974683,
+          "profit": -920,
+          "risked": 8690,
+          "ROI": -0.10586881472957423,
+          "winRateWilson95": [
+            0.3623578415657803,
+            0.5772859060072526
+          ]
+        },
+        "cap28": {
+          "games": 83,
+          "wins": 37,
+          "losses": 43,
+          "pushes": 0,
+          "passes": 3,
+          "winRate": 0.4625,
+          "profit": -1030,
+          "risked": 8800,
+          "ROI": -0.11704545454545455,
+          "winRateWilson95": [
+            0.3574799356278552,
+            0.5709564240873091
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 83,
+          "wins": 38,
+          "losses": 45,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.4578313253012048,
+          "profit": -1150,
+          "risked": 9130,
+          "ROI": -0.12595837897042717,
+          "winRateWilson95": [
+            0.35489376982070897,
+            0.5644995695466861
+          ]
+        }
+      },
+      "maxDrawdown": 9820
+    },
+    "includingArchivedCurrent": {
+      "all": {
+        "halftime1.25": {
+          "games": 1930,
+          "wins": 938,
+          "losses": 925,
+          "pushes": 0,
+          "passes": 67,
+          "winRate": 0.5034889962426194,
+          "profit": -7950,
+          "risked": 204930,
+          "ROI": -0.03879373444590836,
+          "winRateWilson95": [
+            0.4808012541367701,
+            0.5261623795122341
+          ]
+        },
+        "cap28": {
+          "games": 1930,
+          "wins": 931,
+          "losses": 904,
+          "pushes": 0,
+          "passes": 95,
+          "winRate": 0.5073569482288829,
+          "profit": -6340,
+          "risked": 201850,
+          "ROI": -0.03140946247213277,
+          "winRateWilson95": [
+            0.4844909041154,
+            0.530192254060355
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 1930,
+          "wins": 970,
+          "losses": 960,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.5025906735751295,
+          "profit": -8600,
+          "risked": 212300,
+          "ROI": -0.04050871408384362,
+          "winRateWilson95": [
+            0.4803010812517787,
+            0.5248699734664806
+          ]
+        }
+      },
+      "2023": {
+        "halftime1.25": {
+          "games": 638,
+          "wins": 296,
+          "losses": 324,
+          "pushes": 0,
+          "passes": 18,
+          "winRate": 0.4774193548387097,
+          "profit": -6040,
+          "risked": 68200,
+          "ROI": -0.08856304985337243,
+          "winRateWilson95": [
+            0.4383625244945822,
+            0.5167542770515493
+          ]
+        },
+        "cap28": {
+          "games": 638,
+          "wins": 302,
+          "losses": 306,
+          "pushes": 0,
+          "passes": 30,
+          "winRate": 0.4967105263157895,
+          "profit": -3460,
+          "risked": 66880,
+          "ROI": -0.05173444976076555,
+          "winRateWilson95": [
+            0.45711347518475454,
+            0.536348883499291
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 638,
+          "wins": 302,
+          "losses": 336,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.47335423197492166,
+          "profit": -6760,
+          "risked": 70180,
+          "ROI": -0.0963237389569678,
+          "winRateWilson95": [
+            0.4348867652794037,
+            0.5121406516430387
+          ]
+        }
+      },
+      "2024": {
+        "halftime1.25": {
+          "games": 664,
+          "wins": 315,
+          "losses": 317,
+          "pushes": 0,
+          "passes": 32,
+          "winRate": 0.49841772151898733,
+          "profit": -3370,
+          "risked": 69520,
+          "ROI": -0.04847525891829689,
+          "winRateWilson95": [
+            0.4595638164461486,
+            0.5372907453754265
+          ]
+        },
+        "cap28": {
+          "games": 664,
+          "wins": 319,
+          "losses": 313,
+          "pushes": 0,
+          "passes": 32,
+          "winRate": 0.504746835443038,
+          "profit": -2530,
+          "risked": 69520,
+          "ROI": -0.03639240506329114,
+          "winRateWilson95": [
+            0.46585624022420613,
+            0.5435800743110686
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 664,
+          "wins": 331,
+          "losses": 333,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.49849397590361444,
+          "profit": -3530,
+          "risked": 73040,
+          "ROI": -0.048329682365826944,
+          "winRateWilson95": [
+            0.46058166769398823,
+            0.5364236095711703
+          ]
+        }
+      },
+      "2025": {
+        "halftime1.25": {
+          "games": 628,
+          "wins": 327,
+          "losses": 284,
+          "pushes": 0,
+          "passes": 17,
+          "winRate": 0.5351882160392799,
+          "profit": 1460,
+          "risked": 67210,
+          "ROI": 0.02172295789317066,
+          "winRateWilson95": [
+            0.4955439627126344,
+            0.5743927655009718
+          ]
+        },
+        "cap28": {
+          "games": 628,
+          "wins": 310,
+          "losses": 285,
+          "pushes": 0,
+          "passes": 33,
+          "winRate": 0.5210084033613446,
+          "profit": -350,
+          "risked": 65450,
+          "ROI": -0.0053475935828877,
+          "winRateWilson95": [
+            0.4808624973277969,
+            0.5608847792372439
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 628,
+          "wins": 337,
+          "losses": 291,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.5366242038216561,
+          "profit": 1690,
+          "risked": 69080,
+          "ROI": 0.02446438911407064,
+          "winRateWilson95": [
+            0.49751914643295153,
+            0.575283926802947
+          ]
+        }
+      },
+      "FBSvsFBS": {
+        "halftime1.25": {
+          "games": 1874,
+          "wins": 904,
+          "losses": 905,
+          "pushes": 0,
+          "passes": 65,
+          "winRate": 0.49972360420121614,
+          "profit": -9150,
+          "risked": 198990,
+          "ROI": -0.04598221016131464,
+          "winRateWilson95": [
+            0.4767077517195384,
+            0.5227406280628554
+          ]
+        },
+        "cap28": {
+          "games": 1874,
+          "wins": 900,
+          "losses": 881,
+          "pushes": 0,
+          "passes": 93,
+          "winRate": 0.5053340819764177,
+          "profit": -6910,
+          "risked": 195910,
+          "ROI": -0.035271298045020674,
+          "winRateWilson95": [
+            0.48212764249939144,
+            0.528517560695605
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 1874,
+          "wins": 935,
+          "losses": 939,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.4989327641408751,
+          "profit": -9790,
+          "risked": 206140,
+          "ROI": -0.047491995731056565,
+          "winRateWilson95": [
+            0.47632041318044416,
+            0.5215494815429838
+          ]
+        }
+      },
+      "FBSvsOther": {
+        "halftime1.25": {
+          "games": 56,
+          "wins": 34,
+          "losses": 20,
+          "pushes": 0,
+          "passes": 2,
+          "winRate": 0.6296296296296297,
+          "profit": 1200,
+          "risked": 5940,
+          "ROI": 0.20202020202020202,
+          "winRateWilson95": [
+            0.49627467352267035,
+            0.7457662480833944
+          ]
+        },
+        "cap28": {
+          "games": 56,
+          "wins": 31,
+          "losses": 23,
+          "pushes": 0,
+          "passes": 2,
+          "winRate": 0.5740740740740741,
+          "profit": 570,
+          "risked": 5940,
+          "ROI": 0.09595959595959595,
+          "winRateWilson95": [
+            0.4416273382599042,
+            0.6966817598007043
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 56,
+          "wins": 35,
+          "losses": 21,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.625,
+          "profit": 1190,
+          "risked": 6160,
+          "ROI": 0.19318181818181818,
+          "winRateWilson95": [
+            0.4940536590850217,
+            0.7398978567352883
+          ]
+        }
+      },
+      "regularOnly": {
+        "halftime1.25": {
+          "games": 1846,
+          "wins": 901,
+          "losses": 882,
+          "pushes": 0,
+          "passes": 63,
+          "winRate": 0.5053280987100393,
+          "profit": -6920,
+          "risked": 196130,
+          "ROI": -0.0352827206444705,
+          "winRateWilson95": [
+            0.48213466661523524,
+            0.5284986214731997
+          ]
+        },
+        "cap28": {
+          "games": 1846,
+          "wins": 894,
+          "losses": 860,
+          "pushes": 0,
+          "passes": 92,
+          "winRate": 0.5096921322690992,
+          "profit": -5200,
+          "risked": 192940,
+          "ROI": -0.026951383849901523,
+          "winRateWilson95": [
+            0.48630159205856605,
+            0.5330403115183413
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 1846,
+          "wins": 932,
+          "losses": 914,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.504875406283857,
+          "profit": -7340,
+          "risked": 203060,
+          "ROI": -0.036146951639909386,
+          "winRateWilson95": [
+            0.4820812679090111,
+            0.5276492957099249
+          ]
+        }
+      },
+      "postseasonOnly": {
+        "halftime1.25": {
+          "games": 84,
+          "wins": 37,
+          "losses": 43,
+          "pushes": 0,
+          "passes": 4,
+          "winRate": 0.4625,
+          "profit": -1030,
+          "risked": 8800,
+          "ROI": -0.11704545454545455,
+          "winRateWilson95": [
+            0.3574799356278552,
+            0.5709564240873091
+          ]
+        },
+        "cap28": {
+          "games": 84,
+          "wins": 37,
+          "losses": 44,
+          "pushes": 0,
+          "passes": 3,
+          "winRate": 0.4567901234567901,
+          "profit": -1140,
+          "risked": 8910,
+          "ROI": -0.12794612794612795,
+          "winRateWilson95": [
+            0.3527333268436488,
+            0.5647598410332264
+          ]
+        },
+        "halftimeUnrounded": {
+          "games": 84,
+          "wins": 38,
+          "losses": 46,
+          "pushes": 0,
+          "passes": 0,
+          "winRate": 0.4523809523809524,
+          "profit": -1260,
+          "risked": 9240,
+          "ROI": -0.13636363636363635,
+          "winRateWilson95": [
+            0.35035720141579585,
+            0.5585696298617905
+          ]
+        }
+      },
+      "maxDrawdown": 10950
+    }
+  }
+}

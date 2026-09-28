@@ -1,0 +1,75 @@
+{
+  "predictionMetrics": {
+    "C00": {
+      "MAE": 12.808167645491707,
+      "winnerCorrect": 1344,
+      "games": 1858,
+      "changedSidesOnCommonBets": 0,
+      "variantWinsOnFlips": 0,
+      "baselineWinsOnFlips": 0
+    },
+    "OT": {
+      "MAE": 12.794561952679441,
+      "winnerCorrect": 1342,
+      "games": 1858,
+      "changedSidesOnCommonBets": 17,
+      "variantWinsOnFlips": 9,
+      "baselineWinsOnFlips": 8
+    },
+    "CAP": {
+      "MAE": 12.639310238771436,
+      "winnerCorrect": 1320,
+      "games": 1858,
+      "changedSidesOnCommonBets": 256,
+      "variantWinsOnFlips": 131,
+      "baselineWinsOnFlips": 125
+    },
+    "SOFT": {
+      "MAE": 12.630420709067607,
+      "winnerCorrect": 1325,
+      "games": 1858,
+      "changedSidesOnCommonBets": 167,
+      "variantWinsOnFlips": 87,
+      "baselineWinsOnFlips": 80
+    },
+    "STATE_CAP": {
+      "MAE": 12.65794385320189,
+      "winnerCorrect": 1326,
+      "games": 1858,
+      "changedSidesOnCommonBets": 252,
+      "variantWinsOnFlips": 126,
+      "baselineWinsOnFlips": 126
+    },
+    "STATE_SOFT": {
+      "MAE": 12.65677065320522,
+      "winnerCorrect": 1327,
+      "games": 1858,
+      "changedSidesOnCommonBets": 177,
+      "variantWinsOnFlips": 86,
+      "baselineWinsOnFlips": 91
+    }
+  },
+  "inputChecks": {
+    "2023": {
+      "allCompletedGames": 3724,
+      "validQuarterGames": 3687,
+      "validOvertimeGames": 125,
+      "FBSOvertimeGames": 36,
+      "primaryTargetOpposesWinner": 4
+    },
+    "2024": {
+      "allCompletedGames": 3799,
+      "validQuarterGames": 3764,
+      "validOvertimeGames": 122,
+      "FBSOvertimeGames": 39,
+      "primaryTargetOpposesWinner": 0
+    },
+    "2025": {
+      "allCompletedGames": 3731,
+      "validQuarterGames": 3705,
+      "validOvertimeGames": 139,
+      "FBSOvertimeGames": 42,
+      "primaryTargetOpposesWinner": 1
+    }
+  }
+}

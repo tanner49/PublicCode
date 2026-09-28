@@ -1,0 +1,1181 @@
+season,id,home,away,ESPNStatus,ESPNHomeSpread,crosscheckHomeSpread,difference,halftime1.25Result
+2023,401520277,Western Kentucky,Middle Tennessee,explicit_close,-6.5,-5.5,-1.0,W
+2023,401531339,Tulsa,Temple,explicit_close,-3.5,-3.5,0.0,W
+2023,401520276,Sam Houston,Jacksonville State,explicit_close,6.5,6.5,0.0,W
+2023,401525512,NC State,Louisville,explicit_close,3.5,3.0,0.5,P
+2023,401520278,UTEP,Louisiana Tech,explicit_close,1.5,1.0,0.5,L
+2023,401524020,Oregon State,Utah,explicit_close,-3.5,-3.0,-0.5,L
+2023,401525851,BYU,Cincinnati,explicit_close,-1.5,-2.5,1.0,PASS
+2023,401520279,Arkansas,Texas A&M,explicit_close,6.5,6.5,0.0,L
+2023,401520282,Kentucky,Florida,explicit_close,-1.5,-2.5,1.0,PASS
+2023,401520284,Minnesota,Louisiana,explicit_close,-9.5,-10.0,0.5,W
+2023,401520287,Northwestern,Penn State,explicit_close,26.5,25.5,1.0,W
+2023,401520292,UConn,Utah State,explicit_close,3.5,4.5,-1.0,L
+2023,401524023,Colorado,USC,explicit_close,20.5,21.5,-1.0,W
+2023,401525514,Syracuse,Clemson,explicit_close,7.5,7.0,0.5,L
+2023,401531370,Tulane,UAB,explicit_close,-22.5,-22.0,-0.5,L
+2023,401531880,James Madison,South Alabama,explicit_close,3.5,-3.5,7.0,W
+2023,401532412,Akron,Buffalo,explicit_close,-2.5,-2.5,0.0,W
+2023,401532410,Central Michigan,Eastern Michigan,explicit_close,-9.5,-7.5,-2.0,L
+2023,401525513,Boston College,Virginia,explicit_close,-4.5,-3.0,-1.5,P
+2023,401532413,Kent State,Miami (OH),explicit_close,14.5,14.5,0.0,L
+2023,401524022,California,Arizona State,explicit_close,-13.5,-11.5,-2.0,L
+2023,401520280,Auburn,Georgia,explicit_close,14.5,14.5,0.0,L
+2023,401520283,Maryland,Indiana,explicit_close,-14.5,-14.0,-0.5,W
+2023,401520286,Nebraska,Michigan,explicit_close,17.5,17.5,0.0,W
+2023,401520289,Purdue,Illinois,explicit_close,2.5,-1.0,3.5,L
+2023,401525515,Georgia Tech,Bowling Green,explicit_close,-21.5,-22.5,1.0,W
+2023,401525854,Texas,Kansas,explicit_close,-15.5,-17.0,1.5,L
+2023,401525855,Texas Tech,Houston,explicit_close,-8.5,-10.0,1.5,PASS
+2023,401525856,UCF,Baylor,explicit_close,-7.5,-11.5,4.0,L
+2023,401526836,Massachusetts,Arkansas State,explicit_close,-2.5,-1.5,-1.0,W
+2023,401531424,Navy,South Florida,explicit_close,-3.5,-4.0,0.5,W
+2023,401531881,Marshall,Old Dominion,explicit_close,-14.5,-14.0,-0.5,L
+2023,401532409,Western Michigan,Ball State,explicit_close,-1.5,-1.0,-0.5,L
+2023,401532411,Toledo,Northern Illinois,explicit_close,-13.5,-13.5,0.0,L
+2023,401520293,Vanderbilt,Missouri,explicit_close,14.5,13.5,1.0,W
+2023,401531429,Memphis,Boise State,explicit_close,-2.5,-3.5,1.0,W
+2023,401532586,UNLV,Hawai'i,explicit_close,-10.5,-11.0,0.5,W
+2023,401532588,Wyoming,New Mexico,explicit_close,-14.5,-14.0,-0.5,L
+2023,401520288,Ole Miss,LSU,explicit_close,2.5,3.0,-0.5,W
+2023,401524024,Stanford,Oregon,explicit_close,26.5,27.0,-0.5,W
+2023,401525852,Oklahoma,Iowa State,explicit_close,-20.5,-20.0,-0.5,W
+2023,401531414,Rice,East Carolina,explicit_close,-3.5,-3.0,-0.5,L
+2023,401531878,Georgia Southern,Coastal Carolina,explicit_close,-6.5,-6.0,-0.5,L
+2023,401531879,Georgia State,Troy,explicit_close,-1.5,-1.0,-0.5,L
+2023,401531883,Southern Miss,Texas State,explicit_close,6.5,7.0,-0.5,W
+2023,401520281,Iowa,Michigan State,explicit_close,-10.5,-12.0,1.5,PASS
+2023,401520291,Tennessee,South Carolina,explicit_close,-12.5,-13.0,0.5,L
+2023,401525438,Duke,Notre Dame,explicit_close,5.5,5.5,0.0,L
+2023,401531404,SMU,Charlotte,explicit_close,-21.5,-23.5,2.0,L
+2023,401525516,Virginia Tech,Pittsburgh,explicit_close,2.5,2.5,0.0,L
+2023,401525853,TCU,West Virginia,explicit_close,-11.5,-11.0,-0.5,PASS
+2023,401531882,UL Monroe,App State,explicit_close,13.5,13.5,0.0,W
+2023,401532589,Air Force,San Diego State,explicit_close,-11.5,-11.0,-0.5,W
+2023,401520285,Mississippi State,Alabama,explicit_close,16.5,14.0,2.5,W
+2023,401524021,Arizona,Washington,explicit_close,19.5,17.5,2.0,L
+2023,401532587,Fresno State,Nevada,explicit_close,-25.5,-24.5,-1.0,L
+2023,401520294,Middle Tennessee,Jacksonville State,explicit_close,-2.5,-3.0,0.5,W
+2023,401520297,New Mexico State,Florida International,explicit_close,-6.5,-6.5,0.0,L
+2023,401520296,Liberty,Sam Houston,explicit_close,-21.5,-21.5,0.0,L
+2023,401520295,Louisiana Tech,Western Kentucky,explicit_close,6.5,6.0,0.5,W
+2023,401525857,Oklahoma State,Kansas State,explicit_close,11.5,11.5,0.0,L
+2023,401520301,Illinois,Nebraska,explicit_close,-2.5,-3.0,0.5,L
+2023,401520298,Army,Boston College,explicit_close,-2.5,-2.0,-0.5,L
+2023,401520304,Mississippi State,Western Michigan,explicit_close,-21.5,-21.0,-0.5,L
+2023,401520305,Missouri,LSU,explicit_close,5.5,6.5,-1.0,L
+2023,401520307,Ohio State,Maryland,explicit_close,-17.5,-17.0,-0.5,L
+2023,401520311,Wisconsin,Rutgers,explicit_close,-11.5,-13.0,1.5,W
+2023,401525861,Texas,Oklahoma,explicit_close,-3.5,-4.0,0.5,W
+2023,401526837,Massachusetts,Toledo,explicit_close,19.5,19.0,0.5,L
+2023,401525521,NC State,Marshall,explicit_close,-6.5,-6.5,0.0,L
+2023,401531389,Temple,UTSA,explicit_close,14.5,14.0,0.5,L
+2023,401532415,Buffalo,Central Michigan,explicit_close,2.5,2.5,0.0,PASS
+2023,401524028,UCLA,Washington State,explicit_close,-3.5,-3.5,0.0,PASS
+2023,401520302,Iowa,Purdue,explicit_close,-2.5,-2.0,-0.5,W
+2023,401520310,Texas A&M,Alabama,explicit_close,2.5,2.5,0.0,W
+2023,401525517,Clemson,Wake Forest,explicit_close,-21.5,-21.0,-0.5,W
+2023,401525518,Florida State,Virginia Tech,explicit_close,-23.5,-24.0,0.5,PASS
+2023,401525520,North Carolina,Syracuse,explicit_close,-8.5,-9.0,0.5,L
+2023,401531433,Navy,North Texas,explicit_close,-6.5,-6.5,0.0,L
+2023,401531884,Louisiana,Texas State,explicit_close,2.5,-1.0,3.5,L
+2023,401532414,Eastern Michigan,Ball State,explicit_close,-1.5,-2.0,0.5,W
+2023,401532416,Miami (OH),Bowling Green,explicit_close,-7.5,-7.5,0.0,L
+2023,401532417,Ohio,Kent State,explicit_close,-24.5,-24.0,-0.5,PASS
+2023,401532418,Akron,Northern Illinois,explicit_close,3.5,4.0,-0.5,W
+2023,401520299,Florida,Vanderbilt,explicit_close,-17.5,-18.5,1.0,L
+2023,401525860,Kansas,UCF,explicit_close,2.5,2.0,0.5,W
+2023,401531380,UAB,South Florida,explicit_close,3.5,3.0,0.5,L
+2023,401531887,Troy,Arkansas State,explicit_close,-15.5,-15.5,0.0,W
+2023,401520309,Rice,UConn,explicit_close,-10.5,-10.0,-0.5,L
+2023,401531340,Florida Atlantic,Tulsa,explicit_close,-2.5,-2.5,0.0,L
+2023,401524026,Arizona State,Colorado,explicit_close,3.5,3.0,0.5,P
+2023,401520300,Georgia,Kentucky,explicit_close,-14.5,-14.5,0.0,L
+2023,401531885,UL Monroe,South Alabama,explicit_close,10.5,11.0,-0.5,L
+2023,401531886,Southern Miss,Old Dominion,explicit_close,-2.5,-3.0,0.5,W
+2023,401520303,Minnesota,Michigan,explicit_close,19.5,18.5,1.0,W
+2023,401520308,Ole Miss,Arkansas,explicit_close,-13.5,-13.5,0.0,W
+2023,401525439,Louisville,Notre Dame,explicit_close,6.5,6.0,0.5,L
+2023,401525519,Miami,Georgia Tech,explicit_close,-19.5,-19.0,-0.5,L
+2023,401525858,Baylor,Texas Tech,explicit_close,2.5,2.5,0.0,W
+2023,401525859,Iowa State,TCU,explicit_close,6.5,6.5,0.0,PASS
+2023,401532590,Utah State,Colorado State,explicit_close,3.5,3.0,0.5,W
+2023,401532591,Wyoming,Fresno State,explicit_close,5.5,6.0,-0.5,W
+2023,401532592,Boise State,San José State,explicit_close,-8.5,-7.5,-1.0,W
+2023,401524027,California,Oregon State,explicit_close,7.5,7.5,0.0,W
+2023,401524025,USC,Arizona,explicit_close,-22.5,-21.0,-1.5,L
+2023,401520313,Middle Tennessee,Louisiana Tech,explicit_close,-3.5,-3.0,-0.5,W
+2023,401520312,Jacksonville State,Liberty,explicit_close,6.5,7.0,-0.5,L
+2023,401531888,App State,Coastal Carolina,explicit_close,-4.5,-4.5,0.0,W
+2023,401520314,Florida International,UTEP,explicit_close,-3.5,-3.5,0.0,W
+2023,401520315,New Mexico State,Sam Houston,explicit_close,-3.5,-4.0,0.5,L
+2023,401525862,Houston,West Virginia,explicit_close,2.5,3.0,-0.5,L
+2023,401531415,East Carolina,SMU,explicit_close,10.5,11.5,-1.0,W
+2023,401531371,Memphis,Tulane,explicit_close,4.5,4.5,0.0,L
+2023,401532594,Utah State,Fresno State,explicit_close,5.5,5.5,0.0,L
+2023,401524029,Colorado,Stanford,explicit_close,-13.5,-13.0,-0.5,L
+2023,401520316,Alabama,Arkansas,explicit_close,-19.5,-19.5,0.0,W
+2023,401520321,Michigan,Indiana,explicit_close,-32.5,-33.5,1.0,W
+2023,401520323,Purdue,Ohio State,explicit_close,17.5,17.5,0.0,W
+2023,401520324,Rutgers,Michigan State,explicit_close,-3.5,-4.5,1.0,L
+2023,401520327,Vanderbilt,Georgia,explicit_close,33.5,32.5,1.0,W
+2023,401525524,Florida State,Syracuse,explicit_close,-19.5,-19.5,0.0,L
+2023,401525863,Cincinnati,Iowa State,explicit_close,-3.5,-5.0,1.5,W
+2023,401531390,North Texas,Temple,explicit_close,-6.5,-6.0,-0.5,L
+2023,401531890,James Madison,Georgia Southern,explicit_close,-5.5,-6.0,0.5,L
+2023,401532422,Eastern Michigan,Kent State,explicit_close,-7.5,-7.5,0.0,W
+2023,401531405,Charlotte,Navy,explicit_close,3.5,3.0,0.5,L
+2023,401532419,Ball State,Toledo,explicit_close,17.5,17.5,0.0,L
+2023,401524033,Utah,California,explicit_close,-9.5,-9.0,-0.5,W
+2023,401520317,Army,Troy,explicit_close,6.5,6.5,0.0,W
+2023,401520320,Maryland,Illinois,explicit_close,-13.5,-13.0,-0.5,L
+2023,401520322,Penn State,Massachusetts,explicit_close,-41.5,-42.0,0.5,W
+2023,401520325,South Carolina,Florida,explicit_close,-1.5,1.0,-2.5,L
+2023,401520326,Tennessee,Texas A&M,explicit_close,-3.5,-3.0,-0.5,W
+2023,401524034,Washington,Oregon,explicit_close,-3.5,-3.5,0.0,PASS
+2023,401525527,Virginia Tech,Wake Forest,explicit_close,-1.5,-1.5,0.0,L
+2023,401525864,Oklahoma State,Kansas,explicit_close,2.5,3.0,-0.5,L
+2023,401525865,TCU,BYU,explicit_close,-5.5,-5.0,-0.5,L
+2023,401531420,South Florida,Florida Atlantic,explicit_close,-2.5,-2.5,0.0,L
+2023,401532420,Central Michigan,Akron,explicit_close,-10.5,-10.5,0.0,L
+2023,401532421,Buffalo,Bowling Green,explicit_close,-2.5,-3.0,0.5,W
+2023,401532423,Western Michigan,Miami (OH),explicit_close,7.5,7.5,0.0,W
+2023,401520328,Wisconsin,Iowa,explicit_close,-8.5,-8.0,-0.5,L
+2023,401532424,Northern Illinois,Ohio,explicit_close,5.5,5.5,0.0,L
+2023,401532597,Nevada,UNLV,explicit_close,7.5,7.5,0.0,W
+2023,401532596,New Mexico,San José State,explicit_close,6.5,6.0,0.5,W
+2023,401525525,Pittsburgh,Louisville,explicit_close,7.5,7.0,0.5,L
+2023,401520319,LSU,Auburn,explicit_close,-10.5,-11.0,0.5,L
+2023,401524030,Washington State,Arizona,explicit_close,-7.5,-8.0,0.5,L
+2023,401525866,Texas Tech,Kansas State,explicit_close,-0.5,-1.0,0.5,W
+2023,401531889,Georgia State,Marshall,explicit_close,-1.5,-1.5,0.0,W
+2023,401531891,Texas State,UL Monroe,explicit_close,-19.5,-19.0,-0.5,W
+2023,401532598,Air Force,Wyoming,explicit_close,-12.5,-13.0,0.5,W
+2023,401520318,Kentucky,Missouri,explicit_close,-2.5,-2.0,-0.5,W
+2023,401524031,Notre Dame,USC,explicit_close,-3.5,-3.0,-0.5,L
+2023,401525526,North Carolina,Miami,explicit_close,-2.5,-2.5,0.0,W
+2023,401524032,Oregon State,UCLA,explicit_close,-3.5,-4.0,0.5,L
+2023,401525523,Duke,NC State,explicit_close,-3.5,-3.5,0.0,W
+2023,401531381,UTSA,UAB,explicit_close,-7.5,-8.5,1.0,L
+2023,401532593,Colorado State,Boise State,explicit_close,7.5,7.5,0.0,L
+2023,401532595,Hawai'i,San Diego State,explicit_close,6.5,6.0,0.5,PASS
+2023,401520330,Liberty,Middle Tennessee,explicit_close,-15.5,-16.0,0.5,L
+2023,401520329,Jacksonville State,Western Kentucky,explicit_close,7.5,7.5,0.0,W
+2023,401531892,South Alabama,Southern Miss,explicit_close,-17.5,-18.5,1.0,W
+2023,401520331,Sam Houston,Florida International,explicit_close,-5.5,-5.5,0.0,L
+2023,401520332,UTEP,New Mexico State,explicit_close,2.5,3.0,-0.5,W
+2023,401531341,Tulsa,Rice,explicit_close,-3.5,-3.5,0.0,L
+2023,401531893,Marshall,James Madison,explicit_close,4.5,5.0,-0.5,W
+2023,401531391,Temple,SMU,explicit_close,23.5,24.0,-0.5,W
+2023,401520334,Arkansas,Mississippi State,explicit_close,-6.5,-7.0,0.5,L
+2023,401520337,Indiana,Rutgers,explicit_close,6.5,6.0,0.5,W
+2023,401520343,Ohio State,Penn State,explicit_close,-4.0,-4.0,0.0,W
+2023,401525528,Georgia Tech,Boston College,explicit_close,-5.5,-6.0,0.5,W
+2023,401525868,Cincinnati,Baylor,explicit_close,-2.5,-2.5,0.0,L
+2023,401525871,Oklahoma,UCF,explicit_close,-17.5,-17.0,-0.5,L
+2023,401531382,UAB,Memphis,explicit_close,7.5,7.5,0.0,W
+2023,401531434,Navy,Air Force,explicit_close,10.5,10.5,0.0,W
+2023,401532428,Ohio,Western Michigan,explicit_close,-16.5,-16.5,0.0,L
+2023,401531406,East Carolina,Charlotte,explicit_close,-6.5,-6.0,-0.5,L
+2023,401531894,Georgia Southern,UL Monroe,explicit_close,-15.5,-16.0,0.5,W
+2023,401532429,Bowling Green,Akron,explicit_close,-7.5,-7.0,-0.5,W
+2023,401520333,Alabama,Tennessee,explicit_close,-9.0,-8.5,-0.5,L
+2023,401520336,Illinois,Wisconsin,explicit_close,3.5,3.0,0.5,W
+2023,401520338,Iowa,Minnesota,explicit_close,-3.5,-3.0,-0.5,L
+2023,401520341,Missouri,South Carolina,explicit_close,-7.5,-7.0,-0.5,W
+2023,401520342,Nebraska,Northwestern,explicit_close,-10.5,-10.5,0.0,W
+2023,401520344,UConn,South Florida,explicit_close,1.5,-1.0,2.5,L
+2023,401524035,Oregon,Washington State,explicit_close,-20.5,-19.0,-1.5,L
+2023,401525532,Wake Forest,Pittsburgh,explicit_close,2.5,3.0,-0.5,W
+2023,401525872,West Virginia,Oklahoma State,explicit_close,-2.5,-3.0,0.5,L
+2023,401531372,Tulane,North Texas,explicit_close,-20.5,-20.5,0.0,L
+2023,401532425,Ball State,Central Michigan,explicit_close,5.5,5.0,0.5,L
+2023,401532426,Northern Illinois,Eastern Michigan,explicit_close,-11.5,-12.0,0.5,L
+2023,401532430,Kent State,Buffalo,explicit_close,6.5,6.5,0.0,L
+2023,401525869,Houston,Texas,explicit_close,23.5,23.0,0.5,L
+2023,401532427,Miami (OH),Toledo,explicit_close,2.5,2.5,0.0,L
+2023,401531397,Florida Atlantic,UTSA,explicit_close,2.5,2.5,0.0,L
+2023,401532600,New Mexico,Hawai'i,explicit_close,1.5,1.5,0.0,L
+2023,401525531,North Carolina,Virginia,explicit_close,-23.5,-24.0,0.5,L
+2023,401520335,Auburn,Ole Miss,explicit_close,6.5,6.5,0.0,W
+2023,401525867,BYU,Texas Tech,explicit_close,2.5,3.0,-0.5,L
+2023,401525870,Kansas State,TCU,explicit_close,-5.5,-5.5,0.0,W
+2023,401531895,Old Dominion,App State,explicit_close,5.5,6.0,-0.5,L
+2023,401531896,Arkansas State,Coastal Carolina,explicit_close,9.5,8.5,1.0,W
+2023,401532599,UNLV,Colorado State,explicit_close,-6.5,-6.5,0.0,L
+2023,401532602,San José State,Utah State,explicit_close,-4.5,-4.0,-0.5,L
+2023,401520339,LSU,Army,explicit_close,-33.5,-33.0,-0.5,L
+2023,401520340,Michigan State,Michigan,explicit_close,24.5,25.5,-1.0,W
+2023,401525530,Florida State,Duke,explicit_close,-13.5,-14.0,0.5,L
+2023,401524037,USC,Utah,explicit_close,-7.5,-7.0,-0.5,W
+2023,401525529,Miami,Clemson,explicit_close,5.5,6.5,-1.0,W
+2023,401531897,Louisiana,Georgia State,explicit_close,-3.5,-3.0,-0.5,W
+2023,401532601,San Diego State,Nevada,explicit_close,-11.5,-11.0,-0.5,L
+2023,401524036,Stanford,UCLA,explicit_close,17.5,17.0,0.5,W
+2023,401524038,Washington,Arizona State,explicit_close,-27.5,-28.0,0.5,L
+2023,401520345,Louisiana Tech,New Mexico State,explicit_close,-2.5,-3.0,0.5,W
+2023,401520346,Western Kentucky,Liberty,explicit_close,3.5,4.0,-0.5,W
+2023,401520347,Florida International,Jacksonville State,explicit_close,9.5,9.5,0.0,W
+2023,401520348,Sam Houston,UTEP,explicit_close,-3.5,-4.0,0.5,W
+2023,401525533,Virginia Tech,Syracuse,explicit_close,-2.5,-2.5,0.0,L
+2023,401531929,Georgia Southern,Georgia State,explicit_close,-1.0,1.0,-2.0,L
+2023,401531407,Charlotte,Florida Atlantic,explicit_close,3.5,3.5,0.0,L
+2023,401520349,Army,Massachusetts,explicit_close,-9.5,-10.0,0.5,L
+2023,401520351,Boston College,UConn,explicit_close,-15.5,-14.5,-1.0,L
+2023,401520356,Northwestern,Maryland,explicit_close,13.5,14.5,-1.0,L
+2023,401520358,Penn State,Indiana,explicit_close,-30.5,-31.0,0.5,L
+2023,401520359,Texas A&M,South Carolina,explicit_close,-16.5,-17.0,0.5,W
+2023,401525536,Wake Forest,Florida State,explicit_close,21.5,21.0,0.5,W
+2023,401525874,Kansas,Oklahoma,explicit_close,7.5,7.0,0.5,L
+2023,401525875,Kansas State,Houston,explicit_close,-17.5,-18.5,1.0,W
+2023,401525878,UCF,West Virginia,explicit_close,-6.5,-6.5,0.0,W
+2023,401531342,SMU,Tulsa,explicit_close,-20.5,-20.5,0.0,W
+2023,401532431,Eastern Michigan,Western Michigan,explicit_close,3.5,3.0,0.5,L
+2023,401525534,NC State,Clemson,explicit_close,8.5,10.0,-1.5,W
+2023,401531430,North Texas,Memphis,explicit_close,6.5,6.5,0.0,L
+2023,401520350,Auburn,Mississippi State,explicit_close,-6.5,-6.5,0.0,L
+2023,401520352,Florida,Georgia,explicit_close,14.5,14.0,0.5,PASS
+2023,401520354,Minnesota,Michigan State,explicit_close,-6.5,-6.5,0.0,W
+2023,401520355,Nebraska,Purdue,explicit_close,1.5,1.5,0.0,W
+2023,401524044,Utah,Oregon,explicit_close,5.5,6.5,-1.0,W
+2023,401525440,Notre Dame,Pittsburgh,explicit_close,-21.5,-21.0,-0.5,W
+2023,401525535,Louisville,Duke,explicit_close,-5.5,-5.0,-0.5,L
+2023,401525538,Miami,Virginia,explicit_close,-18.5,-19.0,0.5,W
+2023,401525873,Baylor,Iowa State,explicit_close,3.5,3.0,0.5,W
+2023,401525877,Texas,BYU,explicit_close,-20.5,-20.5,0.0,W
+2023,401531398,UTSA,East Carolina,explicit_close,-17.5,-17.5,0.0,W
+2023,401531898,App State,Southern Miss,explicit_close,-16.5,-16.0,-0.5,L
+2023,401532432,Ohio,Miami (OH),explicit_close,-7.5,-7.5,0.0,W
+2023,401524041,California,USC,explicit_close,10.5,10.5,0.0,L
+2023,401531373,Rice,Tulane,explicit_close,10.5,10.0,0.5,W
+2023,401531901,UL Monroe,Arkansas State,explicit_close,-1.5,-1.0,-0.5,L
+2023,401531902,South Alabama,Louisiana,explicit_close,-11.5,-11.5,0.0,L
+2023,401532607,Boise State,Wyoming,explicit_close,-4.5,-4.5,0.0,L
+2023,401531899,Coastal Carolina,Marshall,explicit_close,3.5,3.5,0.0,W
+2023,401520353,Kentucky,Tennessee,explicit_close,3.5,3.5,0.0,W
+2023,401524042,Stanford,Washington,explicit_close,27.5,28.0,-0.5,L
+2023,401531903,Texas State,Troy,explicit_close,6.5,6.5,0.0,L
+2023,401532603,Colorado State,Air Force,explicit_close,15.5,14.5,1.0,W
+2023,401520357,Ole Miss,Vanderbilt,explicit_close,-23.5,-24.0,0.5,W
+2023,401520360,Wisconsin,Ohio State,explicit_close,14.5,14.5,0.0,L
+2023,401524043,UCLA,Colorado,explicit_close,-13.5,-14.0,0.5,L
+2023,401524040,Arizona State,Washington State,explicit_close,5.5,4.0,1.5,L
+2023,401525537,Georgia Tech,North Carolina,explicit_close,12.5,12.5,0.0,L
+2023,401525876,Oklahoma State,Cincinnati,explicit_close,-7.5,-7.5,0.0,W
+2023,401531900,James Madison,Old Dominion,explicit_close,-19.5,-19.5,0.0,L
+2023,401524039,Arizona,Oregon State,explicit_close,2.5,3.0,-0.5,L
+2023,401532604,Nevada,New Mexico,explicit_close,1.5,1.0,0.5,W
+2023,401532606,Fresno State,UNLV,explicit_close,-10.5,-10.5,0.0,W
+2023,401532605,Hawai'i,San José State,archived_current,11.5,10.0,1.5,W
+2023,401532433,Central Michigan,Northern Illinois,explicit_close,6.5,6.5,0.0,L
+2023,401532434,Toledo,Buffalo,explicit_close,-14.5,-14.5,0.0,W
+2023,401532435,Bowling Green,Ball State,explicit_close,-4.5,-4.5,0.0,L
+2023,401532436,Akron,Kent State,explicit_close,-3.5,-3.5,0.0,L
+2023,401525879,Texas Tech,TCU,explicit_close,-2.5,-2.5,0.0,L
+2023,401525539,Duke,Wake Forest,explicit_close,-6.5,-7.0,0.5,L
+2023,401531904,Troy,South Alabama,explicit_close,-6.5,-6.5,0.0,W
+2023,401525540,Syracuse,Boston College,explicit_close,-0.5,1.0,-1.5,L
+2023,401532609,Wyoming,Colorado State,explicit_close,-5.5,-6.0,0.5,W
+2023,401520363,Florida,Arkansas,explicit_close,-3.5,-3.0,-0.5,W
+2023,401520365,Indiana,Wisconsin,explicit_close,7.5,9.5,-2.0,L
+2023,401520369,Michigan State,Nebraska,explicit_close,3.5,3.0,0.5,L
+2023,401520374,Ole Miss,Texas A&M,explicit_close,-3.5,-3.0,-0.5,P
+2023,401520375,Rutgers,Ohio State,explicit_close,18.5,19.0,-0.5,P
+2023,401520376,South Carolina,Jacksonville State,explicit_close,-14.5,-15.5,1.0,W
+2023,401520377,Tennessee,UConn,explicit_close,-35.5,-35.0,-0.5,L
+2023,401525441,Clemson,Notre Dame,explicit_close,2.5,3.0,-0.5,L
+2023,401525884,Texas,Kansas State,explicit_close,-3.5,-3.5,0.0,W
+2023,401524049,Utah,Arizona State,explicit_close,-9.5,-10.5,1.0,W
+2023,401525542,Virginia,Georgia Tech,explicit_close,-1.5,-1.0,-0.5,W
+2023,401531392,Temple,Navy,explicit_close,6.5,7.0,-0.5,L
+2023,401520361,Air Force,Army,explicit_close,-18.5,-18.0,-0.5,L
+2023,401531383,UAB,Florida Atlantic,explicit_close,0.5,1.0,-0.5,L
+2023,401531399,North Texas,UTSA,explicit_close,7.5,7.5,0.0,L
+2023,401531425,Memphis,South Florida,explicit_close,-13.0,-13.5,0.5,L
+2023,401531908,Arkansas State,Louisiana,explicit_close,7.5,7.0,0.5,L
+2023,401520364,Georgia,Missouri,explicit_close,-13.5,-14.5,1.0,W
+2023,401520367,Maryland,Penn State,explicit_close,7.5,8.5,-1.0,W
+2023,401520370,Minnesota,Illinois,explicit_close,-3.0,-2.0,-1.0,L
+2023,401520373,Northwestern,Iowa,explicit_close,5.0,5.0,0.0,L
+2023,401525541,Pittsburgh,Florida State,explicit_close,20.5,21.5,-1.0,L
+2023,401525543,Louisville,Virginia Tech,explicit_close,-8.5,-10.0,1.5,W
+2023,401525880,Baylor,Houston,explicit_close,-2.5,-2.5,0.0,W
+2023,401525881,Cincinnati,UCF,explicit_close,3.5,3.5,0.0,L
+2023,401525883,Oklahoma State,Oklahoma,explicit_close,4.5,5.0,-0.5,L
+2023,401531374,East Carolina,Tulane,explicit_close,16.5,17.0,-0.5,PASS
+2023,401531906,Georgia State,James Madison,explicit_close,6.0,6.0,0.0,L
+2023,401531907,Old Dominion,Coastal Carolina,explicit_close,-0.5,-1.0,0.5,W
+2023,401520379,Vanderbilt,Auburn,explicit_close,12.5,12.5,0.0,W
+2023,401531343,Tulsa,Charlotte,explicit_close,-4.5,-4.0,-0.5,L
+2023,401531909,Southern Miss,UL Monroe,explicit_close,-3.0,-3.0,0.0,L
+2023,401532610,Nevada,Hawai'i,explicit_close,-3.5,-3.0,-0.5,L
+2023,401531910,Texas State,Georgia Southern,explicit_close,-2.5,-2.5,0.0,W
+2023,401524047,Oregon,California,explicit_close,-26.5,-26.5,0.0,W
+2023,401520366,Liberty,Louisiana Tech,explicit_close,-14.0,-14.0,0.0,W
+2023,401520372,New Mexico State,Middle Tennessee,explicit_close,-3.5,-3.0,-0.5,W
+2023,401531905,App State,Marshall,explicit_close,-2.5,-3.0,0.5,W
+2023,401532611,New Mexico,UNLV,explicit_close,14.5,15.0,-0.5,W
+2023,401525882,Iowa State,Kansas,explicit_close,-2.5,-2.5,0.0,W
+2023,401525885,West Virginia,BYU,explicit_close,-12.5,-12.5,0.0,L
+2023,401532612,San Diego State,Utah State,explicit_close,2.5,2.0,0.5,W
+2023,401520368,Michigan,Purdue,explicit_close,-32.5,-31.0,-1.5,L
+2023,401520371,Mississippi State,Kentucky,explicit_close,5.5,5.5,0.0,L
+2023,401524048,USC,Washington,explicit_close,3.5,3.0,0.5,W
+2023,401531440,Rice,SMU,explicit_close,12.5,13.0,-0.5,L
+2023,401520362,Alabama,LSU,explicit_close,-3.5,-3.0,-0.5,W
+2023,401525544,NC State,Miami,explicit_close,6.0,6.5,-0.5,W
+2023,401520378,UTEP,Western Kentucky,explicit_close,8.5,10.0,-1.5,L
+2023,401524050,Washington State,Stanford,explicit_close,-14.5,-14.0,-0.5,L
+2023,401524046,Colorado,Oregon State,explicit_close,13.5,13.0,0.5,W
+2023,401532608,Fresno State,Boise State,explicit_close,-2.5,-2.5,0.0,W
+2023,401524045,Arizona,UCLA,explicit_close,2.5,2.5,0.0,L
+2023,401532437,Northern Illinois,Ball State,explicit_close,-9.5,-8.0,-1.5,L
+2023,401532438,Western Michigan,Central Michigan,explicit_close,-3.5,-3.0,-0.5,PASS
+2023,401532439,Buffalo,Ohio,explicit_close,9.5,9.5,0.0,L
+2023,401532441,Miami (OH),Akron,explicit_close,-17.5,-17.0,-0.5,W
+2023,401532442,Kent State,Bowling Green,explicit_close,10.5,11.0,-0.5,W
+2023,401532440,Toledo,Eastern Michigan,explicit_close,-19.5,-20.0,0.5,W
+2023,401525546,Louisville,Virginia,explicit_close,-21.5,-20.0,-1.5,L
+2023,401531911,Louisiana,Southern Miss,explicit_close,-8.5,-7.5,-1.0,L
+2023,401531437,SMU,North Texas,explicit_close,-20.0,-20.5,0.5,W
+2023,401532618,UNLV,Wyoming,explicit_close,-2.5,-3.0,0.5,W
+2023,401520383,Illinois,Indiana,explicit_close,-4.0,-4.5,0.5,W
+2023,401520386,Kentucky,Alabama,explicit_close,11.0,10.5,0.5,W
+2023,401520392,Nebraska,Maryland,explicit_close,1.5,1.5,0.0,W
+2023,401520394,Penn State,Michigan,explicit_close,4.0,4.0,0.0,L
+2023,401520396,South Carolina,Vanderbilt,explicit_close,-13.5,-13.0,-0.5,W
+2023,401525547,Boston College,Virginia Tech,explicit_close,2.5,2.5,0.0,L
+2023,401525548,Clemson,Georgia Tech,explicit_close,-14.5,-14.5,0.0,L
+2023,401525888,Kansas,Texas Tech,explicit_close,-3.5,-3.5,0.0,L
+2023,401531344,Tulane,Tulsa,explicit_close,-24.5,-25.0,0.5,L
+2023,401531393,South Florida,Temple,explicit_close,-7.0,-7.0,0.0,L
+2023,401520388,Liberty,Old Dominion,explicit_close,-13.5,-14.0,0.5,W
+2023,401520385,James Madison,UConn,explicit_close,-25.0,-25.0,0.0,W
+2023,401524052,Colorado,Arizona,explicit_close,8.0,8.0,0.0,W
+2023,401525551,Wake Forest,NC State,explicit_close,-0.5,2.0,-2.5,W
+2023,401531408,Charlotte,Memphis,explicit_close,9.5,10.0,-0.5,L
+2023,401531913,Georgia State,App State,explicit_close,-2.5,-3.0,0.5,W
+2023,401531915,UL Monroe,Troy,explicit_close,22.5,21.5,1.0,W
+2023,401520387,Louisiana Tech,Sam Houston,explicit_close,-7.5,-8.0,0.5,L
+2023,401525889,Kansas State,Baylor,explicit_close,-21.5,-21.0,-0.5,W
+2023,401532615,Utah State,Nevada,explicit_close,-15.5,-14.5,-1.0,L
+2023,401520384,Iowa,Rutgers,explicit_close,0.5,-1.0,1.5,W
+2023,401520390,Middle Tennessee,Florida International,explicit_close,-10.0,-10.5,0.5,W
+2023,401520391,Missouri,Tennessee,explicit_close,2.5,2.0,0.5,W
+2023,401520395,Purdue,Minnesota,explicit_close,1.5,2.0,-0.5,W
+2023,401520398,Wisconsin,Northwestern,explicit_close,-11.5,-12.0,0.5,L
+2023,401520399,Western Kentucky,New Mexico State,explicit_close,-4.5,-5.0,0.5,L
+2023,401524056,Washington,Utah,explicit_close,-8.5,-9.5,1.0,L
+2023,401525550,Florida State,Miami,explicit_close,-14.5,-14.5,0.0,L
+2023,401525552,Syracuse,Pittsburgh,explicit_close,3.5,3.0,0.5,W
+2023,401525892,UCF,Oklahoma State,explicit_close,2.5,2.0,0.5,L
+2023,401531384,Navy,UAB,explicit_close,2.5,3.0,-0.5,W
+2023,401531912,Coastal Carolina,Texas State,explicit_close,2.5,3.0,-0.5,W
+2023,401520380,Arkansas,Auburn,explicit_close,-2.5,-2.0,-0.5,W
+2023,401524051,California,Washington State,explicit_close,-2.5,-2.0,-0.5,L
+2023,401531416,Florida Atlantic,East Carolina,explicit_close,-8.0,-7.5,-0.5,W
+2023,401531916,South Alabama,Arkansas State,explicit_close,-15.0,-15.0,0.0,W
+2023,401524054,Oregon State,Stanford,explicit_close,-21.5,-21.5,0.0,W
+2023,401520382,Georgia,Ole Miss,explicit_close,-10.5,-11.0,0.5,L
+2023,401525887,Houston,Cincinnati,explicit_close,-3.5,-3.0,-0.5,L
+2023,401525890,Oklahoma,West Virginia,explicit_close,-13.5,-13.0,-0.5,W
+2023,401531914,Marshall,Georgia Southern,explicit_close,1.5,1.5,0.0,W
+2023,401532617,Colorado State,San Diego State,explicit_close,-3.5,-3.5,0.0,L
+2023,401520389,LSU,Florida,explicit_close,-16.5,-16.0,-0.5,W
+2023,401520393,Ohio State,Michigan State,explicit_close,-32.5,-32.0,-0.5,W
+2023,401520397,Texas A&M,Mississippi State,explicit_close,-16.5,-16.5,0.0,W
+2023,401525891,TCU,Texas,explicit_close,12.5,13.0,-0.5,L
+2023,401531400,UTSA,Rice,explicit_close,-13.5,-13.5,0.0,L
+2023,401525549,North Carolina,Duke,explicit_close,-10.5,-10.0,-0.5,W
+2023,401524055,UCLA,Arizona State,explicit_close,-14.0,-14.0,0.0,L
+2023,401532616,Boise State,New Mexico,explicit_close,-27.5,-27.5,0.0,L
+2023,401525886,BYU,Iowa State,explicit_close,7.5,7.5,0.0,L
+2023,401524053,Oregon,USC,explicit_close,-16.0,-16.5,0.5,L
+2023,401532614,San José State,Fresno State,explicit_close,-2.5,-2.5,0.0,L
+2023,401532613,Hawai'i,Air Force,explicit_close,22.5,20.5,2.0,W
+2023,401532443,Bowling Green,Toledo,explicit_close,9.5,10.0,-0.5,W
+2023,401532444,Northern Illinois,Western Michigan,explicit_close,-4.5,-4.0,-0.5,W
+2023,401532445,Eastern Michigan,Akron,explicit_close,-3.5,-3.0,-0.5,P
+2023,401532446,Ohio,Central Michigan,explicit_close,-11.5,-10.5,-1.0,W
+2023,401532447,Miami (OH),Buffalo,explicit_close,-7.5,-7.5,0.0,W
+2023,401525553,Pittsburgh,Boston College,no_provider_58,,-2.5,,PASS
+2023,401531401,UTSA,South Florida,explicit_close,-14.5,-14.5,0.0,W
+2023,401524057,Washington State,Colorado,explicit_close,-4.5,-4.0,-0.5,L
+2023,401520403,Army,Coastal Carolina,explicit_close,1.5,1.0,0.5,L
+2023,401520405,Indiana,Michigan State,explicit_close,-3.5,-3.5,0.0,L
+2023,401520410,Maryland,Michigan,explicit_close,17.5,17.5,0.0,L
+2023,401520412,Mississippi State,Southern Miss,explicit_close,-18.5,-18.5,0.0,L
+2023,401520414,Northwestern,Purdue,explicit_close,-2.5,-2.5,0.0,W
+2023,401520416,Ole Miss,UL Monroe,explicit_close,-36.5,-36.0,-0.5,L
+2023,401520417,Penn State,Rutgers,explicit_close,-18.5,-19.5,1.0,W
+2023,401525558,Miami,Louisville,explicit_close,-2.5,-1.0,-1.5,W
+2023,401525893,BYU,Oklahoma,explicit_close,25.0,24.5,0.5,W
+2023,401531375,Florida Atlantic,Tulane,explicit_close,9.5,9.0,0.5,W
+2023,401531417,Navy,East Carolina,explicit_close,-2.5,-2.0,-0.5,L
+2023,401531431,Memphis,SMU,explicit_close,9.5,9.5,0.0,W
+2023,401520408,Liberty,Massachusetts,explicit_close,-26.5,-25.5,-1.0,L
+2023,401520407,Jacksonville State,Louisiana Tech,explicit_close,-8.5,-9.5,1.0,W
+2023,401520411,Middle Tennessee,UTEP,explicit_close,-7.5,-8.0,0.5,L
+2023,401531409,Charlotte,Rice,explicit_close,-0.5,1.0,-1.5,W
+2023,401531918,James Madison,App State,no_provider_58,,-10.0,,L
+2023,401532448,Ball State,Kent State,explicit_close,-10.5,-10.5,0.0,W
+2023,401532620,Wyoming,Hawai'i,explicit_close,-13.5,-13.0,-0.5,W
+2023,401524058,Arizona,Utah,explicit_close,-2.5,-2.5,0.0,L
+2023,401525899,West Virginia,Cincinnati,explicit_close,-4.5,-5.0,0.5,W
+2023,401525555,Virginia,Duke,no_provider_58,,3.0,,L
+2023,401531345,Tulsa,North Texas,explicit_close,1.5,2.0,-0.5,L
+2023,401531385,UAB,Temple,archived_current,-8.0,-8.5,0.5,L
+2023,401531919,Arkansas State,Texas State,no_provider_58,,3.0,,L
+2023,401532621,Colorado State,Nevada,explicit_close,-12.5,-12.5,0.0,W
+2023,401520406,Iowa,Illinois,explicit_close,-3.0,-3.0,0.0,L
+2023,401520419,Tennessee,Georgia,explicit_close,7.5,9.0,-1.5,L
+2023,401520423,Western Kentucky,Sam Houston,no_provider_58,,-9.5,,L
+2023,401524062,USC,UCLA,explicit_close,-5.0,-5.0,0.0,L
+2023,401525442,Notre Dame,Wake Forest,explicit_close,-23.5,-23.5,0.0,W
+2023,401525554,Clemson,North Carolina,explicit_close,-7.5,-8.0,0.5,L
+2023,401525559,Virginia Tech,NC State,explicit_close,-2.5,-2.5,0.0,W
+2023,401525897,TCU,Baylor,explicit_close,-13.5,-13.0,-0.5,W
+2023,401531921,Troy,Louisiana,explicit_close,-16.5,-15.5,-1.0,L
+2023,401532624,Air Force,UNLV,explicit_close,-3.0,-3.0,0.0,W
+2023,401520404,Auburn,New Mexico State,explicit_close,-26.0,-25.0,-1.0,W
+2023,401520415,Ohio State,Minnesota,explicit_close,-27.5,-27.5,0.0,W
+2023,401524059,Arizona State,Oregon,explicit_close,24.5,24.5,0.0,W
+2023,401525894,Houston,Oklahoma State,explicit_close,6.5,6.5,0.0,W
+2023,401525898,Texas Tech,UCF,no_provider_58,,-2.0,,L
+2023,401531920,South Alabama,Marshall,explicit_close,-10.0,-10.0,0.0,L
+2023,401531917,Georgia Southern,Old Dominion,explicit_close,-5.5,-5.5,0.0,L
+2023,401524061,Stanford,California,explicit_close,6.5,7.0,-0.5,L
+2023,401525896,Kansas,Kansas State,explicit_close,7.5,7.0,0.5,L
+2023,401532619,Utah State,Boise State,explicit_close,5.5,5.0,0.5,L
+2023,401520402,Arkansas,Florida International,explicit_close,-27.5,-26.5,-1.0,L
+2023,401520413,Missouri,Florida,explicit_close,-12.5,-12.5,0.0,L
+2023,401520418,South Carolina,Kentucky,explicit_close,-2.5,-2.5,0.0,L
+2023,401520422,Wisconsin,Nebraska,explicit_close,-7.5,-7.0,-0.5,P
+2023,401524060,Oregon State,Washington,explicit_close,-1.5,-1.0,-0.5,W
+2023,401520409,LSU,Georgia State,explicit_close,-32.5,-32.0,-0.5,L
+2023,401525557,Georgia Tech,Syracuse,explicit_close,-6.5,-6.0,-0.5,L
+2023,401525895,Iowa State,Texas,explicit_close,7.5,6.5,1.0,W
+2023,401532622,Fresno State,New Mexico,explicit_close,-22.5,-22.0,-0.5,L
+2023,401532623,San José State,San Diego State,explicit_close,-16.0,-16.5,0.5,L
+2023,401532450,Western Michigan,Bowling Green,explicit_close,2.5,3.0,-0.5,W
+2023,401532449,Buffalo,Eastern Michigan,explicit_close,-6.5,-5.5,-1.0,L
+2023,401520424,Mississippi State,Ole Miss,explicit_close,10.5,10.0,0.5,P
+2023,401520425,Nebraska,Iowa,explicit_close,-3.0,-3.0,0.0,W
+2023,401525560,Boston College,Miami,explicit_close,13.5,10.0,3.5,W
+2023,401525900,Oklahoma,TCU,explicit_close,-11.5,-10.0,-1.5,W
+2023,401531394,Temple,Memphis,explicit_close,13.5,13.5,0.0,W
+2023,401532451,Central Michigan,Toledo,explicit_close,9.5,10.0,-0.5,W
+2023,401532452,Akron,Ohio,explicit_close,14.5,16.0,-1.5,L
+2023,401531376,Tulane,UTSA,explicit_close,-3.5,-3.5,0.0,W
+2023,401532629,New Mexico,Utah State,explicit_close,4.5,4.5,0.0,L
+2023,401520426,Arkansas,Missouri,explicit_close,9.5,10.0,-0.5,W
+2023,401532625,Boise State,Air Force,explicit_close,-6.5,-6.5,0.0,L
+2023,401520435,Michigan State,Penn State,no_provider_58,,23.5,,W
+2023,401525901,Texas,Texas Tech,explicit_close,-16.5,-16.0,-0.5,W
+2023,401524063,Oregon,Oregon State,explicit_close,-14.5,-14.0,-0.5,W
+2023,401520432,Louisville,Kentucky,explicit_close,-7.5,-7.5,0.0,L
+2023,401520433,LSU,Texas A&M,explicit_close,-11.0,-11.0,0.0,L
+2023,401520434,Michigan,Ohio State,explicit_close,-3.0,-3.0,0.0,W
+2023,401520438,Purdue,Indiana,explicit_close,-6.5,-6.5,0.0,W
+2023,401520440,Sam Houston,Middle Tennessee,explicit_close,3.5,3.5,0.0,L
+2023,401520443,Massachusetts,UConn,explicit_close,-1.5,-2.5,1.0,L
+2023,401525561,Duke,Pittsburgh,explicit_close,-4.5,-4.5,0.0,W
+2023,401525906,UCF,Houston,explicit_close,-15.5,-15.5,0.0,W
+2023,401531435,SMU,Navy,no_provider_58,,-20.5,,W
+2023,401531927,Southern Miss,Troy,no_provider_58,,17.5,,W
+2023,401532453,Kent State,Northern Illinois,explicit_close,20.5,20.5,0.0,W
+2023,401532454,Ball State,Miami (OH),explicit_close,4.0,4.0,0.0,L
+2023,401531421,Rice,Florida Atlantic,explicit_close,-3.5,-3.0,-0.5,P
+2023,401525563,Syracuse,Wake Forest,explicit_close,-1.5,-2.0,0.5,W
+2023,401531346,East Carolina,Tulsa,explicit_close,-3.0,-3.0,0.0,L
+2023,401531386,North Texas,UAB,explicit_close,-1.5,-2.5,1.0,W
+2023,401531925,Old Dominion,Georgia State,explicit_close,-2.5,-1.5,-1.0,W
+2023,401520428,Florida International,Western Kentucky,explicit_close,11.5,11.5,0.0,W
+2023,401524067,Utah,Colorado,explicit_close,-21.5,-21.5,0.0,W
+2023,401531926,Louisiana,UL Monroe,explicit_close,-12.5,-12.5,0.0,L
+2023,401532628,UNLV,San José State,explicit_close,-1.5,-1.0,-0.5,L
+2023,401520427,Auburn,Alabama,explicit_close,13.5,14.0,-0.5,W
+2023,401520431,Illinois,Northwestern,explicit_close,-5.5,-6.0,0.5,W
+2023,401520436,Minnesota,Wisconsin,no_provider_58,,3.0,,L
+2023,401520439,Rutgers,Maryland,no_provider_58,,2.0,,PASS
+2023,401520442,Tennessee,Vanderbilt,explicit_close,-27.5,-27.0,-0.5,L
+2023,401520444,UTEP,Liberty,explicit_close,18.0,18.0,0.0,L
+2023,401524064,Arizona State,Arizona,explicit_close,12.5,13.0,-0.5,W
+2023,401525564,Virginia,Virginia Tech,no_provider_58,,1.0,,W
+2023,401525905,Oklahoma State,BYU,explicit_close,-16.5,-15.5,-1.0,W
+2023,401531922,App State,Georgia Southern,explicit_close,-10.0,-10.5,0.5,W
+2023,401531923,Coastal Carolina,James Madison,explicit_close,3.5,4.0,-0.5,L
+2023,401531924,Marshall,Arkansas State,explicit_close,-0.5,1.0,-1.5,W
+2023,401520437,New Mexico State,Jacksonville State,no_provider_58,,2.5,,W
+2023,401524068,Washington,Washington State,explicit_close,-15.5,-14.5,-1.0,L
+2023,401520429,Florida,Florida State,explicit_close,6.5,6.5,0.0,W
+2023,401524065,Stanford,Notre Dame,explicit_close,26.5,26.0,0.5,L
+2023,401525902,Baylor,West Virginia,explicit_close,11.5,13.0,-1.5,L
+2023,401531928,Texas State,South Alabama,explicit_close,5.5,6.5,-1.0,W
+2023,401520430,Georgia Tech,Georgia,explicit_close,24.5,25.0,-0.5,W
+2023,401520441,South Carolina,Clemson,explicit_close,7.5,7.5,0.0,L
+2023,401525903,Cincinnati,Kansas,explicit_close,7.5,7.5,0.0,W
+2023,401531410,South Florida,Charlotte,explicit_close,-7.0,-7.0,0.0,L
+2023,401525562,NC State,North Carolina,no_provider_58,,3.0,,W
+2023,401525904,Kansas State,Iowa State,explicit_close,-9.0,-9.5,0.5,L
+2023,401532630,Nevada,Wyoming,explicit_close,10.5,11.5,-1.0,W
+2023,401524066,UCLA,California,explicit_close,-9.5,-9.5,0.0,L
+2023,401532627,San Diego State,Fresno State,explicit_close,5.5,4.5,1.0,L
+2023,401532626,Hawai'i,Colorado State,explicit_close,5.5,5.5,0.0,W
+2023,401539476,Liberty,New Mexico State,explicit_close,-10.5,-9.5,-1.0,W
+2023,401539475,Washington,Oregon,explicit_close,9.5,10.0,-0.5,W
+2023,401539479,Texas,Oklahoma State,explicit_close,-14.5,-14.5,0.0,W
+2023,401539481,Toledo,Miami (OH),explicit_close,-6.5,-7.0,0.5,W
+2023,401539482,UNLV,Boise State,explicit_close,2.5,2.5,0.0,L
+2023,401539477,Tulane,SMU,explicit_close,-2.5,-2.5,0.0,W
+2023,401539483,Alabama,Georgia,explicit_close,5.5,5.0,0.5,W
+2023,401539484,Troy,App State,explicit_close,-5.5,-5.5,0.0,W
+2023,401539478,Florida State,Louisville,explicit_close,1.5,1.5,0.0,W
+2023,401539480,Iowa,Michigan,explicit_close,20.5,21.0,-0.5,PASS
+2023,401520445,Army,Navy,team_id_mismatch,,-2.5,,W
+2023,401551733,Ohio,Georgia Southern,explicit_close,1.5,1.5,0.0,W
+2023,401551751,Louisiana,Jacksonville State,explicit_close,3.5,3.5,0.0,L
+2023,401551731,App State,Miami (OH),explicit_close,-6.5,-6.5,0.0,W
+2023,401551732,Fresno State,New Mexico State,explicit_close,3.5,3.0,0.5,W
+2023,401551752,Boise State,UCLA,explicit_close,6.5,6.5,0.0,L
+2023,401551753,Texas Tech,California,explicit_close,-3.5,-3.5,0.0,L
+2023,401551469,Old Dominion,Western Kentucky,explicit_close,-4.5,-4.0,-0.5,W
+2023,401551735,Marshall,UTSA,explicit_close,7.5,7.0,0.5,L
+2023,401551737,Syracuse,South Florida,explicit_close,-3.5,-3.0,-0.5,L
+2023,401551754,UCF,Georgia Tech,explicit_close,-6.5,-6.0,-0.5,L
+2023,401551739,Duke,Troy,explicit_close,6.5,7.0,-0.5,W
+2023,401551741,Northern Illinois,Arkansas State,explicit_close,2.5,2.5,0.0,W
+2023,401551742,Air Force,James Madison,explicit_close,-2.5,-2.5,0.0,L
+2023,401551743,Utah State,Georgia State,explicit_close,-1.5,-2.0,0.5,W
+2023,401551755,Eastern Michigan,South Alabama,team_id_mismatch,,18.0,,L
+2023,401551744,Northwestern,Utah,explicit_close,6.5,6.5,0.0,L
+2023,401551746,San José State,Coastal Carolina,explicit_close,-8.5,-7.5,-1.0,W
+2023,401551756,Minnesota,Bowling Green,explicit_close,-2.5,-2.5,0.0,PASS
+2023,401551748,Rice,Texas State,explicit_close,3.5,3.5,0.0,L
+2023,401551757,UNLV,Kansas,explicit_close,8.5,8.0,0.5,W
+2023,401551758,Tulane,Virginia Tech,explicit_close,12.5,13.5,-1.0,L
+2023,401551761,West Virginia,North Carolina,explicit_close,-3.5,-4.5,1.0,L
+2023,401581109,USC,Louisville,explicit_close,4.5,4.5,0.0,W
+2023,401551749,Oklahoma State,Texas A&M,explicit_close,-4.5,-4.0,-0.5,L
+2023,401551750,Boston College,SMU,explicit_close,13.5,13.5,0.0,L
+2023,401551762,Miami,Rutgers,explicit_close,2.5,3.0,-0.5,L
+2023,401551764,Kansas State,NC State,explicit_close,-3.5,-3.0,-0.5,W
+2023,401551765,Oklahoma,Arizona,explicit_close,2.5,2.5,0.0,L
+2023,401551766,Kentucky,Clemson,explicit_close,3.5,3.5,0.0,L
+2023,401551798,Notre Dame,Oregon State,explicit_close,-5.5,-5.5,0.0,L
+2023,401551767,Iowa State,Memphis,team_id_mismatch,,-10.5,,L
+2023,401551768,Ohio State,Missouri,explicit_close,-3.5,-4.0,0.5,L
+2023,401551769,Penn State,Ole Miss,explicit_close,-5.5,-5.5,0.0,L
+2023,401551770,Maryland,Auburn,explicit_close,5.5,4.0,1.5,W
+2023,401551773,Florida State,Georgia,explicit_close,23.5,23.5,0.0,L
+2023,401554566,Wyoming,Toledo,explicit_close,-4.5,-4.5,0.0,W
+2023,401551778,LSU,Wisconsin,explicit_close,-8.5,-9.5,1.0,L
+2023,401551780,Tennessee,Iowa,explicit_close,-4.5,-4.5,0.0,W
+2023,401551782,Oregon,Liberty,explicit_close,-22.5,-18.5,-4.0,W
+2023,401551786,Michigan,Alabama,explicit_close,-2.5,-2.0,-0.5,W
+2023,401551788,Washington,Texas,explicit_close,3.5,3.0,0.5,W
+2023,401551789,Michigan,Washington,explicit_close,-5.5,-5.5,0.0,L
+2024,401645331,Temple,Army,explicit_close,21.5,11.0,10.5,W
+2024,401634767,Miami,Virginia Tech,explicit_close,-17.5,-18.0,0.5,W
+2024,401628501,Rutgers,Washington,explicit_close,-1.5,-1.0,-0.5,L
+2024,401628377,Ole Miss,Kentucky,explicit_close,-15.5,-14.5,-1.0,L
+2024,401628496,Indiana,Maryland,explicit_close,-7.5,-7.5,0.0,L
+2024,401628497,Michigan,Minnesota,explicit_close,-10.5,-10.5,0.0,L
+2024,401628499,Purdue,Nebraska,explicit_close,10.5,10.0,0.5,W
+2024,401629032,UConn,Buffalo,explicit_close,-5.5,-6.0,0.5,W
+2024,401635560,Boston College,Western Kentucky,explicit_close,-7.5,-7.5,0.0,L
+2024,401635564,NC State,Northern Illinois,explicit_close,-7.5,-7.0,-0.5,P
+2024,401636880,Baylor,BYU,explicit_close,-3.5,-3.0,-0.5,W
+2024,401636883,Kansas State,Oklahoma State,explicit_close,-5.5,-6.0,0.5,L
+2024,401645332,UAB,Navy,explicit_close,5.5,4.5,1.0,W
+2024,401645337,Tulane,South Florida,explicit_close,-5.5,-4.0,-1.5,W
+2024,401643793,James Madison,Ball State,explicit_close,-20.5,-22.0,1.5,W
+2024,401641041,Sam Houston,Texas State,explicit_close,10.5,11.0,-0.5,W
+2024,401628373,Texas A&M,Arkansas,explicit_close,-7.5,-6.5,-1.0,L
+2024,401628375,Auburn,Oklahoma,explicit_close,-1.5,-2.0,0.5,W
+2024,401628502,USC,Wisconsin,explicit_close,-13.5,-13.5,0.0,W
+2024,401628980,Notre Dame,Louisville,explicit_close,-6.5,-6.5,0.0,L
+2024,401629043,Miami (OH),Massachusetts,explicit_close,-15.5,-14.5,-1.0,L
+2024,401635659,Wake Forest,Louisiana,explicit_close,-2.5,-3.0,0.5,W
+2024,401636882,Kansas,TCU,explicit_close,-1.5,-1.5,0.0,L
+2024,401636885,UCF,Colorado,explicit_close,-12.5,-12.5,0.0,L
+2024,401643720,UNLV,Fresno State,explicit_close,-2.5,-2.5,0.0,W
+2024,401643721,Central Michigan,San Diego State,explicit_close,-2.5,-2.5,0.0,W
+2024,401643792,Georgia State,Georgia Southern,explicit_close,-3.5,-3.5,0.0,W
+2024,401643794,Marshall,Western Michigan,explicit_close,-3.5,-3.5,0.0,W
+2024,401644738,Ohio,Akron,explicit_close,-7.5,-8.0,0.5,W
+2024,401644739,Kent State,Eastern Michigan,explicit_close,13.5,14.0,-0.5,W
+2024,401635562,Duke,North Carolina,explicit_close,1.5,1.5,0.0,W
+2024,401645334,East Carolina,UTSA,explicit_close,-1.5,-2.5,1.0,W
+2024,401628378,Texas,Mississippi State,explicit_close,-38.5,-37.0,-1.5,L
+2024,401643795,Bowling Green,Old Dominion,explicit_close,-11.5,-11.0,-0.5,L
+2024,401640981,Florida International,Louisiana Tech,explicit_close,2.0,2.0,0.0,W
+2024,401635561,Clemson,Stanford,explicit_close,-23.5,-24.0,0.5,W
+2024,401636881,Houston,Iowa State,explicit_close,16.5,16.5,0.0,W
+2024,401643796,Troy,UL Monroe,explicit_close,-6.5,-6.0,-0.5,L
+2024,401645333,Rice,Charlotte,explicit_close,-4.5,-4.0,-0.5,L
+2024,401645336,North Texas,Tulsa,explicit_close,-7.5,-7.0,-0.5,W
+2024,401628374,Alabama,Georgia,explicit_close,1.5,2.0,-0.5,W
+2024,401628495,Penn State,Illinois,explicit_close,-19.5,-19.0,-0.5,W
+2024,401628498,Michigan State,Ohio State,explicit_close,23.5,23.5,0.0,L
+2024,401641025,Memphis,Middle Tennessee,explicit_close,-27.5,-27.0,-0.5,PASS
+2024,401628376,LSU,South Alabama,explicit_close,-20.5,-21.0,0.5,L
+2024,401635563,SMU,Florida State,explicit_close,-5.5,-6.0,0.5,W
+2024,401636884,Texas Tech,Cincinnati,explicit_close,-3.5,-3.0,-0.5,P
+2024,401641035,New Mexico State,New Mexico,explicit_close,8.5,9.5,-1.0,L
+2024,401643718,Wyoming,Air Force,explicit_close,4.5,4.0,0.5,W
+2024,401643719,Boise State,Washington State,explicit_close,-6.5,-6.5,0.0,L
+2024,401636886,Utah,Arizona,explicit_close,-7.5,-7.5,0.0,L
+2024,401628500,UCLA,Oregon,explicit_close,23.5,23.5,0.0,L
+2024,401643797,Troy,Texas State,explicit_close,14.5,14.5,0.0,L
+2024,401641029,UTEP,Sam Houston,explicit_close,9.5,10.0,-0.5,W
+2024,401641001,Kennesaw State,Jacksonville State,explicit_close,17.5,17.0,0.5,L
+2024,401636891,TCU,Houston,explicit_close,-16.5,-16.5,0.0,W
+2024,401628506,Oregon,Michigan State,explicit_close,-21.5,-22.5,1.0,L
+2024,401634779,UNLV,Syracuse,explicit_close,-5.5,-5.5,0.0,L
+2024,401628383,Texas A&M,Missouri,explicit_close,-2.5,-2.5,0.0,L
+2024,401628509,Wisconsin,Purdue,explicit_close,-11.5,-12.0,0.5,W
+2024,401628510,Penn State,UCLA,explicit_close,-29.5,-29.5,0.0,W
+2024,401629044,Northern Illinois,Massachusetts,explicit_close,-13.5,-14.0,0.5,P
+2024,401635567,Virginia,Boston College,explicit_close,-1.5,-2.0,0.5,L
+2024,401635571,Louisville,SMU,explicit_close,-6.5,-7.0,0.5,W
+2024,401635572,North Carolina,Pittsburgh,explicit_close,2.5,2.5,0.0,W
+2024,401635638,NC State,Wake Forest,explicit_close,-4.5,-4.0,-0.5,L
+2024,401643722,Air Force,Navy,explicit_close,9.5,10.0,-0.5,W
+2024,401645339,Tulsa,Army,explicit_close,13.5,14.0,-0.5,W
+2024,401645338,UAB,Tulane,explicit_close,18.5,20.0,-1.5,W
+2024,401644741,Ball State,Western Michigan,explicit_close,10.5,10.0,0.5,W
+2024,401628381,Georgia,Auburn,explicit_close,-21.5,-21.0,-0.5,L
+2024,401628382,South Carolina,Ole Miss,explicit_close,10.5,10.0,0.5,L
+2024,401628503,Northwestern,Indiana,explicit_close,12.5,12.5,0.0,W
+2024,401628504,Ohio State,Iowa,explicit_close,-17.5,-17.0,-0.5,L
+2024,401629033,UConn,Temple,explicit_close,-17.5,-17.5,0.0,L
+2024,401635573,Stanford,Virginia Tech,explicit_close,9.5,8.5,1.0,L
+2024,401643799,Marshall,App State,explicit_close,-3.5,-3.0,-0.5,W
+2024,401644684,Toledo,Miami (OH),explicit_close,-5.5,-4.5,-1.0,W
+2024,401644740,Akron,Bowling Green,explicit_close,16.5,16.5,0.0,W
+2024,401645340,Charlotte,East Carolina,explicit_close,8.5,9.5,-1.0,W
+2024,401628508,Nebraska,Rutgers,explicit_close,-5.5,-7.0,1.5,PASS
+2024,401636890,Oklahoma State,West Virginia,explicit_close,-2.5,-2.5,0.0,L
+2024,401628384,Vanderbilt,Alabama,explicit_close,22.5,23.0,-0.5,L
+2024,401643724,Oregon State,Colorado State,explicit_close,-10.5,-10.5,0.0,L
+2024,401635569,Florida State,Clemson,explicit_close,16.5,16.5,0.0,L
+2024,401643723,Boise State,Utah State,explicit_close,-27.5,-28.0,0.5,W
+2024,401643798,Coastal Carolina,Old Dominion,explicit_close,-4.5,-4.0,-0.5,W
+2024,401643800,Arkansas State,South Alabama,explicit_close,2.5,2.5,0.0,W
+2024,401643801,UL Monroe,James Madison,explicit_close,16.5,16.5,0.0,W
+2024,401643802,Southern Miss,Louisiana,explicit_close,16.5,17.5,-1.0,L
+2024,401628379,Arkansas,Tennessee,explicit_close,14.5,14.0,0.5,L
+2024,401628505,Washington,Michigan,explicit_close,-1.5,-1.5,0.0,L
+2024,401628507,Minnesota,USC,explicit_close,9.5,8.5,1.0,L
+2024,401636889,Iowa State,Baylor,explicit_close,-12.5,-13.0,0.5,W
+2024,401643726,San José State,Nevada,explicit_close,-7.5,-7.0,-0.5,L
+2024,401628380,Florida,UCF,explicit_close,1.5,1.0,0.5,L
+2024,401635570,Georgia Tech,Duke,no_valid_spread,,-10.0,,P
+2024,401636888,Arizona State,Kansas,explicit_close,-2.5,-2.5,0.0,W
+2024,401643725,San Diego State,Hawai'i,explicit_close,-1.5,-1.5,0.0,PASS
+2024,401635568,California,Miami,explicit_close,8.5,10.0,-1.5,W
+2024,401636887,Arizona,Texas Tech,explicit_close,-5.5,-6.0,0.5,W
+2024,401640982,Liberty,Florida International,explicit_close,-15.5,-16.0,0.5,W
+2024,401641002,Jacksonville State,New Mexico State,explicit_close,-21.5,-21.0,-0.5,L
+2024,401643803,James Madison,Coastal Carolina,explicit_close,-6.5,-7.0,0.5,W
+2024,401641009,Louisiana Tech,Middle Tennessee,explicit_close,-4.5,-5.0,0.5,L
+2024,401641030,Western Kentucky,UTEP,explicit_close,-18.5,-19.5,1.0,W
+2024,401628513,Maryland,Northwestern,explicit_close,-10.5,-11.0,0.5,L
+2024,401643733,Utah State,UNLV,explicit_close,18.5,18.5,0.0,L
+2024,401636892,Arizona State,Utah,explicit_close,5.5,5.5,0.0,W
+2024,401628385,Alabama,South Carolina,explicit_close,-19.5,-21.5,2.0,W
+2024,401628389,Massachusetts,Missouri,explicit_close,27.5,27.0,0.5,W
+2024,401628512,Iowa,Washington,explicit_close,-2.5,-3.0,0.5,PASS
+2024,401628517,Rutgers,Wisconsin,explicit_close,-1.5,-1.0,-0.5,L
+2024,401635576,Wake Forest,Clemson,explicit_close,21.5,21.0,0.5,W
+2024,401635577,North Carolina,Georgia Tech,explicit_close,3.5,3.5,0.0,W
+2024,401644743,Kent State,Ball State,explicit_close,3.5,3.0,0.5,L
+2024,401644745,Buffalo,Toledo,explicit_close,10.5,10.5,0.0,L
+2024,401645342,Army,UAB,explicit_close,-25.5,-27.0,1.5,W
+2024,401644685,Eastern Michigan,Miami (OH),explicit_close,2.5,3.0,-0.5,L
+2024,401628390,Oklahoma,Texas,explicit_close,16.5,17.0,-0.5,L
+2024,401628511,Illinois,Purdue,explicit_close,-21.5,-23.0,1.5,L
+2024,401628516,USC,Penn State,explicit_close,3.5,4.0,-0.5,W
+2024,401628981,Notre Dame,Stanford,explicit_close,-22.5,-22.5,0.0,W
+2024,401635575,Pittsburgh,California,explicit_close,-3.5,-3.5,0.0,L
+2024,401635578,Virginia,Louisville,explicit_close,7.5,7.0,0.5,PASS
+2024,401636895,UCF,Cincinnati,explicit_close,-2.5,-2.5,0.0,W
+2024,401643729,Colorado State,San José State,explicit_close,-2.5,-2.5,0.0,L
+2024,401643732,Wyoming,San Diego State,explicit_close,-1.5,-2.0,0.5,L
+2024,401643805,Georgia State,Old Dominion,explicit_close,-2.5,-3.0,0.5,PASS
+2024,401644742,Western Michigan,Akron,explicit_close,-9.5,-9.5,0.0,L
+2024,401644744,Bowling Green,Northern Illinois,explicit_close,-3.5,-3.0,-0.5,W
+2024,401645341,South Florida,Memphis,explicit_close,10.5,10.0,0.5,W
+2024,401636893,BYU,Arizona,explicit_close,-2.5,-2.5,0.0,W
+2024,401644746,Central Michigan,Ohio,explicit_close,2.5,3.0,-0.5,L
+2024,401628386,Georgia,Mississippi State,explicit_close,-34.5,-33.0,-1.5,L
+2024,401643807,UL Monroe,Southern Miss,explicit_close,-4.5,-4.0,-0.5,W
+2024,401628391,Tennessee,Florida,explicit_close,-13.5,-14.0,0.5,L
+2024,401643727,New Mexico,Air Force,explicit_close,-6.5,-7.0,0.5,L
+2024,401643730,Fresno State,Washington State,explicit_close,3.5,3.5,0.0,W
+2024,401643808,Texas State,Arkansas State,explicit_close,-13.5,-13.5,0.0,W
+2024,401645343,Florida Atlantic,North Texas,explicit_close,5.5,5.5,0.0,W
+2024,401645344,Rice,UTSA,explicit_close,3.5,3.5,0.0,W
+2024,401628388,LSU,Ole Miss,explicit_close,3.5,4.0,-0.5,L
+2024,401628515,Oregon,Ohio State,explicit_close,3.5,3.5,0.0,W
+2024,401643731,Nevada,Oregon State,explicit_close,2.5,3.0,-0.5,W
+2024,401643806,Louisiana,App State,explicit_close,-10.5,-10.0,-0.5,P
+2024,401628387,Kentucky,Vanderbilt,explicit_close,-12.5,-13.0,0.5,W
+2024,401635574,NC State,Syracuse,explicit_close,1.5,1.0,0.5,W
+2024,401636896,West Virginia,Iowa State,explicit_close,3.0,3.0,0.0,W
+2024,401643804,Georgia Southern,Marshall,explicit_close,-1.5,1.0,-2.5,W
+2024,401628514,UCLA,Minnesota,explicit_close,3.5,3.5,0.0,W
+2024,401636894,Colorado,Kansas State,explicit_close,3.5,3.5,0.0,L
+2024,401643728,Hawai'i,Boise State,explicit_close,20.5,21.0,-0.5,P
+2024,401643809,South Alabama,Troy,explicit_close,-8.5,-10.0,1.5,L
+2024,401641019,Middle Tennessee,Kennesaw State,explicit_close,-10.5,-8.0,-2.5,W
+2024,401641010,New Mexico State,Louisiana Tech,explicit_close,12.5,12.5,0.0,W
+2024,401641038,Sam Houston,Western Kentucky,explicit_close,-1.5,-1.0,-0.5,W
+2024,401640983,UTEP,Florida International,explicit_close,6.5,7.0,-0.5,L
+2024,401643810,Marshall,Georgia State,explicit_close,-8.5,-9.5,1.0,L
+2024,401634768,Virginia Tech,Boston College,explicit_close,-8.5,-8.0,-0.5,L
+2024,401634769,Duke,Florida State,explicit_close,-2.5,-3.0,0.5,W
+2024,401628523,Purdue,Oregon,explicit_close,29.5,29.5,0.0,W
+2024,401636898,BYU,Oklahoma State,explicit_close,-7.5,-8.5,1.0,L
+2024,401643735,Nevada,Fresno State,explicit_close,2.5,3.0,-0.5,P
+2024,401628395,Missouri,Auburn,explicit_close,-4.5,-3.5,-1.0,W
+2024,401628519,Indiana,Nebraska,explicit_close,-6.5,-6.5,0.0,W
+2024,401628522,Northwestern,Wisconsin,explicit_close,9.5,9.5,0.0,L
+2024,401628524,Rutgers,UCLA,explicit_close,-4.5,-4.0,-0.5,L
+2024,401629034,UConn,Wake Forest,explicit_close,2.5,2.5,0.0,L
+2024,401635588,Clemson,Virginia,explicit_close,-20.5,-20.0,-0.5,W
+2024,401635589,Louisville,Miami,explicit_close,4.5,4.0,0.5,L
+2024,401636899,Cincinnati,Arizona State,explicit_close,-4.5,-5.0,0.5,L
+2024,401643811,Coastal Carolina,Louisiana,explicit_close,6.5,6.5,0.0,L
+2024,401645346,Army,East Carolina,explicit_close,-18.5,-17.5,-1.0,L
+2024,401628396,Oklahoma,South Carolina,explicit_close,2.5,1.0,1.5,L
+2024,401644750,Eastern Michigan,Central Michigan,explicit_close,-3.5,-3.5,0.0,W
+2024,401645351,Temple,Tulsa,explicit_close,-2.5,-3.0,0.5,W
+2024,401628397,Tennessee,Alabama,explicit_close,3.5,3.5,0.0,W
+2024,401628518,Illinois,Michigan,explicit_close,5.5,6.0,-0.5,W
+2024,401628982,Georgia Tech,Notre Dame,explicit_close,14.5,14.0,0.5,W
+2024,401635587,California,NC State,explicit_close,-9.5,-9.5,0.0,L
+2024,401636901,Kansas,Houston,explicit_close,-5.5,-4.5,-1.0,L
+2024,401643736,Washington State,Hawai'i,explicit_close,-18.5,-19.0,0.5,W
+2024,401643813,Old Dominion,Texas State,explicit_close,10.5,10.5,0.0,PASS
+2024,401644686,Miami (OH),Ohio,explicit_close,-3.5,-3.5,0.0,W
+2024,401644748,Bowling Green,Kent State,explicit_close,-23.5,-24.0,0.5,L
+2024,401644749,Buffalo,Western Michigan,explicit_close,1.5,1.5,0.0,L
+2024,401644751,Northern Illinois,Toledo,explicit_close,-3.5,-3.0,-0.5,PASS
+2024,401645345,South Florida,UAB,explicit_close,-14.5,-14.0,-0.5,W
+2024,401645347,Navy,Charlotte,explicit_close,-16.5,-16.5,0.0,W
+2024,401645348,UTSA,Florida Atlantic,explicit_close,-4.5,-4.0,-0.5,L
+2024,401645350,Tulane,Rice,explicit_close,-22.5,-21.5,-1.0,L
+2024,401628521,Maryland,USC,explicit_close,6.5,7.0,-0.5,W
+2024,401636897,Arizona,Colorado,explicit_close,-2.5,-2.5,0.0,W
+2024,401636902,Texas Tech,Baylor,explicit_close,-4.5,-4.5,0.0,L
+2024,401643737,Utah State,New Mexico,explicit_close,0.5,1.0,-0.5,W
+2024,401643738,San José State,Wyoming,explicit_close,-11.5,-13.0,1.5,L
+2024,401643812,Georgia Southern,James Madison,explicit_close,8.5,10.0,-1.5,W
+2024,401628394,Mississippi State,Texas A&M,explicit_close,21.5,21.0,0.5,W
+2024,401628392,Arkansas,LSU,explicit_close,2.5,3.0,-0.5,L
+2024,401628399,Vanderbilt,Ball State,explicit_close,-27.5,-27.5,0.0,L
+2024,401643814,Southern Miss,Arkansas State,explicit_close,7.0,7.0,0.0,L
+2024,401628398,Texas,Georgia,explicit_close,-4.5,-4.0,-0.5,L
+2024,401628520,Michigan State,Iowa,explicit_close,6.5,6.5,0.0,L
+2024,401636900,Iowa State,UCF,explicit_close,-13.5,-13.0,-0.5,L
+2024,401636904,West Virginia,Kansas State,explicit_close,2.5,2.5,0.0,W
+2024,401645349,Memphis,North Texas,explicit_close,-10.5,-10.5,0.0,L
+2024,401628393,Florida,Kentucky,explicit_close,2.5,2.5,0.0,W
+2024,401635590,Stanford,SMU,explicit_close,16.5,16.5,0.0,W
+2024,401643734,Air Force,Colorado State,explicit_close,5.5,6.0,-0.5,W
+2024,401643739,Oregon State,UNLV,explicit_close,6.5,6.5,0.0,W
+2024,401636903,Utah,TCU,explicit_close,-5.5,-3.0,-2.5,L
+2024,401640984,Florida International,Sam Houston,explicit_close,6.5,5.0,1.5,L
+2024,401641011,Louisiana Tech,UTEP,explicit_close,-6.5,-6.5,0.0,L
+2024,401640993,Kennesaw State,Liberty,explicit_close,27.5,27.0,0.5,W
+2024,401641003,Jacksonville State,Middle Tennessee,explicit_close,-20.5,-20.5,0.0,L
+2024,401643815,Old Dominion,Georgia Southern,explicit_close,0.5,1.0,-0.5,L
+2024,401634770,Pittsburgh,Syracuse,explicit_close,-4.5,-5.0,0.5,W
+2024,401634771,Boston College,Louisville,explicit_close,7.5,7.0,0.5,L
+2024,401643740,UNLV,Boise State,explicit_close,3.5,4.0,-0.5,L
+2024,401628532,USC,Rutgers,explicit_close,-13.5,-14.0,0.5,W
+2024,401628402,Ole Miss,Oklahoma,explicit_close,-19.5,-19.5,0.0,W
+2024,401628526,Indiana,Washington,explicit_close,-5.5,-5.5,0.0,W
+2024,401628530,Ohio State,Nebraska,explicit_close,-25.5,-25.0,-0.5,W
+2024,401628983,Navy,Notre Dame,explicit_close,14.5,14.0,0.5,W
+2024,401635597,Virginia Tech,Georgia Tech,explicit_close,-11.5,-11.0,-0.5,W
+2024,401635598,Virginia,North Carolina,explicit_close,-3.5,-3.5,0.0,L
+2024,401644755,Ohio,Buffalo,explicit_close,-4.5,-4.0,-0.5,L
+2024,401645353,Memphis,Charlotte,explicit_close,-16.5,-17.0,0.5,L
+2024,401645354,North Texas,Tulane,explicit_close,7.5,7.5,0.0,W
+2024,401628403,Mississippi State,Arkansas,explicit_close,7.5,7.5,0.0,L
+2024,401643816,App State,Georgia State,explicit_close,-7.5,-7.5,0.0,W
+2024,401644687,Miami (OH),Central Michigan,explicit_close,-9.5,-10.5,1.0,W
+2024,401645352,East Carolina,Temple,explicit_close,-7.5,-8.5,1.0,L
+2024,401628400,Alabama,Missouri,explicit_close,-16.5,-15.5,-1.0,W
+2024,401628525,Oregon,Illinois,explicit_close,-22.5,-22.5,0.0,L
+2024,401628527,Iowa,Northwestern,explicit_close,-16.5,-16.5,0.0,L
+2024,401628528,Minnesota,Maryland,explicit_close,-5.5,-6.0,0.5,L
+2024,401629035,UConn,Rice,explicit_close,-6.5,-6.5,0.0,W
+2024,401635599,Stanford,Wake Forest,explicit_close,2.5,3.0,-0.5,P
+2024,401636906,Baylor,Oklahoma State,explicit_close,-6.5,-7.0,0.5,PASS
+2024,401636910,TCU,Texas Tech,explicit_close,-4.5,-5.0,0.5,W
+2024,401636911,UCF,BYU,explicit_close,-2.5,-2.5,0.0,W
+2024,401643817,James Madison,Southern Miss,explicit_close,-27.5,-24.0,-3.5,L
+2024,401644752,Akron,Eastern Michigan,explicit_close,2.5,2.5,0.0,L
+2024,401644753,Ball State,Northern Illinois,explicit_close,13.5,13.5,0.0,L
+2024,401644754,Toledo,Bowling Green,explicit_close,-1.5,-2.5,1.0,L
+2024,401644756,Western Michigan,Kent State,explicit_close,-19.5,-19.0,-0.5,W
+2024,401645355,Tulsa,UTSA,explicit_close,9.5,9.5,0.0,W
+2024,401635594,California,Oregon State,explicit_close,-11.5,-13.0,1.5,L
+2024,401628405,Vanderbilt,Texas,explicit_close,16.5,17.0,-0.5,W
+2024,401643741,Colorado State,New Mexico,explicit_close,-3.5,-3.5,0.0,W
+2024,401643819,South Alabama,UL Monroe,explicit_close,-7.5,-7.0,-0.5,L
+2024,401635596,Miami,Florida State,explicit_close,-21.5,-22.5,1.0,L
+2024,401636905,Arizona,West Virginia,explicit_close,-5.5,-5.5,0.0,W
+2024,401636908,Houston,Utah,explicit_close,4.5,4.5,0.0,L
+2024,401643745,Wyoming,Utah State,explicit_close,1.5,2.5,-1.0,W
+2024,401643818,Arkansas State,Troy,explicit_close,-7.5,-8.5,1.0,W
+2024,401628404,Texas A&M,LSU,explicit_close,-1.5,-2.0,0.5,W
+2024,401628529,Michigan,Michigan State,explicit_close,-3.5,-3.0,-0.5,W
+2024,401628531,Wisconsin,Penn State,explicit_close,6.5,6.0,0.5,L
+2024,401628401,Kentucky,Auburn,explicit_close,-1.5,-2.0,0.5,L
+2024,401635595,Duke,SMU,explicit_close,11.5,11.5,0.0,L
+2024,401636909,Kansas State,Kansas,explicit_close,-9.5,-10.0,0.5,L
+2024,401643742,Fresno State,San José State,explicit_close,-6.5,-6.5,0.0,L
+2024,401636907,Colorado,Cincinnati,explicit_close,-6.5,-6.0,-0.5,PASS
+2024,401643744,San Diego State,Washington State,explicit_close,17.5,17.0,0.5,L
+2024,401643743,Hawai'i,Nevada,explicit_close,-1.5,-2.5,1.0,L
+2024,401640985,Florida International,New Mexico State,explicit_close,-7.5,-7.0,-0.5,W
+2024,401643820,Texas State,Louisiana,explicit_close,-3.5,-4.0,0.5,L
+2024,401641012,Sam Houston,Louisiana Tech,explicit_close,-10.5,-10.5,0.0,L
+2024,401640994,Liberty,Jacksonville State,explicit_close,-2.5,-2.5,0.0,W
+2024,401641020,Western Kentucky,Kennesaw State,explicit_close,-23.5,-23.5,0.0,L
+2024,401645356,Charlotte,Tulane,explicit_close,14.5,14.5,0.0,W
+2024,401629036,UConn,Georgia State,explicit_close,-7.5,-7.0,-0.5,P
+2024,401645357,Florida Atlantic,South Florida,explicit_close,1.5,1.5,0.0,W
+2024,401643747,Boise State,San Diego State,explicit_close,-24.5,-24.5,0.0,W
+2024,401628406,Arkansas,Ole Miss,explicit_close,7.5,8.5,-1.0,W
+2024,401628533,Illinois,Minnesota,explicit_close,2.5,3.0,-0.5,PASS
+2024,401628538,Purdue,Northwestern,explicit_close,-3.5,-2.5,-1.0,W
+2024,401628539,Penn State,Ohio State,explicit_close,3.5,3.0,0.5,W
+2024,401635516,NC State,Stanford,explicit_close,-9.5,-9.5,0.0,L
+2024,401635601,Miami,Duke,explicit_close,-19.5,-21.0,1.5,L
+2024,401635604,Syracuse,Virginia Tech,explicit_close,3.5,3.5,0.0,L
+2024,401643746,Army,Air Force,explicit_close,-18.5,-18.0,-0.5,L
+2024,401644757,Akron,Buffalo,explicit_close,2.5,1.0,1.5,W
+2024,401644758,Eastern Michigan,Toledo,explicit_close,10.5,10.0,0.5,L
+2024,401645359,UTSA,Memphis,explicit_close,7.5,7.0,0.5,L
+2024,401628407,Auburn,Vanderbilt,explicit_close,-7.5,-8.5,1.0,W
+2024,401643821,App State,Old Dominion,explicit_close,2.5,3.0,-0.5,L
+2024,401645358,UAB,Tulsa,explicit_close,-2.5,-2.5,0.0,W
+2024,401628408,Georgia,Florida,explicit_close,-14.5,-15.0,0.5,W
+2024,401628534,Michigan State,Indiana,explicit_close,7.5,7.5,0.0,W
+2024,401628536,Michigan,Oregon,explicit_close,14.5,14.5,0.0,W
+2024,401628537,Nebraska,UCLA,explicit_close,-8.5,-7.5,-1.0,L
+2024,401635602,Florida State,North Carolina,explicit_close,2.5,2.5,0.0,PASS
+2024,401636913,Houston,Kansas State,explicit_close,9.5,13.0,-3.5,L
+2024,401636914,Iowa State,Texas Tech,explicit_close,-14.5,-13.5,-1.0,L
+2024,401636915,Oklahoma State,Arizona State,explicit_close,4.5,5.0,-0.5,L
+2024,401636916,UCF,Arizona,explicit_close,-5.5,-6.5,1.0,W
+2024,401641026,UTEP,Middle Tennessee,explicit_close,-1.5,-2.0,0.5,L
+2024,401643822,Marshall,UL Monroe,explicit_close,-10.5,-10.5,0.0,L
+2024,401643750,New Mexico,Wyoming,explicit_close,-7.5,-8.0,0.5,W
+2024,401643824,Troy,Coastal Carolina,explicit_close,3.5,4.5,-1.0,L
+2024,401645360,Rice,Navy,explicit_close,13.5,12.5,1.0,L
+2024,401628409,Mississippi State,Massachusetts,explicit_close,-18.5,-19.5,1.0,W
+2024,401643749,Fresno State,Hawai'i,explicit_close,-12.5,-12.5,0.0,L
+2024,401628411,South Carolina,Texas A&M,explicit_close,3.5,3.0,0.5,W
+2024,401628535,Iowa,Wisconsin,explicit_close,-2.5,-2.5,0.0,W
+2024,401628540,Washington,USC,explicit_close,2.5,2.0,0.5,L
+2024,401635600,Clemson,Louisville,explicit_close,-11.5,-11.0,-0.5,L
+2024,401643823,South Alabama,Georgia Southern,explicit_close,-5.5,-5.5,0.0,W
+2024,401628412,Tennessee,Kentucky,explicit_close,-17.5,-17.5,0.0,L
+2024,401635627,SMU,Pittsburgh,explicit_close,-7.5,-7.0,-0.5,L
+2024,401636912,Baylor,TCU,explicit_close,-2.5,-2.5,0.0,W
+2024,401643748,Nevada,Colorado State,explicit_close,2.5,2.0,0.5,L
+2024,401644760,Central Michigan,Bowling Green,explicit_close,14.5,16.0,-1.5,W
+2024,401644688,Ball State,Miami (OH),explicit_close,12.5,13.0,-0.5,W
+2024,401644761,Kent State,Ohio,explicit_close,20.5,20.5,0.0,W
+2024,401644762,Western Michigan,Northern Illinois,explicit_close,2.5,2.0,0.5,PASS
+2024,401643825,Coastal Carolina,App State,explicit_close,1.5,2.5,-1.0,W
+2024,401645361,East Carolina,Florida Atlantic,explicit_close,-5.5,-7.5,2.0,L
+2024,401634773,Wake Forest,California,explicit_close,7.5,7.0,0.5,W
+2024,401628542,UCLA,Iowa,explicit_close,6.5,6.5,0.0,L
+2024,401645362,Memphis,Rice,explicit_close,-7.5,-7.0,-0.5,P
+2024,401643754,San Diego State,New Mexico,explicit_close,-1.5,-1.0,-0.5,L
+2024,401628417,Texas,Florida,explicit_close,-24.5,-22.0,-2.5,L
+2024,401628544,Rutgers,Minnesota,explicit_close,6.5,6.5,0.0,L
+2024,401628545,Ohio State,Purdue,explicit_close,-37.5,-37.0,-0.5,W
+2024,401635606,Boston College,Syracuse,explicit_close,-5.5,-3.0,-2.5,L
+2024,401635609,Georgia Tech,Miami,explicit_close,9.5,9.5,0.0,L
+2024,401636918,Cincinnati,West Virginia,explicit_close,-5.5,-5.0,-0.5,L
+2024,401643828,UL Monroe,Texas State,explicit_close,9.5,9.5,0.0,L
+2024,401645363,South Florida,Navy,explicit_close,4.5,4.5,0.0,W
+2024,401640995,Middle Tennessee,Liberty,explicit_close,12.5,13.0,-0.5,L
+2024,401629037,UAB,UConn,explicit_close,7.5,7.5,0.0,W
+2024,401643829,Southern Miss,Marshall,explicit_close,13.5,13.5,0.0,W
+2024,401628414,Ole Miss,Georgia,explicit_close,1.5,2.0,-0.5,W
+2024,401628541,Indiana,Michigan,explicit_close,-14.5,-14.5,0.0,L
+2024,401629045,North Texas,Army,explicit_close,6.5,6.5,0.0,W
+2024,401635607,Virginia Tech,Clemson,explicit_close,6.5,5.5,1.0,L
+2024,401635608,NC State,Duke,explicit_close,-3.5,-3.0,-0.5,W
+2024,401636919,Kansas,Iowa State,explicit_close,2.5,2.5,0.0,L
+2024,401643755,Oregon State,San José State,explicit_close,-2.5,-3.0,0.5,L
+2024,401643826,James Madison,Georgia State,explicit_close,-15.5,-14.5,-1.0,W
+2024,401636921,Texas Tech,Colorado,explicit_close,4.5,5.0,-0.5,L
+2024,401641021,UTEP,Kennesaw State,explicit_close,-4.5,-4.5,0.0,L
+2024,401645364,Tulane,Temple,explicit_close,-25.5,-25.5,0.0,W
+2024,401628418,Vanderbilt,South Carolina,explicit_close,5.5,6.0,-0.5,W
+2024,401641004,Louisiana Tech,Jacksonville State,explicit_close,9.5,10.0,-0.5,W
+2024,401643827,Louisiana,Arkansas State,explicit_close,-14.5,-14.0,-0.5,W
+2024,401641036,New Mexico State,Western Kentucky,explicit_close,18.0,18.0,0.0,L
+2024,401628416,Tennessee,Mississippi State,explicit_close,-26.5,-26.5,0.0,L
+2024,401628543,Oregon,Maryland,explicit_close,-24.0,-24.0,0.0,L
+2024,401636917,Arizona State,UCF,explicit_close,-2.5,-2.5,0.0,W
+2024,401636920,TCU,Oklahoma State,explicit_close,-10.5,-10.5,0.0,L
+2024,401628413,LSU,Alabama,explicit_close,2.5,3.0,-0.5,W
+2024,401628984,Notre Dame,Florida State,explicit_close,-25.5,-25.5,0.0,W
+2024,401628415,Missouri,Oklahoma,explicit_close,3.5,3.5,0.0,W
+2024,401628546,Penn State,Washington,explicit_close,-13.5,-13.5,0.0,W
+2024,401635610,Pittsburgh,Virginia,explicit_close,-7.5,-7.0,-0.5,L
+2024,401643752,Boise State,Nevada,explicit_close,-23.5,-23.5,0.0,L
+2024,401643753,Hawai'i,UNLV,explicit_close,12.5,12.0,0.5,L
+2024,401643751,Air Force,Fresno State,explicit_close,9.5,9.5,0.0,L
+2024,401636922,Utah,BYU,explicit_close,3.5,3.0,0.5,L
+2024,401643756,Washington State,Utah State,explicit_close,-20.5,-20.5,0.0,W
+2024,401644763,Buffalo,Ball State,explicit_close,-3.5,-3.0,-0.5,P
+2024,401644764,Bowling Green,Western Michigan,explicit_close,-9.5,-9.5,0.0,PASS
+2024,401644765,Toledo,Central Michigan,explicit_close,-14.5,-15.0,0.5,W
+2024,401644689,Miami (OH),Kent State,explicit_close,-30.5,-30.5,0.0,L
+2024,401644766,Northern Illinois,Akron,explicit_close,-14.5,-14.0,-0.5,L
+2024,401644767,Ohio,Eastern Michigan,explicit_close,-10.5,-10.5,0.0,PASS
+2024,401645365,Tulsa,East Carolina,explicit_close,16.5,16.5,0.0,PASS
+2024,401643759,Colorado State,Wyoming,explicit_close,-7.5,-9.0,1.5,W
+2024,401645366,UTSA,North Texas,explicit_close,-1.5,-1.5,0.0,L
+2024,401628553,Washington,UCLA,explicit_close,-5.5,-5.0,-0.5,L
+2024,401636923,Arizona,Houston,explicit_close,-1.5,-1.0,-0.5,L
+2024,401628419,Arkansas,Texas,explicit_close,13.5,12.0,1.5,L
+2024,401628550,Northwestern,Ohio State,explicit_close,29.5,28.5,1.0,L
+2024,401629046,Massachusetts,Liberty,explicit_close,16.5,14.5,2.0,W
+2024,401635582,Pittsburgh,Clemson,explicit_close,12.5,11.5,1.0,W
+2024,401636925,Colorado,Utah,explicit_close,-13.5,-13.5,0.0,W
+2024,401641013,Western Kentucky,Louisiana Tech,explicit_close,-11.5,-12.5,1.0,L
+2024,401645370,Navy,Tulane,explicit_close,7.5,7.0,0.5,L
+2024,401628426,Auburn,UL Monroe,explicit_close,-25.5,-24.5,-1.0,L
+2024,401643832,Marshall,Coastal Carolina,explicit_close,-7.5,-7.5,0.0,W
+2024,401640986,Jacksonville State,Florida International,explicit_close,-12.5,-12.5,0.0,PASS
+2024,401645369,Temple,Florida Atlantic,explicit_close,-2.5,-2.0,-0.5,W
+2024,401628547,Illinois,Michigan State,explicit_close,-1.5,-2.0,0.5,W
+2024,401635581,California,Syracuse,explicit_close,-10.5,-10.0,-0.5,W
+2024,401641022,Kennesaw State,Sam Houston,explicit_close,20.5,21.0,-0.5,W
+2024,401643760,Utah State,Hawai'i,explicit_close,2.5,2.5,0.0,L
+2024,401628420,Florida,LSU,explicit_close,2.5,3.0,-0.5,L
+2024,401628552,Purdue,Penn State,explicit_close,30.5,30.0,0.5,W
+2024,401628985,Notre Dame,Virginia,explicit_close,-21.5,-21.5,0.0,L
+2024,401635517,Stanford,Louisville,explicit_close,20.5,21.0,-0.5,L
+2024,401635580,SMU,Boston College,explicit_close,-19.5,-19.0,-0.5,L
+2024,401643757,Air Force,Oregon State,explicit_close,2.5,2.5,0.0,L
+2024,401645368,Charlotte,South Florida,explicit_close,-1.5,-1.5,0.0,W
+2024,401628549,USC,Nebraska,explicit_close,-6.5,-6.5,0.0,L
+2024,401636929,West Virginia,Baylor,explicit_close,1.5,2.5,-1.0,L
+2024,401643830,Georgia Southern,Troy,explicit_close,-7.5,-7.0,-0.5,L
+2024,401643833,Old Dominion,James Madison,explicit_close,1.5,2.5,-1.0,W
+2024,401628423,South Carolina,Missouri,explicit_close,-10.5,-10.5,0.0,L
+2024,401643831,Georgia State,Arkansas State,explicit_close,-2.5,-3.0,0.5,L
+2024,401628548,Maryland,Rutgers,explicit_close,-4.5,-4.5,0.0,PASS
+2024,401636927,Kansas State,Arizona State,explicit_close,-7.5,-7.5,0.0,PASS
+2024,401643758,San José State,Boise State,explicit_close,14.5,14.0,0.5,W
+2024,401643834,Louisiana,South Alabama,explicit_close,-6.5,-6.5,0.0,L
+2024,401643835,Texas State,Southern Miss,explicit_close,-27.5,-27.5,0.0,W
+2024,401628421,Georgia,Tennessee,explicit_close,-7.5,-9.5,2.0,L
+2024,401628551,Wisconsin,Oregon,explicit_close,13.5,13.5,0.0,L
+2024,401628424,Texas A&M,New Mexico State,explicit_close,-38.5,-39.5,1.0,L
+2024,401635583,North Carolina,Wake Forest,explicit_close,-10.5,-10.0,-0.5,L
+2024,401636926,Iowa State,Cincinnati,explicit_close,-7.5,-7.0,-0.5,W
+2024,401645367,Memphis,UAB,explicit_close,-17.5,-16.5,-1.0,W
+2024,401643761,New Mexico,Washington State,explicit_close,11.5,10.5,1.0,L
+2024,401636924,BYU,Kansas,explicit_close,-2.5,-2.0,-0.5,L
+2024,401643762,UNLV,San Diego State,explicit_close,-19.5,-21.5,2.0,L
+2024,401644769,Kent State,Akron,explicit_close,10.5,10.5,0.0,W
+2024,401644770,Central Michigan,Western Michigan,explicit_close,5.5,6.0,-0.5,W
+2024,401644690,Miami (OH),Northern Illinois,explicit_close,-2.5,-1.5,-1.0,PASS
+2024,401644772,Eastern Michigan,Buffalo,explicit_close,-1.5,-1.0,-0.5,W
+2024,401644773,Toledo,Ohio,archived_current,0.5,-1.5,2.0,L
+2024,401634772,Georgia Tech,NC State,explicit_close,-7.5,-8.5,1.0,L
+2024,401645374,UTSA,Temple,explicit_close,-17.5,-16.5,-1.0,L
+2024,401628558,Michigan State,Purdue,explicit_close,-14.5,-14.0,-0.5,W
+2024,401643767,San José State,UNLV,explicit_close,7.5,7.5,0.0,W
+2024,401628429,Florida,Ole Miss,explicit_close,13.5,12.5,1.0,W
+2024,401628554,Rutgers,Illinois,explicit_close,-2.5,-2.0,-0.5,W
+2024,401628555,Ohio State,Indiana,explicit_close,-10.5,-10.5,0.0,L
+2024,401628556,Maryland,Iowa,explicit_close,4.5,4.0,0.5,W
+2024,401635518,Syracuse,UConn,explicit_close,-9.5,-10.0,0.5,W
+2024,401635612,Boston College,North Carolina,explicit_close,1.5,3.0,-1.5,W
+2024,401635618,Miami,Wake Forest,explicit_close,-23.5,-23.5,0.0,W
+2024,401635619,Virginia,SMU,explicit_close,10.5,10.5,0.0,W
+2024,401641005,Jacksonville State,Sam Houston,explicit_close,-5.5,-5.0,-0.5,L
+2024,401628430,Georgia,Massachusetts,explicit_close,-42.5,-42.0,-0.5,L
+2024,401628435,Tennessee,UTEP,explicit_close,-41.5,-41.5,0.0,W
+2024,401640996,Liberty,Western Kentucky,explicit_close,-1.5,-1.0,-0.5,L
+2024,401644774,Ball State,Bowling Green,explicit_close,12.5,12.5,0.0,L
+2024,401645373,UAB,Rice,explicit_close,6.5,7.0,-0.5,W
+2024,401641027,Middle Tennessee,New Mexico State,explicit_close,-3.5,-3.0,-0.5,L
+2024,401643836,App State,James Madison,explicit_close,6.5,7.0,-0.5,L
+2024,401636935,TCU,Arizona,explicit_close,-10.5,-11.0,0.5,W
+2024,401640987,Kennesaw State,Florida International,explicit_close,8.5,9.0,-0.5,W
+2024,401643839,Arkansas State,UL Monroe,explicit_close,-2.5,-3.0,0.5,L
+2024,401643841,Southern Miss,South Alabama,explicit_close,24.5,24.0,0.5,W
+2024,401645371,Florida Atlantic,Charlotte,explicit_close,3.5,3.0,0.5,PASS
+2024,401628436,Texas,Kentucky,explicit_close,-18.5,-19.0,0.5,L
+2024,401628557,Michigan,Northwestern,explicit_close,-10.5,-10.5,0.0,PASS
+2024,401628559,Minnesota,Penn State,explicit_close,11.5,11.0,0.5,W
+2024,401628560,Nebraska,Wisconsin,explicit_close,-1.5,-1.0,-0.5,W
+2024,401635613,California,Stanford,explicit_close,-15.5,-14.5,-1.0,L
+2024,401636930,Arizona State,BYU,explicit_close,-3.5,-3.5,0.0,L
+2024,401636932,Kansas,Colorado,explicit_close,1.5,2.5,-1.0,L
+2024,401636934,Oklahoma State,Texas Tech,explicit_close,4.5,5.0,-0.5,W
+2024,401636937,West Virginia,UCF,explicit_close,3.5,3.0,0.5,W
+2024,401643766,Utah State,San Diego State,explicit_close,-4.5,-5.0,0.5,L
+2024,401643837,Coastal Carolina,Georgia Southern,explicit_close,-1.5,-2.0,0.5,W
+2024,401645372,North Texas,East Carolina,explicit_close,-2.5,-2.5,0.0,L
+2024,401645375,South Florida,Tulsa,explicit_close,-13.5,-17.0,3.5,W
+2024,401628427,Arkansas,Louisiana Tech,explicit_close,-23.5,-23.5,0.0,L
+2024,401635617,Louisville,Pittsburgh,explicit_close,-7.5,-7.5,0.0,W
+2024,401628432,Mississippi State,Missouri,explicit_close,9.5,9.5,0.0,L
+2024,401643840,Louisiana,Troy,explicit_close,-7.5,-7.5,0.0,W
+2024,401628572,Oregon State,Washington State,explicit_close,10.5,11.0,-0.5,L
+2024,401636931,Houston,Baylor,explicit_close,6.5,7.0,-0.5,W
+2024,401640959,Notre Dame,Army,explicit_close,-14.5,-14.5,0.0,W
+2024,401643764,Wyoming,Boise State,explicit_close,25.5,22.0,3.5,L
+2024,401643842,Texas State,Georgia State,explicit_close,-22.5,-23.0,0.5,L
+2024,401628428,Auburn,Texas A&M,explicit_close,2.5,2.5,0.0,L
+2024,401628433,Oklahoma,Alabama,explicit_close,14.5,13.5,1.0,L
+2024,401636936,Utah,Iowa State,explicit_close,3.5,6.5,-3.0,L
+2024,401643838,Old Dominion,Marshall,explicit_close,-2.5,-3.0,0.5,W
+2024,401628431,LSU,Vanderbilt,explicit_close,-9.5,-9.5,0.0,W
+2024,401635615,Duke,Virginia Tech,explicit_close,2.5,2.5,0.0,L
+2024,401636933,Kansas State,Cincinnati,explicit_close,-7.5,-7.5,0.0,L
+2024,401628561,UCLA,USC,explicit_close,4.5,4.5,0.0,W
+2024,401643763,Nevada,Air Force,explicit_close,-2.5,-2.5,0.0,L
+2024,401643765,Fresno State,Colorado State,explicit_close,-3.5,-3.0,-0.5,PASS
+2024,401644775,Akron,Toledo,explicit_close,9.5,9.5,0.0,L
+2024,401644776,Buffalo,Kent State,explicit_close,-23.5,-24.0,0.5,W
+2024,401645376,Tulane,Memphis,explicit_close,-12.5,-13.5,1.0,L
+2024,401628568,Wisconsin,Minnesota,explicit_close,1.5,1.0,0.5,W
+2024,401636938,Colorado,Oklahoma State,explicit_close,-14.5,-16.5,2.0,W
+2024,401643769,Boise State,Oregon State,explicit_close,-17.5,-18.0,0.5,L
+2024,401644691,Bowling Green,Miami (OH),explicit_close,-3.0,-2.5,-0.5,L
+2024,401644777,Ohio,Ball State,explicit_close,-17.5,-17.5,0.0,L
+2024,401645379,East Carolina,Navy,no_valid_spread,,-2.5,,W
+2024,401628442,Ole Miss,Mississippi State,explicit_close,-26.5,-26.0,-0.5,L
+2024,401640997,Sam Houston,Liberty,explicit_close,2.5,2.0,0.5,W
+2024,401643770,Colorado State,Utah State,explicit_close,-5.5,-5.5,0.0,L
+2024,401643843,South Alabama,Texas State,explicit_close,2.5,1.5,1.0,W
+2024,401635625,San José State,Stanford,explicit_close,-2.5,-2.5,0.0,L
+2024,401628439,Georgia,Georgia Tech,explicit_close,-17.5,-17.5,0.0,L
+2024,401628562,Iowa,Nebraska,explicit_close,-3.5,-3.0,-0.5,P
+2024,401636939,UCF,Utah,explicit_close,-9.5,-10.0,0.5,W
+2024,401628440,Kentucky,Louisville,explicit_close,3.5,4.0,-0.5,W
+2024,401628444,Clemson,South Carolina,explicit_close,-2.5,-2.5,0.0,L
+2024,401628446,Vanderbilt,Tennessee,explicit_close,9.5,10.5,-1.0,L
+2024,401628563,Northwestern,Illinois,explicit_close,8.5,9.0,-0.5,W
+2024,401628566,Ohio State,Michigan,explicit_close,-20.5,-20.0,-0.5,L
+2024,401629038,Massachusetts,UConn,explicit_close,9.5,10.5,-1.0,L
+2024,401635622,Wake Forest,Duke,explicit_close,3.5,3.5,0.0,W
+2024,401636941,Baylor,Kansas,explicit_close,2.5,-1.0,3.5,PASS
+2024,401636945,Texas Tech,West Virginia,explicit_close,-2.5,-3.0,0.5,W
+2024,401643848,UL Monroe,Louisiana,explicit_close,8.5,10.0,-1.5,W
+2024,401645378,Army,UTSA,explicit_close,-6.5,-6.5,0.0,L
+2024,401645381,Temple,North Texas,explicit_close,10.5,11.0,-0.5,W
+2024,401644780,Western Michigan,Eastern Michigan,explicit_close,-6.5,-6.5,0.0,W
+2024,401640988,Florida International,Middle Tennessee,explicit_close,-9.5,-8.0,-1.5,W
+2024,401643845,Georgia State,Coastal Carolina,explicit_close,-0.5,1.0,-1.5,L
+2024,401643849,Troy,Southern Miss,explicit_close,-17.5,-17.5,0.0,L
+2024,401645382,Rice,South Florida,explicit_close,5.5,6.0,-0.5,L
+2024,401635620,Boston College,Pittsburgh,explicit_close,-3.5,-3.5,0.0,L
+2024,401643847,Arkansas State,Old Dominion,explicit_close,5.5,5.5,0.0,W
+2024,401628437,Alabama,Auburn,explicit_close,-10.5,-11.0,0.5,W
+2024,401628443,Missouri,Arkansas,explicit_close,-3.5,-3.0,-0.5,W
+2024,401628565,Penn State,Maryland,explicit_close,-26.5,-25.5,-1.0,L
+2024,401628567,Michigan State,Rutgers,explicit_close,-1.5,-1.5,0.0,W
+2024,401628570,UCLA,Fresno State,explicit_close,-7.5,-7.5,0.0,L
+2024,401628571,USC,Notre Dame,explicit_close,6.5,7.0,-0.5,W
+2024,401635621,SMU,California,explicit_close,-11.5,-12.5,1.0,W
+2024,401635623,Syracuse,Miami,explicit_close,12.5,12.0,0.5,PASS
+2024,401635624,North Carolina,NC State,explicit_close,-2.5,-2.0,-0.5,L
+2024,401636940,Arizona,Arizona State,explicit_close,7.5,7.5,0.0,W
+2024,401644779,Northern Illinois,Central Michigan,explicit_close,-16.5,-13.5,-3.0,L
+2024,401645377,Charlotte,UAB,explicit_close,-1.5,-1.0,-0.5,W
+2024,401645380,Tulsa,Florida Atlantic,explicit_close,2.5,-1.0,3.5,W
+2024,401641006,Western Kentucky,Jacksonville State,explicit_close,0.5,1.0,-0.5,W
+2024,401641014,Louisiana Tech,Kennesaw State,explicit_close,-13.5,-10.5,-3.0,W
+2024,401641031,New Mexico State,UTEP,explicit_close,-3.5,-3.0,-0.5,W
+2024,401636943,Cincinnati,TCU,explicit_close,2.5,2.5,0.0,L
+2024,401643844,Georgia Southern,App State,explicit_close,-2.5,-2.5,0.0,W
+2024,401643773,Washington State,Wyoming,explicit_close,-18.5,-18.5,0.0,L
+2024,401628438,Florida State,Florida,explicit_close,17.5,17.0,0.5,L
+2024,401628441,LSU,Oklahoma,explicit_close,-4.5,-6.0,1.5,PASS
+2024,401628564,Indiana,Purdue,explicit_close,-28.5,-29.0,0.5,W
+2024,401628445,Texas A&M,Texas,explicit_close,4.5,4.5,0.0,W
+2024,401628569,Oregon,Washington,explicit_close,-17.5,-17.5,0.0,W
+2024,401636944,Iowa State,Kansas State,explicit_close,-2.5,-1.5,-1.0,W
+2024,401635640,Virginia Tech,Virginia,explicit_close,-4.5,-4.5,0.0,W
+2024,401643772,UNLV,Nevada,explicit_close,-17.5,-17.5,0.0,W
+2024,401643846,James Madison,Marshall,explicit_close,-2.5,-3.5,1.0,W
+2024,401636942,BYU,Houston,explicit_close,-9.5,-12.0,2.5,P
+2024,401643768,San Diego State,Air Force,explicit_close,6.5,5.5,1.0,L
+2024,401643771,Hawai'i,New Mexico,explicit_close,6.5,4.0,2.5,W
+2024,401673466,Jacksonville State,Western Kentucky,explicit_close,-4.5,-4.0,-0.5,L
+2024,401673462,Army,Tulane,explicit_close,4.5,5.0,-0.5,W
+2024,401673468,Boise State,UNLV,explicit_close,-3.5,-4.0,0.5,W
+2024,401673465,Arizona State,Iowa State,explicit_close,1.5,-1.5,3.0,L
+2024,401673467,Miami (OH),Ohio,explicit_close,-2.5,-2.5,0.0,W
+2024,401673469,Texas,Georgia,explicit_close,-2.5,-3.0,0.5,L
+2024,401673470,Louisiana,Marshall,explicit_close,-4.5,-5.0,0.5,W
+2024,401673463,SMU,Clemson,explicit_close,-2.5,-3.0,0.5,W
+2024,401673464,Oregon,Penn State,explicit_close,-3.5,-3.0,-0.5,W
+2024,401645383,Army,Navy,explicit_close,-6.5,-6.0,-0.5,L
+2024,401677077,Western Michigan,South Alabama,explicit_close,5.5,9.0,-3.5,W
+2024,401677080,West Virginia,Memphis,explicit_close,5.5,5.0,0.5,P
+2024,401677079,James Madison,Western Kentucky,explicit_close,-7.5,-7.0,-0.5,W
+2024,401677081,UNLV,California,explicit_close,-3.5,-3.0,-0.5,W
+2024,401677082,Sam Houston,Georgia Southern,explicit_close,3.5,4.5,-1.0,L
+2024,401677083,Jacksonville State,Ohio,explicit_close,5.5,6.5,-1.0,W
+2024,401677084,Florida,Tulane,explicit_close,-9.5,-10.0,0.5,L
+2024,401677179,Notre Dame,Indiana,explicit_close,-6.5,-7.0,0.5,W
+2024,401677178,Penn State,SMU,explicit_close,-7.5,-7.5,0.0,L
+2024,401677176,Texas,Clemson,explicit_close,-13.5,-13.5,0.0,L
+2024,401677177,Ohio State,Tennessee,explicit_close,-7.5,-8.0,0.5,PASS
+2024,401677085,UTSA,Coastal Carolina,team_id_mismatch,,-12.5,,L
+2024,401677086,Fresno State,Northern Illinois,explicit_close,2.5,3.0,-0.5,L
+2024,401677087,San José State,South Florida,archived_current,0.5,2.0,-1.5,P
+2024,401677180,Toledo,Pittsburgh,explicit_close,6.5,7.0,-0.5,L
+2024,401677088,Kansas State,Rutgers,explicit_close,-7.5,-7.0,-0.5,L
+2024,401677089,Bowling Green,Arkansas State,explicit_close,-10.5,-10.0,-0.5,L
+2024,401677090,Navy,Oklahoma,explicit_close,2.5,2.5,0.0,L
+2024,401677091,Vanderbilt,Georgia Tech,explicit_close,2.5,3.0,-0.5,W
+2024,401677092,Arkansas,Texas Tech,explicit_close,3.5,3.0,0.5,L
+2024,401729867,Washington State,Syracuse,explicit_close,18.5,19.0,-0.5,W
+2024,401677093,USC,Texas A&M,team_id_mismatch,,3.5,,W
+2024,401677094,North Carolina,UConn,explicit_close,-1.5,-2.5,1.0,L
+2024,401677095,Nebraska,Boston College,explicit_close,-3.5,-3.5,0.0,W
+2024,401677096,TCU,Louisiana,explicit_close,-9.5,-10.0,0.5,L
+2024,401677097,Miami,Iowa State,explicit_close,-5.5,-4.5,-1.0,W
+2024,401677188,Colorado State,Miami (OH),explicit_close,1.5,2.5,-1.0,W
+2024,401677098,NC State,East Carolina,explicit_close,-7.5,-7.0,-0.5,L
+2024,401677099,Colorado,BYU,explicit_close,-2.5,-3.0,0.5,W
+2024,401677100,Army,Louisiana Tech,explicit_close,-14.5,-14.0,-0.5,W
+2024,401677101,Missouri,Iowa,explicit_close,-1.5,-2.5,1.0,L
+2024,401677102,Michigan,Alabama,explicit_close,16.5,16.5,0.0,W
+2024,401677190,Washington,Louisville,explicit_close,-1.5,-1.0,-0.5,W
+2024,401677103,Illinois,South Carolina,explicit_close,9.5,9.5,0.0,L
+2024,401677104,LSU,Baylor,explicit_close,2.5,3.5,-1.0,W
+2024,401677181,Boise State,Penn State,explicit_close,11.5,12.5,-1.0,L
+2024,401677182,Arizona State,Texas,explicit_close,13.5,13.0,0.5,W
+2024,401677183,Oregon,Ohio State,explicit_close,2.5,2.5,0.0,PASS
+2024,401677184,Georgia,Notre Dame,explicit_close,1.5,1.0,0.5,W
+2024,401677105,Ole Miss,Duke,explicit_close,-14.5,-17.0,2.5,PASS
+2024,401677106,Texas State,North Texas,explicit_close,-15.5,-14.0,-1.5,PASS
+2024,401677107,Virginia Tech,Minnesota,explicit_close,10.5,10.0,0.5,L
+2024,401677108,Liberty,Buffalo,explicit_close,3.5,4.0,-0.5,L
+2024,401677189,Penn State,Notre Dame,explicit_close,-1.5,-1.0,-0.5,W
+2024,401677191,Texas,Ohio State,explicit_close,5.5,5.5,0.0,L
+2024,401677192,Notre Dame,Ohio State,explicit_close,8.5,8.5,0.0,L

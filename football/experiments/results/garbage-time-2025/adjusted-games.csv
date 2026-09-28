@@ -1,0 +1,89 @@
+id,week,home,away,homeClass,awayClass,homeScore,awayScore,q3Margin,actualMargin,adjustedMargin
+401773397,1,Marian College,Indianapolis,,ii,21,45,-31,-24,-28.0
+401767771,2,Stonehill,Lafayette,fcs,fcs,26,42,-29,-16,-28.0
+401773692,2,West Liberty,Seton Hill,ii,ii,21,42,-28,-21,-28.0
+401773489,2,Saginaw Valley State,Gannon,ii,ii,49,28,28,21,28.0
+401757232,2,Toledo,Western Kentucky,fbs,fbs,45,21,38,24,28.0
+401773556,2,Midwestern State,Western Colorado,ii,ii,13,38,-35,-25,-28.0
+401757231,2,UTEP,UT Martin,fbs,fcs,42,17,32,25,28.0
+401752696,3,Alabama,Wisconsin,fbs,fbs,38,14,28,24,28.0
+401776994,3,Misericordia,Albright,iii,iii,42,21,28,21,28.0
+401752838,3,Maryland,Towson,fbs,fcs,44,17,34,27,28.0
+401752831,3,Northwestern,Oregon,fbs,fbs,14,34,-31,-20,-28.0
+401774422,3,Manchester,Concordia University Chicago,iii,iii,14,35,-35,-21,-28.0
+401774408,3,Franklin,Hope College,iii,iii,14,38,-31,-24,-28.0
+401767341,3,Delaware State,Bowie State,fcs,ii,36,14,29,22,28.0
+401774058,3,Utica,Rensselaer,iii,iii,41,14,35,27,28.0
+401773490,3,Saginaw Valley State,Northwood (MI),ii,ii,14,38,-31,-24,-28.0
+401767388,3,South Carolina State,Bethune-Cookman,fcs,fcs,55,41,28,14,28.0
+401773143,3,West Florida,Shorter,ii,ii,42,20,33,22,28.0
+401754536,3,Virginia Tech,Old Dominion,fbs,fbs,26,45,-31,-19,-28.0
+401767237,3,Western Illinois,Valparaiso,fcs,fcs,51,30,34,21,28.0
+401774132,4,Castleton,Biddeford,iii,iii,8,35,-32,-27,-28.0
+401783339,4,Reading,Stevenson,iii,iii,13,35,-28,-22,-28.0
+401767541,4,South Dakota,Drake,fcs,fcs,42,21,35,21,28.0
+401773789,4,Sioux Falls,Minnesota Duluth,ii,ii,17,34,-34,-17,-28.0
+401767389,4,Bethune-Cookman,Edward Waters,fcs,ii,35,9,29,26,28.0
+401773761,4,Northern State,Concordia University St Paul,ii,ii,31,10,28,21,28.0
+401752848,4,Notre Dame,Purdue,fbs,fbs,56,30,33,26,28.0
+401767182,4,Howard,Hampton,fcs,fcs,34,7,34,27,28.0
+401773131,4,UNC Pembroke,Ferrum,ii,ii,41,14,38,27,28.0
+401767664,4,Bucknell,Lehigh,fcs,fcs,24,41,-28,-17,-28.0
+401777021,5,Wisconsin-Lutheran,Concordia University Chicago,iii,iii,28,6,28,22,28.0
+401777220,5,Averett,Bridgewater (VA),iii,iii,14,41,-32,-27,-28.0
+401767226,5,Tennessee State,Tennessee Tech,fcs,fcs,8,35,-32,-27,-28.0
+401773354,5,Northwestern Oklahoma State,East Central (OK),ii,ii,20,41,-35,-21,-28.0
+401773557,5,UT Permian Basin,Midwestern State,ii,ii,37,15,35,22,28.0
+401760382,6,San Diego State,Colorado State,fbs,fbs,45,24,28,21,28.0
+401752728,6,Georgia,Kentucky,fbs,fbs,35,14,28,21,28.0
+401766683,6,Bowdoin,Williams,iii,iii,17,35,-32,-18,-28.0
+401777557,6,Jamestown College,University of Mary,ii,ii,22,44,-30,-22,-28.0
+401767033,6,Bryant,Maine,fcs,fcs,14,34,-34,-20,-28.0
+401773480,6,Saginaw Valley State,Northern Michigan,ii,ii,47,25,30,22,28.0
+401767496,6,South Dakota,Murray State,fcs,fcs,49,24,32,25,28.0
+401767575,6,Mercer,Samford,fcs,fcs,45,21,28,24,28.0
+401773588,6,Western Oregon,Western New Mexico,ii,ii,41,20,28,21,28.0
+401752863,7,Michigan State,UCLA,fbs,fbs,13,38,-31,-25,-28.0
+401767576,7,Princeton,Mercer,fcs,fcs,14,38,-28,-24,-28.0
+401773210,7,Ashland,Thomas More College,ii,ii,38,14,31,24,28.0
+401773785,7,Minnesota State Mankato,Winona State,ii,ii,47,21,33,26,28.0
+401773048,7,Simpson College (IA),Coe College,iii,iii,7,34,-34,-27,-28.0
+401773946,7,Mars Hill,Emory & Henry College,ii,ii,23,48,-29,-25,-28.0
+401761626,7,Marshall,Old Dominion,fbs,fbs,48,24,31,24,28.0
+401754563,7,Oregon State,Wake Forest,fbs,fbs,14,39,-32,-25,-28.0
+401773790,7,Southwest Minnesota State,Sioux Falls,ii,ii,14,35,-29,-21,-28.0
+401783346,8,FDU-Florham,Delaware Valley,iii,iii,14,41,-34,-27,-28.0
+401777262,8,Carnegie Mellon,Gettysburg,iii,iii,44,20,34,24,28.0
+401767505,8,Southern Illinois,North Dakota,fcs,fcs,19,38,-28,-19,-28.0
+401774411,8,Franklin,Manchester,iii,iii,48,21,34,27,28.0
+401774371,8,Wheaton,Carthage,iii,iii,47,21,29,26,28.0
+401767517,8,Stephen F. Austin,Nicholls,fcs,fcs,34,7,34,27,28.0
+401773091,9,Johnson C Smith,Winston-Salem,ii,ii,52,27,29,25,28.0
+401774340,9,Berry College,Millsaps,iii,iii,43,20,29,23,28.0
+401777209,9,University of Mount Union,Ohio Northern,iii,iii,33,7,33,26,28.0
+401773292,9,Worcester St,Dean College,iii,iii,52,27,31,25,28.0
+401773738,9,Bemidji State,Jamestown College,ii,ii,47,25,31,22,28.0
+401766711,9,Cornell College (IA),Lake Forest College,iii,iii,24,49,-32,-25,-28.0
+401773049,9,Coe College,Luther,iii,iii,42,21,42,21,28.0
+401773492,9,Saginaw Valley State,Wayne State (MI),ii,ii,28,7,28,21,28.0
+401767539,9,Southern Illinois,Northern Iowa,fcs,fcs,31,17,28,14,28.0
+401773941,9,Carson-Newman College,UVA Wise,ii,ii,35,14,28,21,28.0
+401773272,9,Alfred State,Hartwick,iii,iii,54,28,40,26,28.0
+401762497,10,Rice,Memphis,fbs,fbs,14,38,-31,-24,-28.0
+401762849,10,Bowling Green,Buffalo,fbs,fbs,3,28,-28,-25,-28.0
+401757173,10,UConn,UAB,fbs,fbs,38,19,32,19,28.0
+401752891,10,Illinois,Rutgers,fbs,fbs,35,13,29,22,28.0
+401776981,10,Biddeford,Nichols College,iii,iii,58,34,31,24,28.0
+401773310,10,Union (NY),Hilbert College,iii,iii,34,13,31,21,28.0
+401773162,10,Central College,Buena Vista,iii,iii,52,27,31,25,28.0
+401773877,10,Fort Lewis,Adams State,ii,ii,44,24,34,20,28.0
+401767706,11,Columbia,Harvard,fcs,fcs,14,31,-31,-17,-28.0
+401767562,11,Samford,East Tennessee State,fcs,fcs,14,38,-31,-24,-28.0
+401778029,12,Greenville,Crown College,iii,iii,20,38,-31,-18,-28.0
+401774105,12,Hobart College,Buffalo State,iii,iii,35,9,33,26,28.0
+401773839,12,Lock Haven University,Gannon,ii,ii,49,28,28,21,28.0
+401754593,12,Duke,Virginia,fbs,fbs,17,34,-28,-17,-28.0
+401752775,13,Florida,Tennessee,fbs,fbs,11,31,-28,-20,-28.0
+401762442,14,North Texas,Temple,fbs,fbs,52,25,31,27,28.0
+401762875,14,Miami (OH),Ball State,fbs,fbs,45,24,28,21,28.0
+401761667,14,Texas State,South Alabama,fbs,fbs,49,26,28,23,28.0

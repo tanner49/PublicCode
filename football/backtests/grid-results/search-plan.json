@@ -1,0 +1,242 @@
+{
+  "objective": "maximize total $ profit over 2023-2025; ties ROI then worst-year profit",
+  "coarse": [
+    {
+      "id": "C00",
+      "stage": "coarse",
+      "bonus": 2.75,
+      "cap": 28.0,
+      "multiplier": 1.25,
+      "decayStart": 4,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C01",
+      "stage": "coarse",
+      "bonus": 0,
+      "cap": 28,
+      "multiplier": 1,
+      "decayStart": 4,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C02",
+      "stage": "coarse",
+      "bonus": 0,
+      "cap": 35,
+      "multiplier": 1.25,
+      "decayStart": 5,
+      "decayStep": 0.125
+    },
+    {
+      "id": "C03",
+      "stage": "coarse",
+      "bonus": 0,
+      "cap": 42,
+      "multiplier": 1.5,
+      "decayStart": 3,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C04",
+      "stage": "coarse",
+      "bonus": 0,
+      "cap": 56,
+      "multiplier": 2,
+      "decayStart": 5,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C05",
+      "stage": "coarse",
+      "bonus": 1.5,
+      "cap": 21,
+      "multiplier": 1,
+      "decayStart": 3,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C06",
+      "stage": "coarse",
+      "bonus": 1.5,
+      "cap": 28,
+      "multiplier": 1.25,
+      "decayStart": 5,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C07",
+      "stage": "coarse",
+      "bonus": 1.5,
+      "cap": 35,
+      "multiplier": 1.5,
+      "decayStart": 3,
+      "decayStep": 0.5
+    },
+    {
+      "id": "C08",
+      "stage": "coarse",
+      "bonus": 1.5,
+      "cap": 42,
+      "multiplier": 2,
+      "decayStart": 4,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C09",
+      "stage": "coarse",
+      "bonus": 1.5,
+      "cap": 56,
+      "multiplier": 0,
+      "decayStart": 5,
+      "decayStep": 0.125
+    },
+    {
+      "id": "C10",
+      "stage": "coarse",
+      "bonus": 2.75,
+      "cap": 21,
+      "multiplier": 1.25,
+      "decayStart": 4,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C11",
+      "stage": "coarse",
+      "bonus": 2.75,
+      "cap": 28,
+      "multiplier": 1.5,
+      "decayStart": 5,
+      "decayStep": 0.125
+    },
+    {
+      "id": "C12",
+      "stage": "coarse",
+      "bonus": 2.75,
+      "cap": 35,
+      "multiplier": 2,
+      "decayStart": 3,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C13",
+      "stage": "coarse",
+      "bonus": 2.75,
+      "cap": 42,
+      "multiplier": 0,
+      "decayStart": 5,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C14",
+      "stage": "coarse",
+      "bonus": 2.75,
+      "cap": 56,
+      "multiplier": 1,
+      "decayStart": 3,
+      "decayStep": 0.5
+    },
+    {
+      "id": "C15",
+      "stage": "coarse",
+      "bonus": 4,
+      "cap": 21,
+      "multiplier": 1.5,
+      "decayStart": 5,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C16",
+      "stage": "coarse",
+      "bonus": 4,
+      "cap": 28,
+      "multiplier": 2,
+      "decayStart": 3,
+      "decayStep": 0.5
+    },
+    {
+      "id": "C17",
+      "stage": "coarse",
+      "bonus": 4,
+      "cap": 35,
+      "multiplier": 0,
+      "decayStart": 4,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C18",
+      "stage": "coarse",
+      "bonus": 4,
+      "cap": 42,
+      "multiplier": 1,
+      "decayStart": 5,
+      "decayStep": 0.125
+    },
+    {
+      "id": "C19",
+      "stage": "coarse",
+      "bonus": 4,
+      "cap": 56,
+      "multiplier": 1.25,
+      "decayStart": 3,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C20",
+      "stage": "coarse",
+      "bonus": 6,
+      "cap": 21,
+      "multiplier": 2,
+      "decayStart": 5,
+      "decayStep": 0.125
+    },
+    {
+      "id": "C21",
+      "stage": "coarse",
+      "bonus": 6,
+      "cap": 28,
+      "multiplier": 0,
+      "decayStart": 3,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C22",
+      "stage": "coarse",
+      "bonus": 6,
+      "cap": 35,
+      "multiplier": 1,
+      "decayStart": 5,
+      "decayStep": 0.25
+    },
+    {
+      "id": "C23",
+      "stage": "coarse",
+      "bonus": 6,
+      "cap": 42,
+      "multiplier": 1.25,
+      "decayStart": 3,
+      "decayStep": 0.5
+    },
+    {
+      "id": "C24",
+      "stage": "coarse",
+      "bonus": 6,
+      "cap": 56,
+      "multiplier": 1.5,
+      "decayStart": 4,
+      "decayStep": 0.25
+    }
+  ],
+  "refinement": "ten axial neighbors of coarse winner; bonus +/-0.75, cap +/-3.5, multiplier +/-0.125, start +/-1 week, decay +/-0.0625; inward neighbors at bounds",
+  "fixed": "same 1858 explicit-close games; +3 HFA, neutral 0; half lead>=21, final win>=10, half credit<=56; $110 risk, +$100 win; no edge passes",
+  "priors": "fixed 2022 bootstrap for all 2023 runs; candidate-specific prior-year final for 2024/2025; winner bonus also affects existing prior encoding",
+  "priorFormula": "max(0,1-max(0,forecastWeek-decayStart)*decayStep); postseason 0",
+  "validation": "all three seasons used for selection, not an out-of-sample performance claim",
+  "inputHashes": {
+    "results\\game-by-game.csv": "8a0cb393458d67d45feb31d580734e4aa0842f4e3f433b6584d99d60c840bf62",
+    "results\\weekly-audit.json": "f7cd8738714f564137e30b23f44acdbcf7d68e0164b5ee0297f99c889385dc7b",
+    "results\\prior-2023.csv": "b6c9f4bb13bf09ad776c634d7dba022670fa72249f51db850418bf2ac0ccd00f",
+    "production_ratings.py": "e15037231a5b6005b5921a8a160a0a031b38d73ee7e1704abe077bb3299559b8",
+    "grid_search.py": "c362b47b9e3a8e43a67f5306123d0eb0e3291f550291c2ef6da9201f80e21b11"
+  }
+}

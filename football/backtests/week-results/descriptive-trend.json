@@ -1,0 +1,18 @@
+{
+  "all": {
+    "bets": 1709,
+    "linearWinRateChangePerWeek": 0.004471105456239015
+  },
+  "2023": {
+    "bets": 518,
+    "linearWinRateChangePerWeek": 0.013077862284604877
+  },
+  "2024": {
+    "bets": 580,
+    "linearWinRateChangePerWeek": -0.0006291122565665776
+  },
+  "2025": {
+    "bets": 611,
+    "linearWinRateChangePerWeek": 0.004584667512808859
+  }
+}

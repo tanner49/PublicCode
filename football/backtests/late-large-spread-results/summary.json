@@ -1,0 +1,78 @@
+{
+  "all": {
+    "games": 203,
+    "wins": 103,
+    "losses": 92,
+    "pushes": 0,
+    "passes": 8,
+    "winRate": 0.5282051282051282,
+    "profit": 180,
+    "risked": 21450,
+    "ROI": 0.008391608391608392,
+    "winRateWilson95": [
+      0.45827197879106873,
+      0.5970484763355419
+    ]
+  },
+  "2023": {
+    "games": 51,
+    "wins": 30,
+    "losses": 21,
+    "pushes": 0,
+    "passes": 0,
+    "winRate": 0.5882352941176471,
+    "profit": 690,
+    "risked": 5610,
+    "ROI": 0.12299465240641712,
+    "winRateWilson95": [
+      0.45165337206371936,
+      0.7124560479541876
+    ]
+  },
+  "2024": {
+    "games": 77,
+    "wins": 35,
+    "losses": 36,
+    "pushes": 0,
+    "passes": 6,
+    "winRate": 0.49295774647887325,
+    "profit": -460,
+    "risked": 7810,
+    "ROI": -0.058898847631242,
+    "winRateWilson95": [
+      0.38005150511213165,
+      0.6065869167497964
+    ]
+  },
+  "2025": {
+    "games": 75,
+    "wins": 38,
+    "losses": 35,
+    "pushes": 0,
+    "passes": 2,
+    "winRate": 0.5205479452054794,
+    "profit": -50,
+    "risked": 8030,
+    "ROI": -0.0062266500622665,
+    "winRateWilson95": [
+      0.407815968897928,
+      0.6312254554326584
+    ]
+  },
+  "definition": "Production model; regular Week >=12; absolute bookmaker spread strictly >10; same explicit-close lines, hypothetical -110, $110 stakes, no-edge passes; 2025 through W14. Exploratory intersection selected after prior analyses.",
+  "rawSensitivity": {
+    "games": 203,
+    "wins": 107,
+    "losses": 96,
+    "pushes": 0,
+    "passes": 0,
+    "winRate": 0.5270935960591133,
+    "profit": 140,
+    "risked": 22330,
+    "ROI": 0.006269592476489028,
+    "winRateWilson95": [
+      0.45854910828719003,
+      0.594631719496159
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "bonus": 0.75,
+    "cap": 28,
+    "multiplier": 1,
+    "decayStart": 4,
+    "decayStep": 0.25,
+    "id": "R01",
+    "stage": "refine"
+  },
+  {
+    "bonus": 1.5,
+    "cap": 28,
+    "multiplier": 1,
+    "decayStart": 4,
+    "decayStep": 0.25,
+    "id": "R02",
+    "stage": "refine"
+  },
+  {
+    "bonus": 0,
+    "cap": 24.5,
+    "multiplier": 1,
+    "decayStart": 4,
+    "decayStep": 0.25,
+    "id": "R03",
+    "stage": "refine"
+  },
+  {
+    "bonus": 0,
+    "cap": 31.5,
+    "multiplier": 1,
+    "decayStart": 4,
+    "decayStep": 0.25,
+    "id": "R04",
+    "stage": "refine"
+  },
+  {
+    "bonus": 0,
+    "cap": 28,
+    "multiplier": 0.875,
+    "decayStart": 4,
+    "decayStep": 0.25,
+    "id": "R05",
+    "stage": "refine"
+  },
+  {
+    "bonus": 0,
+    "cap": 28,
+    "multiplier": 1.125,
+    "decayStart": 4,
+    "decayStep": 0.25,
+    "id": "R06",
+    "stage": "refine"
+  },
+  {
+    "bonus": 0,
+    "cap": 28,
+    "multiplier": 1,
+    "decayStart": 3,
+    "decayStep": 0.25,
+    "id": "R07",
+    "stage": "refine"
+  },
+  {
+    "bonus": 0,
+    "cap": 28,
+    "multiplier": 1,
+    "decayStart": 5,
+    "decayStep": 0.25,
+    "id": "R08",
+    "stage": "refine"
+  },
+  {
+    "bonus": 0,
+    "cap": 28,
+    "multiplier": 1,
+    "decayStart": 4,
+    "decayStep": 0.1875,
+    "id": "R09",
+    "stage": "refine"
+  },
+  {
+    "bonus": 0,
+    "cap": 28,
+    "multiplier": 1,
+    "decayStart": 4,
+    "decayStep": 0.3125,
+    "id": "R10",
+    "stage": "refine"
+  }
+]
