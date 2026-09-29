@@ -193,8 +193,22 @@ def publish_share_cards(data_directory):
             previous_path = data_directory / str(snapshot['season']) / f"week-{snapshot['week']-1:02}.json"
             if previous_path.exists():
                 render_new_light(snapshot, json.loads(previous_path.read_text(encoding='utf-8')), site, folder)
-        for graphic in sorted(folder.glob('*.png')):
+        if entry == entries[-1]:
+            from conference_charts import main as render_conferences
+            conference_folder = folder / 'conferences'
+            research = Path(__file__).parent / 'backtests/results/game-by-game.csv'
+            conference_version = hashlib.sha256((data_directory / entry['path']).read_bytes()
+                + (Path(__file__).parent / 'conference_charts.py').read_bytes()
+                + research.read_bytes() + (site / 'logos/index.json').read_bytes()).hexdigest()[:12]
+            stamp = conference_folder / 'build-version.txt'
+            images = ['01-conference-distributions', '02-conference-matchups', '03-conference-depth']
+            if not stamp.exists() or stamp.read_text().strip() != conference_version or any(not (conference_folder/(name+'.png')).exists() for name in images):
+                render_conferences(data_directory / entry['path'], conference_folder)
+                stamp.write_text(conference_version + '\n')
+            entry['conferenceCharts'] = {'path': conference_folder.relative_to(site).as_posix(), 'version': conference_version}
+        for graphic in sorted(folder.rglob('*.png')):
             build_hash.update(graphic.read_bytes())
+    (data_directory / 'index.json').write_text(json.dumps(manifest, indent=2) + '\n', encoding='utf-8')
     if not entries:
         return
     assets = {'app.js': site / 'app.js', 'styles.css': site / 'styles.css',
