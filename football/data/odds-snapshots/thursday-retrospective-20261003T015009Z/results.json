@@ -1,0 +1,29 @@
+{
+  "retrieved_at_utc": "2026-10-03T01:50:10.242547+00:00",
+  "line_type": "Retrospectively retrieved explicit DraftKings close fields; not part of Friday pregame lock",
+  "model_sha256": "f2c95aaf6364b1d4ed06d160af1eac16cb1012d231add3429b42864b23ec269e",
+  "results": [
+    {
+      "game": "Western Kentucky at New Mexico State",
+      "model_home_margin": 1.0,
+      "pick": "Western Kentucky",
+      "spread": 1.5,
+      "home_score": "34",
+      "away_score": "13",
+      "result": "L",
+      "provider": "Draft Kings",
+      "event_id": "401871049"
+    },
+    {
+      "game": "North Texas at Tulsa",
+      "model_home_margin": -7.5,
+      "pick": "North Texas",
+      "spread": -3.0,
+      "home_score": "44",
+      "away_score": "45",
+      "result": "L",
+      "provider": "Draft Kings",
+      "event_id": "401862786"
+    }
+  ]
+}

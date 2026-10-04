@@ -1,0 +1,36 @@
+{
+  "started_at_utc": "2026-10-02T21:23:56.146756+00:00",
+  "sources": [
+    {
+      "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261002&groups=80&limit=200",
+      "captured_at_utc": "2026-10-02T21:23:56.322405+00:00",
+      "sha256": "36f0d23b710e16283c86f3ff0f1d0eaf93bb9fe9a62de3fc298b5c2449bb129e"
+    },
+    {
+      "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261003&groups=80&limit=200",
+      "captured_at_utc": "2026-10-02T21:23:56.519030+00:00",
+      "sha256": "5688af5698b9952d225098e09e95acba4aec9fe83f101bc0a7404d77fe14ceb3"
+    },
+    {
+      "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261004&groups=80&limit=200",
+      "captured_at_utc": "2026-10-02T21:23:56.677307+00:00",
+      "sha256": "2c7c73b2d454012547a5e4b906bbba6b36e12363d32c6130c315ce7fdd258ce0"
+    }
+  ],
+  "games": 59,
+  "rows": 59,
+  "missing_lines": [],
+  "pregame_locked_games": 57,
+  "retrospective_closing_games": 2,
+  "ats_file": "lines.csv",
+  "original_pregame_file": "lines-pregame-original.csv",
+  "retrospective_supplement": {
+    "path": "../thursday-retrospective-20261003T015009Z",
+    "retrieved_at_utc": "2026-10-03T01:50:10.242547+00:00",
+    "event_ids": [
+      "401871049",
+      "401862786"
+    ]
+  },
+  "ats_file_sha256": "b2deeef239f1a64e605bbb3e9d367993baa15dcb6c39c29809e7e7fe96406a69"
+}

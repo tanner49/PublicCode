@@ -202,10 +202,16 @@ def main():
         writer.writerows(snapshot["teams"])
     args.site.mkdir(parents=True, exist_ok=True)
     (args.site / filename).with_suffix(".csv").write_bytes(csv_path.read_bytes())
+    index_path = args.site / "index.json"
+    old_entries = {
+        entry["path"]: entry
+        for entry in (json.loads(index_path.read_text(encoding="utf-8"))["snapshots"] if index_path.exists() else [])
+    }
     manifest = []
     for path in args.site.glob("*/week-*.json"):
         saved = json.loads(path.read_text(encoding="utf-8"))
-        manifest.append({"season": saved["season"], "week": saved["week"], "path": path.relative_to(args.site).as_posix()})
+        relative_path = path.relative_to(args.site).as_posix()
+        manifest.append({**old_entries.get(relative_path, {}), "season": saved["season"], "week": saved["week"], "path": relative_path})
     write_json(args.site / "index.json", {"snapshots": sorted(manifest, key=lambda s: (s["season"], s["week"]))})
     from share_cards import publish_share_cards
     publish_share_cards(args.site)
