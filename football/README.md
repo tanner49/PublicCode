@@ -108,3 +108,7 @@ The previous published Week 5 JSON, CSV, graphics, and audits are preserved in `
 ## Conference charts
 
 `conference_charts.py` renders all-team FBS conference distributions, 1,000-game neutral-field conference matchup simulations, and conference depth charts. `share_cards.py` automatically builds and fingerprints these for each new publication; older conference assets are retained. The page shows only charts belonging to the selected snapshot. Simulations uniformly sample teams and add symmetrized historical forecast errors from the frozen 2023-2025 backtest. Full methodology and data are saved beside the charts. These simulations do not change team ratings.
+
+## Week 7: prior retired early
+
+From 2026 Week 7 onward, use `--prior-weight 0` (also the CLI default). The initially published Week 7 with a 0.25-game prior is preserved in `archive/model-revisions/2026-week07-prior-0.25/`. Weeks 4-6 retain their original priors. The scoring rule and prediction-only home advantage are unchanged.
