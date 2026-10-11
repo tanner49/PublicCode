@@ -1,0 +1,397 @@
+{
+  "sources": [
+    {
+      "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261010&groups=80&limit=200",
+      "file": "scoreboard-20261010.json",
+      "captured_utc": "2026-10-10T19:36:19.209355+00:00",
+      "sha256": "ce1f72bfa001e4d113705aa3180309c05f2fdd4a350c69f37a159d6298ef7c5d"
+    },
+    {
+      "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261009&groups=80&limit=200",
+      "file": "scoreboard-20261009.json",
+      "captured_utc": "2026-10-10T19:36:19.255356+00:00",
+      "sha256": "22b3656f530c775ad1688fd2ec19dce66366b04bdcd6ba01c986b2a4e4b34d88"
+    },
+    {
+      "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261005&groups=80&limit=200",
+      "file": "scoreboard-20261005.json",
+      "captured_utc": "2026-10-10T19:36:19.258355+00:00",
+      "sha256": "2c7c73b2d454012547a5e4b906bbba6b36e12363d32c6130c315ce7fdd258ce0"
+    },
+    {
+      "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261011&groups=80&limit=200",
+      "file": "scoreboard-20261011.json",
+      "captured_utc": "2026-10-10T19:36:19.264354+00:00",
+      "sha256": "2c7c73b2d454012547a5e4b906bbba6b36e12363d32c6130c315ce7fdd258ce0"
+    },
+    {
+      "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261008&groups=80&limit=200",
+      "file": "scoreboard-20261008.json",
+      "captured_utc": "2026-10-10T19:36:19.267355+00:00",
+      "sha256": "b93ba02b77f8ef126b03c82e2a392e1149aeb0c533d399c072d3ad2ea93de747"
+    },
+    {
+      "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261006&groups=80&limit=200",
+      "file": "scoreboard-20261006.json",
+      "captured_utc": "2026-10-10T19:36:19.274355+00:00",
+      "sha256": "74c0c54a6611e4d4523108d3b27d5e1436f5e25a2ac22d0d900073199e095bb9"
+    },
+    {
+      "url": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261007&groups=80&limit=200",
+      "file": "scoreboard-20261007.json",
+      "captured_utc": "2026-10-10T19:36:19.278355+00:00",
+      "sha256": "b1931e7447bcb8e68d8dba712d4850b4408066be4ece21d4ad0b84f904afd320"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401870766/competitions/401870766/odds",
+      "file": "401870766-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.517255+00:00",
+      "sha256": "3257646a421603e5727ee68ce31bd94a335772686d9febce873b9cb9c8496614"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401869933/competitions/401869933/odds",
+      "file": "401869933-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.518379+00:00",
+      "sha256": "66b6e56166f323948bc0e6906c5100fe6f660c54c53097209ae0d74161aa717e"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401871051/competitions/401871051/odds",
+      "file": "401871051-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.521424+00:00",
+      "sha256": "745a4f8a70f35b16eba4bd42a46e3406f361360745b9ad52f733bf35c6d98a99"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401862794/competitions/401862794/odds",
+      "file": "401862794-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.521424+00:00",
+      "sha256": "3c282d0c6437797eef06bdbe94460ddf07954fdd00332142855d3571f5f251a1"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856826/competitions/401856826/odds",
+      "file": "401856826-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.523267+00:00",
+      "sha256": "b3f39c7c3e7d49a4058287cf08db6bc9543f460adeee356ab1088babfb38b529"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401871052/competitions/401871052/odds",
+      "file": "401871052-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.524371+00:00",
+      "sha256": "f2f26b97d243204f453def14587c11d3ecd3ab0fb399bc2033b1daec3284c14f"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401871066/competitions/401871066/odds",
+      "file": "401871066-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.524371+00:00",
+      "sha256": "e7a48c38ae50c80cd0633a038cb887f2c2470cb7be23b1537a0dd83c76493309"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401871090/competitions/401871090/odds",
+      "file": "401871090-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.527584+00:00",
+      "sha256": "d7f0fd6f6e0830536dce50670f09e2cca0d3b2f757c5af8dcabe96a83309df0e"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858254/competitions/401858254/odds",
+      "file": "401858254-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.739971+00:00",
+      "sha256": "974999c18f874a30ae3cc65db22215166b7bb7dca77937da42efe1180b5b8092"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858487/competitions/401858487/odds",
+      "file": "401858487-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.757167+00:00",
+      "sha256": "fba3f88d9b87d4649e6fc07a719c18958c71baacd5fc6dbde24b0f3c08684347"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858256/competitions/401858256/odds",
+      "file": "401858256-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.760165+00:00",
+      "sha256": "d9ed78231109f03670e213a7f0e6eef39321e9e45e44d35095c6d0b4c15f12b8"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401860922/competitions/401860922/odds",
+      "file": "401860922-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.803166+00:00",
+      "sha256": "004396be44dd2cae49d7699e7e73bea72562a57bd91a95b4b7f40c88c56da282"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401864519/competitions/401864519/odds",
+      "file": "401864519-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.803166+00:00",
+      "sha256": "bd47f063f65401ce0f706450c1e9f59cf464796e313c7ea91c0f45da788116d2"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856716/competitions/401856716/odds",
+      "file": "401856716-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.803166+00:00",
+      "sha256": "091db8d86bfdbe791f45630433eeff7218fe0bcc1640678f603907d25e5cd0b0"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856824/competitions/401856824/odds",
+      "file": "401856824-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.804166+00:00",
+      "sha256": "3f8bb739f0a3bc5a9c59b24a4988688d8b9baf0bcb0556d4bd75e49d20c92091"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858481/competitions/401858481/odds",
+      "file": "401858481-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.805167+00:00",
+      "sha256": "7f4e6d24701dd02aa18a7a67ae429fdb445037660ae2124519cc0fd3977ea6ed"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856823/competitions/401856823/odds",
+      "file": "401856823-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.913165+00:00",
+      "sha256": "ce88e455f2052660de0614d53685a33d8af8d4c492cf3057fff5f8b5bd96e609"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858482/competitions/401858482/odds",
+      "file": "401858482-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.966164+00:00",
+      "sha256": "102fe19fdd97acff06d90193083e27c6e3fa0573cd9ceaf1b27e683500457e50"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856714/competitions/401856714/odds",
+      "file": "401856714-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.966164+00:00",
+      "sha256": "aa96da738c3ee9ca9385e18605a37b733f6de843dbb3c41722aa60cce30ed48b"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401869843/competitions/401869843/odds",
+      "file": "401869843-odds.json",
+      "captured_utc": "2026-10-10T19:36:19.967165+00:00",
+      "sha256": "e58700f02b0a61163a09767e9c05d0148c87b3ce47ea7cadec80579bae0cb757"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401862795/competitions/401862795/odds",
+      "file": "401862795-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.010165+00:00",
+      "sha256": "6b580403493a58f0ad1a4ab3ac1412ccd0da1213177631e7c043ee44c92c4853"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858260/competitions/401858260/odds",
+      "file": "401858260-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.023163+00:00",
+      "sha256": "9de819a51b5a17ff0b5e9b442cda8a6ab5d994f7307f14f7997410fe9d2a9c79"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401866440/competitions/401866440/odds",
+      "file": "401866440-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.023163+00:00",
+      "sha256": "9206667628c96822eeb192a8f404f9414188612992dd0bf15bbc7c0e6a46a164"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401862797/competitions/401862797/odds",
+      "file": "401862797-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.032163+00:00",
+      "sha256": "d0a47de90f4d730f4ff7d1c752a92f412760dc5ed97dc24b870308fe52d814b2"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401866436/competitions/401866436/odds",
+      "file": "401866436-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.089165+00:00",
+      "sha256": "64f9b20261da628063d6adc260481926a5acc2cce936612f7ac4688dfa24b169"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856718/competitions/401856718/odds",
+      "file": "401856718-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.173164+00:00",
+      "sha256": "d687a8f7156848efe38a622cee11973558bea16bc8f30069545603b4cc6263e8"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856717/competitions/401856717/odds",
+      "file": "401856717-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.173164+00:00",
+      "sha256": "8faef8d5d5366b7e185f1902926ff20cb5b5fec1eb07d9db877f3bd001289fd7"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858257/competitions/401858257/odds",
+      "file": "401858257-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.174165+00:00",
+      "sha256": "e2cc6e4e16530e0aef1c933855f14b7aa8e19fbef4a62291ed407cc014f97dc9"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858255/competitions/401858255/odds",
+      "file": "401858255-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.188164+00:00",
+      "sha256": "508ccab546f062770d377aa1f832c45aac23d0ca6650ed1e2faaf4e5f2acf1b4"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858484/competitions/401858484/odds",
+      "file": "401858484-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.195165+00:00",
+      "sha256": "c6fa092b37082f8861a68226df0935e985810f53b63c935ef6982293f970ea41"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858259/competitions/401858259/odds",
+      "file": "401858259-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.208164+00:00",
+      "sha256": "35daa1555499f23cfa5924db628028419141b18406966f0d62c9b215ae18e008"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856825/competitions/401856825/odds",
+      "file": "401856825-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.209164+00:00",
+      "sha256": "4597832fcfd09921e5e7b2b00b0605a65e7edbd818d59930d26539a5138133ee"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858480/competitions/401858480/odds",
+      "file": "401858480-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.240163+00:00",
+      "sha256": "3e7e3cd1d0c1da9e9d99938d6e06c8173173a0c23f0e92376715dfa80533854a"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401866435/competitions/401866435/odds",
+      "file": "401866435-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.366162+00:00",
+      "sha256": "bc64d008ce3b704523b699a9c95253ebdb0143b9233303ef9f09b7da5bc0972d"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401862799/competitions/401862799/odds",
+      "file": "401862799-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.367163+00:00",
+      "sha256": "2485c2f7caf0707eefa2d1b29528e267b0adf32725fe07a0efc96c863d482090"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401866438/competitions/401866438/odds",
+      "file": "401866438-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.367163+00:00",
+      "sha256": "6c57612116515b4931e974d0ab6daf36d3442a2f4954a4ffbc9b16d4b9058781"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401866437/competitions/401866437/odds",
+      "file": "401866437-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.367163+00:00",
+      "sha256": "69f8db3fd4fbf2c75bc801185af3011054b5259cfb513df34ef789766955670d"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401862796/competitions/401862796/odds",
+      "file": "401862796-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.368164+00:00",
+      "sha256": "14168193faeaca5ff427480bdc18f873e46c32d0929d842d2296df62f6012e64"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401861964/competitions/401861964/odds",
+      "file": "401861964-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.402163+00:00",
+      "sha256": "1ff8bcd55a280b99fd1a406261cd2a29e7afa66fd50961638cd3a8f6b2d33364"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401866439/competitions/401866439/odds",
+      "file": "401866439-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.403163+00:00",
+      "sha256": "fef0a8913a88f0f3491922606e7c0732eadd3047bef485a0fbf7c16faba86a71"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858483/competitions/401858483/odds",
+      "file": "401858483-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.438164+00:00",
+      "sha256": "807b6bdc62c38b6378a11787edf7784b3c0ca91ff0970676b337ce195e06cef9"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856713/competitions/401856713/odds",
+      "file": "401856713-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.618163+00:00",
+      "sha256": "00c66aa5769bd9ffdf2fc6decf2c9d2361e25a662ddc9776eca4e4450e6db251"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401860902/competitions/401860902/odds",
+      "file": "401860902-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.618163+00:00",
+      "sha256": "41715aa8b34627a6cc61fd2bfc4763d92c0ef11341083042aca5ba585736b240"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401864518/competitions/401864518/odds",
+      "file": "401864518-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.618163+00:00",
+      "sha256": "9693f5698c2d97e2ff7c120b288cecebb1c33b9236a574c94d5d71e34c9de26d"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401864517/competitions/401864517/odds",
+      "file": "401864517-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.619163+00:00",
+      "sha256": "75a9ec4c3c16776e2c198c306d1eff7df8747717badf5004a244352250c6fb7d"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856715/competitions/401856715/odds",
+      "file": "401856715-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.619163+00:00",
+      "sha256": "7278f4518535bb51e6073334390deaf255df17c19190ea9930033ce6d0aa56ed"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401869943/competitions/401869943/odds",
+      "file": "401869943-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.620164+00:00",
+      "sha256": "eca1807991b19003175a5e6534564e105062589c863f7774bd20f81980c0ffab"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401862798/competitions/401862798/odds",
+      "file": "401862798-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.622164+00:00",
+      "sha256": "4113f4b488b844f2d457e9d79cb540a227fbdcc3213ad36f366ffc0ca82dbc78"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856712/competitions/401856712/odds",
+      "file": "401856712-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.650161+00:00",
+      "sha256": "f7b944e291d9a58c09b8d5f3e13ec3f13130c15a99588f46a13e0168267fbd46"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401869949/competitions/401869949/odds",
+      "file": "401869949-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.833165+00:00",
+      "sha256": "36255c0bf5b51bbc1e4c7a6928daf26b0555378c6b19bfed19e12e46475b666c"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858486/competitions/401858486/odds",
+      "file": "401858486-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.834163+00:00",
+      "sha256": "9dcf5c2f6bbd3620854f9e7de5e8429fa3f1ee8ba3d997b199685e073b12866b"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401864516/competitions/401864516/odds",
+      "file": "401864516-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.835165+00:00",
+      "sha256": "d670e36063050707c188413a26d830ee8f4e9a9591d1722906fb3f4d6074f64a"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401869965/competitions/401869965/odds",
+      "file": "401869965-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.835165+00:00",
+      "sha256": "bcb0ecebe1de8532afc5ccb63a3f90a4112059b2aecfa9fa4e690b27d3beac24"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856827/competitions/401856827/odds",
+      "file": "401856827-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.835165+00:00",
+      "sha256": "4af1b07e79d3a6ed58473afdf8c53c29b810dd0dd135203a657ff8c1e895d3db"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858258/competitions/401858258/odds",
+      "file": "401858258-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.836162+00:00",
+      "sha256": "b3bfe9eaaf661c116d0e64c5c88683098a48d86d581b4b1eab1739b6f2f3b3fa"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401858485/competitions/401858485/odds",
+      "file": "401858485-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.836162+00:00",
+      "sha256": "4edefd248f3c10b141d6fb0dd0fdbfe74464216ed534b2686ca5247f58dac0ed"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401860901/competitions/401860901/odds",
+      "file": "401860901-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.850162+00:00",
+      "sha256": "515ae357836839bd128747cceebfc78f6588bc084dda7bdd1599739a753bf8ba"
+    },
+    {
+      "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/events/401856808/competitions/401856808/odds",
+      "file": "401856808-odds.json",
+      "captured_utc": "2026-10-10T19:36:20.984162+00:00",
+      "sha256": "855aeed59d0ba212660cc3f1ea00eb042ea170b0a917376e8b6b214a41f06e6d"
+    }
+  ],
+  "model_sha256": "d7ef04a2b9974d1be1f7187f25a43598afb13c1391a3a6216dbf27027358722f",
+  "model": "PublicCode\\football\\data\\generated\\2026\\week-06.json",
+  "note": "All FBS-involving games October 5-11. Completed games use retrospectively retrieved explicit close or labeled current fallback. No opening-line substitution. In-progress quotes excluded from completed ATS."
+}

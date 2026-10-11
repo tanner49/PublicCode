@@ -1,0 +1,59 @@
+id,day,home,away,home_score,away_score,state,completed,detail,provider,basis,home_spread,total,prediction,pick,ats,home_price,away_price
+401871090,2026-10-06,Troy Trojans,Southern Miss Golden Eagles,55,34,post,True,Final,Draft Kings,retrospective_close,-9.5,51.5,12.0,Troy,W,-112,-108
+401871051,2026-10-07,Kennesaw State Owls,Jacksonville State Gamecocks,26,27,post,True,Final,Draft Kings,retrospective_close,3.0,48.5,5.5,Kennesaw State,W,-115,-105
+401871066,2026-10-07,Florida International Panthers,New Mexico State Aggies,22,3,post,True,Final,Draft Kings,retrospective_close,-7.0,46.5,5.0,New Mexico State,L,-108,-112
+401870766,2026-10-08,Liberty Flames,Sam Houston Bearkats,35,3,post,True,Final,Draft Kings,retrospective_close,-13.5,52.5,14.5,Liberty,W,-110,-110
+401871052,2026-10-08,Western Kentucky Hilltoppers,Missouri State Bears,34,13,post,True,Final,Draft Kings,retrospective_close,1.5,56.5,-11.5,Missouri State,L,-112,-108
+401862794,2026-10-08,UTSA Roadrunners,South Florida Bulls,31,24,post,True,Final,Draft Kings,retrospective_close,-5.5,49.5,7.0,UTSA,W,-110,-110
+401869933,2026-10-08,Arkansas State Red Wolves,South Alabama Jaguars,49,56,post,True,Final,Draft Kings,retrospective_close,-3.0,60.5,0.5,South Alabama,W,-115,-105
+401856826,2026-10-09,BYU Cougars,Iowa State Cyclones,24,10,post,True,Final,Draft Kings,retrospective_close,-11.5,46.5,14.5,BYU,W,-108,-112
+401858487,2026-10-09,Washington Huskies,Iowa Hawkeyes,24,41,post,True,Final,Draft Kings,retrospective_close,-3.0,41.5,-8.5,Iowa,W,-108,-112
+401858254,2026-10-09,Louisville Cardinals,Florida State Seminoles,44,20,post,True,Final,Draft Kings,retrospective_close,-4.0,60.5,-1.5,Florida State,L,-112,-108
+401860922,2026-10-09,Utah State Aggies,Washington State Cougars,17,16,post,True,Final,Draft Kings,retrospective_close,-4.0,44.5,5.5,Utah State,L,-112,-108
+401864519,2026-10-09,San José State Spartans,Wyoming Cowboys,13,16,post,True,Final/OT,Draft Kings,retrospective_close,-4.5,42.5,7.5,San JosÃ© State,L,-110,-110
+401858481,2026-10-10,Nebraska Cornhuskers,Indiana Hoosiers,17,20,in,False,0:05 - 4th Quarter,Draft Kings,in_progress_close,9.5,48.5,1.0,Nebraska,ungraded,-112,-108
+401856716,2026-10-10,Missouri Tigers,Texas A&M Aggies,27,6,post,True,Final,Draft Kings,retrospective_close,-4.5,50.5,4.5,PASS,PASS,-110,-110
+401856824,2026-10-10,Oklahoma State Cowboys,UCF Knights,42,28,post,True,Final,Draft Kings,retrospective_close,-10.5,53.5,-3.0,UCF,L,-112,-108
+401858256,2026-10-10,Pittsburgh Panthers,North Carolina Tar Heels,17,21,post,True,Final,Draft Kings,retrospective_close,-3.5,47.5,10.5,Pittsburgh,L,-108,-112
+401856823,2026-10-10,West Virginia Mountaineers,Arizona Wildcats,31,52,post,True,Final,Draft Kings,retrospective_close,3.5,61.5,-10.0,Arizona,W,-115,-105
+401858482,2026-10-10,Northwestern Wildcats,Ball State Cardinals,45,14,in,False,2:53 - 4th Quarter,Draft Kings,in_progress_close,-34.5,53.5,39.5,Northwestern,ungraded,-110,-110
+401856714,2026-10-10,Florida Gators,South Carolina Gamecocks,13,24,in,False,2:13 - 3rd Quarter,Draft Kings,in_progress_close,-10.5,59.5,14.5,Florida,ungraded,-112,-108
+401862797,2026-10-10,East Carolina Pirates,Rice Owls,21,9,in,False,12:47 - 4th Quarter,Draft Kings,in_progress_close,-10.0,46.5,10.5,East Carolina,ungraded,-108,-112
+401869843,2026-10-10,App State Mountaineers,Old Dominion Monarchs,3,2,in,False,10:57 - 4th Quarter,Draft Kings,in_progress_close,-8.5,45.5,12.5,App State,ungraded,-112,-108
+401866440,2026-10-10,Massachusetts Minutemen,Miami (OH) RedHawks,10,14,in,False,Halftime,Draft Kings,in_progress_close,6.0,44.5,-5.0,Massachusetts,ungraded,-108,-112
+401858260,2026-10-10,NC State Wolfpack,Wake Forest Demon Deacons,14,38,post,True,Final,Draft Kings,retrospective_close,4.0,56.5,-3.5,NC State,L,-108,-112
+401862795,2026-10-10,Army Black Knights,Tulane Green Wave,20,17,post,True,Final,Draft Kings,retrospective_close,-5.5,48.5,5.5,PASS,PASS,-105,-115
+401866436,2026-10-10,Bowling Green Falcons,Sacramento State Hornets,38,10,post,True,Final,Draft Kings,retrospective_close,-9.5,43.5,14.5,Bowling Green,W,-108,-112
+401856717,2026-10-10,Oklahoma Sooners,Texas Longhorns,0,0,pre,False,"Sat, October 10th at 3:30 PM EDT",Draft Kings,current_pregame,7.5,40.5,-18.0,Texas,ungraded,-105,-115
+401858257,2026-10-10,Notre Dame Fighting Irish,Stanford Cardinal,0,0,pre,False,"Sat, October 10th at 3:30 PM EDT",Draft Kings,current_pregame,-40.5,55.5,45.0,Notre Dame,ungraded,-110,-110
+401856718,2026-10-10,Vanderbilt Commodores,Ole Miss Rebels,0,0,in,False,15:00 - 1st Quarter,Draft Kings,in_progress_current,9.5,54.5,-2.0,Vanderbilt,ungraded,-112,-108
+401858484,2026-10-10,Oregon Ducks,UCLA Bruins,0,0,pre,False,"Sat, October 10th at 3:30 PM EDT",Draft Kings,current_pregame,-10.0,57.5,8.0,UCLA,ungraded,-110,-110
+401856825,2026-10-10,Kansas State Wildcats,Houston Cougars,0,0,pre,False,"Sat, October 10th at 3:30 PM EDT",Draft Kings,current_pregame,-2.5,55.5,-4.0,Houston,ungraded,-115,-105
+401858255,2026-10-10,Georgia Tech Yellow Jackets,Duke Blue Devils,0,0,pre,False,"Sat, October 10th at 3:30 PM EDT",Draft Kings,current_pregame,4.5,45.5,-8.5,Duke,ungraded,-108,-112
+401858259,2026-10-10,California Golden Bears,Virginia Tech Hokies,0,0,in,False,15:00 - 1st Quarter,Draft Kings,in_progress_current,11.5,51.5,-10.5,California,ungraded,-112,-108
+401858480,2026-10-10,Michigan State Spartans,Illinois Fighting Illini,0,0,in,False,15:00 - 1st Quarter,Draft Kings,in_progress_current,2.5,48.5,3.5,Michigan State,ungraded,-105,-115
+401862796,2026-10-10,North Texas Mean Green,Charlotte 49ers,0,0,in,False,12:14 - 1st Quarter,Draft Kings,in_progress_current,-27.5,58.5,32.5,North Texas,ungraded,-110,-110
+401862799,2026-10-10,Navy Midshipmen,Tulsa Golden Hurricane,6,0,in,False,12:42 - 1st Quarter,Draft Kings,in_progress_close,-3.0,47.5,-4.0,Tulsa,ungraded,-112,-108
+401866435,2026-10-10,Akron Zips,Eastern Michigan Eagles,0,0,in,False,12:30 - 1st Quarter,Draft Kings,in_progress_close,4.5,51.5,-7.5,Eastern Michigan,ungraded,-110,-110
+401866437,2026-10-10,Toledo Rockets,Buffalo Bulls,0,0,in,False,13:13 - 1st Quarter,Draft Kings,in_progress_current,-18.5,54.5,32.0,Toledo,ungraded,-112,-108
+401866438,2026-10-10,Ohio Bobcats,Central Michigan Chippewas,0,0,in,False,14:55 - 1st Quarter,Draft Kings,in_progress_current,-2.5,45.5,4.5,Ohio,ungraded,-112,-108
+401866439,2026-10-10,Western Michigan Broncos,Kent State Golden Flashes,0,0,in,False,13:01 - 1st Quarter,Draft Kings,in_progress_current,-13.5,43.5,12.5,Kent State,ungraded,-115,-105
+401861964,2026-10-10,Temple Owls,UConn Huskies,0,0,pre,False,"Sat, October 10th at 3:45 PM EDT",Draft Kings,current_pregame,-3.5,55.5,4.0,Temple,ungraded,-112,-108
+401858483,2026-10-10,Ohio State Buckeyes,Maryland Terrapins,0,0,pre,False,"Sat, October 10th at 4:15 PM EDT",Draft Kings,current_pregame,-31.5,56.5,33.5,Ohio State,ungraded,-110,-110
+401856713,2026-10-10,Arkansas Razorbacks,Tennessee Volunteers,0,0,pre,False,"Sat, October 10th at 4:15 PM EDT",Draft Kings,current_pregame,13.5,51.5,-17.0,Tennessee,ungraded,-105,-115
+401860902,2026-10-10,Oregon State Beavers,San Diego State Aztecs,0,0,pre,False,"Sat, October 10th at 6:00 PM EDT",Draft Kings,current_pregame,-16.5,53.5,15.5,San Diego State,ungraded,-112,-108
+401856715,2026-10-10,Kentucky Wildcats,LSU Tigers,0,0,pre,False,"Sat, October 10th at 7:00 PM EDT",Draft Kings,current_pregame,9.5,50.5,-5.5,Kentucky,ungraded,-110,-110
+401862798,2026-10-10,Memphis Tigers,UAB Blazers,0,0,pre,False,"Sat, October 10th at 7:00 PM EDT",Draft Kings,current_pregame,-14.5,54.5,18.5,Memphis,ungraded,-112,-108
+401864517,2026-10-10,UTEP Miners,Nevada Wolf Pack,0,0,pre,False,"Sat, October 10th at 7:00 PM EDT",Draft Kings,current_pregame,10.0,47.5,-5.5,UTEP,ungraded,-112,-108
+401864518,2026-10-10,UNLV Rebels,North Dakota State Bison,0,0,pre,False,"Sat, October 10th at 7:00 PM EDT",Draft Kings,current_pregame,2.5,47.5,-8.5,North Dakota State,ungraded,-115,-105
+401869943,2026-10-10,Marshall Thundering Herd,Coastal Carolina Chanticleers,0,0,pre,False,"Sat, October 10th at 7:00 PM EDT",Draft Kings,current_pregame,-4.5,57.5,5.0,Marshall,ungraded,-108,-112
+401856712,2026-10-10,Alabama Crimson Tide,Georgia Bulldogs,0,0,pre,False,"Sat, October 10th at 7:30 PM EDT",Draft Kings,current_pregame,-2.5,51.5,10.5,Alabama,ungraded,-112,-108
+401858485,2026-10-10,Penn State Nittany Lions,USC Trojans,0,0,pre,False,"Sat, October 10th at 7:30 PM EDT",Draft Kings,current_pregame,1.5,54.5,-3.5,USC,ungraded,-115,-105
+401858258,2026-10-10,Virginia Cavaliers,Syracuse Orange,0,0,pre,False,"Sat, October 10th at 7:30 PM EDT",Draft Kings,current_pregame,-14.0,49.5,11.0,Syracuse,ungraded,-108,-112
+401864516,2026-10-10,Northern Illinois Huskies,Air Force Falcons,0,0,pre,False,"Sat, October 10th at 7:30 PM EDT",Draft Kings,current_pregame,7.0,48.5,-13.0,Air Force,ungraded,-108,-112
+401869949,2026-10-10,Georgia Southern Eagles,James Madison Dukes,0,0,pre,False,"Sat, October 10th at 7:30 PM EDT",Draft Kings,current_pregame,7.5,51.5,-16.0,James Madison,ungraded,-115,-105
+401869965,2026-10-10,Louisiana Tech Bulldogs,Louisiana Ragin' Cajuns,0,0,pre,False,"Sat, October 10th at 7:30 PM EDT",Draft Kings,current_pregame,-3.0,48.5,-0.0,Louisiana,ungraded,-112,-108
+401856827,2026-10-10,Utah Utes,Kansas Jayhawks,0,0,pre,False,"Sat, October 10th at 8:00 PM EDT",Draft Kings,current_pregame,-15.5,49.5,30.0,Utah,ungraded,-110,-110
+401858486,2026-10-10,Purdue Boilermakers,Minnesota Golden Gophers,0,0,pre,False,"Sat, October 10th at 8:00 PM EDT",Draft Kings,current_pregame,2.5,49.5,-1.0,Purdue,ungraded,-105,-115
+401860901,2026-10-10,Fresno State Bulldogs,Boise State Broncos,0,0,pre,False,"Sat, October 10th at 10:30 PM EDT",Draft Kings,current_pregame,8.5,48.5,-10.0,Boise State,ungraded,-110,-110
+401856808,2026-10-10,Arizona State Sun Devils,Hawai'i Rainbow Warriors,0,0,pre,False,"Sat, October 10th at 10:30 PM EDT",Draft Kings,current_pregame,-21.0,50.5,22.5,Arizona State,ungraded,-105,-115
