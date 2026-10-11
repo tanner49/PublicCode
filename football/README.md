@@ -116,3 +116,7 @@ From 2026 Week 7 onward, use `--prior-weight 0` (also the CLI default). The init
 ## Home-adjusted training revision (October 11)
 
 Production subtracts 3 from non-neutral home-team performance credit AFTER the capped/halftime margin and 2.75 win bonus; priors are unchanged. Forecasts add 3 back for home fixtures. Weeks 4-7 were rebuilt with halftime1.25 and this adjustment using each original input and prior weight (1, 0.75, 0.5, 0). Earlier published versions are archived under `archive/model-revisions/2026-weeks04-07-before-training-home-adjustment/`. Historical ATS ledgers retain the actual original forecasts; revised website histories are retrospective model comparisons. Snapshot `model.homeAdvantage` describes training adjustment. CLI default is 3; use `--home-advantage 0` for legacy reconstruction.
+
+## Week 7 prior correction: 0.4
+
+Week 7 uses `--prior-weight 0.4`, down from Week 6 at 0.5. This supersedes the earlier zero-prior decision; the CLI default is 0.4. Set the prior explicitly for subsequent publications to continue the chosen decay. The superseded home-adjusted zero-prior Week 7 is archived under `archive/model-revisions/2026-week07-home-adjusted-prior-0/`. Home-adjusted training remains enabled.

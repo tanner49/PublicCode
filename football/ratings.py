@@ -154,7 +154,7 @@ def main():
     parser.add_argument("--input", type=Path, required=True)
     parser.add_argument("--season", type=int, required=True)
     parser.add_argument("--week", type=int, required=True, help="Publication week; includes completed games through week minus one")
-    parser.add_argument("--prior-weight", type=float, default=0.0, help="Prior-game weight for this snapshot only (zero from Week 7 onward)")
+    parser.add_argument("--prior-weight", type=float, default=0.4, help="Prior-game weight for this snapshot only; set explicitly for each publication")
     parser.add_argument("--margin-model", choices=["cap28", "halftime1.25"], default="halftime1.25")
     parser.add_argument("--home-advantage", type=float, default=3.0, help="Home advantage removed from training targets")
     parser.add_argument("--priors", type=Path, help="Prior-season CSV with Team and MasseyRating")
