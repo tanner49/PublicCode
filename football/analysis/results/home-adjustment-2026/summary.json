@@ -1,0 +1,290 @@
+{
+  "4": {
+    "baseline": {
+      "L": 26,
+      "W": 35,
+      "PASS": 1,
+      "MAE": 11.9478629091222,
+      "RMSE": 14.990965388025408,
+      "home_bias": -0.17407104105675608
+    },
+    "adjusted": {
+      "L": 28,
+      "W": 32,
+      "PASS": 2,
+      "MAE": 12.029685364767358,
+      "RMSE": 15.08175954461052,
+      "home_bias": 0.1319247993096985
+    }
+  },
+  "5": {
+    "baseline": {
+      "L": 29,
+      "W": 28,
+      "P": 1,
+      "PASS": 1,
+      "MAE": 13.850519432873325,
+      "RMSE": 17.438508780145973,
+      "home_bias": -1.7204032828780635
+    },
+    "adjusted": {
+      "L": 24,
+      "W": 32,
+      "P": 1,
+      "PASS": 2,
+      "MAE": 13.53663227289365,
+      "RMSE": 17.268184553329583,
+      "home_bias": -1.191419308346703
+    }
+  },
+  "6": {
+    "baseline": {
+      "W": 27,
+      "L": 29,
+      "PASS": 2,
+      "MAE": 12.796283522488766,
+      "RMSE": 15.969229852809057,
+      "home_bias": -0.447908604555555
+    },
+    "adjusted": {
+      "W": 28,
+      "L": 28,
+      "PASS": 2,
+      "MAE": 12.526269346105645,
+      "RMSE": 15.664932123909976,
+      "home_bias": 0.044736132325858866
+    }
+  },
+  "all": {
+    "baseline": {
+      "L": 84,
+      "W": 90,
+      "PASS": 4,
+      "P": 1,
+      "MAE": 12.849902744186878,
+      "RMSE": 16.14635229120494,
+      "home_bias": -0.7724854597740044
+    },
+    "adjusted": {
+      "L": 80,
+      "W": 92,
+      "PASS": 6,
+      "P": 1,
+      "MAE": 12.687292842404633,
+      "RMSE": 16.018204479167952,
+      "home_bias": -0.33251232380086215
+    }
+  },
+  "changed_picks": [
+    {
+      "week": 4,
+      "id": "401860896",
+      "home": "UTSA",
+      "away": "Colorado State",
+      "actual": 14.0,
+      "market": 14.5,
+      "baselineRaw": 12.427319453521704,
+      "baselineLine": 12.5,
+      "baselineATS": "W",
+      "adjustedRaw": 14.476794579183327,
+      "adjustedLine": 14.5,
+      "adjustedATS": "PASS"
+    },
+    {
+      "week": 4,
+      "id": "401864576",
+      "home": "Kentucky",
+      "away": "South Alabama",
+      "actual": 24.0,
+      "market": 20.5,
+      "baselineRaw": 21.171549354281225,
+      "baselineLine": 21.0,
+      "baselineATS": "W",
+      "adjustedRaw": 20.187734576953403,
+      "adjustedLine": 20.0,
+      "adjustedATS": "L"
+    },
+    {
+      "week": 4,
+      "id": "401856816",
+      "home": "Iowa State",
+      "away": "Utah",
+      "actual": -14.0,
+      "market": -7.5,
+      "baselineRaw": -7.953173011943726,
+      "baselineLine": -8.0,
+      "baselineATS": "W",
+      "adjustedRaw": -6.333570146760678,
+      "adjustedLine": -6.5,
+      "adjustedATS": "L"
+    },
+    {
+      "week": 4,
+      "id": "401858464",
+      "home": "Michigan State",
+      "away": "Nebraska",
+      "actual": -18.0,
+      "market": -6.0,
+      "baselineRaw": -6.657989139130201,
+      "baselineLine": -6.5,
+      "baselineATS": "W",
+      "adjustedRaw": -6.093422355962595,
+      "adjustedLine": -6.0,
+      "adjustedATS": "PASS"
+    },
+    {
+      "week": 4,
+      "id": "401871048",
+      "home": "Jacksonville State",
+      "away": "Middle Tennessee",
+      "actual": 10.0,
+      "market": 7.0,
+      "baselineRaw": 7.077716032854923,
+      "baselineLine": 7.0,
+      "baselineATS": "PASS",
+      "adjustedRaw": 7.963141052874384,
+      "adjustedLine": 8.0,
+      "adjustedATS": "W"
+    },
+    {
+      "week": 5,
+      "id": "401858474",
+      "home": "Minnesota",
+      "away": "Michigan",
+      "actual": 6,
+      "market": -6.0,
+      "baselineRaw": -7.3988855026433455,
+      "baselineLine": -7.5,
+      "baselineATS": "L",
+      "adjustedRaw": -6.149168809218978,
+      "adjustedLine": -6.0,
+      "adjustedATS": "PASS"
+    },
+    {
+      "week": 5,
+      "id": "401866431",
+      "home": "Ball State",
+      "away": "Toledo",
+      "actual": -15,
+      "market": -21.0,
+      "baselineRaw": -21.802921512196495,
+      "baselineLine": -22.0,
+      "baselineATS": "L",
+      "adjustedRaw": -19.194094477213596,
+      "adjustedLine": -19.0,
+      "adjustedATS": "W"
+    },
+    {
+      "week": 5,
+      "id": "401858253",
+      "home": "Florida State",
+      "away": "Virginia",
+      "actual": 31,
+      "market": -1.5,
+      "baselineRaw": -2.343858072441016,
+      "baselineLine": -2.5,
+      "baselineATS": "L",
+      "adjustedRaw": -1.50682239829041,
+      "adjustedLine": -1.5,
+      "adjustedATS": "PASS"
+    },
+    {
+      "week": 5,
+      "id": "401858249",
+      "home": "Clemson",
+      "away": "Miami",
+      "actual": -28,
+      "market": -15.5,
+      "baselineRaw": -15.65307236876135,
+      "baselineLine": -15.5,
+      "baselineATS": "PASS",
+      "adjustedRaw": -15.913201481651384,
+      "adjustedLine": -16.0,
+      "adjustedATS": "W"
+    },
+    {
+      "week": 5,
+      "id": "401856706",
+      "home": "LSU",
+      "away": "McNeese",
+      "actual": 49,
+      "market": 52.5,
+      "baselineRaw": 52.96501017504841,
+      "baselineLine": 53.0,
+      "baselineATS": "L",
+      "adjustedRaw": 52.24417965764994,
+      "adjustedLine": 52.0,
+      "adjustedATS": "W"
+    },
+    {
+      "week": 5,
+      "id": "401856820",
+      "home": "Arizona",
+      "away": "Cincinnati",
+      "actual": 27,
+      "market": 7.0,
+      "baselineRaw": 4.228794303188039,
+      "baselineLine": 4.0,
+      "baselineATS": "L",
+      "adjustedRaw": 7.406821371308247,
+      "adjustedLine": 7.5,
+      "adjustedATS": "W"
+    },
+    {
+      "week": 6,
+      "id": "401856716",
+      "home": "Missouri",
+      "away": "Texas A&M",
+      "actual": 21,
+      "market": 4.5,
+      "baselineRaw": 4.5052148406926875,
+      "baselineLine": 4.5,
+      "baselineATS": "PASS",
+      "adjustedRaw": 6.057257382654832,
+      "adjustedLine": 6.0,
+      "adjustedATS": "W"
+    },
+    {
+      "week": 6,
+      "id": "401862795",
+      "home": "Army",
+      "away": "Tulane",
+      "actual": 3,
+      "market": 5.5,
+      "baselineRaw": 5.597270575163741,
+      "baselineLine": 5.5,
+      "baselineATS": "PASS",
+      "adjustedRaw": 6.619364149279519,
+      "adjustedLine": 6.5,
+      "adjustedATS": "L"
+    },
+    {
+      "week": 6,
+      "id": "401866439",
+      "home": "Western Michigan",
+      "away": "Kent State",
+      "actual": 31,
+      "market": 13.5,
+      "baselineRaw": 12.441241009436062,
+      "baselineLine": 12.5,
+      "baselineATS": "L",
+      "adjustedRaw": 13.664882073788313,
+      "adjustedLine": 13.5,
+      "adjustedATS": "PASS"
+    },
+    {
+      "week": 6,
+      "id": "401860902",
+      "home": "Oregon State",
+      "away": "San Diego State",
+      "actual": 52,
+      "market": 16.5,
+      "baselineRaw": 15.740477045275618,
+      "baselineLine": 15.5,
+      "baselineATS": "L",
+      "adjustedRaw": 16.52609559820165,
+      "adjustedLine": 16.5,
+      "adjustedATS": "PASS"
+    }
+  ]
+}

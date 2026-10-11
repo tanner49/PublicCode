@@ -28,10 +28,10 @@ def analyze(previous, current, priors):
     margin_model = current['model'].get('marginModel', 'cap28')
     old_model = previous['model'].get('marginModel', 'cap28')
     # Isolate prior, score-correction, and margin-model changes before new games.
-    before_corrections = solve(old, priors, prior_weight=weight, margin_model=old_model)
-    before_model_change = solve(corrected_old, priors, prior_weight=weight, margin_model=old_model)
-    baseline = solve(corrected_old, priors, prior_weight=weight, margin_model=margin_model)
-    full = solve(games, priors, prior_weight=weight, margin_model=margin_model)
+    before_corrections = solve(old, priors, prior_weight=weight, margin_model=old_model, home_advantage=previous["model"].get("homeAdvantage", 0))
+    before_model_change = solve(corrected_old, priors, prior_weight=weight, margin_model=old_model, home_advantage=previous["model"].get("homeAdvantage", 0))
+    baseline = solve(corrected_old, priors, prior_weight=weight, margin_model=margin_model, home_advantage=current["model"].get("homeAdvantage", 0))
+    full = solve(games, priors, prior_weight=weight, margin_model=margin_model, home_advantage=current["model"].get("homeAdvantage", 0))
     old_teams = {t['team']: t for t in previous['teams']}
     if any(abs(full[t['team']] - t['rating']) > 2e-6 for t in current['teams']):
         raise ValueError('Reconstructed Week 5 fit differs from published ratings')
@@ -41,7 +41,7 @@ def analyze(previous, current, priors):
         if team['classification'] != 'fbs' or name not in old_teams:
             continue
         elsewhere = [g for g in new if name not in (g['HomeTeam'], g['AwayTeam'])]
-        updated = solve(corrected_old + elsewhere, priors, prior_weight=weight, margin_model=margin_model) if elsewhere else baseline
+        updated = solve(corrected_old + elsewhere, priors, prior_weight=weight, margin_model=margin_model, home_advantage=current["model"].get("homeAdvantage", 0)) if elsewhere else baseline
         effect = updated[name] - baseline[name]
         opponents = sorted({g['opponent'] for g in old_teams[name]['games']})
         evidence = sorted([{'team': opp, 'before': baseline[opp], 'after': updated[opp],

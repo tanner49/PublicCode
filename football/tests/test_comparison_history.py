@@ -17,13 +17,12 @@ class ComparisonHistoryTests(unittest.TestCase):
         result=comparison_history(self.current,[self.old])['history'][0]
         priors={r['Team']:float(r['MasseyRating']) for r in read_csv(ROOT/'data/generated/priors-2025.csv')}
         expected=build_snapshot(read_csv(ROOT/'data/raw/2026/week-04.csv'),2026,4,priors,
-                                self.old['sourceSha256'],prior_weight=1,margin_model='halftime1.25')
+                                self.old['sourceSha256'],prior_weight=1,margin_model='halftime1.25', home_advantage=self.current['model'].get('homeAdvantage',0))
         self.assertEqual(self.old,before)
         self.assertEqual(result['model']['priorWeight'],1)
         self.assertEqual({t['team']:t['rating'] for t in result['teams']},
                          {t['team']:t['rating'] for t in expected['teams']})
-        self.assertEqual(next(t['divisionRank'] for t in result['teams'] if t['team']=='Georgia'),7)
-        self.assertEqual(next(t['divisionRank'] for t in self.old['teams'] if t['team']=='Georgia'),13)
+        self.assertEqual(result['model']['homeAdvantage'], self.current['model'].get('homeAdvantage',0))
 
     def test_current_game_results_cannot_change_historical_comparison(self):
         altered=copy.deepcopy(self.current)

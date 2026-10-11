@@ -24,10 +24,11 @@ def reconstruct_games(snapshot):
     for team in snapshot['teams']:
         for g in team['games']:
             if g['id'] not in games:
-                # Orientation is immaterial: no home adjustment is used in this model.
-                games[g['id']] = {'Id': g['id'], 'HomeTeam': team['team'], 'AwayTeam': g['opponent'], 'HomePoints': g['scored'], 'AwayPoints': g['allowed']}
+                away = g['venue'] == 'A'
+                games[g['id']] = {'Id': g['id'], 'HomeTeam': g['opponent'] if away else team['team'], 'AwayTeam': team['team'] if away else g['opponent'], 'HomePoints': g['allowed'] if away else g['scored'], 'AwayPoints': g['scored'] if away else g['allowed'], 'NeutralSite': g['venue'] == 'N'}
                 if 'halftimeMargin' in g:
-                    games[g['id']]['HalftimeMargin'] = g['halftimeMargin']
+                    half = g['halftimeMargin']
+                    games[g['id']]['HalftimeMargin'] = -half if away and half is not None else half
     if len(games) != snapshot['gameCount']:
         raise ValueError('Snapshot game count does not match reconstructed games')
     return list(games.values())
@@ -52,7 +53,7 @@ def calculate_profiles(snapshot, cache):
     priors = {r['Team']: float(r['MasseyRating']) for r in read_csv(priors_path)}
     weight = snapshot['model']['priorWeight']
     margin_model = snapshot['model'].get('marginModel', 'cap28')
-    baseline = solve(games, priors, prior_weight=weight, margin_model=margin_model)
+    baseline = solve(games, priors, prior_weight=weight, margin_model=margin_model, home_advantage=snapshot["model"].get("homeAdvantage", 0))
     if any(abs(baseline[n] - t['rating']) > 0.000002 for n, t in teams.items()):
         raise ValueError('Reconstructed fit differs from published ratings')
     lifts = {n: [] for n in eligible}
@@ -66,7 +67,7 @@ def calculate_profiles(snapshot, cache):
                 relevant.append((name, opp, g[side + 'Points'] - g[opponent + 'Points']))
         if not relevant:
             continue
-        without = solve([x for x in games if x['Id'] != g['Id']], priors, prior_weight=weight, margin_model=margin_model)
+        without = solve([x for x in games if x['Id'] != g['Id']], priors, prior_weight=weight, margin_model=margin_model, home_advantage=snapshot["model"].get("homeAdvantage", 0))
         for name, opp, margin in relevant:
             if name not in without:
                 continue  # No fit exists for a team with no remaining scored games.

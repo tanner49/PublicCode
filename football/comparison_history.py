@@ -22,7 +22,8 @@ def comparison_history(current, earlier, source_root=ROOT):
             raise ValueError('Historical export differs from published source')
         rebuilt = build_snapshot(read_csv(source), old['season'], old['week'], priors, source_hash,
                                  prior_weight=old['model']['priorWeight'],
-                                 margin_model=current['model'].get('marginModel','cap28'))
+                                 margin_model=current['model'].get('marginModel','cap28'),
+                                 home_advantage=current['model'].get('homeAdvantage',0))
         old_ids = {g['id'] for t in old['teams'] for g in t['games']}
         rebuilt_ids = {g['id'] for t in rebuilt['teams'] for g in t['games']}
         if old_ids != rebuilt_ids:

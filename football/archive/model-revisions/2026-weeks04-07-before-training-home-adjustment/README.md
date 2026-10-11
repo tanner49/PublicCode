@@ -1,0 +1,1 @@
+Original published snapshots and graphics before home-adjusted training. Replacement Weeks 4-7 use halftime1.25 and remove 3 points from non-neutral home training targets. Each week keeps its own historical games and prior weight. Archived ATS reports remain original forecasts, not rewritten predictions.

@@ -112,3 +112,7 @@ The previous published Week 5 JSON, CSV, graphics, and audits are preserved in `
 ## Week 7: prior retired early
 
 From 2026 Week 7 onward, use `--prior-weight 0` (also the CLI default). The initially published Week 7 with a 0.25-game prior is preserved in `archive/model-revisions/2026-week07-prior-0.25/`. Weeks 4-6 retain their original priors. The scoring rule and prediction-only home advantage are unchanged.
+
+## Home-adjusted training revision (October 11)
+
+Production subtracts 3 from non-neutral home-team performance credit AFTER the capped/halftime margin and 2.75 win bonus; priors are unchanged. Forecasts add 3 back for home fixtures. Weeks 4-7 were rebuilt with halftime1.25 and this adjustment using each original input and prior weight (1, 0.75, 0.5, 0). Earlier published versions are archived under `archive/model-revisions/2026-weeks04-07-before-training-home-adjustment/`. Historical ATS ledgers retain the actual original forecasts; revised website histories are retrospective model comparisons. Snapshot `model.homeAdvantage` describes training adjustment. CLI default is 3; use `--home-advantage 0` for legacy reconstruction.
