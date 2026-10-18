@@ -120,3 +120,8 @@ Production subtracts 3 from non-neutral home-team performance credit AFTER the c
 ## Week 7 prior correction: 0.4
 
 Week 7 uses `--prior-weight 0.4`, down from Week 6 at 0.5. This supersedes the earlier zero-prior decision; the CLI default is 0.4. Set the prior explicitly for subsequent publications to continue the chosen decay. The superseded home-adjusted zero-prior Week 7 is archived under `archive/model-revisions/2026-week07-home-adjusted-prior-0/`. Home-adjusted training remains enabled.
+
+## Week 8 publication
+
+Week 8 includes completed games through Week 7 from data/raw/2026/week-08.csv, copied unchanged from the October 18 export. Use --prior-weight 0.3, continuing the 0.5 / 0.4 / 0.3 decay across Weeks 6 / 7 / 8. The halftime1.25 scoring rule, 2.75 win bonus, and 3-point training and prediction home advantage remain unchanged. Previous snapshots are retained.
+
