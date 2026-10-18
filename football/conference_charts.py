@@ -13,7 +13,7 @@ from PIL import Image
 ROOT=Path(__file__).resolve().parents[2]
 SITE=ROOT/'tanner49.github.io/tanner-ratings'
 OUT=SITE/'share/2026/week-05/conferences'
-EDITION='2026 Week 5 ? Results through Week 4'
+EDITION=''
 PAPER='#f8f7f1';INK='#173c30';MUTED='#637568'
 plt.rcParams.update({'text.parse_math':False,'font.family':'DejaVu Sans'})
 SHORT={'American Athletic':'American','Mid-American':'MAC','Mountain West':'Mountain West','Conference USA':'C-USA','FBS Independents':'Independents'}
@@ -31,7 +31,7 @@ def decorate(fig,title,subtitle):
     fig.text(.045,.918,title,fontsize=28,weight='bold',color=INK)
     fig.text(.045,.88,subtitle,fontsize=11,color=MUTED)
     fig.text(.045,.03,'COLLEGE FOOTBALL',fontsize=11,weight='bold',color=INK)
-    fig.text(.96,.03,'2026 Week 5 · Results through Week 4',ha='right',fontsize=10,color=MUTED)
+    fig.text(.96,.03,EDITION,ha='right',fontsize=10,color=MUTED)
 
 def axis_style(ax):
     ax.set_facecolor(PAPER);ax.tick_params(colors=MUTED)
@@ -43,7 +43,7 @@ def main(snapshot_path=None, output=None):
     snap=json.loads(snap_path.read_text(encoding='utf-8'))
     OUT=Path(output) if output else SITE/'share'/str(snap['season'])/f"week-{snap['week']:02}"/'conferences'
     OUT.mkdir(parents=True,exist_ok=True)
-    EDITION=f"{snap['season']} Week {snap['week']} ? Results through Week {snap['throughWeek']}"
+    EDITION=f"{snap['season']} Week {snap['week']} · Results through Week {snap['throughWeek']}"
     teams=[t for t in snap['teams'] if t['classification']=='fbs']
     groups={name:sorted([t for t in teams if t['conference']==name],key=lambda t:t['rating']) for name in {t['conference'] for t in teams}}
     names=sorted(groups,key=lambda n:-np.median([t['rating'] for t in groups[n]]))
@@ -141,7 +141,7 @@ def main(snapshot_path=None, output=None):
        'historicalErrorGames':len(errors),'historicalErrorRMS':float(np.sqrt(np.mean(errors**2))),
        'calibrationScope':'all available 2023-2025 regular-season FBS/FBS forecasts in saved backtest, including games without usable book lines; no 2026 outcomes',
        'snapshotSha256':hashlib.sha256(snap_path.read_bytes()).hexdigest(),'historicalSha256':hashlib.sha256(source.read_bytes()).hexdigest()},indent=2)+'\n')
-    (OUT/'README.md').write_text(f'''# Conference previews — 2026 Week 5
+    (OUT/'README.md').write_text(f'''# Conference previews — {EDITION}
 
 All {len(teams)} rated FBS teams, assigned to the conferences in the supplied snapshot. Independents are a comparison group, not an actual conference. Charts use the selected publication and do not change its team ratings.
 
@@ -155,7 +155,7 @@ The historical errors include model uncertainty, not just intrinsic randomness. 
 All charts include PNG and SVG copies. Logos reuse the website's ESPN-sourced school assets; trademarks belong to their owners. All plotted values, simulation settings, and hashes are saved here. Reproduce from the football directory with `python conference_charts.py` (or publish the latest snapshot with `python share_cards.py`).
 ''',encoding='utf-8')
     cards=''.join(f'<section><h2>{title}</h2><a href="{name}.png"><img src="{name}.png" alt="{title}"></a><p><a href="{name}.png" download>PNG</a> · <a href="{name}.svg" download>SVG</a></p></section>' for name,title in [('01-conference-distributions','Conference distributions — every FBS team'),('02-conference-matchups','1,000 games per conference matchup'),('03-conference-depth','Conference strength and depth')])
-    (OUT/'index.html').write_text('<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Prove It — conference previews</title><style>body{max-width:1400px;margin:40px auto;padding:0 20px;background:#f8f7f1;color:#173c30;font:16px system-ui}img{width:100%;height:auto}section{margin:50px 0}a{color:inherit}</style><h1>Conference previews</h1><p>2026 Week 5 · Local files · <a href="README.md">Methods and assumptions</a></p>'+cards+'</html>',encoding='utf-8')
+    (OUT/'index.html').write_text('<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Prove It — conference previews</title><style>body{max-width:1400px;margin:40px auto;padding:0 20px;background:#f8f7f1;color:#173c30;font:16px system-ui}img{width:100%;height:auto}section{margin:50px 0}a{color:inherit}</style><h1>Conference previews</h1><p>'+EDITION+' · <a href="README.md">Methods and assumptions</a></p>'+cards+'</html>',encoding='utf-8')
     assert all(r['winsA']+r['winsB']==1000 for r in records) and len(records)==len(names)*(len(names)-1)//2
     print('Saved',OUT,'noise pool',len(errors),'RMS',round(np.sqrt(np.mean(errors**2)),2))
 
