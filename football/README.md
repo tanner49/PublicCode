@@ -129,3 +129,11 @@ Week 8 includes completed games through Week 7 from data/raw/2026/week-08.csv, c
 ## Week 9 publication
 
 Week 9 uses the October 25 cumulative export, prior weight 0.2, halftime1.25, and home advantage 3. Run with --allow-removed-game 401874036: West Florida vs. Northeastern State was previously exported as a completed 0-0 game but has been removed; ESPN confirms cancellation. The verification is in data/corrections/2026-week09-canceled-401874036.json. Earlier published snapshots remain intact. The explicit removal option accepts only IDs actually removed from the prior snapshot; all other omissions still stop publishing.
+
+## Projected playoff bracket
+
+The weekly publisher now creates `playoff.png` and `playoff.json` instead of a new Seen in a New Light graphic. Existing New Light historical assets remain archived. The gallery offers the bracket for each 2026 snapshot.
+
+`playoff.py` freezes current ratings, projects remaining conference games with +3 home advantage (neutral zero), preserves completed results, and chooses each Power Four title matchup by projected conference winning percentage. Two-team standings ties use head-to-head when available; other ties use rating. This is a model simplification, not an implementation of all official league tiebreakers. Higher-rated finalists win neutral-field championship games.
+
+Selection implements the [2026 CFP format](https://collegefootballplayoff.com/sports/2024/5/29/12-team-format): ACC, Big Ten, Big 12 and SEC champions plus the top-rated team from the American, C-USA, MAC, Mountain West, Pac-12 or Sun Belt (no conference title requirement for that bid). Notre Dame is protected when model top 12. Fill remaining spots by current rating; seed by rating, top four byes; 8/9 feeds 1, 5/12 feeds 4, 7/10 feeds 2, 6/11 feeds 3. First round uses home advantage; later rounds are neutral. The model substitutes for committee rankings; no attempt to predict committee judgment. JSON includes projected standings, tiebreaks, game winners, qualifiers and all playoff rounds. Raw schedule hashes must match each historical snapshot, so archived brackets never borrow later results or schedule updates. Other seasons require an explicit rules review before enabling the graphic.

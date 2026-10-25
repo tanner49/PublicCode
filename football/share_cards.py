@@ -147,35 +147,6 @@ def render_profile_cards(snapshot, folder, site, logos):
         image.save(folder / f'{kind}.png', optimize=True)
 
 
-def render_new_light(snapshot, previous, site, folder):
-    from new_light import calculate_new_light
-    result = calculate_new_light(previous, snapshot, folder / 'new-light.json')
-    index = site / 'logos/index.json'
-    logos = json.loads(index.read_text(encoding='utf-8')) if index.exists() else {}
-    image, draw = canvas(snapshot, 'SEEN IN A NEW LIGHT.',
-                         'The biggest upgrades and downgrades as past opponents prove themselves.')
-    gainers = sorted((r for r in result['teams'] if r['change'] > 0), key=lambda r: (-r['change'], r['team']))[:5]
-    fallers = sorted((r for r in result['teams'] if r['change'] < 0), key=lambda r: (r['change'], r['team']))[:5]
-    draw.line((599, 209, 599, 547), fill='#47604e', width=1)
-    for x, heading, label, rows, color in [
-        (42, 'UNDER RATED', 'Biggest gainers', gainers, LIME),
-        (620, 'OVER RATED', 'Biggest fallers', fallers, ORANGE),
-    ]:
-        text(draw, (x, 207), heading, 33, color, True)
-        text(draw, (x + 538, 218), label, 21, MUTED, anchor='rt')
-        for i, row in enumerate(rows):
-            y = 260 + i * 58
-            draw.line((x, y + 49, x + 538, y + 49), fill='#334c3b')
-            text(draw, (x, y + 4), f'{i+1:02}', 30, color, True)
-            logo_badge(image, site, logos, row['team'], x + 40, y, 40)
-            text(draw, (x + 93, y + 1), row['team'], 29, bold=True, width=322)
-            evidence = row['previousOpponents'][0]
-            text(draw, (x + 93, y + 31), f"Past opponent: {evidence['team']}", 19, MUTED, width=322)
-            text(draw, (x + 538, y + 3), f"{row['change']:+.2f}", 30, color, True, anchor='rt')
-            text(draw, (x + 538, y + 34), 'RATING PTS', 13, MUTED, anchor='rt')
-    image.save(folder / 'newlight.png', optimize=True)
-
-
 def publish_share_cards(data_directory):
     from comparison_history import publish_comparison_histories
     publish_comparison_histories(data_directory)
@@ -190,9 +161,15 @@ def publish_share_cards(data_directory):
         # Older published graphics and audit files are part of the historical record.
         if entry == entries[-1] or not folder.exists():
             folder = render_cards(snapshot, site)
-            previous_path = data_directory / str(snapshot['season']) / f"week-{snapshot['week']-1:02}.json"
-            if previous_path.exists():
-                render_new_light(snapshot, json.loads(previous_path.read_text(encoding='utf-8')), site, folder)
+        if snapshot['season'] == 2026:
+            from playoff import render_playoff
+            raw_path = Path(__file__).parent / 'data/raw' / str(snapshot['season']) / f"week-{snapshot['week']:02}.csv"
+            playoff_version = hashlib.sha256((data_directory / entry['path']).read_bytes()
+                + (Path(__file__).parent / 'playoff.py').read_bytes()
+                + raw_path.read_bytes() + (site / 'logos/index.json').read_bytes()).hexdigest()[:12]
+            if entry.get('playoff', {}).get('version') != playoff_version or not (folder / 'playoff.png').exists():
+                render_playoff(snapshot, site, folder)
+            entry['playoff'] = {'path': (folder / 'playoff.json').relative_to(site).as_posix(), 'version': playoff_version}
         if entry == entries[-1]:
             from conference_charts import main as render_conferences
             conference_folder = folder / 'conferences'
