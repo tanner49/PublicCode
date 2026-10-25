@@ -125,3 +125,7 @@ Week 7 uses `--prior-weight 0.4`, down from Week 6 at 0.5. This supersedes the e
 
 Week 8 includes completed games through Week 7 from data/raw/2026/week-08.csv, copied unchanged from the October 18 export. Use --prior-weight 0.3, continuing the 0.5 / 0.4 / 0.3 decay across Weeks 6 / 7 / 8. The halftime1.25 scoring rule, 2.75 win bonus, and 3-point training and prediction home advantage remain unchanged. Previous snapshots are retained.
 
+
+## Week 9 publication
+
+Week 9 uses the October 25 cumulative export, prior weight 0.2, halftime1.25, and home advantage 3. Run with --allow-removed-game 401874036: West Florida vs. Northeastern State was previously exported as a completed 0-0 game but has been removed; ESPN confirms cancellation. The verification is in data/corrections/2026-week09-canceled-401874036.json. Earlier published snapshots remain intact. The explicit removal option accepts only IDs actually removed from the prior snapshot; all other omissions still stop publishing.

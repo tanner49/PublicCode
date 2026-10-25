@@ -1,0 +1,27 @@
+{
+  "week": 8,
+  "record": {
+    "W": 20,
+    "L": 35,
+    "P": 0,
+    "PASS": 1
+  },
+  "profit_at_110_risk_minus110": -1850,
+  "season_through_week8": {
+    "home_adjusted_retrospective_history": {
+      "W": 137,
+      "L": 150,
+      "P": 3,
+      "PASS": 7,
+      "profit": -2800
+    },
+    "earlier_tracked_versions": {
+      "W": 135,
+      "L": 154,
+      "P": 3,
+      "PASS": 5,
+      "profit": -3440
+    }
+  },
+  "method": "Week 8 forecasts frozen from publication Week 8 (0.3 prior), with 3 home points and half-point rounding; final scores checked against week-09.csv. DraftKings explicit close lines retrieved retrospectively October 25. Week 4 is retrospective in both season tallies. No Week 9 ratings used."
+}

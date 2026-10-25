@@ -19,9 +19,10 @@ def analyze(previous, current, priors):
     games = reconstruct_games(current)
     old_ids = {g['Id']: signature(g) for g in old}
     current_ids = {g['Id']: signature(g) for g in games}
-    if any(key not in current_ids for key in old_ids):
+    removed = set(old_ids) - set(current_ids)
+    if removed - set(current.get('removedHistoricalGameIds', [])):
         raise ValueError('Historical games disappeared; supply the full season export.')
-    corrections = [key for key, value in old_ids.items() if current_ids[key] != value]
+    corrections = [key for key, value in old_ids.items() if key not in current_ids or current_ids[key] != value]
     corrected_old = [g for g in games if g['Id'] in old_ids]
     new = [g for g in games if g['Id'] not in old_ids]
     weight = current['model']['priorWeight']

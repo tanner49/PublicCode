@@ -157,6 +157,7 @@ def main():
     parser.add_argument("--prior-weight", type=float, default=0.4, help="Prior-game weight for this snapshot only; set explicitly for each publication")
     parser.add_argument("--margin-model", choices=["cap28", "halftime1.25"], default="halftime1.25")
     parser.add_argument("--home-advantage", type=float, default=3.0, help="Home advantage removed from training targets")
+    parser.add_argument("--allow-removed-game", action="append", default=[], help="Verified canceled/invalid game ID removed from the export; repeat per ID")
     parser.add_argument("--priors", type=Path, help="Prior-season CSV with Team and MasseyRating")
     parser.add_argument("--rebuild-2025-priors", action="store_true", help="Regenerate 2025 priors from archived data with symmetric margin caps")
     parser.add_argument("--site", type=Path, default=ROOT.parents[1] / "tanner49.github.io" / "tanner-ratings" / "data")
@@ -185,7 +186,13 @@ def main():
         previous = json.loads(previous_path.read_text(encoding="utf-8"))
         old_ids = {g["id"] for t in previous["teams"] for g in t["games"]}
         new_ids = {g["id"] for t in snapshot["teams"] for g in t["games"]}
-        if missing := old_ids - new_ids:
+        removed = old_ids - new_ids
+        allowed = set(args.allow_removed_game)
+        if allowed - removed:
+            raise ValueError("Removal exceptions must match games actually removed from the previous snapshot")
+        if allowed:
+            snapshot["removedHistoricalGameIds"] = sorted(allowed)
+        if missing := removed - allowed:
             raise ValueError(f"Export omits {len(missing)} previously published games; supply the full season export before publishing.")
     snapshot["priorSha256"] = hashlib.sha256(prior_path.read_bytes()).hexdigest()
     filename = f"{args.season}/week-{args.week:02}.json"

@@ -51,6 +51,18 @@ class NewLightTests(unittest.TestCase):
             self.assertAlmostEqual(row['change'], 0)
         self.assertTrue(any(abs(r['historicalCorrectionEffect']) > .01 for r in result['teams']))
 
+    def test_canceled_game_requires_explicit_audit_and_is_not_new_light(self):
+        current = build_snapshot(self.old[:2], 2026, 5, self.priors, 'removed', prior_weight=.75)
+        with self.assertRaises(ValueError):
+            analyze(self.previous, current, self.priors)
+        current['removedHistoricalGameIds'] = ['3']
+        result = analyze(self.previous, current, self.priors)
+        self.assertIn('3', result['correctedHistoricalGameIds'])
+        for row in result['teams']:
+            self.assertAlmostEqual(row['change'], 0)
+            total = row['priorChange'] + row['historicalCorrectionEffect'] + row['modelChangeEffect'] + row['change'] + row['ownGameEffect']
+            self.assertAlmostEqual(total, row['currentPublishedRating'] - row['previousPublishedRating'], places=5)
+
     def test_margin_rule_change_is_separate_from_elsewhere_results(self):
         rows = [game('1', 'A', 'B', 35, 0, 1)]
         rows[0].update(HomeLineScores='14,14,7,0', AwayLineScores='0,0,0,0')
