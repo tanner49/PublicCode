@@ -1,0 +1,29 @@
+{
+  "week": 9,
+  "record": {
+    "W": 21,
+    "PASS": 3,
+    "L": 30,
+    "P": 2
+  },
+  "profit_at_110_risk_minus110": -1200,
+  "season_through_week9": {
+    "home_adjusted_retrospective_history": {
+      "W": 158,
+      "L": 180,
+      "P": 5,
+      "PASS": 10,
+      "winRate": 0.46745562130177515,
+      "profit": -4000
+    },
+    "earlier_tracked_versions": {
+      "W": 156,
+      "L": 184,
+      "P": 5,
+      "PASS": 8,
+      "winRate": 0.4588235294117647,
+      "profit": -4640
+    }
+  },
+  "method": "Week 9 forecast frozen from publication snapshot (0.2 prior); +3 home, half-point rounding. All 56 final scores checked against week-10.csv. DraftKings explicit closing lines retrieved retrospectively November 1, not a pregame odds lock. Week 4 retrospective in both season tallies."
+}
