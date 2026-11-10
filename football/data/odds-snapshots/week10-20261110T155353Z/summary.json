@@ -1,0 +1,27 @@
+{
+  "week": 10,
+  "record": {
+    "L": 37,
+    "W": 26
+  },
+  "profit_at_110_risk_minus110": -1470,
+  "season_through_week10": {
+    "home_adjusted_retrospective_history": {
+      "W": 184,
+      "L": 217,
+      "P": 5,
+      "PASS": 10,
+      "winRate": 0.45885286783042395,
+      "profit": -5470
+    },
+    "earlier_tracked_versions": {
+      "W": 182,
+      "L": 221,
+      "P": 5,
+      "PASS": 8,
+      "winRate": 0.45161290322580644,
+      "profit": -6110
+    }
+  },
+  "method": "Week 10 forecasts frozen from publication snapshot (0.1 prior); +3 home, half-point rounding. All 63 final scores checked against week-11.csv. DraftKings explicit closing lines retrieved retrospectively November 10, not a pregame odds lock. Week 4 retrospective in both season tallies."
+}

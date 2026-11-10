@@ -141,3 +141,7 @@ Selection implements the [2026 CFP format](https://collegefootballplayoff.com/sp
 ## Week 10 publication
 
 Week 10 uses the unchanged November 1 cumulative export in data/raw/2026/week-10.csv, results through Week 9. Prior weight is 0.1, continuing the gradual 0.4 / 0.3 / 0.2 / 0.1 decay. Halftime1.25, winner bonus 2.75, and home advantage 3 remain unchanged; no recency weighting was adopted. The publisher refreshes ratings, predictions, conference graphics, and the rules-aware playoff bracket while retaining earlier snapshots.
+
+## Week 11 publication
+
+Week 11 uses the unchanged November 10 cumulative export in data/raw/2026/week-11.csv, results through Week 10. Prior weight is zero, completing the gradual 0.4 / 0.3 / 0.2 / 0.1 / 0 decay. Halftime1.25, winner bonus 2.75, and home advantage 3 remain unchanged; no recency weighting was adopted. Weekly snapshots, comparisons, conference graphics, and the playoff bracket retain their previous publications.
