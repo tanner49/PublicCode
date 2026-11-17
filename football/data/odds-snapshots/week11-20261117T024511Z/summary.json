@@ -1,0 +1,12 @@
+{
+  "week": 11,
+  "record": {
+    "W": 33,
+    "L": 30,
+    "P": 1,
+    "PASS": 3
+  },
+  "winRate": 0.5238095238095238,
+  "profit_at_110_risk_minus110": 0,
+  "method": "Frozen Week 11 forecasts, zero prior, +3 home and half-point rounding; all 67 final scores checked against unchanged Week 12 input. DraftKings explicit closing lines retrieved retrospectively November 16 Mountain time. No Week 12 model outputs used."
+}

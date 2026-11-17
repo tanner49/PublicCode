@@ -145,3 +145,7 @@ Week 10 uses the unchanged November 1 cumulative export in data/raw/2026/week-10
 ## Week 11 publication
 
 Week 11 uses the unchanged November 10 cumulative export in data/raw/2026/week-11.csv, results through Week 10. Prior weight is zero, completing the gradual 0.4 / 0.3 / 0.2 / 0.1 / 0 decay. Halftime1.25, winner bonus 2.75, and home advantage 3 remain unchanged; no recency weighting was adopted. Weekly snapshots, comparisons, conference graphics, and the playoff bracket retain their previous publications.
+
+## Week 12 publication
+
+Week 12 uses the unchanged November 16 cumulative export in data/raw/2026/week-12.csv, with results through Week 11. Prior remains zero; halftime1.25, winner bonus 2.75, and home advantage 3 are unchanged. Five lower-division games previously exported as completed 0-0 ties were removed; ESPN independently confirms each was canceled. Pass the five IDs in data/corrections/2026-week12-removed-game-ids.json using --allow-removed-game; raw verification headers are retained in data/corrections/2026-week12-removed-games.json. Earlier snapshots remain intact.
