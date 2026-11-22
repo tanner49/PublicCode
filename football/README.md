@@ -149,3 +149,9 @@ Week 11 uses the unchanged November 10 cumulative export in data/raw/2026/week-1
 ## Week 12 publication
 
 Week 12 uses the unchanged November 16 cumulative export in data/raw/2026/week-12.csv, with results through Week 11. Prior remains zero; halftime1.25, winner bonus 2.75, and home advantage 3 are unchanged. Five lower-division games previously exported as completed 0-0 ties were removed; ESPN independently confirms each was canceled. Pass the five IDs in data/corrections/2026-week12-removed-game-ids.json using --allow-removed-game; raw verification headers are retained in data/corrections/2026-week12-removed-games.json. Earlier snapshots remain intact.
+
+## Week 13 publication
+
+Week 13 uses the unchanged November 22 cumulative export in data/raw/2026/week-13.csv, with completed results through Week 12. Prior remains zero, with halftime1.25, win bonus 2.75, and home advantage 3 unchanged. Ratings, predictions, graphics and playoff projections are refreshed; previous snapshots remain intact.
+
+The local home/away analysis in analysis/home_away_2026.py applies this one current rating vector to all earlier final margins, including the standard 3-point venue adjustment. It compares average actual-minus-predicted final margin at home versus away, excludes neutral sites, and requires at least three games at each venue. Main graphics use FBS opponents; an all-opponent sensitivity table is also saved. These are descriptive in-sample splits, not chronological prediction accuracy or causal venue-effect estimates.
