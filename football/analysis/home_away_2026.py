@@ -24,7 +24,7 @@ def calculate(snapshot,fbs_only=True):
   result.append(dict(team=name,rating=t['rating'],conference=t['conference'],homeMean=h,awayMean=a,homeGames=len(splits['H']),awayGames=len(splits['A']),homeMinusAway=h-a,homeMedian=median(splits['H']),awayMedian=median(splits['A']),roughGapSE=se,games=games))
  return sorted(result,key=lambda r:(-r['homeMinusAway'],r['team']))
 
-def render(snapshot,rows,site,out,kind):
+def render(snapshot,rows,site,out,kind,p4=False):
  image=Image.new('RGB',(1600,1190),INK);d=ImageDraw.Draw(image)
  d.rectangle((0,0,1600,11),fill=LIME)
  text(d,(50,35),'THE “PROVE IT” RANKINGS',29,LIME,True)
@@ -32,7 +32,8 @@ def render(snapshot,rows,site,out,kind):
  title='HOME SWEET HOME.' if kind=='home' else 'ROAD WARRIORS.'
  subtitle='Teams that play better at home—and struggle more on the road.' if kind=='home' else 'Teams that play better on the road than they do at home.'
  text(d,(48,89),title,94,bold=True)
- text(d,(52,194),subtitle,32,MUTED)
+ if p4:subtitle='POWER FOUR · '+subtitle
+ text(d,(52,194),subtitle,32,MUTED,width=1490)
  text(d,(52,239),'Average final scoring margin above / below today’s model prediction',27,PAPER)
  logos=json.loads((site/'logos/index.json').read_text(encoding='utf-8'))
  selected=(rows if kind=='home' else list(reversed(rows)))[:10]
@@ -58,7 +59,8 @@ def render(snapshot,rows,site,out,kind):
    text(d,(point+offset,yy+8),f'{value:+.1f}',22,color,True,anchor=anchor)
   gap=r['homeMinusAway']*(1 if kind=='home' else -1)
   text(d,(1505,yy-4),f'+{gap:.1f}',35,LIME,True,anchor='mt')
- text(d,(52,1064),'FBS opponents only · Minimum 3 games at each venue · Neutral sites excluded',25,MUTED)
+ scope='P4 teams · FBS opponents · Minimum 3 home / 3 away · Neutral sites excluded' if p4 else 'FBS opponents only · Minimum 3 games at each venue · Neutral sites excluded'
+ text(d,(52,1064),scope,25,MUTED)
  text(d,(52,1103),'Includes the model’s 3-point home advantage. Full final margins; no blowout cap in this comparison.',24,MUTED)
  d.line((50,1140,1550,1140),fill='#47604e')
  text(d,(50,1158),'COLLEGE FOOTBALL',25,LIME,True)
@@ -66,12 +68,14 @@ def render(snapshot,rows,site,out,kind):
  image.save(out/f'{kind}-away-gap.png',optimize=True)
 
 def main():
- parser=argparse.ArgumentParser();parser.add_argument('--snapshot',type=Path,required=True);parser.add_argument('--output',type=Path,required=True);args=parser.parse_args();s=json.loads(args.snapshot.read_text(encoding='utf-8'));out=args.output;out.mkdir(parents=True,exist_ok=True);rows=calculate(s);allrows=calculate(s,False)
+ parser=argparse.ArgumentParser();parser.add_argument('--snapshot',type=Path,required=True);parser.add_argument('--output',type=Path,required=True);parser.add_argument('--p4',action='store_true',help='Show only ACC, Big Ten, Big 12 and SEC teams; retain all FBS opponents');args=parser.parse_args();s=json.loads(args.snapshot.read_text(encoding='utf-8'));out=args.output;out.mkdir(parents=True,exist_ok=True);rows=calculate(s);allrows=calculate(s,False)
+ if args.p4:
+  conferences={'ACC','Big Ten','Big 12','SEC'};rows=[r for r in rows if r['conference'] in conferences];allrows=[r for r in allrows if r['conference'] in conferences]
  for label,rs in [('fbs-opponents',rows),('all-opponents',allrows)]:
   (out/f'{label}.json').write_text(json.dumps(rs,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
   with (out/f'{label}.csv').open('w',newline='',encoding='utf-8') as f:
    fields=[k for k in rs[0] if k!='games'];w=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore');w.writeheader();w.writerows(rs)
  site=ROOT.parents[1]/'tanner49.github.io/tanner-ratings'
- for kind in ('home','road'):render(s,rows,site,out,kind)
+ for kind in ('home','road'):render(s,rows,site,out,kind,p4=args.p4)
  print('Eligible teams',len(rows));print('Home',[(r['team'],round(r['homeMean'],1),round(r['awayMean'],1),round(r['homeMinusAway'],1)) for r in rows[:5]]);print('Road',[(r['team'],round(r['homeMean'],1),round(r['awayMean'],1),round(-r['homeMinusAway'],1)) for r in reversed(rows[-5:])])
 if __name__=='__main__':main()
